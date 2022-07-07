@@ -5,4 +5,6 @@
 yarn install
 yarn start
 ```
-Open browser: http://localhost:3000/
+Open browser
+  - Local:            http://localhost:3000
+  - On Your Network:  https://datdm.github.io/technical-react/
