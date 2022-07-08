@@ -9,7 +9,9 @@ const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
-  <BrowserRouter>
+  <BrowserRouter
+    basename={process.env.NODE_ENV === "development" ? "/" : "/technical-react"}
+  >
     <App />
   </BrowserRouter>
 );
