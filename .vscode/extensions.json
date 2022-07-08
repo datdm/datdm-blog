@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "docsmsft.docs-markdown",
+    "formulahendry.auto-rename-tag",
+    "sdras.night-owl",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "humao.rest-client",
+    "pkief.material-icon-theme"
+  ]
+}
