@@ -1,5 +1,4 @@
-import { Box, Toolbar } from "@mui/material";
-import Header from "./Header";
+import { Box } from "@mui/material";
 import Sidebar from "./Sidebar";
 
 interface Props {
@@ -9,10 +8,8 @@ interface Props {
 const LayoutDefault = ({ children }: Props) => {
   return (
     <Box sx={{ display: "flex" }}>
-      <Header />
       <Sidebar />
-      <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-        <Toolbar />
+      <Box component="main" sx={{ flexGrow: 1, px: 4, py: 2 }}>
         {children}
       </Box>
     </Box>
