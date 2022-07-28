@@ -1,18 +1,24 @@
-import BuildSource from "pages/BuildSource";
-import Routing from "pages/Routing";
-import routes from "./routes";
+import { BuildCircleRounded as BuildCircleRoundedIcon } from "@mui/icons-material";
 
-export const contents = [
+export const sidebars = [
   {
-    label: "Build source",
-    link: routes.BuildSource,
-    component: BuildSource,
-    isShow: true,
+    label: "REACT",
+    icon: BuildCircleRoundedIcon,
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+      },
+    ],
   },
   {
-    label: "Routing",
-    link: routes.Routing,
-    component: Routing,
-    isShow: true,
+    label: "VUE",
+    icon: BuildCircleRoundedIcon,
+    childs: [],
+  },
+  {
+    label: "ANGULAR",
+    icon: BuildCircleRoundedIcon,
+    childs: [],
   },
 ];
