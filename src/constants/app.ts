@@ -1,9 +1,10 @@
 import { BuildCircleRounded as BuildCircleRoundedIcon } from "@mui/icons-material";
+import { ReactIcon, VueIcon, AngularIcon } from "components/atoms/Icons";
 
 export const sidebars = [
   {
     label: "REACT",
-    icon: BuildCircleRoundedIcon,
+    icon: ReactIcon,
     childs: [
       {
         label: "Build source",
@@ -13,12 +14,12 @@ export const sidebars = [
   },
   {
     label: "VUE",
-    icon: BuildCircleRoundedIcon,
+    icon: VueIcon,
     childs: [],
   },
   {
     label: "ANGULAR",
-    icon: BuildCircleRoundedIcon,
+    icon: AngularIcon,
     childs: [],
   },
 ];

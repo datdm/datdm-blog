@@ -7,7 +7,6 @@ import {
 } from "@mui/material";
 import { useCallback, useState } from "react";
 import {
-  Star as StarIcon,
   ExpandLess as ExpandLessIcon,
   ExpandMore as ExpandMoreIcon,
 } from "@mui/icons-material";
@@ -31,16 +30,13 @@ const SubSidebar = (props: Props) => {
     <>
       <ListItem onClick={handleClickItem} sx={{ cursor: "pointer" }}>
         <ListItemIcon sx={{ minWidth: "40px" }}>
-          <StarIcon sx={{ color: "#86a978" }} />
+          <sidebar.icon sx={{ color: "#fff" }} />
         </ListItemIcon>
-        <ListItemText
-          primary={sidebar.label}
-          sx={{ borderBottom: "1px solid #86a978" }}
-        />
+        <ListItemText primary={sidebar.label} />
         {isOpen ? (
-          <ExpandLessIcon sx={{ color: "#86a978" }} />
+          <ExpandLessIcon sx={{ color: "#fff" }} />
         ) : (
-          <ExpandMoreIcon sx={{ color: "#86a978" }} />
+          <ExpandMoreIcon sx={{ color: "#fff" }} />
         )}
       </ListItem>
       <Collapse in={isOpen} timeout="auto" unmountOnExit>
@@ -55,12 +51,11 @@ const SubSidebar = (props: Props) => {
               }}
             >
               <ListItemIcon sx={{ minWidth: "40px" }}>
-                <child.icon sx={{ color: "#86a978" }} />
+                <child.icon />
               </ListItemIcon>
               <ListItemText
                 primary={child.label}
                 sx={{
-                  borderBottom: "1px solid #86a978",
                   ".MuiTypography-root": { fontSize: "14px" },
                 }}
               />
