@@ -3,17 +3,23 @@ import Markdown from "components/atoms/Markdown";
 import parseMD from "parse-md";
 import { useEffect, useState } from "react";
 
-const BuildSource = () => {
+interface Props {
+  src: string;
+}
+
+const ReadMarkdown = (props: Props) => {
+  const { src } = props;
+
   const [data, setData] = useState("");
   useEffect(() => {
     (async () => {
-      const readmePath = require("docx/reactjs/build-source.md");
-      const a = await fetch(readmePath);
-      const text = await a.text();
+      const readmePath = require(src);
+      const res = await fetch(readmePath);
+      const text = await res.text();
       const { content } = parseMD(text);
       setData((content as any) || "");
     })();
-  }, []);
+  }, [src]);
 
   return (
     <Box>
@@ -22,4 +28,4 @@ const BuildSource = () => {
   );
 };
 
-export default BuildSource;
+export default ReadMarkdown;

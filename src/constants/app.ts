@@ -9,6 +9,7 @@ export const sidebars = [
       {
         label: "Build source",
         icon: BuildCircleRoundedIcon,
+        src: "docx/reactjs/build-source.md",
       },
     ],
   },

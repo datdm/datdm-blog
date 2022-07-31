@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import Sidebar from "./Sidebar";
+import Sidebar from "components/ui/Sidebar";
 
 interface Props {
   children: React.ReactNode;
