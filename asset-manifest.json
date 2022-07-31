@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.acb0860e.css",
-    "main.js": "/technical-react/static/js/main.1c959b0c.js",
+    "main.js": "/technical-react/static/js/main.c9bb2abc.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "index.html": "/technical-react/index.html",
-    "static/media/build-source.md": "/technical-react/static/media/build-source.e80669d659be696d4ea7.md",
+    "static/media/angular.svg": "/technical-react/static/media/angular.ed3d19b8164892a40b42d4cac923ede8.svg",
+    "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
+    "static/media/vue.svg": "/technical-react/static/media/vue.278ee4cc1145ccea5153692ba258cddf.svg",
     "main.acb0860e.css.map": "/technical-react/static/css/main.acb0860e.css.map",
-    "main.1c959b0c.js.map": "/technical-react/static/js/main.1c959b0c.js.map",
+    "main.c9bb2abc.js.map": "/technical-react/static/js/main.c9bb2abc.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acb0860e.css",
-    "static/js/main.1c959b0c.js"
+    "static/js/main.c9bb2abc.js"
   ]
 }
