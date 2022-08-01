@@ -13,17 +13,22 @@ const ReadMarkdown = (props: Props) => {
   const [data, setData] = useState("");
   useEffect(() => {
     (async () => {
-      const readmePath = require(src);
-      const res = await fetch(readmePath);
-      const text = await res.text();
-      const { content } = parseMD(text);
-      setData((content as any) || "");
+      try {
+        const readmePath = require(`docx/${src}`);
+        console.log(readmePath);
+        const res = await fetch(readmePath);
+        const text = await res.text();
+        const { content } = parseMD(text);
+        setData((content as any) || "");
+      } catch {
+        setData("");
+      }
     })();
   }, [src]);
 
   return (
-    <Box>
-      <Markdown markdown={data} />
+    <Box width="100%">
+      {data ? <Markdown markdown={data} /> : "File not found!!!"}
     </Box>
   );
 };

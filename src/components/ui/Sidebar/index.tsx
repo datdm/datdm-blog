@@ -1,9 +1,19 @@
 import { Drawer, List, Toolbar } from "@mui/material";
 import { Box } from "@mui/system";
 import { sidebars } from "constants/app";
+import { useCallback } from "react";
+import { useDispatch } from "react-redux";
+import { setSrcSelected } from "store/app";
 import SubSidebar from "./SubSidebar";
 
 const Sidebar = () => {
+  const dispatch = useDispatch();
+
+  const handleClickHome = useCallback(() => {
+    dispatch(setSrcSelected(""));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   return (
     <Drawer
       variant="permanent"
@@ -19,7 +29,13 @@ const Sidebar = () => {
       }}
     >
       <Toolbar
-        sx={{ textAlign: "center", fontWeight: "bold", fontSize: "20px" }}
+        sx={{
+          cursor: "pointer",
+          textAlign: "center",
+          fontWeight: "bold",
+          fontSize: "20px",
+        }}
+        onClick={handleClickHome}
       >
         Technical ReactJS
       </Toolbar>

@@ -1,1 +1,1 @@
-# Build source ReactJS
+# Config source ReactJS

@@ -10,6 +10,8 @@ import {
   ExpandLess as ExpandLessIcon,
   ExpandMore as ExpandMoreIcon,
 } from "@mui/icons-material";
+import { setSrcSelected } from "store/app";
+import { useDispatch } from "react-redux";
 
 interface Props {
   sidebar: any;
@@ -18,6 +20,8 @@ interface Props {
 
 const SubSidebar = (props: Props) => {
   const { sidebar, onClick } = props;
+
+  const dispatch = useDispatch();
   const [isOpen, setIsOpen] = useState(false);
 
   const handleClickItem = useCallback(() => {
@@ -25,6 +29,14 @@ const SubSidebar = (props: Props) => {
     onClick?.();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isOpen]);
+
+  const handleChooseSrc = useCallback(
+    (src: string) => () => {
+      dispatch(setSrcSelected(src));
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    []
+  );
 
   return (
     <>
@@ -49,6 +61,7 @@ const SubSidebar = (props: Props) => {
                 pl: 4,
                 py: 0.5,
               }}
+              onClick={handleChooseSrc(child.src)}
             >
               <ListItemIcon sx={{ minWidth: "40px" }}>
                 <child.icon />
