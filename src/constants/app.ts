@@ -4,6 +4,8 @@ import {
   VueIcon,
   AngularIcon,
   ReactRouterDomIcon,
+  EslintIcon,
+  CssIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -17,9 +19,19 @@ export const sidebars = [
         src: "reactjs/build-source.md",
       },
       {
-        label: "react-router-dom",
+        label: "React router dom",
         icon: ReactRouterDomIcon,
         src: "reactjs/react-router-dom.md",
+      },
+      {
+        label: "Eslint",
+        icon: EslintIcon,
+        src: "reactjs/eslint.md",
+      },
+      {
+        label: "CSS",
+        icon: CssIcon,
+        src: "reactjs/css.md",
       },
     ],
   },
