@@ -15,20 +15,20 @@ const ReadMarkdown = (props: Props) => {
     (async () => {
       try {
         const readmePath = require(`docx/${src}`);
-        console.log(readmePath);
+        setData("Loading file...");
         const res = await fetch(readmePath);
         const text = await res.text();
         const { content } = parseMD(text);
         setData((content as any) || "");
       } catch {
-        setData("");
+        setData("File not found!!!");
       }
     })();
   }, [src]);
 
   return (
     <Box width="100%">
-      {data ? <Markdown markdown={data} /> : "File not found!!!"}
+      <Markdown markdown={data} />
     </Box>
   );
 };
