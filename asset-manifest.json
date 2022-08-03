@@ -1,10 +1,18 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.acb0860e.css",
-    "main.js": "/technical-react/static/js/main.30286600.js",
+    "main.js": "/technical-react/static/js/main.4c6b6f0c.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
+    "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
+    "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
+    "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
     "static/media/eslint.svg": "/technical-react/static/media/eslint.25e1a7e7914f22ddf54932e1b14b6baf.svg",
     "static/media/react-router-dom.svg": "/technical-react/static/media/react-router-dom.9b3d7a0dcc3b9f5cf51eefff22c67e5c.svg",
+    "static/media/graphql.svg": "/technical-react/static/media/graphql.0addee39580e46a51b5fa0ddb9cf562a.svg",
+    "static/media/formik.svg": "/technical-react/static/media/formik.babecd673330d18570aebb26d1a46088.svg",
+    "static/media/react-helmet.svg": "/technical-react/static/media/react-helmet.189a526576e930ee115d9476284cab05.svg",
+    "static/media/mobx.svg": "/technical-react/static/media/mobx.30039ad157da43bf1e5265688df1e3ab.svg",
+    "static/media/react-hook-form.svg": "/technical-react/static/media/react-hook-form.7b9bb0732050678e91f8b9d643729424.svg",
     "index.html": "/technical-react/index.html",
     "static/media/angular.svg": "/technical-react/static/media/angular.ed3d19b8164892a40b42d4cac923ede8.svg",
     "static/media/css.svg": "/technical-react/static/media/css.7290b4159f117e1bc43df4e62e229992.svg",
@@ -15,11 +23,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.acb0860e.css.map": "/technical-react/static/css/main.acb0860e.css.map",
-    "main.30286600.js.map": "/technical-react/static/js/main.30286600.js.map",
+    "main.4c6b6f0c.js.map": "/technical-react/static/js/main.4c6b6f0c.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acb0860e.css",
-    "static/js/main.30286600.js"
+    "static/js/main.4c6b6f0c.js"
   ]
 }
