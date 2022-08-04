@@ -12,6 +12,12 @@ import { ReactComponent as ReactHookFormSvg } from "assets/icons/react-hook-form
 import { ReactComponent as ReactReduxSvg } from "assets/icons/react-redux.svg";
 import { ReactComponent as MobxSvg } from "assets/icons/mobx.svg";
 import { ReactComponent as GraphqlSvg } from "assets/icons/graphql.svg";
+import { ReactComponent as AxiosSvg } from "assets/icons/axios.svg";
+import { ReactComponent as JestSvg } from "assets/icons/jest.svg";
+import { ReactComponent as BookSvg } from "assets/icons/book.svg";
+import { ReactComponent as FirebaseSvg } from "assets/icons/firebase.svg";
+import { ReactComponent as SequelizeSvg } from "assets/icons/sequelize.svg";
+import { ReactComponent as PassportSvg } from "assets/icons/passport.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -40,3 +46,15 @@ export const ReactReduxIcon = (): JSX.Element => <ReactReduxSvg />;
 export const MobxIcon = (): JSX.Element => <MobxSvg />;
 
 export const GraphqlIcon = (): JSX.Element => <GraphqlSvg />;
+
+export const AxiosIcon = (): JSX.Element => <AxiosSvg />;
+
+export const JestIcon = (): JSX.Element => <JestSvg />;
+
+export const BookIcon = (): JSX.Element => <BookSvg />;
+
+export const FirebaseIcon = (): JSX.Element => <FirebaseSvg />;
+
+export const SequelizeIcon = (): JSX.Element => <SequelizeSvg />;
+
+export const PassportIcon = (): JSX.Element => <PassportSvg />;

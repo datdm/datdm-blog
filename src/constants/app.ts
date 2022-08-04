@@ -14,6 +14,12 @@ import {
   ReactReduxIcon,
   MobxIcon,
   GraphqlIcon,
+  AxiosIcon,
+  JestIcon,
+  BookIcon,
+  FirebaseIcon,
+  SequelizeIcon,
+  PassportIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -24,73 +30,121 @@ export const sidebars = [
       {
         label: "Build source",
         icon: BuildCircleRoundedIcon,
-        src: "reactjs/build-source.md",
+        src: "react/build-source.md",
+      },
+      {
+        label: "Docx react",
+        icon: BookIcon,
+        src: "react/docx.md",
       },
       {
         label: "React router dom",
         icon: ReactRouterDomIcon,
-        src: "reactjs/react-router-dom.md",
+        src: "react/react-router-dom.md",
       },
       {
         label: "Eslint",
         icon: EslintIcon,
-        src: "reactjs/eslint.md",
+        src: "react/eslint.md",
       },
       {
         label: "CSS",
         icon: CssIcon,
-        src: "reactjs/css.md",
+        src: "react/css.md",
       },
       {
         label: "Store: redux",
         icon: ReactReduxIcon,
-        src: "reactjs/redux.md",
+        src: "react/redux.md",
       },
       {
         label: "Store: mobx",
         icon: MobxIcon,
-        src: "reactjs/mobx.md",
+        src: "react/mobx.md",
       },
       {
         label: "Form: formik",
         icon: FormikIcon,
-        src: "reactjs/formik.md",
+        src: "react/formik.md",
       },
       {
         label: "Form: react-hook-form",
         icon: ReactHookFormIcon,
-        src: "reactjs/react-hook-form.md",
+        src: "react/react-hook-form.md",
+      },
+      {
+        label: "API: axios",
+        icon: AxiosIcon,
+        src: "react/axios.md",
+      },
+      {
+        label: "UT: jest",
+        icon: JestIcon,
+        src: "react/jest.md",
       },
       {
         label: "Graphql",
         icon: GraphqlIcon,
-        src: "reactjs/graphql.md",
+        src: "react/graphql.md",
+      },
+      {
+        label: "Firebase",
+        icon: FirebaseIcon,
+        src: "react/firebase.md",
       },
       {
         label: "Document head",
         icon: ReactHelmetIcon,
-        src: "reactjs/react-helmet.md",
+        src: "react/react-helmet.md",
       },
       {
         label: "Internationalization ",
         icon: ReactI18nextIcon,
-        src: "reactjs/react-i18next.md",
+        src: "react/react-i18next.md",
       },
     ],
   },
   {
     label: "VUE",
     icon: VueIcon,
-    childs: [],
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+        src: "vue/build-source.md",
+      },
+    ],
   },
   {
     label: "ANGULAR",
     icon: AngularIcon,
-    childs: [],
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+        src: "angular/build-source.md",
+      },
+    ],
   },
   {
     label: "NODEJS",
     icon: NodejsIcon,
-    childs: [],
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+        src: "node/build-source.md",
+      },
+      {
+        label: "Sequelize",
+        icon: SequelizeIcon,
+        src: "node/sequelize.md",
+      },
+      {
+        label: "Passport JWT",
+        icon: PassportIcon,
+        src: "node/passport.md",
+      },
+    ],
   },
 ];
