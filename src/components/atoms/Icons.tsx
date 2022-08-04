@@ -18,6 +18,7 @@ import { ReactComponent as BookSvg } from "assets/icons/book.svg";
 import { ReactComponent as FirebaseSvg } from "assets/icons/firebase.svg";
 import { ReactComponent as SequelizeSvg } from "assets/icons/sequelize.svg";
 import { ReactComponent as PassportSvg } from "assets/icons/passport.svg";
+import { ReactComponent as TypescriptSvg } from "assets/icons/typescript.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -58,3 +59,5 @@ export const FirebaseIcon = (): JSX.Element => <FirebaseSvg />;
 export const SequelizeIcon = (): JSX.Element => <SequelizeSvg />;
 
 export const PassportIcon = (): JSX.Element => <PassportSvg />;
+
+export const TypescriptIcon = (): JSX.Element => <TypescriptSvg />;

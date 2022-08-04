@@ -20,6 +20,7 @@ import {
   FirebaseIcon,
   SequelizeIcon,
   PassportIcon,
+  TypescriptIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -36,6 +37,11 @@ export const sidebars = [
         label: "Docx react",
         icon: BookIcon,
         src: "react/docx.md",
+      },
+      {
+        label: "Typescript",
+        icon: TypescriptIcon,
+        src: "react/typescript.md",
       },
       {
         label: "React router dom",

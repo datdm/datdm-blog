@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
 import { vscDarkPlus } from "react-syntax-highlighter/dist/cjs/styles/prism";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 interface Props {
   markdown: any;
@@ -55,6 +56,7 @@ const Markdown = (props: Props) => {
     <ReactMarkdown
       className="markdown-body"
       remarkPlugins={[remarkGfm]}
+      rehypePlugins={[rehypeRaw]}
       components={MarkdownComponents}
     >
       {markdown}
