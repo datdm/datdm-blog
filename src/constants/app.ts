@@ -21,6 +21,7 @@ import {
   SequelizeIcon,
   PassportIcon,
   TypescriptIcon,
+  NestJsSvgIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -150,6 +151,11 @@ export const sidebars = [
         label: "Passport JWT",
         icon: PassportIcon,
         src: "node/passport.md",
+      },
+      {
+        label: "NestJs",
+        icon: NestJsSvgIcon,
+        src: "node/nestjs.md",
       },
     ],
   },
