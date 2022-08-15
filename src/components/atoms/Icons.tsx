@@ -20,6 +20,10 @@ import { ReactComponent as SequelizeSvg } from "assets/icons/sequelize.svg";
 import { ReactComponent as PassportSvg } from "assets/icons/passport.svg";
 import { ReactComponent as TypescriptSvg } from "assets/icons/typescript.svg";
 import { ReactComponent as NestJsSvg } from "assets/icons/nestjs.svg";
+import { ReactComponent as ReactNativeSvg } from "assets/icons/react-native.svg";
+import { ReactComponent as JavascriptSvg } from "assets/icons/javascript.svg";
+import { ReactComponent as IdeaSvg } from "assets/icons/idea.svg";
+import { ReactComponent as AndroidStudioSvg } from "assets/icons/android-studio.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -64,3 +68,11 @@ export const PassportIcon = (): JSX.Element => <PassportSvg />;
 export const TypescriptIcon = (): JSX.Element => <TypescriptSvg />;
 
 export const NestJsSvgIcon = (): JSX.Element => <NestJsSvg />;
+
+export const ReactNativeIcon = (): JSX.Element => <ReactNativeSvg />;
+
+export const JavascriptIcon = (): JSX.Element => <JavascriptSvg />;
+
+export const IdeaIcon = (): JSX.Element => <IdeaSvg />;
+
+export const AndroidStudioIcon = (): JSX.Element => <AndroidStudioSvg />;

@@ -22,6 +22,10 @@ import {
   PassportIcon,
   TypescriptIcon,
   NestJsSvgIcon,
+  ReactNativeIcon,
+  JavascriptIcon,
+  IdeaIcon,
+  AndroidStudioIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -156,6 +160,33 @@ export const sidebars = [
         label: "NestJs",
         icon: NestJsSvgIcon,
         src: "node/nestjs.md",
+      },
+    ],
+  },
+  {
+    label: "REACT NATIVE",
+    icon: ReactNativeIcon,
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+        src: "react-native/build-source.md",
+      },
+      {
+        label: "Setup môi trường",
+        icon: AndroidStudioIcon,
+        src: "react-native/environment.md",
+      },
+    ],
+  },
+  {
+    label: "JAVASCRIPT",
+    icon: JavascriptIcon,
+    childs: [
+      {
+        label: "Các function hay ho",
+        icon: IdeaIcon,
+        src: "javascript/functions-custom.md",
       },
     ],
   },
