@@ -24,6 +24,7 @@ import { ReactComponent as ReactNativeSvg } from "assets/icons/react-native.svg"
 import { ReactComponent as JavascriptSvg } from "assets/icons/javascript.svg";
 import { ReactComponent as IdeaSvg } from "assets/icons/idea.svg";
 import { ReactComponent as AndroidStudioSvg } from "assets/icons/android-studio.svg";
+import { ReactComponent as ReactNavigationSvg } from "assets/icons/react-navigation.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -76,3 +77,5 @@ export const JavascriptIcon = (): JSX.Element => <JavascriptSvg />;
 export const IdeaIcon = (): JSX.Element => <IdeaSvg />;
 
 export const AndroidStudioIcon = (): JSX.Element => <AndroidStudioSvg />;
+
+export const ReactNavigationIcon = (): JSX.Element => <ReactNavigationSvg />;

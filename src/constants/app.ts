@@ -26,6 +26,7 @@ import {
   JavascriptIcon,
   IdeaIcon,
   AndroidStudioIcon,
+  ReactNavigationIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -177,6 +178,11 @@ export const sidebars = [
         icon: AndroidStudioIcon,
         src: "react-native/environment.md",
       },
+      {
+        label: "Routing and Navigation",
+        icon: ReactNavigationIcon,
+        src: "react-native/react-navigation.md",
+      },
     ],
   },
   {
@@ -184,7 +190,7 @@ export const sidebars = [
     icon: JavascriptIcon,
     childs: [
       {
-        label: "Các function hay ho",
+        label: "Các function và thuật toán hay ho",
         icon: IdeaIcon,
         src: "javascript/functions-custom.md",
       },
