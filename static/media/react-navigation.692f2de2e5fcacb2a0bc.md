@@ -76,56 +76,64 @@ Setup routing and navigation React Native use Expo or React Native
 
 - Customize prop navigation `Tab.Navigator`
   ```javascript
-  <Tab.Navigator
-    screenOptions={(props) => ({
-      // Hide/show label
-      tabBarShowLabel: false,
-      // Hide/show header
-      headerShown: false,
-      // Css bottom bar
-      tabBarStyle: {
-        display: "flex",
-      },
-    })}
-  >
+  const Navigator = () => {
+    return (
+      <Tab.Navigator
+        screenOptions={(props) => ({
+          // Hide/show label
+          tabBarShowLabel: false,
+          // Hide/show header
+          headerShown: false,
+          // Css bottom bar
+          tabBarStyle: {
+            display: "flex",
+          },
+        })}
+      >
+    )
+  }
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 - Customize prop navigation `Tab.Screen`
   ```javascript
-  <Tab.Screen
-    // Name
-    name="Home"
-    // Component
-    component={Home}
-    options={{
-      // Custom icon bottom bar
-      tabBarIcon: ({ color, size, focused }) => (
-        <View
-          style={{
-            justifyContent: "center",
-            alignItems: "center",
-            paddingBottom: 5,
-            borderBottomColor: focused ? "#e283cc" : color,
-          }}
-        >
-          <Feather
-            name="home"
-            color={focused ? "#e283cc" : color}
-            size={size}
-          />
-          <Text style={{ color: focused ? "#e283cc" : color }}>Home</Text>
-        </View>
-      ),
-      // Custom button, hide then return null
-      tabBarButton: ({ children, onPress }) => (
-        <TouchableOpacity onPress={onPress}>
-          <View>{children}</View>
-        </TouchableOpacity>
-      ),
-    }}
-  />
+  const Screen = () => {
+    return (
+      <Tab.Screen
+        // Name
+        name="Home"
+        // Component
+        component={Home}
+        options={{
+          // Custom icon bottom bar
+          tabBarIcon: ({ color, size, focused }) => (
+            <View
+              style={{
+                justifyContent: "center",
+                alignItems: "center",
+                paddingBottom: 5,
+                borderBottomColor: focused ? "#e283cc" : color,
+              }}
+            >
+              <Feather
+                name="home"
+                color={focused ? "#e283cc" : color}
+                size={size}
+              />
+              <Text style={{ color: focused ? "#e283cc" : color }}>Home</Text>
+            </View>
+          ),
+          // Custom button, hide then return null
+          tabBarButton: ({ children, onPress }) => (
+            <TouchableOpacity onPress={onPress}>
+              <View>{children}</View>
+            </TouchableOpacity>
+          ),
+        }}
+      />
+    );
+  };
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
