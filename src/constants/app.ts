@@ -27,6 +27,7 @@ import {
   IdeaIcon,
   AndroidStudioIcon,
   ReactNavigationIcon,
+  FlutterIcon,
 } from "components/atoms/Icons";
 
 export const sidebars = [
@@ -193,6 +194,22 @@ export const sidebars = [
         label: "Các function và thuật toán hay ho",
         icon: IdeaIcon,
         src: "javascript/functions-custom.md",
+      },
+    ],
+  },
+  {
+    label: "FLUTTER",
+    icon: FlutterIcon,
+    childs: [
+      {
+        label: "Build source",
+        icon: BuildCircleRoundedIcon,
+        src: "flutter/build-source.md",
+      },
+      {
+        label: "Setup môi trường",
+        icon: AndroidStudioIcon,
+        src: "flutter/environment.md",
       },
     ],
   },
