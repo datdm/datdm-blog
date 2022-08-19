@@ -75,6 +75,7 @@ Setup routing and navigation React Native use Expo or React Native
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 - Customize prop navigation `Tab.Navigator`
+
   ```javascript
   const Navigator = () => {
     return (
@@ -97,6 +98,7 @@ Setup routing and navigation React Native use Expo or React Native
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 - Customize prop navigation `Tab.Screen`
+
   ```javascript
   const Screen = () => {
     return (
@@ -107,27 +109,29 @@ Setup routing and navigation React Native use Expo or React Native
         component={Home}
         options={{
           // Custom icon bottom bar
-          tabBarIcon: ({ color, size, focused }) => (
+          tabBarIcon: (props) => (
             <View
               style={{
                 justifyContent: "center",
                 alignItems: "center",
                 paddingBottom: 5,
-                borderBottomColor: focused ? "#e283cc" : color,
+                borderBottomColor: props.focused ? "#e283cc" : props.color,
               }}
             >
               <Feather
                 name="home"
-                color={focused ? "#e283cc" : color}
-                size={size}
+                color={props.focused ? "#e283cc" : props.color}
+                size={props.size}
               />
-              <Text style={{ color: focused ? "#e283cc" : color }}>Home</Text>
+              <Text style={{ color: props.focused ? "#e283cc" : props.color }}>
+                Home
+              </Text>
             </View>
           ),
           // Custom button, hide then return null
-          tabBarButton: ({ children, onPress }) => (
-            <TouchableOpacity onPress={onPress}>
-              <View>{children}</View>
+          tabBarButton: (props) => (
+            <TouchableOpacity onPress={props.onPress}>
+              <View>{props.children}</View>
             </TouchableOpacity>
           ),
         }}
