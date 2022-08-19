@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.7230459c.css",
-    "main.js": "/technical-react/static/js/main.3eaa4d8f.js",
+    "main.js": "/technical-react/static/js/main.cd844455.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
+    "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
     "static/media/sequelize.svg": "/technical-react/static/media/sequelize.a912c692db7c0166d288349e978bc8c6.svg",
     "static/media/book.svg": "/technical-react/static/media/book.d5820435ae6209ff74f5cf51b11580b0.svg",
+    "static/media/react-navigation.md": "/technical-react/static/media/react-navigation.36b82fff478c9e1db0cd.md",
     "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
@@ -19,6 +21,7 @@
     "static/media/android-studio.svg": "/technical-react/static/media/android-studio.360a7db9c87bff9f16160ecb9939e45b.svg",
     "static/media/react-helmet.svg": "/technical-react/static/media/react-helmet.189a526576e930ee115d9476284cab05.svg",
     "static/media/mobx.svg": "/technical-react/static/media/mobx.30039ad157da43bf1e5265688df1e3ab.svg",
+    "static/media/environment.md": "/technical-react/static/media/environment.d4bb267d01884781c9e4.md",
     "static/media/javascript.svg": "/technical-react/static/media/javascript.df1c8f825bbb674fb365d4197da06735.svg",
     "static/media/firebase.svg": "/technical-react/static/media/firebase.70297ca3dd5b6ce8cd80db1f9a58668d.svg",
     "static/media/typescript.svg": "/technical-react/static/media/typescript.af4f05e6d0495960bca4eff64c4ea78b.svg",
@@ -27,22 +30,21 @@
     "index.html": "/technical-react/index.html",
     "static/media/angular.svg": "/technical-react/static/media/angular.ed3d19b8164892a40b42d4cac923ede8.svg",
     "static/media/passport.svg": "/technical-react/static/media/passport.f69c1beb0b0992568eda297458a2d5bf.svg",
-    "static/media/build-source.md": "/technical-react/static/media/build-source.e60464c81a37d8a359c8.md",
+    "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
     "static/media/css.svg": "/technical-react/static/media/css.7290b4159f117e1bc43df4e62e229992.svg",
     "static/media/react-native.svg": "/technical-react/static/media/react-native.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/vue.svg": "/technical-react/static/media/vue.278ee4cc1145ccea5153692ba258cddf.svg",
     "static/media/axios.svg": "/technical-react/static/media/axios.7a3a93ab855a57d0c352736e3237c3b8.svg",
-    "static/media/environment.md": "/technical-react/static/media/environment.95800e916bdc63644397.md",
     "static/media/react-router-dom.md": "/technical-react/static/media/react-router-dom.80319093c1a1df5546bd.md",
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.7230459c.css.map": "/technical-react/static/css/main.7230459c.css.map",
-    "main.3eaa4d8f.js.map": "/technical-react/static/js/main.3eaa4d8f.js.map",
+    "main.cd844455.js.map": "/technical-react/static/js/main.cd844455.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7230459c.css",
-    "static/js/main.3eaa4d8f.js"
+    "static/js/main.cd844455.js"
   ]
 }
