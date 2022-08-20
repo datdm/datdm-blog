@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/technical-react/static/css/main.7230459c.css",
-    "main.js": "/technical-react/static/js/main.4968e748.js",
+    "main.css": "/technical-react/static/css/main.83d301d1.css",
+    "main.js": "/technical-react/static/js/main.2bf3bbc0.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
@@ -13,6 +13,7 @@
     "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
+    "static/media/docx.md": "/technical-react/static/media/docx.b8c3fb44cc35ec5e2d15.md",
     "static/media/jest.svg": "/technical-react/static/media/jest.0adfb1d46361a7bb349896d999c9f040.svg",
     "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
     "static/media/eslint.svg": "/technical-react/static/media/eslint.25e1a7e7914f22ddf54932e1b14b6baf.svg",
@@ -40,12 +41,12 @@
     "static/media/react-router-dom.md": "/technical-react/static/media/react-router-dom.80319093c1a1df5546bd.md",
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
-    "main.7230459c.css.map": "/technical-react/static/css/main.7230459c.css.map",
-    "main.4968e748.js.map": "/technical-react/static/js/main.4968e748.js.map",
+    "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
+    "main.2bf3bbc0.js.map": "/technical-react/static/js/main.2bf3bbc0.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7230459c.css",
-    "static/js/main.4968e748.js"
+    "static/css/main.83d301d1.css",
+    "static/js/main.2bf3bbc0.js"
   ]
 }
