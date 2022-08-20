@@ -19,6 +19,8 @@ Setup môi trường cài đặt Flutter trên windows.
   flutter doctor
   ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 2. Android
 
 ### Download Android Studio
@@ -26,18 +28,29 @@ Setup môi trường cài đặt Flutter trên windows.
 - Android SDK
 - Android SDK Command-line Tools
 - Android SDK Build-Tools
+- **Install Plugins**: <b style="color: red">Flutter, Dart</b>
+- Setup SDK Platform
+  - Android SDK Platform 31
+  - Sources for Android 31
+  - Intel x86 Atom_64 System Image
+  - Google APIs Intel x86 Atom System Image
 
 ### Set up the Android emulator
 
 - Virtual Device Manager
 - Tips: Set memory and Storage, Internal Storeage: 2048MB để tăng dung lượng install app trên máy app.
 
+### Set up your Android device
+
 ### Agree to Android Licenses
 
-```powershell
-flutter doctor --android-licenses
-```
+- CMD:
+  ```powershell
+  flutter doctor --android-licenses
+  ```
 
-### VS Code
+### Visual Studio Code
 
-- Install extension: Flutter
+- Install extension: <b style="color: red">Flutter, Dart</b>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
