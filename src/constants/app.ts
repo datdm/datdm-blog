@@ -211,6 +211,11 @@ export const sidebars = [
         icon: AndroidStudioIcon,
         src: "flutter/environment.md",
       },
+      {
+        label: "Docx Flutter",
+        icon: BookIcon,
+        src: "flutter/docx.md",
+      },
     ],
   },
 ];
