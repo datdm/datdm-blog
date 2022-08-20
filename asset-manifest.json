@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.7230459c.css",
-    "main.js": "/technical-react/static/js/main.e81be968.js",
+    "main.js": "/technical-react/static/js/main.4968e748.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
@@ -14,14 +14,16 @@
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
     "static/media/jest.svg": "/technical-react/static/media/jest.0adfb1d46361a7bb349896d999c9f040.svg",
+    "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
     "static/media/eslint.svg": "/technical-react/static/media/eslint.25e1a7e7914f22ddf54932e1b14b6baf.svg",
     "static/media/react-router-dom.svg": "/technical-react/static/media/react-router-dom.9b3d7a0dcc3b9f5cf51eefff22c67e5c.svg",
     "static/media/graphql.svg": "/technical-react/static/media/graphql.0addee39580e46a51b5fa0ddb9cf562a.svg",
+    "static/media/environment.md": "/technical-react/static/media/environment.d4bb267d01884781c9e4.md",
     "static/media/formik.svg": "/technical-react/static/media/formik.babecd673330d18570aebb26d1a46088.svg",
+    "static/media/flutter.svg": "/technical-react/static/media/flutter.e7f6875d518d3bce05e531e30bb194e4.svg",
     "static/media/android-studio.svg": "/technical-react/static/media/android-studio.360a7db9c87bff9f16160ecb9939e45b.svg",
     "static/media/react-helmet.svg": "/technical-react/static/media/react-helmet.189a526576e930ee115d9476284cab05.svg",
     "static/media/mobx.svg": "/technical-react/static/media/mobx.30039ad157da43bf1e5265688df1e3ab.svg",
-    "static/media/environment.md": "/technical-react/static/media/environment.d4bb267d01884781c9e4.md",
     "static/media/javascript.svg": "/technical-react/static/media/javascript.df1c8f825bbb674fb365d4197da06735.svg",
     "static/media/firebase.svg": "/technical-react/static/media/firebase.70297ca3dd5b6ce8cd80db1f9a58668d.svg",
     "static/media/typescript.svg": "/technical-react/static/media/typescript.af4f05e6d0495960bca4eff64c4ea78b.svg",
@@ -30,7 +32,6 @@
     "index.html": "/technical-react/index.html",
     "static/media/angular.svg": "/technical-react/static/media/angular.ed3d19b8164892a40b42d4cac923ede8.svg",
     "static/media/passport.svg": "/technical-react/static/media/passport.f69c1beb0b0992568eda297458a2d5bf.svg",
-    "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
     "static/media/css.svg": "/technical-react/static/media/css.7290b4159f117e1bc43df4e62e229992.svg",
     "static/media/react-native.svg": "/technical-react/static/media/react-native.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
@@ -40,11 +41,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.7230459c.css.map": "/technical-react/static/css/main.7230459c.css.map",
-    "main.e81be968.js.map": "/technical-react/static/js/main.e81be968.js.map",
+    "main.4968e748.js.map": "/technical-react/static/js/main.4968e748.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7230459c.css",
-    "static/js/main.e81be968.js"
+    "static/js/main.4968e748.js"
   ]
 }
