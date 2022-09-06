@@ -212,9 +212,14 @@ export const sidebars = [
         src: "flutter/environment.md",
       },
       {
-        label: "Docx Flutter",
+        label: "Flutter for Docx",
         icon: BookIcon,
         src: "flutter/docx.md",
+      },
+      {
+        label: "Flutter for React Native",
+        icon: ReactNativeIcon,
+        src: "flutter/flutter-for-react-native.md",
       },
     ],
   },
