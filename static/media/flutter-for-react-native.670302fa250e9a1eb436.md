@@ -1,9 +1,9 @@
-# Documnet coding Flutter
+# Document Flutter for React Native
 
 <a name="readme-top"></a>
-Tài liệu coding Flutter.
+Flutter đối với React Native.
 
-## 1. Tài liệu Javascript với Flutter
+## 1. Tài liệu React Native với Flutter
 
 <b style="color: red; font-size: 20px;">---- Nội dung ----</b>
 

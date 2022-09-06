@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.3918d0bb.js",
+    "main.js": "/technical-react/static/js/main.44bb4199.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
-    "static/media/docx.md": "/technical-react/static/media/docx.2f9151e2206979136d47.md",
+    "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.670302fa250e9a1eb436.md",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
     "static/media/sequelize.svg": "/technical-react/static/media/sequelize.a912c692db7c0166d288349e978bc8c6.svg",
@@ -14,12 +14,12 @@
     "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
-    "static/media/jest.svg": "/technical-react/static/media/jest.0adfb1d46361a7bb349896d999c9f040.svg",
     "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
+    "static/media/jest.svg": "/technical-react/static/media/jest.0adfb1d46361a7bb349896d999c9f040.svg",
+    "static/media/environment.md": "/technical-react/static/media/environment.d4bb267d01884781c9e4.md",
     "static/media/eslint.svg": "/technical-react/static/media/eslint.25e1a7e7914f22ddf54932e1b14b6baf.svg",
     "static/media/react-router-dom.svg": "/technical-react/static/media/react-router-dom.9b3d7a0dcc3b9f5cf51eefff22c67e5c.svg",
     "static/media/graphql.svg": "/technical-react/static/media/graphql.0addee39580e46a51b5fa0ddb9cf562a.svg",
-    "static/media/environment.md": "/technical-react/static/media/environment.d4bb267d01884781c9e4.md",
     "static/media/formik.svg": "/technical-react/static/media/formik.babecd673330d18570aebb26d1a46088.svg",
     "static/media/flutter.svg": "/technical-react/static/media/flutter.e7f6875d518d3bce05e531e30bb194e4.svg",
     "static/media/android-studio.svg": "/technical-react/static/media/android-studio.360a7db9c87bff9f16160ecb9939e45b.svg",
@@ -38,15 +38,16 @@
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/vue.svg": "/technical-react/static/media/vue.278ee4cc1145ccea5153692ba258cddf.svg",
     "static/media/axios.svg": "/technical-react/static/media/axios.7a3a93ab855a57d0c352736e3237c3b8.svg",
+    "static/media/docx.md": "/technical-react/static/media/docx.1cdca52ca0b2dda4f5a3.md",
     "static/media/react-router-dom.md": "/technical-react/static/media/react-router-dom.80319093c1a1df5546bd.md",
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.3918d0bb.js.map": "/technical-react/static/js/main.3918d0bb.js.map",
+    "main.44bb4199.js.map": "/technical-react/static/js/main.44bb4199.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.3918d0bb.js"
+    "static/js/main.44bb4199.js"
   ]
 }

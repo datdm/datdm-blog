@@ -54,3 +54,7 @@ Setup môi trường cài đặt Flutter trên windows.
 - Install extension: <b style="color: red">Flutter, Dart</b>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 3. IOS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
