@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.44bb4199.js",
+    "main.js": "/technical-react/static/js/main.88bc6f2f.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
@@ -12,6 +12,7 @@
     "static/media/book.svg": "/technical-react/static/media/book.d5820435ae6209ff74f5cf51b11580b0.svg",
     "static/media/react-navigation.md": "/technical-react/static/media/react-navigation.2463fc376045652e3495.md",
     "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
+    "static/media/docx.md": "/technical-react/static/media/docx.66056036b21aa124fad3.md",
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
     "static/media/build-source.md": "/technical-react/static/media/build-source.13f3b7e3fb5bace93bc8.md",
@@ -38,16 +39,15 @@
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/vue.svg": "/technical-react/static/media/vue.278ee4cc1145ccea5153692ba258cddf.svg",
     "static/media/axios.svg": "/technical-react/static/media/axios.7a3a93ab855a57d0c352736e3237c3b8.svg",
-    "static/media/docx.md": "/technical-react/static/media/docx.1cdca52ca0b2dda4f5a3.md",
     "static/media/react-router-dom.md": "/technical-react/static/media/react-router-dom.80319093c1a1df5546bd.md",
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.44bb4199.js.map": "/technical-react/static/js/main.44bb4199.js.map",
+    "main.88bc6f2f.js.map": "/technical-react/static/js/main.88bc6f2f.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.44bb4199.js"
+    "static/js/main.88bc6f2f.js"
   ]
 }
