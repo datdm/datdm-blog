@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.8806cc96.js",
+    "main.js": "/technical-react/static/js/main.0b308bd8.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
-    "static/media/docx.md": "/technical-react/static/media/docx.c7081c7f0f7a3670506c.md",
+    "static/media/docx.md": "/technical-react/static/media/docx.90a10211d5fa6dc98cf2.md",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
     "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.670302fa250e9a1eb436.md",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
@@ -43,11 +43,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.8806cc96.js.map": "/technical-react/static/js/main.8806cc96.js.map",
+    "main.0b308bd8.js.map": "/technical-react/static/js/main.0b308bd8.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.8806cc96.js"
+    "static/js/main.0b308bd8.js"
   ]
 }
