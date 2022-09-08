@@ -3,7 +3,11 @@
 <a name="readme-top"></a>
 Tài liệu coding Flutter.
 
+<a name="dart"></a>
+
 ## 1. Dart
+
+(<a href="#flutter">go to Flutter</a>)
 
 ### Những điểm khác biệt so với javascript
 
@@ -385,6 +389,56 @@ Tài liệu coding Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="flutter"></a>
+
 ## 2. Flutter
+
+(<a href="#dart">go to Dart</a>)
+
+### Scaffold: lắp đầy full màn hình
+
+<img src="/technical-react/img/scaffold.png" alt="scaffold" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### AppBar: header màn hình
+
+<img src="/technical-react/img/appbar.png" alt="appbar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### BottomAppBar: bottom màn hình
+
+<img src="/technical-react/img/bottomappbar.png" alt="bottomappbar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### TabBar: tab bar
+
+<img src="/technical-react/img/tabbar.png" alt="tabbar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Banner: thông điệp chéo hiển thị trên bề mặt
+
+<img src="/technical-react/img/banner.png" alt="banner" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Splash Screen: màn hình đầu tiên khi khởi động ứng dụng
+
+<img src="https://s1.o7planning.com/vi/13143/images/64421067.gif" alt="splashscreen">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### BottomNavigationBar: thanh điều hướng ở bottom
+
+<img src="/technical-react/img/bottomnavigationbar.png" alt="bottomnavigationbar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### FancyBottomNavigation: thanh điều hướng ở bottom
+
+<img src="/technical-react/img/fancybottomnavigation.png" alt="fancybottomnavigation" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
