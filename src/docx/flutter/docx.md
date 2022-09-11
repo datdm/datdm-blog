@@ -395,6 +395,8 @@ Tài liệu coding Flutter.
 
 (<a href="#dart">go to Dart</a>)
 
+<b style="color: red; font-size: 20px;">---- UI Widget ----</b>
+
 ### Scaffold: lắp đầy full màn hình
 
 <img src="/technical-react/img/scaffold.png" alt="scaffold" />
@@ -440,5 +442,71 @@ Tài liệu coding Flutter.
 ### FancyBottomNavigation: thanh điều hướng ở bottom
 
 <img src="/technical-react/img/fancybottomnavigation.png" alt="fancybottomnavigation" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### CircularProgressIndicator: tiến trình dạng hình tròn
+
+<img src="/technical-react/img/circularprogressindicator.png" alt="circularprogressindicator" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### LinearProgressIndicator: tiến trình dạng nằm ngang
+
+<img src="/technical-react/img/linearprogressindicator.png" alt="linearprogressindicator" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Container: hộp chứa các widget con và có thuộc tính: padding, margin,...
+
+<img src="/technical-react/img/container.png" alt="container" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Center: đặt widget con tại center
+
+<img src="/technical-react/img/center.png" alt="center" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Align: đặt widget con và điều chỉnh vị trí widget con
+
+<img src="/technical-react/img/align.png" alt="align" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Row: hiển thị các widget con trên 1 hàng
+
+<img src="/technical-react/img/row.png" alt="row" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Column: hiển thị các widget con trên 1 cột
+
+<img src="/technical-react/img/column.png" alt="column" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng
+
+<img src="/technical-react/img/stack.png" alt="stack" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn
+
+<img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con
+
+<img src="/technical-react/img/spacer.png" alt="spacer" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column
+
+<img src="/technical-react/img/expanded.png" alt="expanded" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
