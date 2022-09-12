@@ -510,3 +510,137 @@ Tài liệu coding Flutter.
 <img src="/technical-react/img/expanded.png" alt="expanded" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### SizedBox: hộp trong suốt, set kích thước cụ thể như width, height, size, child
+
+<img src="/technical-react/img/sizedbox.png" alt="sizedbox" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### RototedBox: xoay widget theo 1/4 vòng tròn(90 độ or -90 độ)
+
+<img src="/technical-react/img/rotatedbox.png" alt="rotatedbox" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Card: widget tạo hình nhật với border tròn 4 góc
+
+<img src="/technical-react/img/card.png" alt="card" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### CircleAvatar: widget vòng tròn chứa màu nền, hình nền, văn bản
+
+<img src="/technical-react/img/circleavatar.png" alt="circleavatar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### IconButton: button với icon
+
+<img src="https://s1.o7planning.com/vi/12859/images/64405877.gif" alt="iconbutton" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### FlatButton: button phẳng, độ nhô bằng 0, icon, text,...
+
+<img src="/technical-react/img/flatbutton.png" alt="flatbutton" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### TextButton: button with text, độ nhô bằng 0
+
+<img src="/technical-react/img/textbutton.png" alt="textbutton" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### ElevatedButton: button với độ nhô lớn hơn 0
+
+<img src="/technical-react/img/elevatedbutton.png" alt="elevatedbutton" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Snackbar: phản hồi ngắn, nằm dưới bottom, undo action
+
+<img src="/technical-react/img/snackbar.png" alt="snackbar" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Tween:
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### SimpleDialog: dialog đơn giản bao gồm tiêu đề, danh sách lựa chọn
+
+<img src="/technical-react/img/simpledialog.png" alt="simpledialog" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### AlertDialog: hộp thoại thông báo xác nhận
+
+<img src="/technical-react/img/alertdialog.png" alt="alertdialog" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Navigation and Routing
+
+<img src="/technical-react/img/route.png" alt="route" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### ShapeBorder: shape border
+
+<img src="/technical-react/img/shapeborder.png" alt="shapeborder" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Border: border gồm top, bottom, left, right
+
+<img src="/technical-react/img/border.png" alt="border" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### ContinuousRectangleBorder: border hình chữ nhật với chuyển tiếp liên tục giữa cạnh và góc
+
+<img src="/technical-react/img/continuousrectangleborder.png" alt="continuousrectangleborder" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### RoundedRectangleBorder: border hình chữ nhật góc tròn
+
+<img src="/technical-react/img/roundedrectangleborder.png" alt="roundedrectangleborder" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### CircleBorder: border hình tròn lớn nhất
+
+<img src="/technical-react/img/circleborder.png" alt="circleborder" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### StatiumBorder: border hình sân vận động
+
+<img src="/technical-react/img/stadiumborder.png" alt="stadiumborder" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)
+
+<img src="/technical-react/img/edgeinsetsgeometry.png" alt="edgeinsetsgeometry" />
+
+**EdgeInsets**: dựa trên tham số **_left, top, right, bottom_**
+
+**EdgeInsetsDirectional**: dựa trên tham số **_start, top, end, bottom_**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Alignment: căn chỉnh ví trí của widget con bên trong parent
+
+<img src="/technical-react/img/alignment.png" alt="alignment" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Positioned: định vị trí widget con trong Stack
+
+<img src="/technical-react/img/positioned.png" alt="positioned" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
