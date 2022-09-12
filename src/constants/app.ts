@@ -29,6 +29,7 @@ import {
   ReactNavigationIcon,
   FlutterIcon,
 } from "components/atoms/Icons";
+import { DartIcon } from "../components/atoms/Icons";
 
 export const sidebars = [
   {
@@ -210,6 +211,11 @@ export const sidebars = [
         label: "Setup môi trường",
         icon: AndroidStudioIcon,
         src: "flutter/environment.md",
+      },
+      {
+        label: "Ngôn ngữ Dart",
+        icon: DartIcon,
+        src: "flutter/dart.md",
       },
       {
         label: "Flutter for Docx",
