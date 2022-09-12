@@ -1,15 +1,11 @@
-# Document for Flutter
+# Document for Dart
 
 <a name="readme-top"></a>
-Tài liệu coding Flutter.
+Tài liệu coding Dart.
 
 <a name="dart"></a>
 
-## 1. Dart
-
-(<a href="#flutter">go to Flutter</a>)
-
-### Những điểm khác biệt so với javascript
+## 1. Những điểm khác biệt so với javascript
 
 - **Kiểu dữ liệu**
 
@@ -386,127 +382,5 @@ Tài liệu coding Flutter.
   // Define handle event
   void eventHandler(MouseEvent event) {}
   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<a name="flutter"></a>
-
-## 2. Flutter
-
-(<a href="#dart">go to Dart</a>)
-
-<b style="color: red; font-size: 20px;">---- UI Widget ----</b>
-
-### Scaffold: lắp đầy full màn hình
-
-<img src="/technical-react/img/scaffold.png" alt="scaffold" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### AppBar: header màn hình
-
-<img src="/technical-react/img/appbar.png" alt="appbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### BottomAppBar: bottom màn hình
-
-<img src="/technical-react/img/bottomappbar.png" alt="bottomappbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### TabBar: tab bar
-
-<img src="/technical-react/img/tabbar.png" alt="tabbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Banner: thông điệp chéo hiển thị trên bề mặt
-
-<img src="/technical-react/img/banner.png" alt="banner" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Splash Screen: màn hình đầu tiên khi khởi động ứng dụng
-
-<img src="https://s1.o7planning.com/vi/13143/images/64421067.gif" alt="splashscreen">
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### BottomNavigationBar: thanh điều hướng ở bottom
-
-<img src="/technical-react/img/bottomnavigationbar.png" alt="bottomnavigationbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### FancyBottomNavigation: thanh điều hướng ở bottom
-
-<img src="/technical-react/img/fancybottomnavigation.png" alt="fancybottomnavigation" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### CircularProgressIndicator: tiến trình dạng hình tròn
-
-<img src="/technical-react/img/circularprogressindicator.png" alt="circularprogressindicator" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### LinearProgressIndicator: tiến trình dạng nằm ngang
-
-<img src="/technical-react/img/linearprogressindicator.png" alt="linearprogressindicator" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Container: hộp chứa các widget con và có thuộc tính: padding, margin,...
-
-<img src="/technical-react/img/container.png" alt="container" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Center: đặt widget con tại center
-
-<img src="/technical-react/img/center.png" alt="center" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Align: đặt widget con và điều chỉnh vị trí widget con
-
-<img src="/technical-react/img/align.png" alt="align" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Row: hiển thị các widget con trên 1 hàng
-
-<img src="/technical-react/img/row.png" alt="row" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Column: hiển thị các widget con trên 1 cột
-
-<img src="/technical-react/img/column.png" alt="column" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng
-
-<img src="/technical-react/img/stack.png" alt="stack" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn
-
-<img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con
-
-<img src="/technical-react/img/spacer.png" alt="spacer" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column
-
-<img src="/technical-react/img/expanded.png" alt="expanded" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
