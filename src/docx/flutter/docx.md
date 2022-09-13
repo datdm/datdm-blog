@@ -5,15 +5,98 @@ Tài liệu coding Flutter.
 
 ## 1. UI Widget
 
-### Scaffold: lắp đầy full màn hình
+**<p style="color: #635cd1">MaterialApp: sử dụng Material Design</p>**
 
-<img src="/technical-react/img/scaffold.png" alt="scaffold" />
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      // title app
+      title: "title"
+      // hide/show banner debug
+      debugShowCheckedModeBanner: bool
+      // theme
+      theme: ThemeDate(
+        // theme primary
+        primarySwatch: Colors.blue,
+      )
+      // home
+      home: MyHomePage(...)
+    )
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### AppBar: header màn hình
+**<p style="color: #635cd1">Scaffold: lắp đầy full màn hình</p>**
+
+UI:
+
+<img src="/technical-react/img/scaffold.png" alt="scaffold" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      // AppBar widget
+      appBar: AppBar(...)
+      // Content
+      body: Center(...)
+      // button widget, default dưới góc phải
+      floatingActionButton: FloatingActionButton(...)
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">AppBar: header màn hình</p>**
+
+UI:
 
 <img src="/technical-react/img/appbar.png" alt="appbar" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return AppBar(
+      // title app bar
+      title: "title"
+      title: Align(
+        child: Text("title"),
+        alignment: Alignment.center
+      )
+      // default: true
+      // nếu leading: null và automaticallyImplyLeading: true, drawer ở Scaffold có data thì hiển thị drawer đóng mở
+      // nếu leading: null và automaticallyImplyLeading: true, drawer ở AppBar: null thì hiển thị button back
+      automaticallyImplyLeading: bool
+      // leading: đặt trước title, thường là icon
+      leading: IconButton(...)
+      // actions: thêm các hành động trên app bar, thường icon
+      actions: <Widget>[
+        IconButton(...),
+        IconButton(...),
+        IconButton(...),
+      ]
+      // buttom của app bar chứa tabbar
+      bottom: TabBar(...)
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">SliverAppBar: app bar với thanh cuộn</p>**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,9 +154,29 @@ Tài liệu coding Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Center: đặt widget con tại center
+**<p style="color: #635cd1">Center: đặt widget con tại center</p>**
+
+UI:
 
 <img src="/technical-react/img/center.png" alt="center" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      // widget con trong Center
+      child: Row(...)
+      // width của Center, double, default maximum
+      widthFactor: 2.0
+      // height của Center, double, default maximum
+      heightFactor: 2.0
+    )
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,9 +246,33 @@ Tài liệu coding Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### IconButton: button với icon
+**<p style="color: #635cd1">IconButton: button với icon</p>**
+
+UI:
 
 <img src="https://s1.o7planning.com/vi/12859/images/64405877.gif" alt="iconbutton" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      // icon
+      icon: Icon(Icons.directions_bike)
+      // icon with image
+      icon: Image.network("")
+      // icon with text
+      icon: Text("")
+      // icon size, double
+      iconSize: 0.3
+      // on press
+      onPressed: () {}
+    )
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,9 +288,30 @@ Tài liệu coding Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### ElevatedButton: button với độ nhô lớn hơn 0
+**<p style="color: #635cd1">ElevatedButton: button với độ nhô lớn hơn 0</p>**
+
+UI:
 
 <img src="/technical-react/img/elevatedbutton.png" alt="elevatedbutton" />
+
+Code:
+
+```javascript
+
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return ElevatedButton(
+      // widget con
+      child: Text("")
+      // on press
+      onPressed: () {}
+      // on long press
+      onLongPress: () {}
+    )
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,4 +403,50 @@ Tài liệu coding Flutter.
 
 <img src="https://s1.o7planning.com/vi/13151/images/64420896.gif" alt="route" />
 
+**<p style="color: #635cd1">Route Transition: Nagivation từ screen 1 tới screen 2</p>**
+
+- Create đối tượng Route
+
+  ```javascript
+  Route _createRoute() {
+    return PageRouteBuilder(
+      pageBuilder: (BuildContext context, Animation<double> animation, Animation<double> secondaryAnimation) {
+        return const Page2(...)
+      },
+      transitionBuilder: (BuildContext context, Animation<double> animation, Aniamtion<double> secondaryAnimation, Widget child) {
+        return child;
+      }
+    )
+  }
+  ```
+
+- Định nghĩa map route
+
+- Di chuyển screen
+
+  - Di chuyển với route là string
+
+    `Navigator.pushNamed(context, route_name)`
+
+    `Navigator.of(context).pushNamed(route_name)`
+
+  - Di chuyển với route là đối tượng Route widget
+
+    `Navigator.of(context).push(_createRoute())`
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 4. StatelessWidget
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  // Contructor
+  const MyHomePage({Key? key}) : super(key: key);
+
+  // Render UI
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold()
+  }
+}
+```
