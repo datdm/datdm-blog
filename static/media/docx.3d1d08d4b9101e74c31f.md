@@ -30,6 +30,17 @@ class MyHomePage extends StatelessWidget {
         "/home": (BuildContext context) => HomePage(),
         "/details": (BuildContext context) => DetailsPage(),
         "/about": (BuildContext context) => AboutPage(),
+      },
+      // on init route
+      onGenerateRoute: (settings) {
+        switch (setting.name) {
+          case "/home":
+            return MaterialPageRoute(builder: (_) => HomePage())
+          case "/details":
+            return MaterialPageRoute(builder: (_) => DetailsPage(settings.id))
+          default:
+            return MaterialPageRoute(builder: () => HomePage())
+        }
       }
     )
   }
@@ -478,17 +489,29 @@ UI:
 
   - Di chuyển với route là string
 
-    `Navigator.pushNamed(context, route_name)`: Go to page dựa trên route name
+    `Navigator.pushNamed(context, route_name, arguments)`: Go to page dựa trên route name
 
-    `Navigator.of(context).pushNamed(route_name)`: Go to page dựa trên route name
+    `Navigator.of(context).pushNamed(route_name, arguments)`: Go to page dựa trên route name
+
+    `Navigator.push(context, route_name, arguments: "param")`: Go to page with param
+
+    `ModalRoute.of(context).settings.arguments`: Get param arguments
 
     `Navigator.of(context).pop()`: Back về page trước đó
 
     `Navigator.of(context).pop(route_name)`: Back về page dựa trên route
 
+    `Navigator.of(context).pop(route_name, params)`: Back param trở về
+
+    `final data = await Navigator.push(route_name)`: Get param từ page trở về
+
   - Di chuyển với route là đối tượng Route widget
 
     `Navigator.of(context).push(_createRoute())`
+
+    `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1()))`: Go to page 1
+
+    `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1("param")))`: Go to page 1 with param
 
 - Create đối tượng Route
 
@@ -507,6 +530,8 @@ UI:
             child: Text("Go Page2"),
             onPressed: () {
               Navigator.of(context).push(_createRoute())
+              Navigator.push(context, MaterialPageRoute(builder: (context) => Page1()))
+              Navigator.push(context, MaterialPageRoute(builder: (context) => Page1(params.id)))
             }
           )
         )
@@ -573,6 +598,17 @@ UI:
           "/home": (BuildContext context) => HomePage(),
           "/details": (BuildContext context) => DetailsPage(),
           "/about": (BuildContext context) => AboutPage(),
+        },
+        // on init route
+        onGenerateRoute: (settings) {
+          switch (setting.name) {
+            case "/home":
+              return MaterialPageRoute(builder: (_) => HomePage())
+            case "/details":
+              return MaterialPageRoute(builder: (_) => DetailsPage(settings.id))
+            default:
+              return MaterialPageRoute(builder: () => HomePage())
+          }
         }
       )
     }
