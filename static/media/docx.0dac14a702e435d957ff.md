@@ -23,6 +23,14 @@ class MyHomePage extends StatelessWidget {
       )
       // home
       home: MyHomePage(...)
+      // initial route
+      initialRoute: "/home",
+      // routes
+      routes: <String, WidgetBuilder>{
+        "/home": (BuildContext context) => HomePage(),
+        "/details": (BuildContext context) => DetailsPage(),
+        "/about": (BuildContext context) => AboutPage(),
+      }
     )
   }
 }
@@ -151,74 +159,6 @@ class MyHomePage extends StatelessWidget {
 ### Container: hộp chứa các widget con và có thuộc tính: padding, margin,...
 
 <img src="/technical-react/img/container.png" alt="container" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1">Center: đặt widget con tại center</p>**
-
-UI:
-
-<img src="/technical-react/img/center.png" alt="center" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      // widget con trong Center
-      child: Row(...)
-      // width của Center, double, default maximum
-      widthFactor: 2.0
-      // height của Center, double, default maximum
-      heightFactor: 2.0
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Align: đặt widget con và điều chỉnh vị trí widget con
-
-<img src="/technical-react/img/align.png" alt="align" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Row: hiển thị các widget con trên 1 hàng
-
-<img src="/technical-react/img/row.png" alt="row" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Column: hiển thị các widget con trên 1 cột
-
-<img src="/technical-react/img/column.png" alt="column" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng
-
-<img src="/technical-react/img/stack.png" alt="stack" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn
-
-<img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con
-
-<img src="/technical-react/img/spacer.png" alt="spacer" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column
-
-<img src="/technical-react/img/expanded.png" alt="expanded" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -373,7 +313,120 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)
+## 2. UI Layout
+
+**<p style="color: #635cd1">Center: đặt widget con tại center</p>**
+
+UI:
+
+<img src="/technical-react/img/center.png" alt="center" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      // widget con trong Center
+      child: Row(...)
+      // width của Center, double, default maximum
+      widthFactor: 2.0
+      // height của Center, double, default maximum
+      heightFactor: 2.0
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Align: đặt widget con và điều chỉnh vị trí widget con</p>**
+
+UI:
+
+<img src="/technical-react/img/align.png" alt="align" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Row: hiển thị các widget con trên 1 hàng</p>**
+
+UI:
+
+<img src="/technical-react/img/row.png" alt="row" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      // list child item row
+      children: [
+        Text("text")
+      ],
+      // sắp xếp vị trí widget con trên trục chính (nằm ngang)
+      // MainAxisAlignment.start (Default)
+      // MainAxisAlignment.center
+      // MainAxisAlignment.end
+      // MainAxisAlignment.spaceBetween
+      // MainAxisAlignment.spaceAround
+      // MainAxisAlignment.spaceEvenly
+      mainAxisAlignment: MainAxisAlignment
+      // không gian chiếm giữ
+      // MainAxisSize.min
+      // MainAxisSize.max (Default)
+      mainAxisSize: MainAxisSize
+      // sắp xếp vị trí widget con trên trục chéo (nằm dọc)
+      // CrossAxisAlignment.start
+      // CrossAxisAlignment.end
+      // CrossAxisAlignment.center (Default)
+      // CrossAxisAlignment.baseline
+      // CrossAxisAlignment.stretch
+      crossAxisAlignment: CrossAxisAlignment
+      // sắp xếp thứ tự
+      // VerticalDirection.down (Default)
+      // VerticalDirection.up
+      textDirection: TextDirection
+      // đường cơ sơ
+      // TextBaseline.alphabetic (Default)
+      // TextBaseline.ideographic
+      textBaseline: TextBaseline
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Column: hiển thị các widget con trên 1 cột</p>**
+
+UI:
+
+<img src="/technical-react/img/column.png" alt="column" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng</p>**
+
+UI:
+
+<img src="/technical-react/img/stack.png" alt="stack" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn</p>**
+
+UI:
+
+<img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)</p>**
+
+UI:
 
 <img src="/technical-react/img/edgeinsetsgeometry.png" alt="edgeinsetsgeometry" />
 
@@ -383,19 +436,35 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Alignment: căn chỉnh ví trí của widget con bên trong parent
+**<p style="color: #635cd1">Alignment: căn chỉnh ví trí của widget con bên trong parent</p>**
+
+UI:
 
 <img src="/technical-react/img/alignment.png" alt="alignment" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Positioned: định vị trí widget con trong Stack
+**<p style="color: #635cd1">Positioned: định vị trí widget con trong Stack</p>**
+
+UI:
 
 <img src="/technical-react/img/positioned.png" alt="positioned" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 2. UI Layout
+**<p style="color: #635cd1">Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column</p>**
+
+UI:
+
+<img src="/technical-react/img/expanded.png" alt="expanded" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con</p>**
+
+UI:
+
+<img src="/technical-react/img/spacer.png" alt="spacer" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -405,9 +474,46 @@ class MyHomePage extends StatelessWidget {
 
 **<p style="color: #635cd1">Route Transition: Nagivation từ screen 1 tới screen 2</p>**
 
+- Di chuyển screen
+
+  - Di chuyển với route là string
+
+    `Navigator.pushNamed(context, route_name)`: Go to page dựa trên route name
+
+    `Navigator.of(context).pushNamed(route_name)`: Go to page dựa trên route name
+
+    `Navigator.of(context).pop()`: Back về page trước đó
+
+    `Navigator.of(context).pop(route_name)`: Back về page dựa trên route
+
+  - Di chuyển với route là đối tượng Route widget
+
+    `Navigator.of(context).push(_createRoute())`
+
 - Create đối tượng Route
 
   ```javascript
+  class Page1 extends StatelessWidget {
+    const Page1({Key? key}) : super(key: key)
+
+    @override
+    Widget build(BuildContext context) {
+      return Scaffold(
+        appBar: AppBar(
+          title: const Text("Page1")
+        ),
+        body: const Center(
+          child: ElevatedButton(
+            child: Text("Go Page2"),
+            onPressed: () {
+              Navigator.of(context).push(_createRoute())
+            }
+          )
+        )
+      )
+    }
+  }
+
   Route _createRoute() {
     return PageRouteBuilder(
       pageBuilder: (BuildContext context, Animation<double> animation, Animation<double> secondaryAnimation) {
@@ -415,6 +521,35 @@ class MyHomePage extends StatelessWidget {
       },
       transitionBuilder: (BuildContext context, Animation<double> animation, Aniamtion<double> secondaryAnimation, Widget child) {
         return child;
+        return SlideTransition(
+          position: new Tween<Offset>(
+            begin: const Offset(-1.0, 0.0),
+            end: Offset.zero,
+          ).animate(animation),
+          child: new SlideTransition(
+            position: new Tween<Offset>(
+              begin: Offset.zero,
+              end: const Offset(-1.0, 0.0),
+            ).animate(secondaryAnimation),
+            child: child,
+          ),
+        );
+        return ScaleTransition(
+          scale: new Tween<double>(
+            begin: 0.0,
+            end: 1.0,
+          ).animate(
+            CurvedAnimation(
+              parent: animation,
+              curve: Interval(
+                0.00,
+                0.50,
+                curve: Curves.easeInCirc,
+              ),
+            ),
+          ),
+          child: child
+        );
       }
     )
   }
@@ -422,17 +557,50 @@ class MyHomePage extends StatelessWidget {
 
 - Định nghĩa map route
 
-- Di chuyển screen
+  ```javascript
+  class MyApp extends StatelessWidget {
+    @override
+    Widget build(BuildContext context) {
+      return Scaffold(
+        // title
+        title: Text("Title"),
+        // init route
+        initialRoute: "/home",
+        // home
+        home: HomePage(),
+        // routes
+        routes: <String, WidgetBuilder>{
+          "/home": (BuildContext context) => HomePage(),
+          "/details": (BuildContext context) => DetailsPage(),
+          "/about": (BuildContext context) => AboutPage(),
+        }
+      )
+    }
+  }
 
-  - Di chuyển với route là string
-
-    `Navigator.pushNamed(context, route_name)`
-
-    `Navigator.of(context).pushNamed(route_name)`
-
-  - Di chuyển với route là đối tượng Route widget
-
-    `Navigator.of(context).push(_createRoute())`
+  class HomePage extends StatelessWidget {
+    @override
+    Widget build(BuildContext context) {
+      return Scaffold(
+        appBar: AppBar(...)
+        body: Center(
+          child: Row(
+            children: [
+              ElevatedButton(
+                child: Text("Go to Detail")
+                onPressed: () {
+                  Navigator.of(context).pushNamed("/details")
+                  Navigator.of(context).pop()
+                  Navigator.of(context).pop("/home")
+                }
+              )
+            ]
+          )
+        )
+      )
+    }
+  }
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -450,3 +618,5 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
