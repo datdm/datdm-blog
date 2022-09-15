@@ -29,17 +29,17 @@ class MyHomePage extends StatelessWidget {
       routes: <String, WidgetBuilder>{
         "/home": (BuildContext context) => HomePage(),
         "/details": (BuildContext context) => DetailsPage(),
-        "/about": (BuildContext context) => AboutPage(),
+        "/about": (context) => AboutPage(),
       },
       // on init route
-      onGenerateRoute: (settings) {
+      onGenerateRoute: (RouteSettings settings) {
         switch (setting.name) {
           case "/home":
             return MaterialPageRoute(builder: (_) => HomePage())
           case "/details":
             return MaterialPageRoute(builder: (_) => DetailsPage(settings.id))
           default:
-            return MaterialPageRoute(builder: () => HomePage())
+            return MaterialPageRoute(builder: (context) => HomePage())
         }
       }
     )
@@ -489,29 +489,33 @@ UI:
 
   - Di chuyển với route là string
 
-    `Navigator.pushNamed(context, route_name, arguments)`: Go to page dựa trên route name
+    - `Navigator.pushNamed(context, route_name, arguments: "params")`: Go to page dựa trên route name
 
-    `Navigator.of(context).pushNamed(route_name, arguments)`: Go to page dựa trên route name
+      `Navigator.of(context).pushNamed(route_name, arguments: "params")`: Go to page dựa trên route name
 
-    `Navigator.push(context, route_name, arguments: "param")`: Go to page with param
+    - `Navigator.push(context, route_name, arguments: "param")`: Go to page with param
 
-    `ModalRoute.of(context).settings.arguments`: Get param arguments
+    - `ModalRoute.of(context).settings.arguments`: Get param arguments
 
-    `Navigator.of(context).pop()`: Back về page trước đó
+    - `Navigator.of(context).pop()`: Back về page trước đó
 
-    `Navigator.of(context).pop(route_name)`: Back về page dựa trên route
+      `Navigator.of(context).pop(route_name)`: Back về page dựa trên route
 
-    `Navigator.of(context).pop(route_name, params)`: Back param trở về
+    - `Navigator.pop(context, route_name, params)`: Back param trở về
 
-    `final data = await Navigator.push(route_name)`: Get param từ page trở về
+      `Navigator.pop(context, route_name, params)`: Back param trở về
+
+      `final data = await Navigator.push(route_name)`: Get param từ page trở về
 
   - Di chuyển với route là đối tượng Route widget
 
-    `Navigator.of(context).push(_createRoute())`
+    - `Navigator.of(context).push(_createRoute())`
 
-    `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1()))`: Go to page 1
+    - `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1()))`: Go to page 1 (Push Widget vào Stack)
 
-    `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1("param")))`: Go to page 1 with param
+    - `Navigator.push(context, MaterialPageRoute(builder: (context) => Page1("param")))`: Go to page 1 with param
+
+      `Navigator.push(context, MaterialPageRoute(builder: (context) => { return Page1("param") }))`: Go to page 1 with param
 
 - Create đối tượng Route
 
@@ -597,10 +601,10 @@ UI:
         routes: <String, WidgetBuilder>{
           "/home": (BuildContext context) => HomePage(),
           "/details": (BuildContext context) => DetailsPage(),
-          "/about": (BuildContext context) => AboutPage(),
+          "/about": (context) => AboutPage(),
         },
         // on init route
-        onGenerateRoute: (settings) {
+        onGenerateRoute: (RouteSettings settings) {
           switch (setting.name) {
             case "/home":
               return MaterialPageRoute(builder: (_) => HomePage())
@@ -609,6 +613,13 @@ UI:
             default:
               return MaterialPageRoute(builder: () => HomePage())
           }
+        },
+        // unknown route
+        onUnknownRoute: (RouteSettings setting) {
+          String unknownRoute = setting.name
+          return new MaterialPageRoute(
+            builder: (context) => NotFoundPage()
+          )
         }
       )
     }
@@ -633,6 +644,47 @@ UI:
             ]
           )
         )
+      )
+    }
+  }
+  ```
+
+- Custom route
+
+  ```javascript
+  class CustomPageRoute extends PageRouteBuilder {
+    final Widget widget;
+    final String params;
+
+    CustomPageRoute({required: this.widget, required: this.params})
+      : super(
+        pageBuilder: (BuildContext context, Animation<double> animation, Animation<double> animationSecondary) {
+          return this.widget
+        },
+        transitionBuilder:(BuildContext context, Animation<double> animation, Animation<double> animationSecondary, Widget widget) {
+          return SlideTransition(
+            position:  Tween<Offset>(
+              begin: const Offset(1.0, 0.0),
+              end: Offset.zero,
+            ).animate(animation),
+            child: child,
+         );
+        }
+      )
+  }
+
+  class MyApp extends StatelessWidget {
+    @override
+    Widget build(BuildContext context) {
+      return MaterialApp(
+        onGenerateRoute: (RouteSettings setting) {
+          switch (settings.name) {
+            case "/home":
+              return CustomPageRoute(widget: MyHome(), params: "params");
+            case "/details":
+              return CustomPageRoute(widget: MyDetails(), params: "params");
+          }
+        }
       )
     }
   }
