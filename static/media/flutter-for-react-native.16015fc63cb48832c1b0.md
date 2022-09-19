@@ -313,3 +313,69 @@ _A widget can define:_
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Tạo component custom
+
+- **Dart**
+
+  ```javascript
+  class CustomCard extends StatelessWidget {
+    const CustomCard({
+      // Default
+      super.key,
+      // Params property
+      required this.index,
+      // Params Function
+      required this.onPress
+    })
+
+    final int index;
+    final void Function() onPress;
+
+    @override
+    Widget build(BuildContext context) {
+      return Card(
+        child: Column(
+          children: <Widget>[
+            TextButton(
+              child: Text("$index"),
+              onPressed: onPress
+            )
+          ]
+        )
+      )
+    }
+  }
+
+  class MyPage extends StatelessWidget {
+    @override
+    Widget build(BuildContext context) {
+      return CustomCard(
+        index: 0,
+        onPress: () {}
+      )
+    }
+  }
+  ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Cách dùng resource và assets
+
+- Setting `pubspec.yml`:
+
+  ```bash
+  flutter:
+    assets:
+      - assets/my-icon.png
+      - assets/background.png
+  ```
+
+- **Dart**
+
+  ```javascript
+  // resource local
+  Image.asset("assets/my-icon.png");
+  // resource network
+  Image.network("https://image.png");
+  ```
