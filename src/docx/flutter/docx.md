@@ -324,6 +324,39 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+**<p style="color: #635cd1">SafeArea: dùng phù hợp với thanh status bar</p>**
+
+UI:
+
+<img src="/technical-react/img/safearea.png" alt="safearea" />
+
+Code:
+
+```javascript
+class WelcomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+        // widget con
+        child: Column(...)
+        // Tránh system padding của màn hình
+        top: bool,
+        bottom: bool,
+        left: bool,
+        right: bool,
+        // Padding nhỏ nhất áp dụng
+        minimum: const EdgeInsets.all(16.0)
+        // Viewpadding or padding cuar ViewInsets (Default: false)
+        maintainBottomViewPadding: bool
+      )
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 2. UI Layout
 
 **<p style="color: #635cd1">Center: đặt widget con tại center</p>**
@@ -692,7 +725,20 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 4. StatelessWidget
+## 4. Structure
+
+    start_flutter
+    ├── anddroid             Config file android
+    ├── build                File build android and IOS
+    ├── ios                  Config file ios
+    ├── lib                  Contains source
+    │   ├── screen           Screen page
+    │   │    └── welcome_screen.dart
+    │   ├── main.dart        File main flutter app and start app
+    ├── test
+    └── pubspec.yml         Contains metadata Flutter and package lib
+
+## 5. StatelessWidget
 
 ```javascript
 class MyHomePage extends StatelessWidget {
