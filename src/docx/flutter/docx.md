@@ -185,6 +185,22 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+**<p style="color: #635cd1">FittedBox: scale và vị trí widget con phù hợp trong nó</p>**
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return FittedBox(
+      // widget
+      children: TextButton(..)
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Card: widget tạo hình nhật với border tròn 4 góc
 
 <img src="/technical-react/img/card.png" alt="card" />
@@ -233,9 +249,27 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### TextButton: button with text, độ nhô bằng 0
+**<p style="color: #635cd1">TextButton: button with text, độ nhô bằng 0</p>**
+
+UI:
 
 <img src="/technical-react/img/textbutton.png" alt="textbutton" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return TextButton(
+      // widget con
+      child: Text("Text"),
+      // on press
+      onPressed: () {}
+    )
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -510,6 +544,66 @@ UI:
 
 <img src="/technical-react/img/spacer.png" alt="spacer" />
 
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Spacer(
+      // flex: tỉ lệ khoảng trống (Default = 1)
+      flex: int
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Text: text</p>**
+
+```javascript
+class MyText extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      // Content
+      "Text",
+      // align
+      textAlign: TextAlign.center,
+      // textTheme: Theme.of(context).textTheme.
+      style: Theme.of(context).textTheme.....
+      // textStyle
+      style: TextStyle(
+        fontSize: 10,
+        fontWeight: FontWeight.bold,
+      )
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1">Icon: icon</p>**
+
+```javascript
+class MyIcon extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Icon(
+      // Get icon from Icons
+      Icons.directions_bike,
+      // size
+      size: 16,
+      // color
+      color: Theme.of(context).textTheme.bodyText1.color,
+      )
+    )
+  }
+}
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 3. Navigation and Routing
@@ -738,7 +832,30 @@ UI:
     ├── test
     └── pubspec.yml         Contains metadata Flutter and package lib
 
-## 5. StatelessWidget
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 5. Theme
+
+```javascript
+class Theme extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      "Text",
+      // textTheme: headline5 with copyWith style
+      style: Theme.of(context).textTheme.headline5.copyWith(fontWeight: FontWeight.bold, color: Color)
+      // color
+      style: TextStyle(
+        color: Theme.of(context).textTheme.bodyText1.color.withOpacity(0.4)
+      )
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 6. StatelessWidget
 
 ```javascript
 class MyHomePage extends StatelessWidget {
