@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.da7d4a7e.js",
+    "main.js": "/technical-react/static/js/main.243f4635.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
-    "static/media/docx.md": "/technical-react/static/media/docx.1ad0dbfa15393a752d05.md",
+    "static/media/docx.md": "/technical-react/static/media/docx.d4fa46ad734265feab56.md",
     "static/media/dart.md": "/technical-react/static/media/dart.5c4673efe1fc1066c82e.md",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
-    "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.16015fc63cb48832c1b0.md",
+    "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.1ef216b254211e1fb03e.md",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
     "static/media/sequelize.svg": "/technical-react/static/media/sequelize.a912c692db7c0166d288349e978bc8c6.svg",
@@ -45,11 +45,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.da7d4a7e.js.map": "/technical-react/static/js/main.da7d4a7e.js.map",
+    "main.243f4635.js.map": "/technical-react/static/js/main.243f4635.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.da7d4a7e.js"
+    "static/js/main.243f4635.js"
   ]
 }

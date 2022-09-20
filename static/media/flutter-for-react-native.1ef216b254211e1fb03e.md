@@ -331,6 +331,7 @@ _A widget can define:_
 
     final int index;
     final void Function() onPress;
+    final VoidCallback onPress;
 
     @override
     Widget build(BuildContext context) {
@@ -367,15 +368,22 @@ _A widget can define:_
   ```bash
   flutter:
     assets:
+      - assets/img/
       - assets/my-icon.png
       - assets/background.png
+  ```
+
+- Run pub get
+
+  ```bash
+  flutter pub get
   ```
 
 - **Dart**
 
   ```javascript
   // resource local
-  Image.asset("assets/my-icon.png");
+  Image.asset("assets/my-icon.png", height: 150);
   // resource network
   Image.network("https://image.png");
   ```
