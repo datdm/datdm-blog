@@ -5,7 +5,7 @@ Tài liệu coding Flutter.
 
 ## 1. UI Widget
 
-**<p style="color: #635cd1">MaterialApp: sử dụng Material Design</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ MaterialApp: sử dụng Material Design +++</p>**
 
 ```javascript
 class MyHomePage extends StatelessWidget {
@@ -49,7 +49,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Scaffold: lắp đầy full màn hình</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Scaffold: lắp đầy full màn hình +++</p>**
 
 UI:
 
@@ -64,18 +64,25 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       // AppBar widget
       appBar: AppBar(...)
+      // use AppBar custom
+      appBar: buildAppBar(..)
       // Content
       body: Center(...)
       // button widget, default dưới góc phải
       floatingActionButton: FloatingActionButton(...)
     )
+
+    // Custom method
+    AppBar buildAppBar() {
+      return AppBar(..)
+    }
   }
 }
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">AppBar: header màn hình</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ AppBar: header màn hình +++</p>**
 
 UI:
 
@@ -94,9 +101,14 @@ class MyHomePage extends StatelessWidget {
         child: Text("title"),
         alignment: Alignment.center
       )
+      // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
+      elevation: double
+      // background:
+      backgroundColor: Colors.green,
       // default: true
       // nếu leading: null và automaticallyImplyLeading: true, drawer ở Scaffold có data thì hiển thị drawer đóng mở
       // nếu leading: null và automaticallyImplyLeading: true, drawer ở AppBar: null thì hiển thị button back
+      // nếu automaticallyImplyLeading: false thì không hiển thị button back
       automaticallyImplyLeading: bool
       // leading: đặt trước title, thường là icon
       leading: IconButton(...)
@@ -115,7 +127,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">SliverAppBar: app bar với thanh cuộn</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ SliverAppBar: app bar với thanh cuộn +++</p>**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +181,26 @@ class MyHomePage extends StatelessWidget {
 
 ### Container: hộp chứa các widget con và có thuộc tính: padding, margin,...
 
+UI:
+
 <img src="/technical-react/img/container.png" alt="container" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Container(
+    // color: background
+    color: Color.red,
+    // padding
+    padding: EdgeInsets.all(1.0),
+    // margin
+    margin: EdgeInsets.all(1.0),
+    // widget con
+    child: Column(..),
+  )
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +216,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">FittedBox: scale và vị trí widget con phù hợp trong nó</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ FittedBox: scale và vị trí widget con phù hợp trong nó +++</p>**
 
 ```javascript
 class MyHomePage extends StatelessWidget {
@@ -213,7 +244,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">IconButton: button với icon</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ IconButton: button với icon +++</p>**
 
 UI:
 
@@ -243,13 +274,13 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### FlatButton: button phẳng, độ nhô bằng 0, icon, text,...
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ (Removed) FlatButton: button phẳng, độ nhô bằng 0, icon, text,... +++</p>**
 
 <img src="/technical-react/img/flatbutton.png" alt="flatbutton" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">TextButton: button with text, độ nhô bằng 0</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ TextButton: button with text, độ nhô bằng 0 +++</p>**
 
 UI:
 
@@ -261,11 +292,21 @@ Code:
 class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    //
     return TextButton(
       // widget con
       child: Text("Text"),
       // on press
       onPressed: () {}
+      // style
+      style: ButtonStyle(..)
+      style: TextButton.styleForm(
+        shape: RoundedRectangleBorder(..)
+      )
+    )
+    // return ButtonStyle
+    return TextButton.styleForm(
+      shape: RoundedRectangleBorder(..)
     )
   }
 }
@@ -273,7 +314,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">ElevatedButton: button với độ nhô lớn hơn 0</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ ElevatedButton: button với độ nhô lớn hơn 0 +++</p>**
 
 UI:
 
@@ -282,10 +323,10 @@ UI:
 Code:
 
 ```javascript
-
 class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    //
     return ElevatedButton(
       // widget con
       child: Text("")
@@ -293,12 +334,68 @@ class MyHomePage extends StatelessWidget {
       onPressed: () {}
       // on long press
       onLongPress: () {}
+      // style
+      style: ElevatedButton.styleForm( // return ButtonStyle
+        // background
+        primary: Colors.red,
+        // color text
+        onPrimary: Colors.white
+        // shape: hình dáng, border
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.all(Radius.circular(0.4)),
+          side: BorderSide(..)
+        )
+      )
+    )
+    // icon
+    return ElevatedButton.icon(
+      // icon
+      icon: Icon(..),
+      // label
+      label: Text(""),
+      // on press
+      onPressed: () {},
+      // style
+      style: ElevatedButton.styleForm(..)
+    )
+    // style ElevatedButton, return ButtonStyle
+    return ElevatedButton.styleForm(
+      shape: RoundedRectangleBorder(..)
     )
   }
 }
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ MaterialButton: button material</p>**
+
+UI:
+
+<img src="/technical-react/img/materialbutton.png" alt="materialbutton" />
+
+Code:
+
+```javascript
+class MyButton extends StatesWidget {
+  return MaterialButton(
+    // shape: kiểu dáng border
+    shape: RoundedRectangleBorder(..),
+    // padding
+    padding: EdgeInsets.all(10),
+    // color: background
+    color: Colors.red,
+    // min width: double.infinity => 100%
+    minWidth: double.infinity,
+    // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
+    elevation: double
+    // on press
+    onPressed: () {}
+    // widget content
+    child: Text("Text")
+  )
+}
+```
 
 ### Snackbar: phản hồi ngắn, nằm dưới bottom, undo action
 
@@ -340,9 +437,31 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### RoundedRectangleBorder: border hình chữ nhật góc tròn
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ RoundedRectangleBorder: border hình chữ nhật góc tròn +++</p>**
+
+UI:
 
 <img src="/technical-react/img/roundedrectangleborder.png" alt="roundedrectangleborder" />
+
+Code:
+
+```javascript
+class MyButton extends StatelessWidget {
+  return MaterialButton(
+    // shape
+    shape: RoundedRectangleBorder(
+      // màu sắc, chiểu rồng, kiểu dáng border
+      side: BorderSide(
+        width: 10,
+        color: Color.blue,
+        style: BorderStyle.solid,
+      ),
+      // radius
+      borderRadius: BorderRadius.all(Radius.circular(40)),
+    )
+  )
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -358,7 +477,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">SafeArea: dùng phù hợp với thanh status bar</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ SafeArea: dùng phù hợp với thanh status bar +++</p>**
 
 UI:
 
@@ -393,7 +512,7 @@ class WelcomeScreen extends StatelessWidget {
 
 ## 2. UI Layout
 
-**<p style="color: #635cd1">Center: đặt widget con tại center</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Center: đặt widget con tại center +++</p>**
 
 UI:
 
@@ -419,7 +538,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Align: đặt widget con và điều chỉnh vị trí widget con</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Align: đặt widget con và điều chỉnh vị trí widget con +++</p>**
 
 UI:
 
@@ -427,7 +546,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Row: hiển thị các widget con trên 1 hàng</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Row: hiển thị các widget con trên 1 hàng +++</p>**
 
 UI:
 
@@ -478,7 +597,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Column: hiển thị các widget con trên 1 cột</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Column: hiển thị các widget con trên 1 cột +++</p>**
 
 UI:
 
@@ -486,7 +605,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng +++</p>**
 
 UI:
 
@@ -494,7 +613,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn +++</p>**
 
 UI:
 
@@ -502,7 +621,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin) +++</p>**
 
 UI:
 
@@ -510,11 +629,34 @@ UI:
 
 **EdgeInsets**: dựa trên tham số **_left, top, right, bottom_**
 
+```javascript
+class MyPage extends StatelessWidget {
+  return Padding(
+    // widget con with padding
+    child: Column(..)
+    // padding
+    padding: EdgeInsets.symmetric(
+      // chiều ngang
+      horizontal: 10.0,
+      // chiều dọc
+      vertical: 10.0,
+    )
+    // padding: left top right bottom
+    padding: EdgeInsets.fromLTRB(
+      10,
+      10,
+      10,
+      10,
+    )
+  )
+}
+```
+
 **EdgeInsetsDirectional**: dựa trên tham số **_start, top, end, bottom_**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Alignment: căn chỉnh ví trí của widget con bên trong parent</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Alignment: căn chỉnh ví trí của widget con bên trong parent +++</p>**
 
 UI:
 
@@ -522,7 +664,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Positioned: định vị trí widget con trong Stack</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Positioned: định vị trí widget con trong Stack +++</p>**
 
 UI:
 
@@ -530,7 +672,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column +++</p>**
 
 UI:
 
@@ -538,7 +680,7 @@ UI:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con +++</p>**
 
 UI:
 
@@ -560,7 +702,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Text: text</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Text: text +++</p>**
 
 ```javascript
 class MyText extends StatelessWidget {
@@ -577,6 +719,7 @@ class MyText extends StatelessWidget {
       style: TextStyle(
         fontSize: 10,
         fontWeight: FontWeight.bold,
+        color: Theme.of(context).textTheme.bodyText1!.color.withOpacity(0.5),
       )
     )
   }
@@ -585,7 +728,7 @@ class MyText extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1">Icon: icon</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Icon: icon +++</p>**
 
 ```javascript
 class MyIcon extends StatelessWidget {
@@ -610,7 +753,7 @@ class MyIcon extends StatelessWidget {
 
 <img src="https://s1.o7planning.com/vi/13151/images/64420896.gif" alt="route" />
 
-**<p style="color: #635cd1">Route Transition: Nagivation từ screen 1 tới screen 2</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Route Transition: Nagivation từ screen 1 tới screen 2 +++</p>**
 
 - Di chuyển screen
 
@@ -840,6 +983,7 @@ class MyIcon extends StatelessWidget {
 class Theme extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    // theme of text
     return Text(
       "Text",
       // textTheme: headline5 with copyWith style
@@ -847,6 +991,26 @@ class Theme extends StatelessWidget {
       // color
       style: TextStyle(
         color: Theme.of(context).textTheme.bodyText1.color.withOpacity(0.4)
+      )
+      // colorSchema
+      style: TextStyle(
+        color: Theme.of(context).colorSchema.secondary
+      )
+    )
+    // custom light theme
+    return ThemeData.light().copyWith(
+      textTheme: ...
+      // color schema
+      colorSchema: ColorSchema.light(
+        primary: Colors.blue,
+        seconday: Colors.yellow,
+        error: Color.red,
+      )
+    )
+    // Condition check light or dark
+    return Column(
+      Image.asset(
+        MediaQuery.of(context).platformBrighness == Brightness.light ? "light" : "dark"
       )
     )
   }
