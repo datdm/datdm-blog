@@ -5,132 +5,6 @@ Tài liệu coding Flutter.
 
 ## 1. UI Widget
 
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ MaterialApp: sử dụng Material Design +++</p>**
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      // title app
-      title: "title"
-      // hide/show banner debug
-      debugShowCheckedModeBanner: bool
-      // theme
-      theme: ThemeDate(
-        // theme primary
-        primarySwatch: Colors.blue,
-      )
-      // home
-      home: MyHomePage(...)
-      // initial route
-      initialRoute: "/home",
-      // routes
-      routes: <String, WidgetBuilder>{
-        "/home": (BuildContext context) => HomePage(),
-        "/details": (BuildContext context) => DetailsPage(),
-        "/about": (context) => AboutPage(),
-      },
-      // on init route
-      onGenerateRoute: (RouteSettings settings) {
-        switch (setting.name) {
-          case "/home":
-            return MaterialPageRoute(builder: (_) => HomePage())
-          case "/details":
-            return MaterialPageRoute(builder: (_) => DetailsPage(settings.id))
-          default:
-            return MaterialPageRoute(builder: (context) => HomePage())
-        }
-      }
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Scaffold: lắp đầy full màn hình +++</p>**
-
-UI:
-
-<img src="/technical-react/img/scaffold.png" alt="scaffold" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      // AppBar widget
-      appBar: AppBar(...)
-      // use AppBar custom
-      appBar: buildAppBar(..)
-      // Content
-      body: Center(...)
-      // button widget, default dưới góc phải
-      floatingActionButton: FloatingActionButton(...)
-    )
-
-    // Custom method
-    AppBar buildAppBar() {
-      return AppBar(..)
-    }
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ AppBar: header màn hình +++</p>**
-
-UI:
-
-<img src="/technical-react/img/appbar.png" alt="appbar" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return AppBar(
-      // title app bar
-      title: "title"
-      title: Align(
-        child: Text("title"),
-        alignment: Alignment.center
-      )
-      // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
-      elevation: double
-      // background:
-      backgroundColor: Colors.green,
-      // default: true
-      // nếu leading: null và automaticallyImplyLeading: true, drawer ở Scaffold có data thì hiển thị drawer đóng mở
-      // nếu leading: null và automaticallyImplyLeading: true, drawer ở AppBar: null thì hiển thị button back
-      // nếu automaticallyImplyLeading: false thì không hiển thị button back
-      automaticallyImplyLeading: bool
-      // leading: đặt trước title, thường là icon
-      leading: IconButton(...)
-      // actions: thêm các hành động trên app bar, thường icon
-      actions: <Widget>[
-        IconButton(...),
-        IconButton(...),
-        IconButton(...),
-      ]
-      // buttom của app bar chứa tabbar
-      bottom: TabBar(...)
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ SliverAppBar: app bar với thanh cuộn +++</p>**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### BottomAppBar: bottom màn hình
 
 <img src="/technical-react/img/bottomappbar.png" alt="bottomappbar" />
@@ -240,7 +114,33 @@ class MyHomePage extends StatelessWidget {
 
 ### CircleAvatar: widget vòng tròn chứa màu nền, hình nền, văn bản
 
+UI:
+
 <img src="/technical-react/img/circleavatar.png" alt="circleavatar" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return CircleAvatar(
+    // background image
+    backgroundImage: NetworkImage('https://'),
+    backgroundImage: AssetImage('assets/..'),
+    // background color avatar
+    backgroundColor: Colors.red,
+    // color default của text
+    foregroundColor: Colors.red,
+    // widget con avatar
+    child: Text(..),
+    // radius
+    radius: double,
+    // min radius
+    minRadius: double,
+    // max radius
+    maxRadius: double,
+  )
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -586,7 +486,7 @@ class MyHomePage extends StatelessWidget {
       // VerticalDirection.down (Default)
       // VerticalDirection.up
       textDirection: TextDirection
-      // đường cơ sơ
+      // đường cơ sở
       // TextBaseline.alphabetic (Default)
       // TextBaseline.ideographic
       textBaseline: TextBaseline
@@ -603,9 +503,49 @@ UI:
 
 <img src="/technical-react/img/column.png" alt="column" />
 
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Column(
+    // list child item column
+    children: [
+      Text("text")
+    ],
+    // sắp xếp vị trí widget con trên trục chính (nằm dọc)
+    // MainAxisAlignment.start (Default)
+    // MainAxisAlignment.center
+    // MainAxisAlignment.end
+    // MainAxisAlignment.spaceBetween
+    // MainAxisAlignment.spaceAround
+    // MainAxisAlignment.spaceEvenly
+    mainAxisAlignment: MainAxisAlignment
+    // sắp xếp vị trí widget con trên trục chéo (nằm ngang)
+    // CrossAxisAlignment.start
+    // CrossAxisAlignment.end
+    // CrossAxisAlignment.center (Default)
+    // CrossAxisAlignment.baseline
+    // CrossAxisAlignment.stretch
+    crossAxisAlignment: CrossAxisAlignment
+    // không gian chiếm giữ
+    // MainAxisSize.min
+    // MainAxisSize.max (Default)
+    mainAxisSize: MainAxisSize
+    // sắp xếp thứ tự
+    // VerticalDirection.down (Default)
+    // VerticalDirection.up
+    textDirection: TextDirection
+    // đường cơ sở
+    // TextBaseline.alphabetic (Default)
+    // TextBaseline.ideographic
+    textBaseline: TextBaseline
+  )
+}
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng +++</p>**
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng, thường dùng kiểu position with Positioned +++</p>**
 
 UI:
 
@@ -678,6 +618,19 @@ UI:
 
 <img src="/technical-react/img/expanded.png" alt="expanded" />
 
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Expanded(
+    // flex: tỉ lệ khoảng trống (Default = 1)
+    flex: int,
+    // widget con
+    child: Row(..)
+  )
+}
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 **<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con +++</p>**
@@ -715,6 +668,11 @@ class MyText extends StatelessWidget {
       textAlign: TextAlign.center,
       // textTheme: Theme.of(context).textTheme.
       style: Theme.of(context).textTheme.....
+      // max line trên 1 dòng
+      maxLines: int,
+      // xử lý text khi tràn dòng
+      // TextOverflow.ellipsis: hiển thị ...
+      overflow: TextOverflow.ellipsis,
       // textStyle
       style: TextStyle(
         fontSize: 10,
@@ -748,6 +706,70 @@ class MyIcon extends StatelessWidget {
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ ListView: list view +++</p>**
+
+```javascript
+class MyPage extends StatelessWidget {
+  // chứa item con và scroll
+  return ListView(
+    children: <Widget>[
+      ItemOne(),
+      ItemTwo(),
+      ItemThree(),
+    ]
+  )
+  // lặp lại số item con
+  return ListView.builder(
+    // tổng số item
+    itemCount: int,
+    // view từng item
+    itemBuilder: (BuildContext context, int index) {
+      return listItem(),
+    }
+  )
+}
+```
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Opacity: làm mờ +++</p>**
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Opacity(
+    // độ mờ
+    opacity: double,
+    // widget con
+    children: <Widget>[
+      ItemOne(),
+      ItemTwo(),
+      ItemThree(),
+    ]
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Widget animation
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ AnimatedOpacity: hiệu ứng làm mờ +++</p>**
+
+```javascript
+class MyPage extends StatelessWidget {
+  return AnimatedOpacity(
+    // thời gian
+    duration: Duration(hours: 1)
+    // độ mờ
+    opacity: double,
+    // widget con
+    children: <Widget>[
+      ItemOne(),
+      ItemTwo(),
+      ItemThree(),
+    ]
+  )
+}
+```
 
 ## 3. Navigation and Routing
 
@@ -1019,7 +1041,39 @@ class Theme extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 6. StatelessWidget
+## 6. Models
+
+```javascript
+// Tạo model
+class Data {
+  final String name, lastname, fullname, image;
+  final int age;
+  final bool male;
+
+  Data({
+    this.name = '',
+    this.lastname = '',
+    this.fullname = '',
+    this.image = '',
+    this.age = 0,
+    this.male = false,
+  })
+}
+
+// Cách dùng
+List datas = [
+  Data(
+    name: '',
+    lastname: '',
+    fullname: '',
+    image: '',
+    age: 0,
+    male: false,
+  )
+]
+```
+
+## 7. StatelessWidget
 
 ```javascript
 class MyHomePage extends StatelessWidget {

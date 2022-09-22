@@ -28,6 +28,7 @@ import {
   AndroidStudioIcon,
   ReactNavigationIcon,
   FlutterIcon,
+  UIUXIcon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 
@@ -221,6 +222,11 @@ export const sidebars = [
         label: "Flutter for Docx",
         icon: BookIcon,
         src: "flutter/docx.md",
+      },
+      {
+        label: "Flutter for UI Widget",
+        icon: UIUXIcon,
+        src: "flutter/ui-widget.md",
       },
       {
         label: "Flutter for React Native",

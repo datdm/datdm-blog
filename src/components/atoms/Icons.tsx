@@ -27,6 +27,7 @@ import { ReactComponent as AndroidStudioSvg } from "assets/icons/android-studio.
 import { ReactComponent as ReactNavigationSvg } from "assets/icons/react-navigation.svg";
 import { ReactComponent as FlutterSvg } from "assets/icons/flutter.svg";
 import { ReactComponent as DartSvg } from "assets/icons/dart.svg";
+import { ReactComponent as UIUXSvg } from "assets/icons/ui-ux.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -85,3 +86,5 @@ export const ReactNavigationIcon = (): JSX.Element => <ReactNavigationSvg />;
 export const FlutterIcon = (): JSX.Element => <FlutterSvg />;
 
 export const DartIcon = (): JSX.Element => <DartSvg />;
+
+export const UIUXIcon = (): JSX.Element => <UIUXSvg />;
