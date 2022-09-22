@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.7bac309a.js",
+    "main.js": "/technical-react/static/js/main.42bea332.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
-    "static/media/docx.md": "/technical-react/static/media/docx.f2ed45659d27d50e9ae2.md",
+    "static/media/docx.md": "/technical-react/static/media/docx.a64ea7eb770203123dce.md",
     "static/media/dart.md": "/technical-react/static/media/dart.5c4673efe1fc1066c82e.md",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
     "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.1ef216b254211e1fb03e.md",
@@ -12,8 +12,10 @@
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
     "static/media/sequelize.svg": "/technical-react/static/media/sequelize.a912c692db7c0166d288349e978bc8c6.svg",
     "static/media/book.svg": "/technical-react/static/media/book.d5820435ae6209ff74f5cf51b11580b0.svg",
+    "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.d1d137118395be750f3c.md",
     "static/media/react-navigation.md": "/technical-react/static/media/react-navigation.2463fc376045652e3495.md",
     "static/media/nodejs.svg": "/technical-react/static/media/nodejs.c020ede2136aa7e98cbad085fa84824f.svg",
+    "static/media/ui-ux.svg": "/technical-react/static/media/ui-ux.318eb36e3bcbdeed75e8e6be0f6f81e7.svg",
     "static/media/react-i18next.svg": "/technical-react/static/media/react-i18next.287787cb3ec983aa54c864d7cd7bbf44.svg",
     "static/media/dart.svg": "/technical-react/static/media/dart.2aa987b019247eae73f8947d69ef24ef.svg",
     "static/media/react-redux.svg": "/technical-react/static/media/react-redux.ba144cf0568ea6cf055c1032d27afc8a.svg",
@@ -45,11 +47,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.7bac309a.js.map": "/technical-react/static/js/main.7bac309a.js.map",
+    "main.42bea332.js.map": "/technical-react/static/js/main.42bea332.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.7bac309a.js"
+    "static/js/main.42bea332.js"
   ]
 }
