@@ -384,6 +384,8 @@ _A widget can define:_
   ```javascript
   // resource local
   Image.asset("assets/my-icon.png", height: 150);
+  AssetImage("assets/my-icon.png");
   // resource network
   Image.network("https://image.png");
+  NetworkImage("https://image.png"),
   ```
