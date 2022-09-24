@@ -5,411 +5,6 @@ Tài liệu coding Flutter.
 
 ## 1. UI Widget
 
-### BottomAppBar: bottom màn hình
-
-<img src="/technical-react/img/bottomappbar.png" alt="bottomappbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### TabBar: tab bar
-
-<img src="/technical-react/img/tabbar.png" alt="tabbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Banner: thông điệp chéo hiển thị trên bề mặt
-
-<img src="/technical-react/img/banner.png" alt="banner" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Splash Screen: màn hình đầu tiên khi khởi động ứng dụng
-
-<img src="https://s1.o7planning.com/vi/13143/images/64421067.gif" alt="splashscreen">
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### BottomNavigationBar: thanh điều hướng ở bottom
-
-<img src="/technical-react/img/bottomnavigationbar.png" alt="bottomnavigationbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### FancyBottomNavigation: thanh điều hướng ở bottom
-
-<img src="/technical-react/img/fancybottomnavigation.png" alt="fancybottomnavigation" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### CircularProgressIndicator: tiến trình dạng hình tròn
-
-<img src="/technical-react/img/circularprogressindicator.png" alt="circularprogressindicator" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### LinearProgressIndicator: tiến trình dạng nằm ngang
-
-<img src="/technical-react/img/linearprogressindicator.png" alt="linearprogressindicator" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Container: hộp chứa các widget con và có thuộc tính: padding, margin,...
-
-UI:
-
-<img src="/technical-react/img/container.png" alt="container" />
-
-Code:
-
-```javascript
-class MyPage extends StatelessWidget {
-  return Container(
-    // color: background
-    color: Color.red,
-    // padding
-    padding: EdgeInsets.all(1.0),
-    // margin
-    margin: EdgeInsets.all(1.0),
-    // widget con
-    child: Column(..),
-  )
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### SizedBox: hộp trong suốt, set kích thước cụ thể như width, height, size, child
-
-<img src="/technical-react/img/sizedbox.png" alt="sizedbox" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### RototedBox: xoay widget theo 1/4 vòng tròn(90 độ or -90 độ)
-
-<img src="/technical-react/img/rotatedbox.png" alt="rotatedbox" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ FittedBox: scale và vị trí widget con phù hợp trong nó +++</p>**
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return FittedBox(
-      // widget
-      children: TextButton(..)
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Card: widget tạo hình nhật với border tròn 4 góc
-
-<img src="/technical-react/img/card.png" alt="card" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### CircleAvatar: widget vòng tròn chứa màu nền, hình nền, văn bản
-
-UI:
-
-<img src="/technical-react/img/circleavatar.png" alt="circleavatar" />
-
-Code:
-
-```javascript
-class MyPage extends StatelessWidget {
-  return CircleAvatar(
-    // background image
-    backgroundImage: NetworkImage('https://'),
-    backgroundImage: AssetImage('assets/..'),
-    // background color avatar
-    backgroundColor: Colors.red,
-    // color default của text
-    foregroundColor: Colors.red,
-    // widget con avatar
-    child: Text(..),
-    // radius
-    radius: double,
-    // min radius
-    minRadius: double,
-    // max radius
-    maxRadius: double,
-  )
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ IconButton: button với icon +++</p>**
-
-UI:
-
-<img src="https://s1.o7planning.com/vi/12859/images/64405877.gif" alt="iconbutton" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return IconButton(
-      // icon
-      icon: Icon(Icons.directions_bike)
-      // icon with image
-      icon: Image.network("")
-      // icon with text
-      icon: Text("")
-      // icon size, double
-      iconSize: 0.3
-      // on press
-      onPressed: () {}
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ (Removed) FlatButton: button phẳng, độ nhô bằng 0, icon, text,... +++</p>**
-
-<img src="/technical-react/img/flatbutton.png" alt="flatbutton" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ TextButton: button with text, độ nhô bằng 0 +++</p>**
-
-UI:
-
-<img src="/technical-react/img/textbutton.png" alt="textbutton" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    //
-    return TextButton(
-      // widget con
-      child: Text("Text"),
-      // on press
-      onPressed: () {}
-      // style
-      style: ButtonStyle(..)
-      style: TextButton.styleForm(
-        shape: RoundedRectangleBorder(..)
-      )
-    )
-    // return ButtonStyle
-    return TextButton.styleForm(
-      shape: RoundedRectangleBorder(..)
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ ElevatedButton: button với độ nhô lớn hơn 0 +++</p>**
-
-UI:
-
-<img src="/technical-react/img/elevatedbutton.png" alt="elevatedbutton" />
-
-Code:
-
-```javascript
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    //
-    return ElevatedButton(
-      // widget con
-      child: Text("")
-      // on press
-      onPressed: () {}
-      // on long press
-      onLongPress: () {}
-      // style
-      style: ElevatedButton.styleForm( // return ButtonStyle
-        // background
-        primary: Colors.red,
-        // color text
-        onPrimary: Colors.white
-        // shape: hình dáng, border
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.all(Radius.circular(0.4)),
-          side: BorderSide(..)
-        )
-      )
-    )
-    // icon
-    return ElevatedButton.icon(
-      // icon
-      icon: Icon(..),
-      // label
-      label: Text(""),
-      // on press
-      onPressed: () {},
-      // style
-      style: ElevatedButton.styleForm(..)
-    )
-    // style ElevatedButton, return ButtonStyle
-    return ElevatedButton.styleForm(
-      shape: RoundedRectangleBorder(..)
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ MaterialButton: button material</p>**
-
-UI:
-
-<img src="/technical-react/img/materialbutton.png" alt="materialbutton" />
-
-Code:
-
-```javascript
-class MyButton extends StatesWidget {
-  return MaterialButton(
-    // shape: kiểu dáng border
-    shape: RoundedRectangleBorder(..),
-    // padding
-    padding: EdgeInsets.all(10),
-    // color: background
-    color: Colors.red,
-    // min width: double.infinity => 100%
-    minWidth: double.infinity,
-    // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
-    elevation: double
-    // on press
-    onPressed: () {}
-    // widget content
-    child: Text("Text")
-  )
-}
-```
-
-### Snackbar: phản hồi ngắn, nằm dưới bottom, undo action
-
-<img src="/technical-react/img/snackbar.png" alt="snackbar" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Tween:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### SimpleDialog: dialog đơn giản bao gồm tiêu đề, danh sách lựa chọn
-
-<img src="/technical-react/img/simpledialog.png" alt="simpledialog" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### AlertDialog: hộp thoại thông báo xác nhận
-
-<img src="/technical-react/img/alertdialog.png" alt="alertdialog" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### ShapeBorder: shape border
-
-<img src="/technical-react/img/shapeborder.png" alt="shapeborder" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Border: border gồm top, bottom, left, right
-
-<img src="/technical-react/img/border.png" alt="border" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### ContinuousRectangleBorder: border hình chữ nhật với chuyển tiếp liên tục giữa cạnh và góc
-
-<img src="/technical-react/img/continuousrectangleborder.png" alt="continuousrectangleborder" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ RoundedRectangleBorder: border hình chữ nhật góc tròn +++</p>**
-
-UI:
-
-<img src="/technical-react/img/roundedrectangleborder.png" alt="roundedrectangleborder" />
-
-Code:
-
-```javascript
-class MyButton extends StatelessWidget {
-  return MaterialButton(
-    // shape
-    shape: RoundedRectangleBorder(
-      // màu sắc, chiểu rồng, kiểu dáng border
-      side: BorderSide(
-        width: 10,
-        color: Color.blue,
-        style: BorderStyle.solid,
-      ),
-      // radius
-      borderRadius: BorderRadius.all(Radius.circular(40)),
-    )
-  )
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### CircleBorder: border hình tròn lớn nhất
-
-<img src="/technical-react/img/circleborder.png" alt="circleborder" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### StatiumBorder: border hình sân vận động
-
-<img src="/technical-react/img/stadiumborder.png" alt="stadiumborder" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ SafeArea: dùng phù hợp với thanh status bar +++</p>**
-
-UI:
-
-<img src="/technical-react/img/safearea.png" alt="safearea" />
-
-Code:
-
-```javascript
-class WelcomeScreen extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        // widget con
-        child: Column(...)
-        // Tránh system padding của màn hình
-        top: bool,
-        bottom: bool,
-        left: bool,
-        right: bool,
-        // Padding nhỏ nhất áp dụng
-        minimum: const EdgeInsets.all(16.0)
-        // Viewpadding or padding cuar ViewInsets (Default: false)
-        maintainBottomViewPadding: bool
-      )
-    )
-  }
-}
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 2. UI Layout
 
 **<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ Center: đặt widget con tại center +++</p>**
@@ -551,6 +146,26 @@ UI:
 
 <img src="/technical-react/img/stack.png" alt="stack" />
 
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Stack(
+    children: <Widget>[
+      Container(..)
+      Container(..)
+      Container(..)
+      // Set vị trí child trong stack
+      Positioned(
+        top: 0,
+        left: 0,
+        child: Container(..)
+      )
+    ]
+  )
+}
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 **<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn +++</p>**
@@ -609,6 +224,34 @@ UI:
 UI:
 
 <img src="/technical-react/img/positioned.png" alt="positioned" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Stack(
+    children: <Widget>[
+      // Set vị trí child trong stack
+      Positioned(
+        // left
+        left: double,
+        // top
+        top: double,
+        // right
+        right: double,
+        // bottom
+        bottom: double,
+        // width
+        width: double,
+        // height
+        height: double,
+        // widget con
+        child: Container(..)
+      )
+    ]
+  )
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -699,7 +342,6 @@ class MyIcon extends StatelessWidget {
       size: 16,
       // color
       color: Theme.of(context).textTheme.bodyText1.color,
-      )
     )
   }
 }
@@ -770,6 +412,89 @@ class MyPage extends StatelessWidget {
   )
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ InkWell: hiệu ứng gợn sóng dạng hình chủ nhật +++</p>**
+
+UI:
+
+<img src="/technical-react/img/inkwell.png" alt="inkwell" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return InkWell(
+    // on tap screen
+    onTap: () {},
+    // widget con
+    child: Container(..),
+    // color nháy lần đầu click
+    splashColor: Colors.red,
+    // color highlight giữ tap
+    highlightColor: Colors.red,
+    // highlight border
+    borderRadius: BorderRadius.circular(20),
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ InkResponse: hiệu ứng gợn sóng dạng hình tròn +++</p>**
+
+UI:
+
+<img src="/technical-react/img/inkresponse.png" alt="inkresponse" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return InkResponse(
+    // on tap screen
+    onTap: () {},
+    // widget con
+    child: Container(..),
+    // color nháy lần đầu click
+    splashColor: Colors.red,
+    // color highlight giữ tap
+    highlightColor: Colors.red,
+    // highlight border
+    borderRadius: BorderRadius.circular(20),
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+**<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ InkImage: hiệu ứng gợn sóng image +++</p>**
+
+UI:
+
+<img src="/technical-react/img/inkimage.png" alt="inkimage" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return InkImage(
+    // fit image
+    fit: BoxFix.cover,
+    // height
+    height: double,
+    // width
+    width: double,
+    // image
+    image: NetworkImage(""),
+    // widget con
+    child: InkWell(..)
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 3. Navigation and Routing
 
