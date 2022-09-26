@@ -120,6 +120,8 @@ class MyHomePage extends StatelessWidget {
         // background color
         backgroundColor: Colors.red,
       )
+      // bottom navigation bar
+      bottomNavigationBar: BottomNavigationBar(..)
     )
 
     // Custom method
@@ -233,8 +235,32 @@ UI:
 
 <img src="/technical-react/img/bottomnavigationbar.png" alt="bottomnavigationbar" />
 
-```javascript
+Code:
 
+```javascript
+class MyPage extends StatelessWidget {
+  return BottomNavigationBar(
+    // bố trị bố cục (default: BottomNavigationBarType.fixed)
+    type: BottomNavigationBarType.shifting,
+    // vị trí hiện tại trong list
+    currentIndex: int,
+    // list item hiển thị
+    items: [
+      BottomNavigationBarItem(
+        // label
+        label: string,
+        // icon
+        icon: Icon(Icons.contacts)
+      )
+    ],
+    // background color
+    backgroundColor: Colors.red,
+    // fixed color
+    fixedColor: Colors.red,
+    // on tap click item
+    onTap: (value) {}
+  )
+}
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -784,6 +810,395 @@ class WelcomeScreen extends StatelessWidget {
       )
     )
   }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 35. Center: đặt widget con tại center
+
+<a name="center"></a>
+
+UI:
+
+<img src="/technical-react/img/center.png" alt="center" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      // widget con trong Center
+      child: Row(...)
+      // width của Center, double, default maximum
+      widthFactor: 2.0
+      // height của Center, double, default maximum
+      heightFactor: 2.0
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 36. Align: đặt widget con và điều chỉnh vị trí widget con
+
+UI:
+
+<img src="/technical-react/img/align.png" alt="align" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 37. Row: hiển thị các widget con trên 1 hàng
+
+UI:
+
+<img src="/technical-react/img/row.png" alt="row" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      // list child item row
+      children: [
+        Text("text")
+      ],
+      // sắp xếp vị trí widget con trên trục chính (nằm ngang)
+      // MainAxisAlignment.start (Default)
+      // MainAxisAlignment.center
+      // MainAxisAlignment.end
+      // MainAxisAlignment.spaceBetween
+      // MainAxisAlignment.spaceAround
+      // MainAxisAlignment.spaceEvenly
+      mainAxisAlignment: MainAxisAlignment
+      // không gian chiếm giữ
+      // MainAxisSize.min
+      // MainAxisSize.max (Default)
+      mainAxisSize: MainAxisSize
+      // sắp xếp vị trí widget con trên trục chéo (nằm dọc)
+      // CrossAxisAlignment.start
+      // CrossAxisAlignment.end
+      // CrossAxisAlignment.center (Default)
+      // CrossAxisAlignment.baseline
+      // CrossAxisAlignment.stretch
+      crossAxisAlignment: CrossAxisAlignment
+      // sắp xếp thứ tự
+      // VerticalDirection.down (Default)
+      // VerticalDirection.up
+      textDirection: TextDirection
+      // đường cơ sở
+      // TextBaseline.alphabetic (Default)
+      // TextBaseline.ideographic
+      textBaseline: TextBaseline
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 38. Column: hiển thị các widget con trên 1 cột
+
+UI:
+
+<img src="/technical-react/img/column.png" alt="column" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Column(
+    // list child item column
+    children: [
+      Text("text")
+    ],
+    // sắp xếp vị trí widget con trên trục chính (nằm dọc)
+    // MainAxisAlignment.start (Default)
+    // MainAxisAlignment.center
+    // MainAxisAlignment.end
+    // MainAxisAlignment.spaceBetween
+    // MainAxisAlignment.spaceAround
+    // MainAxisAlignment.spaceEvenly
+    mainAxisAlignment: MainAxisAlignment
+    // sắp xếp vị trí widget con trên trục chéo (nằm ngang)
+    // CrossAxisAlignment.start
+    // CrossAxisAlignment.end
+    // CrossAxisAlignment.center (Default)
+    // CrossAxisAlignment.baseline
+    // CrossAxisAlignment.stretch
+    crossAxisAlignment: CrossAxisAlignment
+    // không gian chiếm giữ
+    // MainAxisSize.min
+    // MainAxisSize.max (Default)
+    mainAxisSize: MainAxisSize
+    // sắp xếp thứ tự
+    // VerticalDirection.down (Default)
+    // VerticalDirection.up
+    textDirection: TextDirection
+    // đường cơ sở
+    // TextBaseline.alphabetic (Default)
+    // TextBaseline.ideographic
+    textBaseline: TextBaseline
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 39. Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng, thường dùng kiểu position with Positioned
+
+UI:
+
+<img src="/technical-react/img/stack.png" alt="stack" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Stack(
+    children: <Widget>[
+      Container(..)
+      Container(..)
+      Container(..)
+      // Set vị trí child trong stack
+      Positioned(
+        top: 0,
+        left: 0,
+        child: Container(..)
+      )
+    ]
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 40. IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn
+
+UI:
+
+<img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 41. EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)
+
+UI:
+
+<img src="/technical-react/img/edgeinsetsgeometry.png" alt="edgeinsetsgeometry" />
+
+**EdgeInsets**: dựa trên tham số **_left, top, right, bottom_**
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Padding(
+    // widget con with padding
+    child: Column(..)
+    // padding
+    padding: EdgeInsets.symmetric(
+      // chiều ngang
+      horizontal: 10.0,
+      // chiều dọc
+      vertical: 10.0,
+    )
+    // padding: left top right bottom
+    padding: EdgeInsets.fromLTRB(
+      10,
+      10,
+      10,
+      10,
+    )
+  )
+}
+```
+
+**EdgeInsetsDirectional**: dựa trên tham số **_start, top, end, bottom_**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 42. Alignment: căn chỉnh ví trí của widget con bên trong parent
+
+UI:
+
+<img src="/technical-react/img/alignment.png" alt="alignment" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 43. Positioned: định vị trí widget con trong Stack
+
+UI:
+
+<img src="/technical-react/img/positioned.png" alt="positioned" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Stack(
+    children: <Widget>[
+      // Set vị trí child trong stack
+      Positioned(
+        // left
+        left: double,
+        // top
+        top: double,
+        // right
+        right: double,
+        // bottom
+        bottom: double,
+        // width
+        width: double,
+        // height
+        height: double,
+        // widget con
+        child: Container(..)
+      )
+    ]
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 44. Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column
+
+UI:
+
+<img src="/technical-react/img/expanded.png" alt="expanded" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Expanded(
+    // flex: tỉ lệ khoảng trống (Default = 1)
+    flex: int,
+    // widget con
+    child: Row(..)
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 45. Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con
+
+UI:
+
+<img src="/technical-react/img/spacer.png" alt="spacer" />
+
+Code:
+
+```javascript
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Spacer(
+      // flex: tỉ lệ khoảng trống (Default = 1)
+      flex: int
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 46. Text: text
+
+```javascript
+class MyText extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      // Content
+      "Text",
+      // align
+      textAlign: TextAlign.center,
+      // textTheme: Theme.of(context).textTheme.
+      style: Theme.of(context).textTheme.....
+      // max line trên 1 dòng
+      maxLines: int,
+      // xử lý text khi tràn dòng
+      // TextOverflow.ellipsis: hiển thị ...
+      overflow: TextOverflow.ellipsis,
+      // textStyle
+      style: TextStyle(
+        fontSize: 10,
+        fontWeight: FontWeight.bold,
+        color: Theme.of(context).textTheme.bodyText1!.color.withOpacity(0.5),
+      )
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 47. Icon: icon
+
+```javascript
+class MyIcon extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Icon(
+      // Get icon from Icons
+      Icons.directions_bike,
+      // size
+      size: 16,
+      // color
+      color: Theme.of(context).textTheme.bodyText1.color,
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 48. ListView: list view
+
+```javascript
+class MyPage extends StatelessWidget {
+  // chứa item con và scroll
+  return ListView(
+    children: <Widget>[
+      ItemOne(),
+      ItemTwo(),
+      ItemThree(),
+    ]
+  )
+  // lặp lại số item con
+  return ListView.builder(
+    // tổng số item
+    itemCount: int,
+    // view từng item
+    itemBuilder: (BuildContext context, int index) {
+      return listItem(),
+    }
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 49. Opacity: làm mờ
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Opacity(
+    // độ mờ
+    opacity: double,
+    // widget con
+    children: <Widget>[
+      ItemOne(),
+      ItemTwo(),
+      ItemThree(),
+    ]
+  )
 }
 ```
 
