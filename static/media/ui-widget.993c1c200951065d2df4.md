@@ -6,7 +6,7 @@ Flutter for UI Widget
 <ol>
   <li><a href="#materialapp">MaterialApp</a></li>
   <li><a href="#scaffold">Scaffold</a></li>
-  <li><a href="#appBar">AppBar</a></li>
+  <li><a href="#appbar">AppBar</a></li>
   <li><a href="#sliverappbar">SliverAppBar</a></li>
   <li><a href="#bottomappbar">BottomAppBar</a></li>
   <li><a href="#tabbar">TabBar</a></li>
@@ -38,6 +38,21 @@ Flutter for UI Widget
   <li><a href="#circleborder">CircleBorder</a></li>
   <li><a href="#stadiumborder">StatiumBorder</a></li>
   <li><a href="#safearea">SafeArea</a></li>
+  <li><a href="#center">Center</a></li>
+  <li><a href="#align">Align</a></li>
+  <li><a href="#row">Row</a></li>
+  <li><a href="#column">Column</a></li>
+  <li><a href="#stack">Stack</a></li>
+  <li><a href="#indexedstack">IndexedStack</a></li>
+  <li><a href="#edgeinsetsgeometry">EdgeInsetsGeometry</a></li>
+  <li><a href="#alignment">Alignment</a></li>
+  <li><a href="#positioned">Positioned</a></li>
+  <li><a href="#expanded">Expanded</a></li>
+  <li><a href="#spacer">Spacer</a></li>
+  <li><a href="#text">Text</a></li>
+  <li><a href="#icon">Icon</a></li>
+  <li><a href="#listview">ListView</a></li>
+  <li><a href="#opacity">Opacity</a></li>
 </ol>
 
 ## 1. MaterialApp: sử dụng Material Design
@@ -241,6 +256,8 @@ Code:
 class MyPage extends StatelessWidget {
   return BottomNavigationBar(
     // bố trị bố cục (default: BottomNavigationBarType.fixed)
+    // BottomNavigationBarType.fixed: hiển thị label và icon
+    // BottomNavigationBarType.shifting: hiển thị icon
     type: BottomNavigationBarType.shifting,
     // vị trí hiện tại trong list
     currentIndex: int,
@@ -255,8 +272,16 @@ class MyPage extends StatelessWidget {
     ],
     // background color
     backgroundColor: Colors.red,
-    // fixed color
+    // color fixed, if fixedColor then selectedItemColor = null
     fixedColor: Colors.red,
+    // color selected item, if selectedItemColor then fixedColor = null
+    selectedItemColor: Colors.red,
+    // color unselected item
+    unselectedItemColor: Colors.red,
+    // color selected theme
+    selectedIconTheme: IconThemeData(
+
+    )
     // on tap click item
     onTap: (value) {}
   )
@@ -436,7 +461,7 @@ class MyPage extends StatelessWidget {
     foregroundColor: Colors.red,
     // widget con avatar
     child: Text(..),
-    // radius
+    // độ bo tròn radius
     radius: double,
     // min radius
     minRadius: double,
@@ -471,6 +496,8 @@ class MyHomePage extends StatelessWidget {
       icon: Text("")
       // icon size, double
       iconSize: 0.3
+      // padding
+      padding: EdgeInsets.all(0),
       // on press
       onPressed: () {}
     )
@@ -845,6 +872,8 @@ class MyHomePage extends StatelessWidget {
 
 ## 36. Align: đặt widget con và điều chỉnh vị trí widget con
 
+<a name="align"></a>
+
 UI:
 
 <img src="/technical-react/img/align.png" alt="align" />
@@ -852,6 +881,8 @@ UI:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 37. Row: hiển thị các widget con trên 1 hàng
+
+<a name="row"></a>
 
 UI:
 
@@ -904,6 +935,8 @@ class MyHomePage extends StatelessWidget {
 
 ## 38. Column: hiển thị các widget con trên 1 cột
 
+<a name="column"></a>
+
 UI:
 
 <img src="/technical-react/img/column.png" alt="column" />
@@ -952,6 +985,8 @@ class MyPage extends StatelessWidget {
 
 ## 39. Stack: hiển thị các widget chồng lên nhau, widget đầu sẽ dưới cùng, thường dùng kiểu position with Positioned
 
+<a name="stack"></a>
+
 UI:
 
 <img src="/technical-react/img/stack.png" alt="stack" />
@@ -980,6 +1015,8 @@ class MyPage extends StatelessWidget {
 
 ## 40. IndexedStack: lớp con của Stack, tại một thời điểm thị 1 widget con, widget khác sẽ ẩn đi, index: null sẽ ẩn
 
+<a name="indexedstack"></a>
+
 UI:
 
 <img src="/technical-react/img/indexedstack.png" alt="indexedstack" />
@@ -987,6 +1024,8 @@ UI:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 41. EdgeInsetsGeometry: tạo inner padding (padding) và outer padding (margin)
+
+<a name="edgeinsetsgeometry"></a>
 
 UI:
 
@@ -1023,6 +1062,8 @@ class MyPage extends StatelessWidget {
 
 ## 42. Alignment: căn chỉnh ví trí của widget con bên trong parent
 
+<a name="alignment"></a>
+
 UI:
 
 <img src="/technical-react/img/alignment.png" alt="alignment" />
@@ -1030,6 +1071,8 @@ UI:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 43. Positioned: định vị trí widget con trong Stack
+
+<a name="positioned"></a>
 
 UI:
 
@@ -1067,6 +1110,8 @@ class MyPage extends StatelessWidget {
 
 ## 44. Expanded: widget tạo khoảng trống cho 1 widget con của Row hoặc Column
 
+<a name="expanded"></a>
+
 UI:
 
 <img src="/technical-react/img/expanded.png" alt="expanded" />
@@ -1087,6 +1132,8 @@ class MyPage extends StatelessWidget {
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 45. Spacer: tạo khoảng trống, các thể điều chỉnh giữa các widget con
+
+<a name="spacer"></a>
 
 UI:
 
@@ -1110,6 +1157,8 @@ class MyHomePage extends StatelessWidget {
 
 ## 46. Text: text
 
+<a name="text"></a>
+
 ```javascript
 class MyText extends StatelessWidget {
   @override
@@ -1132,6 +1181,12 @@ class MyText extends StatelessWidget {
         fontWeight: FontWeight.bold,
         color: Theme.of(context).textTheme.bodyText1!.color.withOpacity(0.5),
       )
+      // textTheme: headline5 with copyWith style
+      style: Theme.of(context).textTheme.headline5.copyWith(fontWeight: FontWeight.bold, color: Color)
+      // color
+      style: TextStyle(
+        color: Theme.of(context).textTheme.bodyText1.color.withOpacity(0.4)
+      )
     )
   }
 }
@@ -1140,6 +1195,8 @@ class MyText extends StatelessWidget {
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 47. Icon: icon
+
+<a name="icon"></a>
 
 ```javascript
 class MyIcon extends StatelessWidget {
@@ -1160,6 +1217,8 @@ class MyIcon extends StatelessWidget {
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 48. ListView: list view
+
+<a name="listview"></a>
 
 ```javascript
 class MyPage extends StatelessWidget {
@@ -1186,6 +1245,8 @@ class MyPage extends StatelessWidget {
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 49. Opacity: làm mờ
+
+<a name="opacity"></a>
 
 ```javascript
 class MyPage extends StatelessWidget {
