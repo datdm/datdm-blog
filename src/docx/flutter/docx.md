@@ -368,6 +368,13 @@ class Theme extends StatelessWidget {
         seconday: Colors.yellow,
         error: Color.red,
       )
+      // icon theme
+      iconTheme: IconThemeData(
+        // color
+        color: Colors.red,
+      )
+      // selected icon theme
+      selectedIconTheme: IconThemeData(...)
     )
     // Condition check light or dark
     return Column(
