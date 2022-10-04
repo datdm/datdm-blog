@@ -349,6 +349,15 @@ class MyPage extends StatelessWidget {
       shape: BoxShape.circle,
       // border
       border: Border.all(color: Colors.red),
+      // box shadow
+      boxShadow: List<BoxShadow>[
+        BoxShadow(
+          // độ mờ
+          blurRadius: int,
+          // offset độ mờ x, y
+          offset: Offset(x, y),
+        )
+      ]
     )
   )
 }
@@ -1037,20 +1046,27 @@ UI:
 class MyPage extends StatelessWidget {
   return Padding(
     // widget con with padding
-    child: Column(..)
+    child: Column(..),
     // padding
     padding: EdgeInsets.symmetric(
       // chiều ngang
       horizontal: 10.0,
       // chiều dọc
       vertical: 10.0,
-    )
+    ),
     // padding: left top right bottom
     padding: EdgeInsets.fromLTRB(
       10,
       10,
       10,
       10,
+    ),
+    // margin
+    margin: EdgeInsets.only(
+      top: 10,
+      bottom: 10,
+      right: 10,
+      left: 10,
     )
   )
 }
@@ -1083,6 +1099,11 @@ Code:
 ```javascript
 class MyPage extends StatelessWidget {
   return Stack(
+    // căn chỉnh widget con không phải Positioned
+    alignment: Alignment.center,
+    // xác định nội dung bị cắt hay không
+    clipBehavior: Clip.none,
+    // children
     children: <Widget>[
       // Set vị trí child trong stack
       Positioned(
@@ -1259,6 +1280,41 @@ class MyPage extends StatelessWidget {
       ItemTwo(),
       ItemThree(),
     ]
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 50. TextField: input text
+
+<a name="textfield"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return TextField(
+    // trang trí text field
+    decoration: InputDecoration(
+      // icon
+      icon: Icon(Icons.print),
+      // hint text
+      hintText: string,
+      // hint style
+      hintStyle: TextStyle(..)
+      // border
+      border: OutlineInputBorder(..),
+      // prefix icon
+      prefixIcon: Icon(Icons.print),
+      // prefix common
+      prefix: CircularProgressIndicator(),
+      // helper text
+      helperText: string,
+    ),
+    // remove underline text
+    decoration: null,
+    decoration: InputDecoration.collapse(
+      hintText: ""
+    ),
   )
 }
 ```
