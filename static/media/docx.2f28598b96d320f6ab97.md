@@ -34,7 +34,7 @@ class MyPage extends StatelessWidget {
 
 UI:
 
-<img src="/technical-react/img/inkwell.png" alt="inkwell" />
+<img src="/technical-react/img/inkwell.gif" alt="inkwell" />
 
 Code:
 
@@ -61,7 +61,7 @@ class MyPage extends StatelessWidget {
 
 UI:
 
-<img src="/technical-react/img/inkresponse.png" alt="inkresponse" />
+<img src="/technical-react/img/inkresponse.gif" alt="inkresponse" />
 
 Code:
 
@@ -88,7 +88,7 @@ class MyPage extends StatelessWidget {
 
 UI:
 
-<img src="/technical-react/img/inkimage.png" alt="inkimage" />
+<img src="/technical-react/img/inkimage.gif" alt="inkimage" />
 
 Code:
 
@@ -133,7 +133,9 @@ class MyPage extends StatelessWidget {
 
       `Navigator.of(context).pop(route_name)`: Back về page dựa trên route
 
-    - `Navigator.pop(context, route_name, params)`: Back param trở về
+    - `Navigator.pop(context)`: Back về route trước
+
+      `Navigator.pop(context, route_name, params)`: Back param trở về
 
       `Navigator.pop(context, route_name, params)`: Back param trở về
 
@@ -420,6 +422,8 @@ List datas = [
 ]
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 7. StatelessWidget
 
 ```javascript
@@ -434,6 +438,8 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 8. StatefulWidget
 
@@ -467,3 +473,22 @@ class _ChatScreenState extends State<MyScreen> {
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 9. MediaQuery
+
+```javascript
+class MediaQuery extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      // how to use
+      MediaQuery.of(context)...
+      // size width, height
+      MediaQuery.of(context).size.width
+      MediaQuery.of(context).size.height
+      // mode light dart
+      MediaQuery.of(context).platformBrighness == Brightness.light
+    )
+  }
+}
+```
