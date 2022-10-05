@@ -1005,6 +1005,11 @@ Code:
 ```javascript
 class MyPage extends StatelessWidget {
   return Stack(
+    // căn chỉnh widget con không phải Positioned
+    alignment: Alignment.center,
+    // xác định nội dung bị cắt hay không
+    clipBehavior: Clip.none,
+    // chidren
     children: <Widget>[
       Container(..)
       Container(..)
@@ -1315,6 +1320,42 @@ class MyPage extends StatelessWidget {
     decoration: InputDecoration.collapse(
       hintText: ""
     ),
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 51. AspectRatio: tỉ lệ khung hình
+
+<a name="aspectratio"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return AspectRatio(
+    // tỉ lệ
+    aspectRatio: 3/4,
+    // widget con
+    child: Container(..)
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 52. ClipRRect: hình chữ nhật bo tròn
+
+<a name="cliprrect"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return ClipRRect(
+    // border radius
+    borderRadius: BorderRadius.circular(8),
+    // kiểu dáng bo tròn
+    clipBehavior: Clip.hardEdge,
+    // widget con
+    child: Image.asset(""),
   )
 }
 ```
