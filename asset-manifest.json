@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.368a1dbb.js",
+    "main.js": "/technical-react/static/js/main.690c410a.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
-    "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.fb3de2e7de82114370ce.md",
+    "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.641241c4c7003f92d11f.md",
     "static/media/docx.md": "/technical-react/static/media/docx.2f28598b96d320f6ab97.md",
     "static/media/dart.md": "/technical-react/static/media/dart.5c4673efe1fc1066c82e.md",
     "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.44dab3600f1c9dfb5646.md",
@@ -43,15 +43,16 @@
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/vue.svg": "/technical-react/static/media/vue.278ee4cc1145ccea5153692ba258cddf.svg",
     "static/media/axios.svg": "/technical-react/static/media/axios.7a3a93ab855a57d0c352736e3237c3b8.svg",
+    "static/media/firebase.md": "/technical-react/static/media/firebase.bb4b1efb0eee90b393ac.md",
     "static/media/react-router-dom.md": "/technical-react/static/media/react-router-dom.80319093c1a1df5546bd.md",
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.368a1dbb.js.map": "/technical-react/static/js/main.368a1dbb.js.map",
+    "main.690c410a.js.map": "/technical-react/static/js/main.690c410a.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.368a1dbb.js"
+    "static/js/main.690c410a.js"
   ]
 }
