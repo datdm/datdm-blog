@@ -233,6 +233,11 @@ export const sidebars = [
         icon: ReactNativeIcon,
         src: "flutter/flutter-for-react-native.md",
       },
+      {
+        label: "Firebase",
+        icon: FirebaseIcon,
+        src: "flutter/firebase.md",
+      },
     ],
   },
 ];
