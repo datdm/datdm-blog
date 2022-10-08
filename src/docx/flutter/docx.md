@@ -492,3 +492,22 @@ class MediaQuery extends StatelessWidget {
   }
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 10. Docx
+
+- Install new package
+
+  ```bash
+  flutter pub add <new_package_name>
+  ```
+
+- Khởi tạo widget ràng buộc
+  ```javascript
+  void main() async {
+    WidgetsFlutterBinding.ensureInitialized();
+  }
+  ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
