@@ -53,6 +53,10 @@ Flutter for UI Widget
   <li><a href="#icon">Icon</a></li>
   <li><a href="#listview">ListView</a></li>
   <li><a href="#opacity">Opacity</a></li>
+  <li><a href="#textfield">TextField</a></li>
+  <li><a href="#aspectratio">AspectRatio</a></li>
+  <li><a href="#cliprrect">ClipRRect</a></li>
+  <li><a href="#singlechildscrollview">SingleChildScrollView</a></li>
 </ol>
 
 ## 1. MaterialApp: sử dụng Material Design
@@ -1356,6 +1360,28 @@ class MyPage extends StatelessWidget {
     clipBehavior: Clip.hardEdge,
     // widget con
     child: Image.asset(""),
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 53. SingleChildScrollView: Scroll element
+
+<a name="singlechildscrollview"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return SingleChildScrollView(
+    // scroll dọc hay ngang
+    // Axis.horizontal
+    // Axis.vertical
+    scrollDirection: Axis.horizontal,
+    // widget con
+    children: <Widget>[
+      Container(..),
+      Container(..),
+    ],
   )
 }
 ```
