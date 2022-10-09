@@ -478,6 +478,58 @@ class _ChatScreenState extends State<MyScreen> {
 
 ## 8. Form
 
+```javascript
+class MyForm extends StatefulWidget {
+  // cung cấp GlobalKey
+  final formKey = GlobalKey<FormState>();
+
+  @override
+  Widget build(BuildContext context) {
+    return Form(
+      // key form
+      key: formKey,
+      // widget con
+      child: Column(
+        // text field
+        TextFormField(
+          // secure text, same password
+          obscureText: bool,
+          // trang trí text field
+          decoration: InputDecoration(
+            // label text
+            labelText: string,
+            // label style
+            labelStyle: TextStyle(..),
+            // border focus
+            focusedBorder: OutlineInputBorder(
+              borderSide: BorderSide(width: 15.0, color: Colors.red)
+            ),
+            // border enable
+            enabledBorder: OutlineInputBorder(..),
+            // border error
+            errorBorder: OutlineInputBorder(..),
+          ),
+          // on change input
+          onChanged: (val) {},
+          // validator
+          validator: (val) {
+            return null;
+            return "Message error";
+          },
+        )
+      )
+    )
+  }
+
+  void submitForm() {
+    // submit form
+    if (formKey.currentState!.validate()) {
+
+    }
+  }
+}
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 9. MediaQuery
