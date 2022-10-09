@@ -1218,6 +1218,50 @@ class MyText extends StatelessWidget {
         color: Theme.of(context).textTheme.bodyText1.color.withOpacity(0.4)
       )
     )
+    // text rich: text nhiều style khác nhau
+    Text.rich(
+      // TextSpan
+      TextSpan(
+        // text
+        text: string,
+        // text style
+        style: TextStyle(..),
+        // children text
+        children: <TextSpan>[
+          TextSpan(..),
+          TextSpan(..),
+        ],
+        // on tap
+        recognizer: TapGestureRecognizer()..onTap = () {}
+      )
+    )
+  }
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 46.1. RichText: text với nhiều style khác nhau
+
+<a name="richtext"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return RichText(
+        // text
+        text: string,
+        // text style
+        style: TextStyle(..),
+        // children text
+        children: <TextSpan>[
+          TextSpan(..),
+          TextSpan(..),
+        ],
+        // on tap
+        recognizer: TapGestureRecognizer()..onTap = () {}
+    )
   }
 }
 ```
@@ -1312,9 +1356,9 @@ class MyPage extends StatelessWidget {
       hintStyle: TextStyle(..)
       // border
       border: OutlineInputBorder(..),
-      // prefix icon
+      // prefix icon, hiển thị trong input
       prefixIcon: Icon(Icons.print),
-      // prefix common
+      // prefix common, hiển thị trong input
       prefix: CircularProgressIndicator(),
       // helper text
       helperText: string,
