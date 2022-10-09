@@ -3,11 +3,7 @@
 <a name="readme-top"></a>
 Tài liệu coding Flutter.
 
-## 1. UI Widget
-
-## 2. UI Layout
-
-## Widget animation
+## 1. UI Animation
 
 **<p style="color: #635cd1; font-size: 20px; border-bottom: 1px solid #635cd1; padding-bottom: 4px;">+++ AnimatedOpacity: hiệu ứng làm mờ +++</p>**
 
@@ -111,7 +107,7 @@ class MyPage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 3. Navigation and Routing
+## 2. Navigation and Routing
 
 <img src="https://s1.o7planning.com/vi/13151/images/64420896.gif" alt="route" />
 
@@ -326,7 +322,7 @@ class MyPage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 4. Structure
+## 3. Structure
 
     start_flutter
     ├── anddroid             Config file android
@@ -341,7 +337,7 @@ class MyPage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 5. Theme
+## 4. Theme
 
 ```javascript
 class Theme extends StatelessWidget {
@@ -390,7 +386,7 @@ class Theme extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 6. Models
+## 5. Models
 
 ```javascript
 // Tạo model
@@ -424,7 +420,7 @@ List datas = [
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 7. StatelessWidget
+## 6. StatelessWidget
 
 ```javascript
 class MyHomePage extends StatelessWidget {
@@ -441,7 +437,7 @@ class MyHomePage extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 8. StatefulWidget
+## 7. StatefulWidget
 
 ```javascript
 class MyScreen extends StatefulWidget {
@@ -457,6 +453,12 @@ class _ChatScreenState extends State<MyScreen> {
   // state
   int _selectedIndex = 1;
 
+  // init state
+  @override
+  void initState() {
+    super.initState();
+  }
+
   // override
   @override
   Widget build(BuildContext context) {
@@ -471,6 +473,10 @@ class _ChatScreenState extends State<MyScreen> {
   }
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 8. Form
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -504,10 +510,30 @@ class MediaQuery extends StatelessWidget {
   ```
 
 - Khởi tạo widget ràng buộc
+
   ```javascript
   void main() async {
     WidgetsFlutterBinding.ensureInitialized();
   }
+  ```
+
+- Async await
+
+  ```javascript
+  Future<String> _getIp() {
+    final url = Uri.https('example.dat', 'ip');
+    return http.get(url).then((res) {
+      String ip = jsonDecode(res.body)['origin'];
+      return ip;
+    })
+  }
+
+  Future<String> ex = Example();
+  ex._getIp()
+    .then((res) => print(res))
+    .catchError((err) => print(err));
+
+  const ip = await ex._getIp()
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

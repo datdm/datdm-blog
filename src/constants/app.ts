@@ -29,6 +29,7 @@ import {
   ReactNavigationIcon,
   FlutterIcon,
   UIUXIcon,
+  LibraryIcon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 
@@ -237,6 +238,11 @@ export const sidebars = [
         label: "Firebase",
         icon: FirebaseIcon,
         src: "flutter/firebase.md",
+      },
+      {
+        label: "Packages pub",
+        icon: LibraryIcon,
+        src: "flutter/packages.md",
       },
     ],
   },

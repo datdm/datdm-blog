@@ -28,6 +28,7 @@ import { ReactComponent as ReactNavigationSvg } from "assets/icons/react-navigat
 import { ReactComponent as FlutterSvg } from "assets/icons/flutter.svg";
 import { ReactComponent as DartSvg } from "assets/icons/dart.svg";
 import { ReactComponent as UIUXSvg } from "assets/icons/ui-ux.svg";
+import { ReactComponent as LibrarySvg } from "assets/icons/library.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -88,3 +89,5 @@ export const FlutterIcon = (): JSX.Element => <FlutterSvg />;
 export const DartIcon = (): JSX.Element => <DartSvg />;
 
 export const UIUXIcon = (): JSX.Element => <UIUXSvg />;
+
+export const LibraryIcon = (): JSX.Element => <LibrarySvg />;
