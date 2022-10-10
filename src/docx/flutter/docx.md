@@ -444,6 +444,9 @@ class MyScreen extends StatefulWidget {
   // Contructor
   const MyScreen({Key? key}) : super(key: key);
 
+  //
+  final bool isScreen = false;
+
   // Create state
   @override
   State<MyScreen> createState() => _ChatScreenState();
@@ -465,6 +468,10 @@ class _ChatScreenState extends State<MyScreen> {
     return Scaffold(..
       // setState
       onTap: () {
+        // get widget
+        print(widget.isScreen);
+
+        // set state
         setState(() {
           _selectedIndex = 2;
         })
@@ -479,9 +486,12 @@ class _ChatScreenState extends State<MyScreen> {
 ## 8. Form
 
 ```javascript
-class MyForm extends StatefulWidget {
+class _MyFormScreenState extends State<MyForm> {
   // cung cấp GlobalKey
   final formKey = GlobalKey<FormState>();
+
+  // value
+  String name = "";
 
   @override
   Widget build(BuildContext context) {
@@ -498,6 +508,8 @@ class MyForm extends StatefulWidget {
           decoration: InputDecoration(
             // label text
             labelText: string,
+            // label style focused
+            floatingLabelStyle: TextStyle(..),
             // label style
             labelStyle: TextStyle(..),
             // border focus
@@ -508,9 +520,14 @@ class MyForm extends StatefulWidget {
             enabledBorder: OutlineInputBorder(..),
             // border error
             errorBorder: OutlineInputBorder(..),
+            // border focus error
+            focusedErrorBorder: OutlineInputBorder(..),
           ),
           // on change input
-          onChanged: (val) {},
+          onChanged: (val) {
+            setState(() {
+              name: val;
+            });},
           // validator
           validator: (val) {
             return null;

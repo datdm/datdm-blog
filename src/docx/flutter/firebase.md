@@ -183,3 +183,29 @@ Config Firebase in Flutter.
     runApp(const MyApp());
   }
   ```
+
+### Firebase Auth
+
+- File `lib/services/auth_services.dart`
+
+  ```javascript
+  // instance
+  FirebaseAuth auth = FirebaseAuth.instance;
+
+  // UserCredential with createUserWithEmailAndPassword
+  UserCredential userCredential = await auth.createUserWithEmailAndPassword(
+    email: email,
+    password: password,
+  );
+
+  // User
+  User? user = userCredential.user;
+  ```
+
+### Cloud Firestore
+
+- File `lib/services/database_services.dart`
+
+  ```javascript
+
+  ```

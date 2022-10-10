@@ -247,7 +247,7 @@ Tài liệu coding Dart.
 
     throw new Exception_Custom()
   } on {
-  } on catch (e) {
+  } on Exception catch (e) {
   } catch (e) {
 
     // Msg custom
