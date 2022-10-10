@@ -141,6 +141,8 @@ class MyHomePage extends StatelessWidget {
       )
       // bottom navigation bar
       bottomNavigationBar: BottomNavigationBar(..)
+      // resize tránh bottom
+      resizeToAvoidBottomInset: bool,
     )
 
     // Custom method
@@ -311,6 +313,20 @@ UI:
 UI:
 
 <img src="/technical-react/img/circularprogressindicator.png" alt="circularprogressindicator" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return CircularProgressIndicator(
+      // color
+      color: Colors.red,
+    );
+  }
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -588,6 +604,8 @@ class MyHomePage extends StatelessWidget {
       onLongPress: () {}
       // style
       style: ElevatedButton.styleForm( // return ButtonStyle
+        // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
+        elevation: double,
         // background
         primary: Colors.red,
         // color text
