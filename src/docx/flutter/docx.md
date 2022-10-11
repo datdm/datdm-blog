@@ -147,6 +147,10 @@ class MyPage extends StatelessWidget {
 
       `Navigator.push(context, MaterialPageRoute(builder: (context) => { return Page1("param") }))`: Go to page 1 with param
 
+    - `Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Page1()))`: Replace route to page 1
+
+    - `Navigator.of(context).pushAndRemoveUntil(builder: (context) => Page1(), (route) => false)`: Go to page 1 và xóa tất cả route cũ
+
 - Create đối tượng Route
 
   ```javascript
@@ -502,6 +506,8 @@ class _MyFormScreenState extends State<MyForm> {
       child: Column(
         // text field
         TextFormField(
+          // initial value
+          initialValue: string,
           // secure text, same password
           obscureText: bool,
           // trang trí text field
@@ -526,8 +532,9 @@ class _MyFormScreenState extends State<MyForm> {
           // on change input
           onChanged: (val) {
             setState(() {
-              name: val;
-            });},
+              name = val;
+            });
+          },
           // validator
           validator: (val) {
             return null;
@@ -570,7 +577,26 @@ class MediaQuery extends StatelessWidget {
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 10. Docx
+## 10. Function
+
+- `showDialog`
+
+  ```javascript
+  showDialog(
+    // context
+    context: context,
+    // builder render dialog
+    builder: (context) {
+      return AlertDialog(
+        ..
+      )
+    }
+  )
+  ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 11. Docx
 
 - Install new package
 

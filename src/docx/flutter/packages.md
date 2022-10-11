@@ -15,7 +15,7 @@ Packages pub.
 final prefs = await SharedPreferences.getInstance();
 
 // Lưu dữ liệu
-await prefs.setInt('counter', 10);
+final Future<bool> isBool = await prefs.setInt('counter', 10);
 
 // Đọc dữ liệu
 final int? counter = prefs.getInt('counter');
