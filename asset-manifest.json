@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.f95bfd4a.js",
+    "main.js": "/technical-react/static/js/main.c28f2f41.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
+    "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.819512d6a57e52c37d32.md",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
-    "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.535c48750f7bb6adfaf3.md",
-    "static/media/docx.md": "/technical-react/static/media/docx.03ec37ab2666c8e8cddd.md",
+    "static/media/docx.md": "/technical-react/static/media/docx.56af368c9c14a6ccb736.md",
     "static/media/dart.md": "/technical-react/static/media/dart.c639be8c3749698df543.md",
     "static/media/flutter-for-react-native.md": "/technical-react/static/media/flutter-for-react-native.44dab3600f1c9dfb5646.md",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
-    "static/media/firebase.md": "/technical-react/static/media/firebase.ad8495bb0fb259b68ddb.md",
+    "static/media/firebase.md": "/technical-react/static/media/firebase.2678399abc4733c3b197.md",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
     "static/media/sequelize.svg": "/technical-react/static/media/sequelize.a912c692db7c0166d288349e978bc8c6.svg",
@@ -40,7 +40,7 @@
     "index.html": "/technical-react/index.html",
     "static/media/angular.svg": "/technical-react/static/media/angular.ed3d19b8164892a40b42d4cac923ede8.svg",
     "static/media/passport.svg": "/technical-react/static/media/passport.f69c1beb0b0992568eda297458a2d5bf.svg",
-    "static/media/packages.md": "/technical-react/static/media/packages.6d24a6114c76b07d0450.md",
+    "static/media/packages.md": "/technical-react/static/media/packages.dae8ed3daf390ce3eb3b.md",
     "static/media/css.svg": "/technical-react/static/media/css.7290b4159f117e1bc43df4e62e229992.svg",
     "static/media/react-native.svg": "/technical-react/static/media/react-native.b655633871f1e51db838d341f96d98b7.svg",
     "static/media/react.svg": "/technical-react/static/media/react.b655633871f1e51db838d341f96d98b7.svg",
@@ -50,11 +50,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.f95bfd4a.js.map": "/technical-react/static/js/main.f95bfd4a.js.map",
+    "main.c28f2f41.js.map": "/technical-react/static/js/main.c28f2f41.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.f95bfd4a.js"
+    "static/js/main.c28f2f41.js"
   ]
 }

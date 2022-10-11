@@ -190,16 +190,27 @@ Config Firebase in Flutter.
 
   ```javascript
   // instance
-  FirebaseAuth auth = FirebaseAuth.instance;
+  FirebaseAuth firebaseAuth = FirebaseAuth.instance;
 
   // UserCredential with createUserWithEmailAndPassword
-  UserCredential userCredential = await auth.createUserWithEmailAndPassword(
+  UserCredential userCredential = await firebaseAuth.createUserWithEmailAndPassword(
+    email: email,
+    password: password,
+  );
+  // UserCredential with signInWithEmailAndPassword
+  UserCredential userCredential = await firebaseAuth.signInWithEmailAndPassword(
     email: email,
     password: password,
   );
 
+  // get current user
+  User user = FirebaseAuth.instance.currentUser;
+
   // User
   User? user = userCredential.user;
+
+  // sign out
+  await firebaseAuth.signOut();
   ```
 
 ### Cloud Firestore
@@ -207,5 +218,26 @@ Config Firebase in Flutter.
 - File `lib/services/database_services.dart`
 
   ```javascript
+  // instance
+  FirebaseFirestore instanceFirestore = FirebaseFirestore.instance;
 
+  // collection
+  CollectionReference userCollection = instanceFirestore.collection("users");
+  CollectionReference groupCollection = instanceFirestore.collection("groups");
+
+  // document
+  DocumentReference doc = userCollection.doc(uid);
+
+  // set data to document
+  await userCollection.doc(id).set({
+    "params": "",
+    "uid": uid,
+  });
+
+  // query: where
+  Query query = userCollection.where("field", isEqualTo: field);
+  // get snapshot
+  QuerySnapshot snapshot = await query.get();
+  // return value của snapshot
+  String fullname = snapshot.docs[0]["fullname"];
   ```

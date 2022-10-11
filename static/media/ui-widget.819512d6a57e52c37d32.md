@@ -143,6 +143,11 @@ class MyHomePage extends StatelessWidget {
       bottomNavigationBar: BottomNavigationBar(..)
       // resize tránh bottom
       resizeToAvoidBottomInset: bool,
+      // drawer: list drawer hiển thị
+      drawer: Drawer(
+        // widget con
+        child: ListView(...),
+      ),
     )
 
     // Custom method
@@ -176,6 +181,8 @@ class MyHomePage extends StatelessWidget {
         child: Text("title"),
         alignment: Alignment.center
       )
+      // center title
+      centerTitle: bool,
       // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
       elevation: double
       // background:
@@ -704,6 +711,24 @@ UI:
 UI:
 
 <img src="/technical-react/img/alertdialog.png" alt="alertdialog" />
+
+Code:
+
+```javascript
+class MyPage extends StatelessWidget {
+  return AlertDialog(
+    // title
+    title: Text(..),
+    // content text
+    content: Text(..),
+    // actions icons
+    actions: [
+      IconButton(..),
+      IconButton(..),
+    ]
+  )
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -1449,3 +1474,41 @@ class MyPage extends StatelessWidget {
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 54. Divider: thanh ngang
+
+<a name="divider"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return Divider(
+    // height
+    height: double,
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 55. ListTile: 1 row với chiều cao cố định với icon đầu và cuối
+
+<a name="listtile"></a>
+
+```javascript
+class MyPage extends StatelessWidget {
+  return ListTile(
+    // title
+    title: Text(..),
+    // widget đứng trước title
+    leading: Icon(..),
+    // on tap
+    onTap: () {},
+    // selected color
+    selectedColor: Colors.red,
+    // If true then se color icon same title
+    selected: bool,
+    // padding content
+    contentPadding: EdgeInsets.symmetric(..),
+  )
+}
+```
