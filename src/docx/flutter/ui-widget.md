@@ -1512,3 +1512,46 @@ class MyPage extends StatelessWidget {
   )
 }
 ```
+
+## 55. Stream: luồng data bất đồng bộ, xử lý dữ liệu đâu vào đầu ra
+
+<a name="stream"></a>
+
+- Có 2 loại stream
+  - Single - Subscription Steam: lắng nghe dữ liệu 1 lần
+  - Broadcast Streams:
+
+```javascript
+class MyPage extends StatelessWidget {
+  // Khai báo Stream
+  Stream<int> name_stream = Stream<int>.stream_methods
+
+  // Truy vấn stream
+  // await for
+  await for (int i in name_stream) {
+    print(i);
+  }
+  // listen
+  stream.listen((x) {
+    print(x);
+  })
+
+  return StreamBuilder(
+    // init data
+    initialData: 0,
+    // data stream
+    stream: name_stream,
+    // ui
+    builder: (BuildContext context, AsyncSnapshot<int> snapshot) {
+      // if có data
+      snapshot.hasData
+      // if có error
+      snapshot.hasError
+      // data
+      snapshot.data
+
+      return Text(..),
+    },
+  )
+}
+```

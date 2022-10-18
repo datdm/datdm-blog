@@ -234,6 +234,9 @@ Config Firebase in Flutter.
     "uid": uid,
   });
 
+  // get data snapshot
+  var doc = userCollection.doc(id).snapshots();
+
   // query: where
   Query query = userCollection.where("field", isEqualTo: field);
   // get snapshot
