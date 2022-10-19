@@ -205,6 +205,8 @@ Config Firebase in Flutter.
 
   // get current user
   User user = FirebaseAuth.instance.currentUser;
+  // get uid
+  String uid = FirebaseAuth.instance.currentUser!.uid;
 
   // User
   User? user = userCredential.user;
@@ -228,11 +230,14 @@ Config Firebase in Flutter.
   // document
   DocumentReference doc = userCollection.doc(uid);
 
-  // set data to document
+  // set data to document, create or override
   await userCollection.doc(id).set({
     "params": "",
     "uid": uid,
   });
+
+  // get data snapshot
+  var doc = userCollection.doc(id).snapshots();
 
   // query: where
   Query query = userCollection.where("field", isEqualTo: field);
