@@ -583,20 +583,96 @@ class MediaQuery extends StatelessWidget {
 
   ```javascript
   showDialog(
+    // chặn click outsite
+    barrierDismissible: bool,
     // context
     context: context,
     // builder render dialog
     builder: (context) {
       return AlertDialog(
         ..
+        // cancel dialog
+        Navigator.of(context).pop();
       )
     }
   )
   ```
 
+- `showSnackBar`
+
+  ```javascript
+  ScaffoldMessenger.of(context).showSnackBar(
+    SnackBar(
+      // content
+      content: Text(..),
+      // background color
+      backgroundColor: Colors.red,
+      // duration: khoảng thời gian ẩn
+      duration: Duration(seconds: 2),
+      // action
+      action: SnackBarAction(
+        // label
+        label: string,
+        // on press
+        onPressed: () {},
+        // text color
+        textColor: Colors.white,
+      )
+    )
+  )
+  ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 11. Docx
+## 11. Gesture
+
+- Cử chỉ tương tác với thiết bị di động như vuốt, chạm, lắc,...
+- Ex:
+
+  - Tap: chạm
+  - Double Tap: chạm 2 lần
+  - Drag: Chạm và di chuyển và thả ra
+  - Flick: Giống drag nhưng nhanh hơn
+  - Pinch: Chạm bằng 2 ngón tay
+  - Spread/Zoom: Ngược lại Pinch
+  - Panning
+
+- Tap
+  - _onTapDown_
+  - _onTapUp_
+  - _onTap_
+  - _onTapCancel_
+- Double Tap
+  - _onDoubleTap_
+- Long Press
+  - _onLongPress_
+- Vertical Drag
+  - _onVerticalDragStart_
+  - _onVerticalDragUpdate_
+  - _onVerticalDragEnd_
+- Horizontal Drag
+  - _onHorizontalDragStart_
+  - _onHorizontalDragUpdate_
+  - _onHorizontalDragEnd_
+- Pan
+  - _onPanStart_
+  - _onPanUpdate_
+  - _onPanEnd_
+
+```javascript
+class MyPage extends StatelessWidget {
+  return GestureDetector(
+    // on tap
+    onTap: () {},
+    // child
+    child: Text("Text"),
+  )
+}
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 12. Docx
 
 - Install new package
 

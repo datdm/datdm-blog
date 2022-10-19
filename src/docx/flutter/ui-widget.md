@@ -573,12 +573,12 @@ class MyHomePage extends StatelessWidget {
       onPressed: () {}
       // style
       style: ButtonStyle(..)
-      style: TextButton.styleForm(
+      style: TextButton.styleFrom(
         shape: RoundedRectangleBorder(..)
       )
     )
     // return ButtonStyle
-    return TextButton.styleForm(
+    return TextButton.styleFrom(
       shape: RoundedRectangleBorder(..)
     )
   }
@@ -610,7 +610,7 @@ class MyHomePage extends StatelessWidget {
       // on long press
       onLongPress: () {}
       // style
-      style: ElevatedButton.styleForm( // return ButtonStyle
+      style: ElevatedButton.styleFrom( // return ButtonStyle
         // set height của thanh ứng dụng và shadow. 0 sẽ remove shadow
         elevation: double,
         // background
@@ -633,10 +633,10 @@ class MyHomePage extends StatelessWidget {
       // on press
       onPressed: () {},
       // style
-      style: ElevatedButton.styleForm(..)
+      style: ElevatedButton.styleFrom(..)
     )
     // style ElevatedButton, return ButtonStyle
-    return ElevatedButton.styleForm(
+    return ElevatedButton.styleFrom(
       shape: RoundedRectangleBorder(..)
     )
   }
@@ -1349,6 +1349,9 @@ class MyPage extends StatelessWidget {
   )
   // lặp lại số item con
   return ListView.builder(
+    // Value: false => kích thước scroll parent
+    // Value: true => kích thước scroll child
+    shrinkWrap: bool,
     // tổng số item
     itemCount: int,
     // view từng item
@@ -1519,7 +1522,7 @@ class MyPage extends StatelessWidget {
 
 - Có 2 loại stream
   - Single - Subscription Steam: lắng nghe dữ liệu 1 lần
-  - Broadcast Streams:
+  - Broadcast Streams: lắng nghe dữ liệu nhiều chổ
 
 ```javascript
 class MyPage extends StatelessWidget {
@@ -1549,6 +1552,8 @@ class MyPage extends StatelessWidget {
       snapshot.hasError
       // data
       snapshot.data
+      // get field
+      snapshot.data['field'] != null
 
       return Text(..),
     },
