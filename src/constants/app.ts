@@ -244,6 +244,11 @@ export const sidebars = [
         icon: LibraryIcon,
         src: "flutter/packages.md",
       },
+      {
+        label: "State: Provider",
+        icon: FlutterIcon,
+        src: "flutter/provider.md",
+      },
     ],
   },
 ];

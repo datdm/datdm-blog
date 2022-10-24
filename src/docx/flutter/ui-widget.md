@@ -1529,6 +1529,15 @@ class MyPage extends StatelessWidget {
   // Khai báo Stream
   Stream<int> name_stream = Stream<int>.stream_methods
 
+  // stream methods
+  // Stream định kì lặp lại same interval
+  Stream<int> valueStream = Stream<init>.periodic(
+    Duration(seconds: 1),
+    (x) => x
+  )
+  // Get 10 lần
+  valueStream.take(10);
+
   // Truy vấn stream
   // await for
   await for (int i in name_stream) {
