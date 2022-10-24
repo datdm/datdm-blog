@@ -30,6 +30,7 @@ import {
   FlutterIcon,
   UIUXIcon,
   LibraryIcon,
+  SQLiteIcon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 
@@ -248,6 +249,11 @@ export const sidebars = [
         label: "State: Provider",
         icon: FlutterIcon,
         src: "flutter/provider.md",
+      },
+      {
+        label: "SQLite",
+        icon: SQLiteIcon,
+        src: "flutter/sqlite.md",
       },
     ],
   },
