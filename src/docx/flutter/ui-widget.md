@@ -57,6 +57,9 @@ Flutter for UI Widget
   <li><a href="#aspectratio">AspectRatio</a></li>
   <li><a href="#cliprrect">ClipRRect</a></li>
   <li><a href="#singlechildscrollview">SingleChildScrollView</a></li>
+  <li><a href="#divider">Divider</a></li>
+  <li><a href="#listtile">ListTile</a></li>
+  <li><a href="#stream">Stream</a></li>
 </ol>
 
 ## 1. MaterialApp: sử dụng Material Design
@@ -1516,7 +1519,7 @@ class MyPage extends StatelessWidget {
 }
 ```
 
-## 55. Stream: luồng data bất đồng bộ, xử lý dữ liệu đâu vào đầu ra
+## 56. Stream: luồng data bất đồng bộ, xử lý dữ liệu đâu vào đầu ra
 
 <a name="stream"></a>
 
