@@ -31,6 +31,7 @@ import {
   UIUXIcon,
   LibraryIcon,
   SQLiteIcon,
+  SDKIcon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 
@@ -254,6 +255,11 @@ export const sidebars = [
         label: "SQLite",
         icon: SQLiteIcon,
         src: "flutter/sqlite.md",
+      },
+      {
+        label: "SDK Custom",
+        icon: SDKIcon,
+        src: "flutter/sdk.md",
       },
     ],
   },

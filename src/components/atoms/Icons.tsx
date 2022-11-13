@@ -30,6 +30,7 @@ import { ReactComponent as DartSvg } from "assets/icons/dart.svg";
 import { ReactComponent as UIUXSvg } from "assets/icons/ui-ux.svg";
 import { ReactComponent as LibrarySvg } from "assets/icons/library.svg";
 import { ReactComponent as SQLiteSvg } from "assets/icons/sqlite.svg";
+import { ReactComponent as SDKSvg } from "assets/icons/sdk.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -94,3 +95,5 @@ export const UIUXIcon = (): JSX.Element => <UIUXSvg />;
 export const LibraryIcon = (): JSX.Element => <LibrarySvg />;
 
 export const SQLiteIcon = (): JSX.Element => <SQLiteSvg />;
+
+export const SDKIcon = (): JSX.Element => <SDKSvg />;
