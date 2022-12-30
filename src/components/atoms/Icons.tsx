@@ -31,6 +31,8 @@ import { ReactComponent as UIUXSvg } from "assets/icons/ui-ux.svg";
 import { ReactComponent as LibrarySvg } from "assets/icons/library.svg";
 import { ReactComponent as SQLiteSvg } from "assets/icons/sqlite.svg";
 import { ReactComponent as SDKSvg } from "assets/icons/sdk.svg";
+import { ReactComponent as KotlinSvg } from "assets/icons/kotlin.svg";
+import { ReactComponent as AWSSvg } from "assets/icons/aws.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -97,3 +99,7 @@ export const LibraryIcon = (): JSX.Element => <LibrarySvg />;
 export const SQLiteIcon = (): JSX.Element => <SQLiteSvg />;
 
 export const SDKIcon = (): JSX.Element => <SDKSvg />;
+
+export const KotlinIcon = (): JSX.Element => <KotlinSvg />;
+
+export const AWSIcon = (): JSX.Element => <AWSSvg />;

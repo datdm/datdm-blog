@@ -32,6 +32,8 @@ import {
   LibraryIcon,
   SQLiteIcon,
   SDKIcon,
+  KotlinIcon,
+  AWSIcon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 
@@ -262,5 +264,15 @@ export const sidebars = [
         src: "flutter/sdk.md",
       },
     ],
+  },
+  {
+    label: "KOTLIN",
+    icon: KotlinIcon,
+    childs: [],
+  },
+  {
+    label: "AWS",
+    icon: AWSIcon,
+    childs: [],
   },
 ];
