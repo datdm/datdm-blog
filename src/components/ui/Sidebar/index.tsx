@@ -37,7 +37,7 @@ const Sidebar = () => {
         }}
         onClick={handleClickHome}
       >
-        Technicals
+        datdm Blogs
       </Toolbar>
       <Box sx={{ overflow: "auto" }}>
         <List dense sx={{ margin: "0 20px" }}>
