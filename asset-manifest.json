@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.4ec6340b.js",
+    "main.js": "/technical-react/static/js/main.d3fd7f42.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/ui-widget.md": "/technical-react/static/media/ui-widget.54ec8f40aab0695df442.md",
     "static/media/react-navigation.svg": "/technical-react/static/media/react-navigation.25e746d50445ac18834b157ca72cc3d2.svg",
@@ -57,11 +57,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.4ec6340b.js.map": "/technical-react/static/js/main.4ec6340b.js.map",
+    "main.d3fd7f42.js.map": "/technical-react/static/js/main.d3fd7f42.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.4ec6340b.js"
+    "static/js/main.d3fd7f42.js"
   ]
 }
