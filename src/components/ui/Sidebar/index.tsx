@@ -2,12 +2,15 @@ import { Drawer, List, Toolbar } from "@mui/material";
 import { Box } from "@mui/system";
 import { sidebars } from "constants/app";
 import { useCallback } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { setSrcSelected } from "store/app";
 import SubSidebar from "./SubSidebar";
+import { sources } from "constants/source";
+import { Store } from "store";
 
 const Sidebar = () => {
   const dispatch = useDispatch();
+  const { srcSelected } = useSelector((state: Store) => state.app);
 
   const handleClickHome = useCallback(() => {
     dispatch(setSrcSelected(""));
@@ -16,7 +19,7 @@ const Sidebar = () => {
 
   return (
     <Drawer
-      variant="permanent"
+      variant={srcSelected === sources.JLPT_N5 ? "temporary" : "permanent"}
       sx={{
         width: 400,
         flexShrink: 0,

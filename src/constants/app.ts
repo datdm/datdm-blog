@@ -34,8 +34,11 @@ import {
   SDKIcon,
   KotlinIcon,
   AWSIcon,
+  JLPTIcon,
+  N5Icon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
+import { sources } from "./source";
 
 export const sidebars = [
   {
@@ -274,5 +277,16 @@ export const sidebars = [
     label: "AWS",
     icon: AWSIcon,
     childs: [],
+  },
+  {
+    label: "JLPT",
+    icon: JLPTIcon,
+    childs: [
+      {
+        label: "N5",
+        icon: N5Icon,
+        src: sources.JLPT_N5,
+      },
+    ],
   },
 ];
