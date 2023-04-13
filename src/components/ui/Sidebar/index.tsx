@@ -5,7 +5,6 @@ import { useCallback } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setSrcSelected } from "store/app";
 import SubSidebar from "./SubSidebar";
-import { sources } from "constants/source";
 import { Store } from "store";
 
 const Sidebar = () => {
@@ -19,7 +18,7 @@ const Sidebar = () => {
 
   return (
     <Drawer
-      variant={srcSelected === sources.JLPT_N5 ? "temporary" : "permanent"}
+      variant={srcSelected !== "" ? "temporary" : "permanent"}
       sx={{
         width: 400,
         flexShrink: 0,
