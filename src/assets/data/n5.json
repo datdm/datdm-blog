@@ -3,72 +3,350 @@
     {
       "word": "私はダットです。",
       "reading": "わたしはダットです。",
+      "vietnamese": "Tôi là Đạt.",
       "number": 1
     },
     {
       "word": "サントスさんは学生じゃありません。",
       "reading": "サントスさんはがくせいじゃありません。",
+      "vietnamese": "Santo không phải là học sinh.",
       "number": 1
     },
     {
       "word": "ダットさんは学生ではありません。",
       "reading": "ダットさんはがくせいではありません。",
+      "vietnamese": "Đạt không phải là học sinh.",
       "number": 1
     },
     {
       "word": "ミラーさんはアメリカ人ですか。➞はい、アメリカ人です。",
       "reading": "ミラーさんはアメリカじんですか。➞はい、アメリカじんです。",
+      "vietnamese": "Mira là người Mỹ phải không? ➞Đúng. Là người Mỹ.",
       "number": 1
     },
     {
       "word": "ミラーさんは先生ですか。➞いいえ、先生じゃありません。",
       "reading": "ミラーさんはせんせいですか。➞いいえ、せんせいじゃありません。",
+      "vietnamese": "Mira là giáo viên phải không? ➞Không. Không phải giáo viên.",
       "number": 1
     },
     {
       "word": "田中さんは医者じゃありませんか。➞はい、医者ありません、先生です。",
       "reading": "たなかさんはいしゃじゃありませんか。➞はい、いしゃありません、せんせいです。",
+      "vietnamese": "Tanaka không phải là bác sĩ phải không? ➞Đúng. Không phải bác sĩ. Là giáo viên.",
       "number": 1
     },
     {
       "word": "あの方はどなたですか。➞山田さんです。",
       "reading": "あのかたはどなたですか。➞やまださんです。",
+      "vietnamese": "Vị kia là ai vậy? Là Yamada.",
       "number": 1
     },
     {
       "word": "あなたは何歳ですか。➞私は 二十歳です。",
       "reading": "あなたはなんさいですか。➞わたしは はたちです。",
+      "vietnamese": "Bạn bao nhiêu tuổi? ➞Tôi 20 tuổi.",
       "number": 1
     },
     {
       "word": "ミラーさんは会社員です。グプタさんも会社員です。",
       "reading": "ミラーさんはかいしゃいんです。グプタさんもかいしゃいんです。",
+      "vietnamese": "Mira là nhân viên. Guputa cũng là nhân viên.",
       "number": 1
     },
     {
       "word": "ミラーさんはIMCの社員です。",
       "reading": "ミラーさんはIMCのしゃいんです。",
+      "vietnamese": "Mira là nhân viên của IMC.",
       "number": 1
     },
     {
       "word": "あの方はミラーさんです。",
-      "reading": "あの方はミラーさんです。",
+      "reading": "あのかたはミラーさんです。",
+      "vietnamese": "Vị kia là Mira",
       "number": 1
     },
     {
       "word": "ミラーさんは学生ですか。➞いいえ、会社員です。",
       "reading": "ミラーさんはがくせいですか。➞いいえ、かいしゃいんです。",
+      "vietnamese": "Mira là học sinh phải không?. ➞Không. Là nhân viên.",
       "number": 1
     },
     {
-      "word": "山田さんはおいくつですか。➞山田さんは四十歳です。",
+      "word": "山田さんはお幾つですか。➞山田さんは四十歳です。",
       "reading": "やまださんはおいくつですか。➞やまださんはよんじゅうさいです。",
+      "vietnamese": "Yamada bao nhiêu tuổi?. Yamada 40 tuổi.",
       "number": 1
     },
     {
       "word": "あなたは何歳ですか。➞二十一歳です。",
       "reading": "あなたはなんさいですか。➞にじゅういっさいです。",
+      "vietnamese": "Bạn bao nhiêu tuổi? ➞Tôi 21 tuổi.",
       "number": 1
+    },
+    {
+      "word": "これは辞書ですか。",
+      "reading": "これはじしょですか。",
+      "vietnamese": "Đây có phải là từ điển không?",
+      "number": 2
+    },
+    {
+      "word": "それは誰の傘ですか。",
+      "reading": "それはだれのかさですか。",
+      "vietnamese": "ô của ai?",
+      "number": 2
+    },
+    {
+      "word": "この本は私のです。",
+      "reading": "このほんはわたしのです。",
+      "vietnamese": "Cuốn sách này là của tôi.",
+      "number": 2
+    },
+    {
+      "word": "あの方はどなたですか。",
+      "reading": "あのかたはどなたですか。",
+      "vietnamese": "Người đó là ai.",
+      "number": 2
+    },
+    {
+      "word": "これは辞書ですか。➞はい、辞書です。",
+      "reading": "これはじしょですか。➞はい、じしょです。",
+      "vietnamese": "đây có phải là từ điển không? ➞Vâng, đó là một cuốn từ điển.",
+      "number": 2
+    },
+    {
+      "word": "それはミラーさんのですか。➞いいえ、ちがいます。",
+      "reading": "それはミラーさんのですか。➞いいえ、ちがいます。",
+      "vietnamese": "đâĐó có phải là của Mira không? ➞Không, không phải",
+      "number": 2
+    },
+    {
+      "word": "それはシャープペンシルですか。➞いいえ、ポールペンです。",
+      "reading": "それはシャープペンシルですか。➞いいえ、ポールペンです",
+      "vietnamese": "Đó có phải là một cây bút chì kim? ➞Không, đó là một cây bút bi.",
+      "number": 2
+    },
+    {
+      "word": "これは９ですか。７ですか。➞９です。",
+      "reading": "これは９ですか。７ですか。➞９です。",
+      "vietnamese": "Đây có phải là 9 không? Có phải là 7 không? ➞Đó là 9.",
+      "number": 2
+    },
+    {
+      "word": "これはコンピューターの本です。",
+      "reading": "これはコンピューターのほんです。",
+      "vietnamese": "Đây là một cuốn sách về máy tính.",
+      "number": 2
+    },
+    {
+      "word": "これは私の本です。",
+      "reading": "これはわたしのほんです。",
+      "vietnamese": "đây là quyển sách của tôi.",
+      "number": 2
+    },
+    {
+      "word": "あれは誰の鞄ですか。➞佐藤さんのです。",
+      "reading": "あれはだれのかばんですか。➞さとうさんのです。",
+      "vietnamese": "Cái túi xách đó của ai vậy? ➞Là của Sato.",
+      "number": 2
+    },
+    {
+      "word": "この鞄はどなたのですか。➞いいえ、私のじゃありません。",
+      "reading": "このかばんはどなたのですか。➞いいえ、わたしのじゃありません。",
+      "vietnamese": "Ba lô ai đây? ➞Không, nó không phải của tôi.",
+      "number": 2
+    },
+    {
+      "word": "ミラーさんはIMCの社員ですか。➞はい、IMCの社員です。",
+      "reading": "ミラーさんはIMCのしゃいんですか。➞はい、IMCのしゃいんです。",
+      "vietnamese": "Mira có phải là nhân viên của IMC không? ➞Vâng, là nhân viên của IMC.",
+      "number": 2
+    },
+    {
+      "word": "これは何の本ですか。➞日本語の本です。",
+      "reading": "これはなんのほんですか。➞にほんごのほんです。",
+      "vietnamese": "đây là loại sách gì? ➞Sách tiếng Nhật.",
+      "number": 2
+    },
+    {
+      "word": "この傘はあなたのですか。➞いいえ、ちがいます、シュミットさんのです。➞そうですか。",
+      "reading": "このかさはあなたのですか。➞いいえ、ちがいます、シュミットさんのです。➞そうですか。",
+      "vietnamese": "Cái ô này là của bạn à? ➞Không, đó là của Schmidt. ➞ Vậy à?",
+      "number": 2
+    },
+    {
+      "word": "ここは会議室です。",
+      "reading": "ここはかいぎしつです。",
+      "vietnamese": "Đây là phòng họp.",
+      "number": 3
+    },
+    {
+      "word": "あちらは病院です。",
+      "reading": "あちらはびょういんです。",
+      "vietnamese": "Chổ đó là bệnh viện.",
+      "number": 3
+    },
+    {
+      "word": "お手洗いはあそこです。",
+      "reading": "おてあらいはあそこです。",
+      "vietnamese": "Nhà vệ sinh ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "電話は2階です。",
+      "reading": "でんわは2かいです。",
+      "vietnamese": "Nhà vệ sinh ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "山田さんは事務所です。",
+      "reading": "やまださんはじむしょです。",
+      "vietnamese": "Yamada đang ở trong văn phòng.",
+      "number": 3
+    },
+    {
+      "word": "お手洗いはどこですか。➞あそこです。",
+      "reading": "おてあらいはどこですか。➞あそこです。",
+      "vietnamese": "Nhà vệ sinh ở đâu. ➞Ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "エレベーターはどちらですか。➞あちらです。",
+      "reading": "エレベーターはどちらですか。➞あちらです。",
+      "vietnamese": "Cái nào là thang máy? ➞ Ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "学校はどちらですか。",
+      "reading": "がっこうはどちらですか。",
+      "vietnamese": "Trường học là ở đâu?",
+      "number": 3
+    },
+    {
+      "word": "会社はどこですか。",
+      "reading": "かいしゃはどこですか。",
+      "vietnamese": "Công ty là ở đâu?",
+      "number": 3
+    },
+    {
+      "word": "これはどこのコンピューターですか。➞日本語のコンピューターです。",
+      "reading": "これはどこのコンピューターですか。➞にほんごのコンピューターです。",
+      "vietnamese": "máy tính nào đây? ➞Đó là một máy tính Nhật Bản.",
+      "number": 3
+    },
+    {
+      "word": "お国はどちらですか。",
+      "reading": "おくにはどちらですか。",
+      "vietnamese": "Đất nước bạn là đất nước nào.",
+      "number": 3
+    },
+    {
+      "word": "今何時ですか。",
+      "reading": "いまなんじですか。",
+      "vietnamese": "Mấy giờ rồi?",
+      "number": 4
+    },
+    {
+      "word": "今、１１時１９分です、午前３時半です、午後２時半です、午前８時です、夜１０時半です、午後３時１０分です、午前５時２５分です、夜９時です、午前７時１８分です、午後４時２５分です。",
+      "reading": "いま、１１じ１９ふんです、ごぜん３じはんです、ごご２じはんです、ごぜん８じです、よる１０じはんです、ごご３じ１０ふんです、ごぜん５じ２５ふんです、よる９じです、ごぜん７じ１８ふんです、ごご４じ２５ふんです。",
+      "vietnamese": "Bây giờ là.",
+      "number": 4
+    },
+    {
+      "word": "今日は何曜日ですか。➞月曜日です。",
+      "reading": "きょうはなんようびですか。➞げつようびです。",
+      "vietnamese": "Hôm nay là thứ mấy?➞Là thứ 2.",
+      "number": 4
+    },
+    {
+      "word": "明日は何曜日ですか。➞火曜日です。",
+      "reading": "あしたはなんようびですか。➞かようびです。",
+      "vietnamese": "Mai là ngày gì. ➞ Là thứ ba.",
+      "number": 4
+    },
+    {
+      "word": "明後日は何曜日ですか。➞水曜日です。",
+      "reading": "あさってはなんようびですか。➞すいようびです。",
+      "vietnamese": "Mốt là ngày gì. ➞ Là thứ tư.",
+      "number": 4
+    },
+    {
+      "word": "今日は木曜日です。明日は何曜日ですか。➞金曜日です。",
+      "reading": "きょうはもくようびです。あしたはなんようびですか。➞きんようびです。",
+      "vietnamese": "Hôm nay là thứ 5. Mai là thứ mấy?➞ Là thứ 6.",
+      "number": 4
+    },
+    {
+      "word": "明日は金曜日です。明後日は何曜日ですか。➞土曜日です。",
+      "reading": "あしたはきんようびです。あさってはなんようびですか。➞どようびです。",
+      "vietnamese": "Hôm nay là thứ 6. Mai là thứ mấy?➞ Là thứ 7.",
+      "number": 4
+    },
+    {
+      "word": "昨夜、寝ませんでした。",
+      "reading": "ゆうべ、ねませんでした。",
+      "vietnamese": "Tôi đã không ngủ đêm qua.",
+      "number": 4
+    },
+    {
+      "word": "明日、勉強します。",
+      "reading": "あした、べんきょうします。",
+      "vietnamese": "Tôi sẽ học vào ngày mai.",
+      "number": 4
+    },
+    {
+      "word": "今日、勉強しません。",
+      "reading": "きょう、べんきょうしません。",
+      "vietnamese": "Tôi sẽ không học ngày hôm nay.",
+      "number": 4
+    },
+    {
+      "word": "昨日、勉強しました。",
+      "reading": "きのう、べんきょうしました。",
+      "vietnamese": "Tôi đã học ngày hôm qua.",
+      "number": 4
+    },
+    {
+      "word": "一昨日、勉強しませんでした。",
+      "reading": "おととい、べんきょうしませんでした。",
+      "vietnamese": "Tôi đã không học ngày hôm kia.",
+      "number": 4
+    },
+    {
+      "word": "明日、働きますか。➞はい、働きます。",
+      "reading": "あした、はたらきますか。➞はい、はたらきます",
+      "vietnamese": "Mai bạn có làm việc không ➞ Vâng, có làm việc.",
+      "number": 4
+    },
+    {
+      "word": "昨日、働きましたか。➞いいえ、働きませんでした。",
+      "reading": "きのう、はたらきましたか。➞いいえ、はたらきませんでした。",
+      "vietnamese": "hôm qua bạn có làm việc không ➞ Không, không làm việc.",
+      "number": 4
+    },
+    {
+      "word": "今日、寝ますか。➞はい、寝ます。",
+      "reading": "きょう、ねますか。➞はい、ねます。",
+      "vietnamese": "hôm nay bạn có đi ngủ không ➞ Vâng, tôi sẽ ngủ.",
+      "number": 4
+    },
+    {
+      "word": "一昨日、休みましたか。➞いいえ、休みませんでした。",
+      "reading": "おととい、やすみましたか。➞いいえ、やすみませんでした。",
+      "vietnamese": "Bạn có nghỉ ngơi vào ngày hôm kia không? ➞Không, tôi không nghỉ ngơi.",
+      "number": 4
+    },
+    {
+      "word": "明日、勉強しますか。➞いいえ、勉強しません。",
+      "reading": "あした、べんきょうしますか。➞いいえ、べんきょうしません。",
+      "vietnamese": "bạn sẽ học vào ngày mai ➞Không, tôi không học.",
+      "number": 4
+    },
+    {
+      "word": "明後日、休みますか。➞はい、休みます。",
+      "reading": "あさって、やすみますか。➞はい、やすみます。",
+      "vietnamese": "Bạn có định nghỉ ngơi vào ngày mốt không? ➞ Vâng, tôi sẽ nghỉ ngơi.",
+      "number": 4
     }
   ]
 }
