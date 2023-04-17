@@ -347,6 +347,72 @@
       "reading": "あさって、やすみますか。➞はい、やすみます。",
       "vietnamese": "Bạn có định nghỉ ngơi vào ngày mốt không? ➞ Vâng, tôi sẽ nghỉ ngơi.",
       "number": 4
+    },
+    {
+      "word": "今朝、６時に起きました。",
+      "reading": "けさ、６じにおきました。",
+      "vietnamese": "Tôi thức dậy lúc 6 giờ sáng nay.",
+      "number": 4
+    },
+    {
+      "word": "昨日の晩、１時に寝ました。",
+      "reading": "昨日の晩、１時に寝ました。",
+      "vietnamese": "Tôi đi ngủ lúc 1 giờ đêm qua.",
+      "number": 4
+    },
+    {
+      "word": "日本語のモリは午後４時半に終わります。",
+      "reading": "にほんごのモリはごご４じはんにおわります。",
+      "vietnamese": "Tiếng nhật kết thúc lúc 4:30 chiều.",
+      "number": 4
+    },
+    {
+      "word": "ズンモリは何時に始まりますか。➞ズンモリは午前７時に始まります。",
+      "reading": "ズンモリはなんじにまじまりますか。➞ズンモリはごぜん７じにまじまります。",
+      "vietnamese": "Zummori bắt đầu lúc mấy giờ? ➞Zunmori bắt đầu lúc 7 giờ sáng.",
+      "number": 4
+    },
+    {
+      "word": "今晩、何時に寝ますか。➞今晩、１１時に寝ます。",
+      "reading": "こんばん、なんじにねますか。➞こんばん、１１じにねます。",
+      "vietnamese": "Tối nay mấy giờ bạn đi ngủ? ➞Tôi sẽ đi ngủ lúc 11 giờ tối nay.",
+      "number": 4
+    },
+    {
+      "word": "明日、何時に起きますか。➞６時に起きます。",
+      "reading": "あした、なんじにおきますか。➞６じにおきます。",
+      "vietnamese": "Bạn sẽ thức dậy lúc mấy giờ vào ngày mai? ➞Tôi thức dậy lúc 6:00.",
+      "number": 4
+    },
+    {
+      "word": "今朝、何時に起きましたか。",
+      "reading": "けさ、なんじにおきましたか。",
+      "vietnamese": "Bạn đã thức dậy vào lúc mấy giờ sáng nay?",
+      "number": 4
+    },
+    {
+      "word": "昨日の晩、何時に寝ましたか。",
+      "reading": "きのいのばん、なんじにねましたか。",
+      "vietnamese": "Tối qua mấy giờ bạn đi ngủ?",
+      "number": 4
+    },
+    {
+      "word": "ズンモリは何時に終わりますか。",
+      "reading": "ズンモリはなんじにおわりますか。",
+      "vietnamese": "Zummori kết thúc lúc mấy giờ?",
+      "number": 4
+    },
+    {
+      "word": "日曜日に働きません。",
+      "reading": "にちようびにはたらきません。",
+      "vietnamese": "Tôi không làm việc vào ngày chủ nhật.",
+      "number": 4
+    },
+    {
+      "word": "土曜日に休みますか。",
+      "reading": "どようびにやすみますか。",
+      "vietnamese": "bạn có ngày nghỉ vào thứ bảy không",
+      "number": 4
     }
   ]
 }
