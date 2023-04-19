@@ -314,7 +314,7 @@
     },
     {
       "word": "明日、働きますか。➞はい、働きます。",
-      "reading": "あした、はたらきますか。➞はい、はたらきます",
+      "reading": "あした、はたらきますか。➞はい、はたらきます。",
       "vietnamese": "Mai bạn có làm việc không ➞ Vâng, có làm việc.",
       "number": 4
     },
@@ -412,6 +412,78 @@
       "word": "土曜日に休みますか。",
       "reading": "どようびにやすみますか。",
       "vietnamese": "bạn có ngày nghỉ vào thứ bảy không",
+      "number": 4
+    },
+    {
+      "word": "毎日、午前７時から午後８時半まで働きます。",
+      "reading": "まいにち、ごぜん７じからごご８じはんまではたらきます。",
+      "vietnamese": "Tôi làm việc từ 7 giờ sáng đến 8 giờ 30 tối mỗi ngày.",
+      "number": 4
+    },
+    {
+      "word": "月曜日から金曜日まで勉強します。",
+      "reading": "げつようびからきんようびまでべんきょうします。",
+      "vietnamese": "Tôi học từ thứ Hai đến thứ Sáu.",
+      "number": 4
+    },
+    {
+      "word": "７時半から勉強します。",
+      "reading": "７じはんからべんきょうします。",
+      "vietnamese": "Tôi học từ 7:30.",
+      "number": 4
+    },
+    {
+      "word": "９時半まで勉強します。",
+      "reading": "９じはんまでべんきょうします。",
+      "vietnamese": "Tôi sẽ học đến 9:30.",
+      "number": 4
+    },
+    {
+      "word": "日本語のモリは午前７時から夜９時までです。",
+      "reading": "にほんごのモリはごぜん７じからよる９じまでです。",
+      "vietnamese": "Tiếng Nhật Mori là từ 7 giờ sáng đến 9 giờ tối.",
+      "number": 4
+    },
+    {
+      "word": "昼休みは１１時半から１時半までです。",
+      "reading": "ひるやすみは１１じはんから１じはんまでです。",
+      "vietnamese": "Giờ nghỉ trưa là từ 11:30 đến 1:30.",
+      "number": 4
+    },
+    {
+      "word": "昨日、何時から何時まで勉強しましたか。",
+      "reading": "きのう、なんじからなんじまでべんきょうしましたか。",
+      "vietnamese": "Hôm qua bạn học từ mấy giờ đến mấy giờ?",
+      "number": 4
+    },
+    {
+      "word": "毎日、何時から何時まで寝ますか。",
+      "reading": "まいにち、なんじからなんじまでねますか。",
+      "vietnamese": "Bạn ngủ mỗi ngày từ mấy giờ đến mấy giờ?",
+      "number": 4
+    },
+    {
+      "word": "銀行は何時から何時までですか。",
+      "reading": "ぎんこうはなんじからなんじまでですか。",
+      "vietnamese": "Ngân hàng mở cửa từ mấy giờ đến mấy giờ?",
+      "number": 4
+    },
+    {
+      "word": "銀行の休みは土曜日と日曜日ですです。",
+      "reading": "ぎんこうのやすみはどようびとにちようびです。",
+      "vietnamese": "Ngày nghỉ của ngân hàng là thứ bảy và chủ nhật.",
+      "number": 4
+    },
+    {
+      "word": "毎日、１０時ごろまで勉強します。➞大変ですね。",
+      "reading": "まいにち、１０じごろまでべんきょうします。➞たいへんですね。",
+      "vietnamese": "Tôi học đến khoảng 10 giờ hàng ngày. ➞Vất vả nhỉ.",
+      "number": 4
+    },
+    {
+      "word": "山田さんの電話番号は０１２３－４５６－７８９です。➞０１２３－４５６－７８９ですね。",
+      "reading": "やまださんのでんわばんごうは０１２３－４５６－７８９です。➞０１２３－４５６－７８９ですね。",
+      "vietnamese": "Số điện thoại của Yamada là 0123-456-789. ➞0123-456-789 nhỉ?",
       "number": 4
     }
   ]
