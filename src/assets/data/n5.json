@@ -485,6 +485,66 @@
       "reading": "やまださんのでんわばんごうは０１２３－４５６－７８９です。➞０１２３－４５６－７８９ですね。",
       "vietnamese": "Số điện thoại của Yamada là 0123-456-789. ➞0123-456-789 nhỉ?",
       "number": 4
+    },
+    {
+      "word": "今年は何年ですか。➞今年は２０２３年です。",
+      "reading": "ことしはなんねんですか。➞ことしは２０２３ねんです。",
+      "vietnamese": "Bây giờ là năm nào? . ➞Năm nay là 2023.",
+      "number": 5
+    },
+    {
+      "word": "去年は何年ですか。➞去年は２０２２年です。",
+      "reading": "きょねんはなんねんですか。➞きょねんは２０２２ねんです。",
+      "vietnamese": "Năm ngoái là năm nào? ➞ Năm ngoái là 2022.",
+      "number": 5
+    },
+    {
+      "word": "来月は何月ですか。➞来月は４月です。",
+      "reading": "来月は何月ですか。➞来月は４月です。",
+      "vietnamese": "Tháng sau là tháng mấy? ➞Tháng tới là tháng Tư.",
+      "number": 5
+    },
+    {
+      "word": "今は何月ですか。先月は何月ですか。➞２月です。",
+      "reading": "いまはなんがつですか。せんげつはなんがつですか。➞２がつです。",
+      "vietnamese": "Bây giờ là tháng mấy? Chigetsu là tháng mấy? ➞Bây giờ là tháng Hai.",
+      "number": 5
+    },
+    {
+      "word": "今日は何日ですか。➞今日は１３日です。",
+      "reading": "きょうはなんにちですか。➞きょうは１３にちです。",
+      "vietnamese": "Hôm nay là ngày gì. ➞ Hôm nay là ngày 13.",
+      "number": 5
+    },
+    {
+      "word": "今日は２０２３年１２月８日です。",
+      "reading": "きょうは２０２３ねん１２がつ８にちです。",
+      "vietnamese": "Hôm nay là ngày 8 tháng 12 năm 2023.",
+      "number": 5
+    },
+    {
+      "word": "お誕生日は何月何日ですか。お誕生日はいつですか。➞お誕生日は８月１７日です。",
+      "reading": "おたんじょうびはなんがつなんにちですか。おたんじょうびはいつですか。➞お誕生日は８月１７日です。",
+      "vietnamese": "Sinh nhật của bạn là ngày, tháng nào? Bạn sinh ngày nào?➞Sinh nhật của tôi là ngày 17 tháng 8.",
+      "number": 5
+    },
+    {
+      "word": "明日は９月１日です。明後日は２月２０日です。",
+      "reading": "明日は９月１日です。明後日は２月２０日です。",
+      "vietnamese": "Ngày mai là ngày 1 tháng 9. Ngày mốt là ngày 20 tháng 2.",
+      "number": 5
+    },
+    {
+      "word": "私の誕生日は６月４日です。",
+      "reading": "わたしのたんじょうびは６がつ４にちです。",
+      "vietnamese": "Sinh nhật của tôi là ngày 4 tháng 6.",
+      "number": 5
+    },
+    {
+      "word": "今月は何月ですか。来月は何月ですか。今日は何日ですか。来年は何年ですか。",
+      "reading": "こんげつはなんがつですか。らいげつはなんがつですか。きょうはなんにちですか。らいねんはなんねんですか。",
+      "vietnamese": "Tháng này là tháng mấy? Tháng sau là tháng mấy? Hôm nay là ngày gì. Năm tới là năm nào?",
+      "number": 5
     }
   ]
 }
