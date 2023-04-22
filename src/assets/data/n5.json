@@ -356,7 +356,7 @@
     },
     {
       "word": "昨日の晩、１時に寝ました。",
-      "reading": "昨日の晩、１時に寝ました。",
+      "reading": "きのうばん、１じにねました。",
       "vietnamese": "Tôi đi ngủ lúc 1 giờ đêm qua.",
       "number": 4
     },
@@ -544,6 +544,108 @@
       "word": "今月は何月ですか。来月は何月ですか。今日は何日ですか。来年は何年ですか。",
       "reading": "こんげつはなんがつですか。らいげつはなんがつですか。きょうはなんにちですか。らいねんはなんねんですか。",
       "vietnamese": "Tháng này là tháng mấy? Tháng sau là tháng mấy? Hôm nay là ngày gì. Năm tới là năm nào?",
+      "number": 5
+    },
+    {
+      "word": "明日、何処へ行きますか。➞明日、スーパーへ行きます。",
+      "reading": "あした、どこへいきますか。➞あした、スーパーへいきます。",
+      "vietnamese": "bạn sẽ đi đâu vào ngày mai ➞Ngày mai tôi sẽ đi siêu thị.",
+      "number": 5
+    },
+    {
+      "word": "日本に行きます。東京に行きます。日本語のモリへ来ました。ハノイに来ます。",
+      "reading": "にほんにいきます。とうきょうにいきます。にほんごのモリへきました。ハノイにきます。",
+      "vietnamese": "Tôi sắp đi Nhật. Tôi sắp đi Tokyo. Tôi đến Mori bằng tiếng Nhật. đến hà nội。",
+      "number": 5
+    },
+    {
+      "word": "日曜日、午前４時に実家へ帰りました。",
+      "reading": "にちようび、ごぜん４じにじっかへかえりました。",
+      "vietnamese": "Tôi về nhà lúc 4 giờ sáng Chủ nhật.",
+      "number": 5
+    },
+    {
+      "word": "Park先生は８月に韓国へ帰ります。",
+      "reading": "Parkせんせいは８がつにかんこくへかえります。",
+      "vietnamese": "Park sẽ trở lại Hàn Quốc vào tháng 8.",
+      "number": 5
+    },
+    {
+      "word": "Xuha先生は８月１５日に日本へ帰ります。",
+      "reading": "Xuhaせんせいは８がつ１５にちににほんへかえります。",
+      "vietnamese": "Xuha sẽ trở lại Nhật Bản vào ngày 15 tháng 8.",
+      "number": 5
+    },
+    {
+      "word": "会社へ行きます。",
+      "reading": "かいしゃへいきます。",
+      "vietnamese": "Tôi đi làm.",
+      "number": 5
+    },
+    {
+      "word": "６時に日本語のモリへ帰りました。",
+      "reading": "６時に日本語のモリへ帰りました。",
+      "vietnamese": "Lúc 6 giờ tôi trở lại Mori tiếng nhật.",
+      "number": 5
+    },
+    {
+      "word": "明日、私は実家へ帰ります。",
+      "reading": "あした、わたしはじっかへかえります。",
+      "vietnamese": "Ngày mai tôi sẽ về nhà bố mẹ đẻ.",
+      "number": 5
+    },
+    {
+      "word": "昨日の晩、ホテルに行きました。",
+      "reading": "きのうのばん、ホテルにいきました。",
+      "vietnamese": "Tôi đã đi đến khách sạn đêm qua.",
+      "number": 5
+    },
+    {
+      "word": "明後日、ホーチミン市へ行きます。",
+      "reading": "あした、ホーチミンしへいきます。",
+      "vietnamese": "Ngày mốt, tôi sẽ vào Thành phố Hồ Chí Minh.",
+      "number": 5
+    },
+    {
+      "word": "私は先月、日本へ帰りました。",
+      "reading": "わたしはせんげつ、にほんへかえりました。",
+      "vietnamese": "Tôi đã trở lại Nhật Bản vào tháng trước.",
+      "number": 5
+    },
+    {
+      "word": "ダットさんはハロン湾へ行きます。",
+      "reading": "ダットさんはハロンわんへいきます。",
+      "vietnamese": "Đạt sắp đi Vịnh Hạ Long.",
+      "number": 5
+    },
+    {
+      "word": "明日、どこへ行きますか。➞明日、京都へ行きます。",
+      "reading": "あした、どこへいきますか。➞あした、きょうとへいきます。",
+      "vietnamese": "bạn sẽ đi đâu vào ngày mai ➞Tôi sẽ đến Kyoto vào ngày mai.",
+      "number": 5
+    },
+    {
+      "word": "一昨日、どこへ行きましたか。➞大阪へ帰りました。",
+      "reading": "おととい、どこへいきましたか。➞おおさかへかえりました。",
+      "vietnamese": "Bạn đã đi đâu vào ngày hôm kia? ➞Chúng tôi trở lại Osaka.",
+      "number": 5
+    },
+    {
+      "word": "来月、どこへ行きますか。➞来月、日本へ帰ります。",
+      "reading": "らいげつ、どこへいきますか。➞らいげつ、にほんへかえります。",
+      "vietnamese": "Bạn sẽ đi đâu vào tháng tới? ➞Tôi sẽ quay lại Nhật Bản vào tháng tới.",
+      "number": 5
+    },
+    {
+      "word": "明日、どこへ行きますか。➞どこも行きません。",
+      "reading": "あした、どこへいきますか。➞どこもいきません。",
+      "vietnamese": "bạn sẽ đi đâu vào ngày mai ➞Tôi sẽ không đi đâu cả.",
+      "number": 5
+    },
+    {
+      "word": "昨日、どこへ行きましたか。➞どこも行きませんでした。",
+      "reading": "あした、どこへいきましたか。➞どこもいきませんでした。",
+      "vietnamese": "hôm qua bạn đã đi đâu ➞Tôi không đi đâu cả.",
       "number": 5
     }
   ]
