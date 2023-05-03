@@ -1,7 +1,15 @@
 import { ReactFuri } from "react-furi";
-import n5 from "assets/data/n5.json";
+import no1 from "assets/data/n5/no1.json"; // done
+import no2 from "assets/data/n5/no2.json"; // done
+import no3 from "assets/data/n5/no3.json"; // done
+import no4 from "assets/data/n5/no4.json"; // done
+import no5 from "assets/data/n5/no5.json";
+import no23 from "assets/data/n5/no23.json"; // done
+import no24 from "assets/data/n5/no24.json";
+import no25 from "assets/data/n5/no25.json";
 import {
   Box,
+  Button,
   FormControl,
   MenuItem,
   Select,
@@ -9,13 +17,26 @@ import {
 } from "@mui/material";
 import { JpTypeDisplay, JpTypeDisplayOptions } from "constants/n5";
 import { useEffect, useState } from "react";
+import GrammarDialog from "components/atoms/GrammarDialog";
 
 const JLPT = () => {
   const [jpType, setJpType] = useState(JpTypeDisplay.Furigana);
   const [readings, setReadings] = useState([]);
+  const [isOpenGrammarDialog, setIsOpenGrammarDialog] = useState(false);
 
   useEffect(() => {
-    setReadings(n5.reading.sort(() => Math.random() - 0.5) as any);
+    setReadings(
+      [
+        ...no1.reading,
+        ...no2.reading,
+        ...no3.reading,
+        ...no4.reading,
+        ...no5.reading,
+        ...no23.reading,
+        ...no24.reading,
+        ...no25.reading,
+      ].sort(() => Math.random() - 0.5) as any
+    );
   }, []);
 
   const formatFuri = (furi: any, type: string) => {
@@ -38,9 +59,17 @@ const JLPT = () => {
     setJpType(+e.target.value);
   };
 
+  const handleOpenGrammerDialog = () => {
+    setIsOpenGrammarDialog(true);
+  };
+
+  const handleCloseGrammerDialog = () => {
+    setIsOpenGrammarDialog(false);
+  };
+
   return (
     <>
-      <Box>
+      <Box display="flex">
         <FormControl sx={{ m: 1, minWidth: 120 }} size="small">
           <Select value={`${jpType}`} onChange={handleChangeType}>
             {JpTypeDisplayOptions.map((o) => (
@@ -50,6 +79,13 @@ const JLPT = () => {
             ))}
           </Select>
         </FormControl>
+        <Button
+          sx={{ m: 1 }}
+          variant="outlined"
+          onClick={handleOpenGrammerDialog}
+        >
+          Ngữ pháp
+        </Button>
       </Box>
       <Box>
         {readings.map((item: any, index: number) => (
@@ -61,6 +97,10 @@ const JLPT = () => {
           </Box>
         ))}
       </Box>
+      <GrammarDialog
+        isOpen={isOpenGrammarDialog}
+        onClose={handleCloseGrammerDialog}
+      />
     </>
   );
 };

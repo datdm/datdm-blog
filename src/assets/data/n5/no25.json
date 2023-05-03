@@ -1,0 +1,172 @@
+{
+  "reading": [
+    {
+      "word": "雨が降ったら、行きません。",
+      "reading": "あめがふったら、いきません。",
+      "vietnamese": "Nếu trời mưa, tôi sẽ không đi.",
+      "number": 25
+    },
+    {
+      "word": "一億円有ったら、家を買います。",
+      "reading": "いちおくえんあったら、いえをかいます。",
+      "vietnamese": "Nếu tôi có 100 triệu yên, tôi sẽ mua một ngôi nhà.",
+      "number": 25
+    },
+    {
+      "word": "病気になったら、病院へ行きます。",
+      "reading": "びょうきになったら、びょういんへいきます。",
+      "vietnamese": "Khi tôi bị bệnh, tôi đến bệnh viện.",
+      "number": 25
+    },
+    {
+      "word": "時間があったら、宿題をします。",
+      "reading": "時間があったら、宿題をします。",
+      "vietnamese": "Nếu tôi có thời gian, tôi sẽ làm bài tập về nhà.",
+      "number": 25
+    },
+    {
+      "word": "飛行機があったら、どこへ行きたいですか。",
+      "reading": "ひこうきがあったら、どこへいきたいですか。",
+      "vietnamese": "Bạn muốn đi đâu nếu bạn có một chiếc máy bay?",
+      "number": 25
+    },
+    {
+      "word": "財布をなくしたら、警察へ行ってください。",
+      "reading": "さいふをなくしたら、けいさつへいってください。",
+      "vietnamese": "Nếu bạn bị mất ví, vui lòng đến cảnh sát.",
+      "number": 25
+    },
+    {
+      "word": "先生が来なったら、帰りましょう。",
+      "reading": "せんせいがこなったら、かえりましょう。",
+      "vietnamese": "Hãy về nhà khi giáo viên đến.",
+      "number": 25
+    },
+    {
+      "word": "先生が教室に来なかったら、勉強しません。",
+      "reading": "せんせいがきょうしつにこなかったら、べんきょうません。",
+      "vietnamese": "Nếu giáo viên không đến lớp, tôi sẽ không học.",
+      "number": 25
+    },
+    {
+      "word": "お金が全然なかったら、アルバイトをします。",
+      "reading": "おかねがぜんぜんなかったら、アルバイトをします。",
+      "vietnamese": "Nếu tôi không có tiền, tôi sẽ làm việc bán thời gian.",
+      "number": 25
+    },
+    {
+      "word": "辞書を買いたいです。安かったら、買います。高かったら、買いません。",
+      "reading": "じしょをかいたいです。やすかったら、かいます。たかかったら、かいません。",
+      "vietnamese": "Tôi muốn mua một cuốn từ điển. Nếu nó rẻ, tôi sẽ mua nó. Nếu nó quá đắt, tôi sẽ không mua nó.",
+      "number": 25
+    },
+    {
+      "word": "私はとても忙しいです。暇だったら、手伝ってください。",
+      "reading": "わたしはとてもいそがしいです。ひまだったら、てつだってください。",
+      "vietnamese": "tôi rất bận Bạn nào rảnh thì cmt giúp mình nhé.",
+      "number": 25
+    },
+    {
+      "word": "好きだったら、私に言ってください。",
+      "reading": "すきだったら、わたしにいってください。",
+      "vietnamese": "Nói với tôi nếu bạn thích nó",
+      "number": 25
+    },
+    {
+      "word": "明日いい天気だったら、サッカーをしましょう。",
+      "reading": "あしたいいてんきだったら、サッカーをしましょう。",
+      "vietnamese": "Nếu ngày mai thời tiết đẹp, chúng ta hãy chơi bóng đá.",
+      "number": 25
+    },
+    {
+      "word": "病気だったら、学校を休みます。",
+      "reading": "びょうきだったら、がっこうをやすみます。",
+      "vietnamese": "Nếu tôi bị ốm, tôi sẽ nghỉ học.",
+      "number": 25
+    },
+    {
+      "word": "仕事が終わったら、カラオケに行きます。",
+      "reading": "しごとがおわったら、カラオケにいきます。",
+      "vietnamese": "Sau khi làm việc, tôi sẽ đi hát karaoke.",
+      "number": 25
+    },
+    {
+      "word": "給料を貰ったら、あのゲームを買います。",
+      "reading": "きゅうりょうをもらったら、あのゲームをかいます。",
+      "vietnamese": "Nếu tôi được trả lương, tôi sẽ mua trò chơi đó.",
+      "number": 25
+    },
+    {
+      "word": "１０時間になったら、出かけましょう。",
+      "reading": "１０じかんになったら、でかけましょう。",
+      "vietnamese": "Hãy ra ngoài khi đã 10 giờ.",
+      "number": 25
+    },
+    {
+      "word": "ご飯を食べたら、すぐ行きます。",
+      "reading": "ごはんをたべたら、すぐいきます。",
+      "vietnamese": "Tôi sẽ đi ngay sau khi ăn xong.",
+      "number": 25
+    },
+    {
+      "word": "授業が終わったら、すぐ帰ります。",
+      "reading": "じゅぎょうがおわったら、すぐかえります。",
+      "vietnamese": "Tôi sẽ về nhà ngay sau khi lớp học kết thúc.",
+      "number": 25
+    },
+    {
+      "word": "大学を出たら、すぐ働きたいです。",
+      "reading": "だいがくをでたら、すぐはたらきたいです。",
+      "vietnamese": "Tôi muốn làm việc ngay sau khi tôi tốt nghiệp đại học.",
+      "number": 25
+    },
+    {
+      "word": "新年になったら、神社へ行きます。",
+      "reading": "しんねんになったら、じんじゃへいきます。",
+      "vietnamese": "Khi năm mới đến, tôi sẽ đi đến đền thờ.",
+      "number": 25
+    },
+    {
+      "word": "起きたら、まず何をしますか。",
+      "reading": "おきたら、まずなにをしますか。",
+      "vietnamese": "Bạn làm gì đầu tiên khi thức dậy?",
+      "number": 25
+    },
+    {
+      "word": "５０歳になったら、何をしますか。",
+      "reading": "５０さいになったら、なにをしますか。",
+      "vietnamese": "Bạn sẽ làm gì khi bước sang tuổi 50?",
+      "number": 25
+    },
+    {
+      "word": "給料を貰ったら、何をしますか。",
+      "reading": "きゅうりょうをもらったら、なにをしますか。",
+      "vietnamese": "Bạn sẽ làm gì khi nhận được tiền lương?",
+      "number": 25
+    },
+    {
+      "word": "いくら勉強しても、上手になりません。",
+      "reading": "いくらべんきょうしても、じょうずになりません。",
+      "vietnamese": "Cho dù bạn học bao nhiêu, bạn sẽ không bao giờ khá hơn.",
+      "number": 25
+    },
+    {
+      "word": "先生、いくら考えても、分かりません。",
+      "reading": "せんせい、いくらかんがえても、わかりません。",
+      "vietnamese": "Thầy ơi, dù con có suy nghĩ bao nhiêu cũng không hiểu.",
+      "number": 25
+    },
+    {
+      "word": "お金がいくら有っても、車を買いません。",
+      "reading": "おかねがいくらあっても、くるまをかいません。",
+      "vietnamese": "Cho dù tôi có bao nhiêu tiền, tôi sẽ không mua một chiếc xe hơi.",
+      "number": 25
+    },
+    {
+      "word": "いくら急いでも、電車に乗ることが出来ません。",
+      "reading": "いくらいそいでも、でんしゃにのることができません。",
+      "vietnamese": "Dù vội thế nào tôi cũng không thể bắt kịp chuyến tàu",
+      "number": 25
+    }
+  ]
+}

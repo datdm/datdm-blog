@@ -1,0 +1,70 @@
+{
+  "reading": [
+    {
+      "word": "ここは会議室です。",
+      "reading": "ここはかいぎしつです。",
+      "vietnamese": "Đây là phòng họp.",
+      "number": 3
+    },
+    {
+      "word": "あちらは病院です。",
+      "reading": "あちらはびょういんです。",
+      "vietnamese": "Chổ đó là bệnh viện.",
+      "number": 3
+    },
+    {
+      "word": "お手洗いはあそこです。",
+      "reading": "おてあらいはあそこです。",
+      "vietnamese": "Nhà vệ sinh ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "電話は2階です。",
+      "reading": "でんわは2かいです。",
+      "vietnamese": "Nhà vệ sinh ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "山田さんは事務所です。",
+      "reading": "やまださんはじむしょです。",
+      "vietnamese": "Yamada đang ở trong văn phòng.",
+      "number": 3
+    },
+    {
+      "word": "お手洗いはどこですか。➞あそこです。",
+      "reading": "おてあらいはどこですか。➞あそこです。",
+      "vietnamese": "Nhà vệ sinh ở đâu. ➞Ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "エレベーターはどちらですか。➞あちらです。",
+      "reading": "エレベーターはどちらですか。➞あちらです。",
+      "vietnamese": "Cái nào là thang máy? ➞ Ở đằng kia.",
+      "number": 3
+    },
+    {
+      "word": "学校はどちらですか。",
+      "reading": "がっこうはどちらですか。",
+      "vietnamese": "Trường học là ở đâu?",
+      "number": 3
+    },
+    {
+      "word": "会社はどこですか。",
+      "reading": "かいしゃはどこですか。",
+      "vietnamese": "Công ty là ở đâu?",
+      "number": 3
+    },
+    {
+      "word": "これはどこのコンピューターですか。➞日本語のコンピューターです。",
+      "reading": "これはどこのコンピューターですか。➞にほんごのコンピューターです。",
+      "vietnamese": "máy tính nào đây? ➞Đó là một máy tính Nhật Bản.",
+      "number": 3
+    },
+    {
+      "word": "お国はどちらですか。",
+      "reading": "おくにはどちらですか。",
+      "vietnamese": "Đất nước bạn là đất nước nào.",
+      "number": 3
+    }
+  ]
+}

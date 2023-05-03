@@ -1,0 +1,88 @@
+{
+  "reading": [
+    {
+      "word": "私はダットです。",
+      "reading": "わたしはダットです。",
+      "vietnamese": "Tôi là Đạt.",
+      "number": 1
+    },
+    {
+      "word": "サントスさんは学生じゃありません。",
+      "reading": "サントスさんはがくせいじゃありません。",
+      "vietnamese": "Santo không phải là học sinh.",
+      "number": 1
+    },
+    {
+      "word": "ダットさんは学生ではありません。",
+      "reading": "ダットさんはがくせいではありません。",
+      "vietnamese": "Đạt không phải là học sinh.",
+      "number": 1
+    },
+    {
+      "word": "ミラーさんはアメリカ人ですか。➞はい、アメリカ人です。",
+      "reading": "ミラーさんはアメリカじんですか。➞はい、アメリカじんです。",
+      "vietnamese": "Mira là người Mỹ phải không? ➞Đúng. Là người Mỹ.",
+      "number": 1
+    },
+    {
+      "word": "ミラーさんは先生ですか。➞いいえ、先生じゃありません。",
+      "reading": "ミラーさんはせんせいですか。➞いいえ、せんせいじゃありません。",
+      "vietnamese": "Mira là giáo viên phải không? ➞Không. Không phải giáo viên.",
+      "number": 1
+    },
+    {
+      "word": "田中さんは医者じゃありませんか。➞はい、医者ありません、先生です。",
+      "reading": "たなかさんはいしゃじゃありませんか。➞はい、いしゃありません、せんせいです。",
+      "vietnamese": "Tanaka không phải là bác sĩ phải không? ➞Đúng. Không phải bác sĩ. Là giáo viên.",
+      "number": 1
+    },
+    {
+      "word": "あの方はどなたですか。➞山田さんです。",
+      "reading": "あのかたはどなたですか。➞やまださんです。",
+      "vietnamese": "Vị kia là ai vậy? Là Yamada.",
+      "number": 1
+    },
+    {
+      "word": "あなたは何歳ですか。➞私は 二十歳です。",
+      "reading": "あなたはなんさいですか。➞わたしは はたちです。",
+      "vietnamese": "Bạn bao nhiêu tuổi? ➞Tôi 20 tuổi.",
+      "number": 1
+    },
+    {
+      "word": "ミラーさんは会社員です。グプタさんも会社員です。",
+      "reading": "ミラーさんはかいしゃいんです。グプタさんもかいしゃいんです。",
+      "vietnamese": "Mira là nhân viên. Guputa cũng là nhân viên.",
+      "number": 1
+    },
+    {
+      "word": "ミラーさんはIMCの社員です。",
+      "reading": "ミラーさんはIMCのしゃいんです。",
+      "vietnamese": "Mira là nhân viên của IMC.",
+      "number": 1
+    },
+    {
+      "word": "あの方はミラーさんです。",
+      "reading": "あのかたはミラーさんです。",
+      "vietnamese": "Vị kia là Mira",
+      "number": 1
+    },
+    {
+      "word": "ミラーさんは学生ですか。➞いいえ、会社員です。",
+      "reading": "ミラーさんはがくせいですか。➞いいえ、かいしゃいんです。",
+      "vietnamese": "Mira là học sinh phải không?. ➞Không. Là nhân viên.",
+      "number": 1
+    },
+    {
+      "word": "山田さんはお幾つですか。➞山田さんは四十歳です。",
+      "reading": "やまださんはおいくつですか。➞やまださんはよんじゅうさいです。",
+      "vietnamese": "Yamada bao nhiêu tuổi?. Yamada 40 tuổi.",
+      "number": 1
+    },
+    {
+      "word": "あなたは何歳ですか。➞二十一歳です。",
+      "reading": "あなたはなんさいですか。➞にじゅういっさいです。",
+      "vietnamese": "Bạn bao nhiêu tuổi? ➞Tôi 21 tuổi.",
+      "number": 1
+    }
+  ]
+}

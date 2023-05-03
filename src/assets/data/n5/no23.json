@@ -1,0 +1,250 @@
+{
+  "reading": [
+    {
+      "word": "道を渡る時、車に気を付けます。",
+      "reading": "みちをわたるとき、くるまにきをつけます。",
+      "vietnamese": "Chú ý xe ô tô khi băng qua đường.",
+      "number": 23
+    },
+    {
+      "word": "本を読む時、眼鏡を掛けます。",
+      "reading": "ほんをのむとき、めがねをかけます。",
+      "vietnamese": "Tôi đeo kính khi đọc sách",
+      "number": 23
+    },
+    {
+      "word": "急ぐ時、タクシーで行きます。",
+      "reading": "いそぐとき、タクシーでいきます。",
+      "vietnamese": "Khi tôi đang vội, tôi đi bằng taxi.",
+      "number": 23
+    },
+    {
+      "word": "高い物を買う時、カードを使います。",
+      "reading": "高い物を買う時、カードを使います。",
+      "vietnamese": "Tôi sử dụng thẻ tín dụng của mình khi mua những thứ đắt tiền.",
+      "number": 23
+    },
+    {
+      "word": "電車を待つ時、本を読みます。",
+      "reading": "でんしゃをまつとき、ほんをよみます。",
+      "vietnamese": "Tôi đọc một cuốn sách trong khi chờ tàu.",
+      "number": 23
+    },
+    {
+      "word": "図書館で本を借りる時、カードがいます。",
+      "reading": "としょかんでほんをかりるとき、カードがいます。",
+      "vietnamese": "Khi bạn mượn sách từ thư viện, bạn cần có thẻ.",
+      "number": 23
+    },
+    {
+      "word": "分からな時、先生に聞いてください。",
+      "reading": "わからな時、せんせいにきいてください。",
+      "vietnamese": "Nếu bạn không hiểu, hãy hỏi giáo viên của bạn.",
+      "number": 23
+    },
+    {
+      "word": "朝、時間がない時、顔を洗いません。",
+      "reading": "あさ、じかんがないとき、かおをあらいません。",
+      "vietnamese": "Tôi không rửa mặt vào buổi sáng khi tôi không có thời gian.",
+      "number": 23
+    },
+    {
+      "word": "妻がいない時、レストランでご飯を食べます。",
+      "reading": "つまがいないとき、レストランでごはんをたべます。",
+      "vietnamese": "Khi vợ tôi đi vắng, tôi ăn ở nhà hàng.",
+      "number": 23
+    },
+    {
+      "word": "お金がない時、アルバイトをします。",
+      "reading": "おかねがないとき、アルバイトをします。",
+      "vietnamese": "Khi tôi không có tiền, tôi làm việc bán thời gian.",
+      "number": 23
+    },
+    {
+      "word": "ゲーム機を使わない時、ここに置いてください。",
+      "reading": "ゲームきをおかわないとき、ここにおいてください。",
+      "vietnamese": "Khi bạn không sử dụng máy trò chơi, vui lòng đặt nó ở đây.",
+      "number": 23
+    },
+    {
+      "word": "電話番号が分からない時、１８００－１０９１－１２電話します。",
+      "reading": "でんわばんごうがわからないとき、１８００－１０９１－１２でんわします。",
+      "vietnamese": "Nếu bạn không biết số điện thoại, hãy gọi 1800-1091-12.",
+      "number": 23
+    },
+    {
+      "word": "寂しい時、友達に電話を掛けます。お菓子をたくさん食べます。",
+      "reading": "さびしいとき、ともだちにでんわをかけます。お菓子をたくさん食べます。",
+      "vietnamese": "Khi tôi cảm thấy cô đơn, tôi gọi cho bạn bè của mình. Tôi ăn rất nhiều đồ ngọt.",
+      "number": 23
+    },
+    {
+      "word": "寒い時、エアコンを付けます。",
+      "reading": "さむいとき、エアコンをつけます。",
+      "vietnamese": "Bật điều hòa khi trời lạnh.",
+      "number": 23
+    },
+    {
+      "word": "テストの点が悪い時、ゴミ箱に捨てます。",
+      "reading": "テストのてんがわるいとき、ゴミばこにすてます。",
+      "vietnamese": "Khi tôi làm bài kiểm tra kém, tôi ném nó vào sọt rác.",
+      "number": 23
+    },
+    {
+      "word": "私は暇な時、映画を見ます。",
+      "reading": "わたしはひまなとき、えいがをみます。",
+      "vietnamese": "Tôi xem phim trong thời gian rảnh của tôi.",
+      "number": 23
+    },
+    {
+      "word": "先生は２６歳の時、結婚しました。",
+      "reading": "せんせいは２６さいのとき、けっこんしました。",
+      "vietnamese": "Anh kết hôn năm 36 tuổi.",
+      "number": 23
+    },
+    {
+      "word": "雨の時、家で勉強します。",
+      "reading": "雨の時、家で勉強します。",
+      "vietnamese": "Tôi học ở nhà khi trời mưa.",
+      "number": 23
+    },
+    {
+      "word": "ご飯を食べる時、「いただきます」と言います。",
+      "reading": "ごはんをたべるとき、「いただきます」といいます。",
+      "vietnamese": "Khi bạn ăn cơm, bạn nói itadakimasu.",
+      "number": 23
+    },
+    {
+      "word": "ご飯を食べた時、「ごちそうさまでした」と言います。",
+      "reading": "ごはんをたべたとき、「ごちそうさまでした」といいます。",
+      "vietnamese": "Khi bạn ăn cơm xong, bạn nói, Gochisousama deshita.",
+      "number": 23
+    },
+    {
+      "word": "寝る時、「おやすみ」と言います。",
+      "reading": "ねるとき、「おやすみ」といいます。",
+      "vietnamese": "Nói oyasumi khi bạn đi ngủ.",
+      "number": 23
+    },
+    {
+      "word": "起きた時、「おはよう」と言います。",
+      "reading": "おきたとき、「おはよう」といいます。",
+      "vietnamese": "Khi bạn thức dậy, hãy nói ohayou.",
+      "number": 23
+    },
+    {
+      "word": "帰る時、「さようなら」と言いましす。",
+      "reading": "かえるとき、「さようなら」といいましす。",
+      "vietnamese": "Khi bạn rời đi, bạn nói sayounara.",
+      "number": 23
+    },
+    {
+      "word": "家へ帰った時、「ただいま」と言います。",
+      "reading": "いえへかえったとき、「ただいま」といいます。",
+      "vietnamese": "Khi về đến nhà, hãy nói tadaima.",
+      "number": 23
+    },
+    {
+      "word": "プレゼントを貰った時、「ありがとう」と言います。",
+      "reading": "プレゼントをもらったとき、「ありがとう」といいます。",
+      "vietnamese": "Nói arigatou khi bạn nhận được một món quà.",
+      "number": 23
+    },
+    {
+      "word": "プレゼントをあげる時、「ほんのきもちです、どうぞ」と言います。",
+      "reading": "プレゼントをあげるとき、「ほんのきもちです、どうぞ」といいます。",
+      "vietnamese": "Khi tặng một món quà, hãy nói honnokimochidesu,dozou",
+      "number": 23
+    },
+    {
+      "word": "お酒を飲んだ時、運転しないでください。",
+      "reading": "おさけをのんだとき、うんてんしないでください。",
+      "vietnamese": "Không lái xe khi đã uống rượu bia.",
+      "number": 23
+    },
+    {
+      "word": "パスポートをなくした時、大使館へ行きます。",
+      "reading": "パスポートをなくしたとき、たいしかんへいいきます。",
+      "vietnamese": "Khi tôi bị mất hộ chiếu, tôi đến đại sứ quán.",
+      "number": 23
+    },
+    {
+      "word": "摘みを回すと、音が大きくなります。",
+      "reading": "つまみをまわすと、おとがおおきくなります。",
+      "vietnamese": "Xoay nút vặn làm cho âm thanh to hơn.",
+      "number": 23
+    },
+    {
+      "word": "こんボタンを押すと、CDが動きます。",
+      "reading": "こんボタンをおすと、CDがうごきます。",
+      "vietnamese": "Nhấn nút để di chuyển đĩa CD.",
+      "number": 23
+    },
+    {
+      "word": "春になると、桜が咲きます。",
+      "reading": "はるになると、さくらがさきます。",
+      "vietnamese": "Vào mùa xuân, hoa anh đào nở rộ.",
+      "number": 23
+    },
+    {
+      "word": "冬になると、雪が降ります。",
+      "reading": "ふゆになると、ゆきがふります。",
+      "vietnamese": "Vào mùa đông, tuyết rơi.",
+      "number": 23
+    },
+    {
+      "word": "日本語をよく勉強すると、日本語が上手になります。",
+      "reading": "にほんごをよくべんきょうすると、にほんごがじょうずになります。",
+      "vietnamese": "Nếu bạn học tiếng Nhật tốt, bạn sẽ trở nên giỏi tiếng Nhật.",
+      "number": 23
+    },
+    {
+      "word": "化粧すると、綺麗になります。",
+      "reading": "けしょうすると、きれいになります。",
+      "vietnamese": "Trang điểm làm cho bạn đẹp.",
+      "number": 23
+    },
+    {
+      "word": "まっすぐ行くと、右に駐車場があります。",
+      "reading": "まっすぐいくと、みぎにちゅうしゃじょうがあります。",
+      "vietnamese": "Đi thẳng và bạn sẽ thấy một bãi đậu xe bên phải của bạn.",
+      "number": 23
+    },
+    {
+      "word": "この橋を渡ると、右に電話があります。",
+      "reading": "このはしをわたると、みぎにでんわがあります。",
+      "vietnamese": "Sau khi đi qua cây cầu này, có một điện thoại ở bên phải.",
+      "number": 23
+    },
+    {
+      "word": "交差点を右へ曲がります。",
+      "reading": "こうさてんをみぎへまがります。",
+      "vietnamese": "Rẽ phải ở ngã tư.",
+      "number": 23
+    },
+    {
+      "word": "公園を散歩します。",
+      "reading": "こうえんをさんぽします。",
+      "vietnamese": "đi bộ trong công viên",
+      "number": 23
+    },
+    {
+      "word": "道を渡ります。",
+      "reading": "みちをわたります。",
+      "vietnamese": "qua đường.",
+      "number": 23
+    },
+    {
+      "word": "ロビーを走ります。",
+      "reading": "ロビーをはしります。",
+      "vietnamese": "chạy qua sảnh.",
+      "number": 23
+    },
+    {
+      "word": "こうえんを歩きます。",
+      "reading": "こうえんをあるきます。",
+      "vietnamese": "đi bộ trong công viên",
+      "number": 23
+    }
+  ]
+}

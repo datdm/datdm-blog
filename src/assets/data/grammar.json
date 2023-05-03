@@ -1,0 +1,17 @@
+{
+  "grammar": [
+    {
+      "no": 1,
+      "content": [
+        {
+          "structure": "N　は　N2　です。",
+          "mean": "N là N2."
+        },
+        {
+          "structure": "N　は　N2　ですか。",
+          "mean": "N là N2 phải không."
+        }
+      ]
+    }
+  ]
+}

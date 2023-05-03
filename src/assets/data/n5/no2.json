@@ -1,0 +1,94 @@
+{
+  "reading": [
+    {
+      "word": "これは辞書ですか。",
+      "reading": "これはじしょですか。",
+      "vietnamese": "Đây có phải là từ điển không?",
+      "number": 2
+    },
+    {
+      "word": "それは誰の傘ですか。",
+      "reading": "それはだれのかさですか。",
+      "vietnamese": "ô của ai?",
+      "number": 2
+    },
+    {
+      "word": "この本は私のです。",
+      "reading": "このほんはわたしのです。",
+      "vietnamese": "Cuốn sách này là của tôi.",
+      "number": 2
+    },
+    {
+      "word": "あの方はどなたですか。",
+      "reading": "あのかたはどなたですか。",
+      "vietnamese": "Người đó là ai.",
+      "number": 2
+    },
+    {
+      "word": "これは辞書ですか。➞はい、辞書です。",
+      "reading": "これはじしょですか。➞はい、じしょです。",
+      "vietnamese": "đây có phải là từ điển không? ➞Vâng, đó là một cuốn từ điển.",
+      "number": 2
+    },
+    {
+      "word": "それはミラーさんのですか。➞いいえ、ちがいます。",
+      "reading": "それはミラーさんのですか。➞いいえ、ちがいます。",
+      "vietnamese": "Đó có phải là của Mira không? ➞Không, không phải",
+      "number": 2
+    },
+    {
+      "word": "それはシャープペンシルですか。➞いいえ、ポールペンです。",
+      "reading": "それはシャープペンシルですか。➞いいえ、ポールペンです",
+      "vietnamese": "Đó có phải là một cây bút chì kim? ➞Không, đó là một cây bút bi.",
+      "number": 2
+    },
+    {
+      "word": "これは９ですか。７ですか。➞９です。",
+      "reading": "これは９ですか。７ですか。➞９です。",
+      "vietnamese": "Đây có phải là 9 không? Có phải là 7 không? ➞Đó là 9.",
+      "number": 2
+    },
+    {
+      "word": "これはコンピューターの本です。",
+      "reading": "これはコンピューターのほんです。",
+      "vietnamese": "Đây là một cuốn sách về máy tính.",
+      "number": 2
+    },
+    {
+      "word": "これは私の本です。",
+      "reading": "これはわたしのほんです。",
+      "vietnamese": "đây là quyển sách của tôi.",
+      "number": 2
+    },
+    {
+      "word": "あれは誰の鞄ですか。➞佐藤さんのです。",
+      "reading": "あれはだれのかばんですか。➞さとうさんのです。",
+      "vietnamese": "Cái túi xách đó của ai vậy? ➞Là của Sato.",
+      "number": 2
+    },
+    {
+      "word": "この鞄はどなたのですか。➞いいえ、私のじゃありません。",
+      "reading": "このかばんはどなたのですか。➞いいえ、わたしのじゃありません。",
+      "vietnamese": "Ba lô ai đây? ➞Không, nó không phải của tôi.",
+      "number": 2
+    },
+    {
+      "word": "ミラーさんはIMCの社員ですか。➞はい、IMCの社員です。",
+      "reading": "ミラーさんはIMCのしゃいんですか。➞はい、IMCのしゃいんです。",
+      "vietnamese": "Mira có phải là nhân viên của IMC không? ➞Vâng, là nhân viên của IMC.",
+      "number": 2
+    },
+    {
+      "word": "これは何の本ですか。➞日本語の本です。",
+      "reading": "これはなんのほんですか。➞にほんごのほんです。",
+      "vietnamese": "đây là loại sách gì? ➞Sách tiếng Nhật.",
+      "number": 2
+    },
+    {
+      "word": "この傘はあなたのですか。➞いいえ、ちがいます、シュミットさんのです。➞そうですか。",
+      "reading": "このかさはあなたのですか。➞いいえ、ちがいます、シュミットさんのです。➞そうですか。",
+      "vietnamese": "Cái ô này là của bạn à? ➞Không, đó là của Schmidt. ➞ Vậy à?",
+      "number": 2
+    }
+  ]
+}

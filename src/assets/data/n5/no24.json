@@ -1,0 +1,100 @@
+{
+  "reading": [
+    {
+      "word": "先生がお金をくれます。",
+      "reading": "せんせいがおかねをくれます。",
+      "vietnamese": "Giáo viên của tôi cho tôi tiền.",
+      "number": 24
+    },
+    {
+      "word": "チャンさんは私に花をくれました。",
+      "reading": "チャンさんはわたしにはなをくれました。",
+      "vietnamese": "Chan tặng hoa cho tôi.",
+      "number": 24
+    },
+    {
+      "word": "キンさんがこの時計をくれました。",
+      "reading": "キンさんがこの時計をくれました。",
+      "vietnamese": "Anh Kin tặng tôi chiếc đồng hồ này.",
+      "number": 24
+    },
+    {
+      "word": "恋人が指輪をくれました。",
+      "reading": "こいびとがゆびわをくれました。",
+      "vietnamese": "Người yêu của tôi đã cho tôi một chiếc nhẫn.",
+      "number": 24
+    },
+    {
+      "word": "私は友達に勉強を教えてあげました。",
+      "reading": "わたしはともだちにべんきょうをおしえてあげました。",
+      "vietnamese": "Tôi đã giúp bạn tôi học.",
+      "number": 24
+    },
+    {
+      "word": "私は友達に傘を貸してあげました。",
+      "reading": "わたしはともだちにかさをかしてあげました。",
+      "vietnamese": "Tôi đã cho bạn tôi mượn một chiếc ô.",
+      "number": 24
+    },
+    {
+      "word": "友達に電話番号を教えてあげます。",
+      "reading": "ともだちにでんわばんごうをおしえてあげます。",
+      "vietnamese": "Tôi sẽ đưa số điện thoại của tôi cho bạn tôi.",
+      "number": 24
+    },
+    {
+      "word": "私はおじいさんに読んであげます。",
+      "reading": "私はおじいさんに読んであげます。",
+      "vietnamese": "Tôi sẽ đọc cho ông tôi nghe.",
+      "number": 24
+    },
+    {
+      "word": "私はHoaさんにポールペンを貸してもらいました。",
+      "reading": "わたしはHoaさんにポールペンをかしてもらいました。",
+      "vietnamese": "Tôi đã nhờ Hoa cho tôi mượn một cây bút bi.",
+      "number": 24
+    },
+    {
+      "word": "私は病気ですから、Dungさんに掃除してもらいました。",
+      "reading": "わたしはびょうきですから、Dungさんにそうじしてもらいました。",
+      "vietnamese": "Vì tôi đang ốm nên tôi nhờ Dũng lau giúp.",
+      "number": 24
+    },
+    {
+      "word": "私は田中さんに電話番号を教えてもらいました。",
+      "reading": "わたしはたなかさんにでんわばんごうをおしえてもらいました。",
+      "vietnamese": "Tôi xin số điện thoại của ông Tanaka.",
+      "number": 24
+    },
+    {
+      "word": "日本語が分からない時、誰に教えてもらいます。",
+      "reading": "にほんごがわからないとき、だれにおしえてもらいます。",
+      "vietnamese": "Khi tôi không hiểu tiếng Nhật, tôi sẽ nhờ ai dạy cho tôi?",
+      "number": 24
+    },
+    {
+      "word": "チャンさんが本を貸してくれます。",
+      "reading": "チャンさんがほんをかしてくれます。",
+      "vietnamese": "Chan sẽ cho bạn mượn một cuốn sách.",
+      "number": 24
+    },
+    {
+      "word": "日本人が地図を貸してくれました。",
+      "reading": "にほんじんがちずをかしてくれました。",
+      "vietnamese": "Người Nhật cho tôi mượn bản đồ.",
+      "number": 24
+    },
+    {
+      "word": "兄が仕事を手伝ってくれました。",
+      "reading": "あにがしごとをてつだってくれました。",
+      "vietnamese": "Anh trai tôi đã giúp tôi với công việc của tôi.",
+      "number": 24
+    },
+    {
+      "word": "私は友達が欲しいです。Linhさんが友達になってくれました。",
+      "reading": "わたしはともだちがほしいです。Linhさんがともだちになってくれました。",
+      "vietnamese": "tôi muốn một người bạn Linh đã kết bạn.",
+      "number": 24
+    }
+  ]
+}

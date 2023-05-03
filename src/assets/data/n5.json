@@ -644,8 +644,80 @@
     },
     {
       "word": "昨日、どこへ行きましたか。➞どこも行きませんでした。",
-      "reading": "あした、どこへいきましたか。➞どこもいきませんでした。",
+      "reading": "きのう、どこへいきましたか。➞どこもいきませんでした。",
       "vietnamese": "hôm qua bạn đã đi đâu ➞Tôi không đi đâu cả.",
+      "number": 5
+    },
+    {
+      "word": "毎日、何で学校へ行きますか。➞毎日、バスで学校へ行きます。",
+      "reading": "まいにち、なにでがっこうへいきますか。➞まいにち、バスでがっこうへいきます。",
+      "vietnamese": "Hàng ngày bạn đến trường bằng gì? ➞Tôi đi học bằng xe buýt mỗi ngày.",
+      "number": 5
+    },
+    {
+      "word": "昨日の晩どっやて内へ帰りますか。➞昨日の晩、バイクで内へ帰ります。",
+      "reading": "きのうのばんどっやてうちへかえりますか。➞きのうのばん、バイクでうちへかえります。",
+      "vietnamese": "Làm thế nào bạn về nhà đêm qua? ➞ Đêm qua, tôi đi xe máy về nhà.",
+      "number": 5
+    },
+    {
+      "word": "バイクで実家へ帰ります。",
+      "reading": "バイクでじっかへかえります。",
+      "vietnamese": "Tôi về nhà bằng xe đạp.",
+      "number": 5
+    },
+    {
+      "word": "飛行機で日本へ来ました。",
+      "reading": "ひこうきでにほんへきました。",
+      "vietnamese": "Tôi đến Nhật Bản bằng máy bay.",
+      "number": 5
+    },
+    {
+      "word": "舟でハロン湾へ行きます。",
+      "reading": "ふねでハロンわんへいきます。",
+      "vietnamese": "Đi thuyền đến Vịnh Hạ Long.",
+      "number": 5
+    },
+    {
+      "word": "歩いて日本語のモリへ行きました。",
+      "reading": "あるいてにほんごのモリへいきました。",
+      "vietnamese": "Tôi đi bộ đến Mori tiếng Nhật.",
+      "number": 5
+    },
+    {
+      "word": "何でスーパーへ行きますか。➞バスで行きます。",
+      "reading": "なにでスーパーへいきますか。➞バスでいきます。",
+      "vietnamese": "Bạn đi siêu thị để làm gì? ➞Tôi sẽ đi bằng xe buýt.",
+      "number": 5
+    },
+    {
+      "word": "何で東京へ来ましたか。➞自動車で東京へ来ました。",
+      "reading": "なにでとうきょうへきましたか。➞じどうしゃでとうきょうへきました。",
+      "vietnamese": "Bạn đến Tokyo bằng gì? ➞Tôi đến Tokyo bằng ô tô.",
+      "number": 5
+    },
+    {
+      "word": "何で美術館へ行きましたか。➞歩いていきました。",
+      "reading": "なにでびじゅつかんへいきましたか。➞あるいていきました。",
+      "vietnamese": "Bạn đến bảo tàng bằng gì? Tôi đi bộ.",
+      "number": 5
+    },
+    {
+      "word": "何でデパートへ行きますか。➞タクシーで行きます。",
+      "reading": "なにでデパートへいきますか。➞タクシーでいきます。",
+      "vietnamese": "Bạn đến cửa hàng bách hóa bằng gì? Tôi sẽ đi bằng taxi.",
+      "number": 5
+    },
+    {
+      "word": "なにで韓国へ帰りますか。➞舟で帰ります。",
+      "reading": "なにでかんこくへかえりますか。➞ふねでかえります。",
+      "vietnamese": "Bạn quay trở lại Hàn Quốc bằng gì? Tôi sẽ trở về bằng thuyền.",
+      "number": 5
+    },
+    {
+      "word": "歩いてホテルへ行きます。",
+      "reading": "あるいてホテルへいきます。",
+      "vietnamese": "Tôi sẽ đi bộ đến khách sạn.",
       "number": 5
     }
   ]
