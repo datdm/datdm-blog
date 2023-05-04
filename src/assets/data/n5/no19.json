@@ -1,0 +1,16 @@
+{
+  "reading": [
+    {
+      "word": "私は寿司を食べたことがあります。",
+      "reading": "わたしはすしをたべたことがあります。",
+      "vietnamese": "Tôi đã ăn sushi.",
+      "number": 20
+    },
+    {
+      "word": "馬に乗ったことがありません。",
+      "reading": "うまにのったことがありません。",
+      "vietnamese": "Tôi chưa bao giờ cưỡi ngựa.",
+      "number": 20
+    }
+  ]
+}

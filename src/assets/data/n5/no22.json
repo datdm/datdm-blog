@@ -1,0 +1,154 @@
+{
+  "reading": [
+    {
+      "word": "これは子供がよく食べるお菓子です。",
+      "reading": "これはこどもがよくたべるおかしです。",
+      "vietnamese": "Đây là món ăn vặt mà các bé hay ăn.",
+      "number": 22
+    },
+    {
+      "word": "これはDungさんがよく飲むコーヒーです。",
+      "reading": "これはDungさんがよくのむコーヒーです。",
+      "vietnamese": "Đây là loại cà phê mà anh Dũng thường uống.",
+      "number": 22
+    },
+    {
+      "word": "これは昨日オバマ大統領と撮った写真です。",
+      "reading": "これはきのうオバマだいとうりょうととったしゃしんです。",
+      "vietnamese": "Đây là bức ảnh tôi chụp với Tổng thống Obama ngày hôm qua.",
+      "number": 22
+    },
+    {
+      "word": "それは女性がよく読む雑誌です。",
+      "reading": "それはじょせいがよくよむざっしです。",
+      "vietnamese": "Đó là một tạp chí mà phụ nữ thường đọc.",
+      "number": 22
+    },
+    {
+      "word": "ここはタバコを吸う所です。",
+      "reading": "ここはタバコを吸うところです。",
+      "vietnamese": "Đây là nơi bạn hút thuốc.",
+      "number": 22
+    },
+    {
+      "word": "ここは本を読む所です。",
+      "reading": "ここはほんをよむところです。",
+      "vietnamese": "Đây là nơi tôi đọc sách.",
+      "number": 22
+    },
+    {
+      "word": "そこは初めて恋人に会った所です。",
+      "reading": "そこははじめてこいびとにあったところです。",
+      "vietnamese": "Đó là nơi tôi gặp bạn gái lần đầu tiên.",
+      "number": 22
+    },
+    {
+      "word": "ここは子供とよく遊ぶ所です。",
+      "reading": "ここはこどもとよくあそぶとこるです。",
+      "vietnamese": "Đây là nơi tôi thường chơi với lũ trẻ.",
+      "number": 22
+    },
+    {
+      "word": "Aさんは電話を掛けている人です。",
+      "reading": "Aさんはでんわをかけているひとです。",
+      "vietnamese": "A là người đang gọi.",
+      "number": 22
+    },
+    {
+      "word": "Hungさんは新聞を読んでいる人です。",
+      "reading": "Hungさんはしんぶんをよんでいるひとです。",
+      "vietnamese": "Hùng đang đọc báo.",
+      "number": 22
+    },
+    {
+      "word": "彼は昨日 私の母を手伝った人です。",
+      "reading": "かれはきのう わたしのははをてつだったひとです。",
+      "vietnamese": "Anh ấy là người đã giúp mẹ tôi ngày hôm qua.",
+      "number": 22
+    },
+    {
+      "word": "Linhさんは白いシャツを着ている人です。",
+      "reading": "Linhさんはしろいシャツをきているひとです。",
+      "vietnamese": "Linh mặc áo sơ mi trắng.",
+      "number": 22
+    },
+    {
+      "word": "Thaoさんは大きい帽子を被っている人です。",
+      "reading": "Thaoさんはおおきいぼうしをかぶっているひとです。",
+      "vietnamese": "Thảo là người đội một chiếc mũ lớn.",
+      "number": 22
+    },
+    {
+      "word": "あの眼鏡を掛けている人は山田さんです。",
+      "reading": "あのめがねをかけているひとはやまださんです。",
+      "vietnamese": "Người đeo kính đó là Yamada.",
+      "number": 22
+    },
+    {
+      "word": "あの赤い服を着ている女の人はHuongさんです。",
+      "reading": "あのあかいふくをきているおんなのひとはHuongさんです。",
+      "vietnamese": "Người phụ nữ áo đỏ đó là Hương.",
+      "number": 22
+    },
+    {
+      "word": "寝ている人はAnhさんです。",
+      "reading": "ねているひとはAnhさんです。",
+      "vietnamese": "Anh đang ngủ.",
+      "number": 22
+    },
+    {
+      "word": "あそこでパソコンをしている人は誰ですか。",
+      "reading": "あそこでパソコンをしているひとはだれですか。",
+      "vietnamese": "Ai đang sử dụng máy tính ở đằng kia?",
+      "number": 22
+    },
+    {
+      "word": "母が作ったケーキを食べました。",
+      "reading": "ははがつくったケーキをたべました。",
+      "vietnamese": "Tôi đã ăn chiếc bánh mẹ tôi làm.",
+      "number": 22
+    },
+    {
+      "word": "私が言う言葉を書いてください。",
+      "reading": "わたしがいうことばをかいてください。",
+      "vietnamese": "Viết những lời tôi nói",
+      "number": 22
+    },
+    {
+      "word": "机の上にある本を見せてください。",
+      "reading": "つくえのうえにあるほんをみせてください。",
+      "vietnamese": "Vui lòng cho tôi xem cuốn sách trên bàn.",
+      "number": 22
+    },
+    {
+      "word": "私はスポーツをする女の人が好きです。",
+      "reading": "わたしはスポーツをするおんなのひとがすきです。",
+      "vietnamese": "Tôi thích phụ nữ chơi thể thao.",
+      "number": 22
+    },
+    {
+      "word": "私は中国語を勉強する時間がありません。",
+      "reading": "わたしはちゅうごくごをべんきょうするじかんがありません。",
+      "vietnamese": "Tôi không có thời gian để học tiếng Trung.",
+      "number": 22
+    },
+    {
+      "word": "私は寝る時間がありません。",
+      "reading": "わたしはねるじかんがありません。",
+      "vietnamese": "tôi không có thời gian để ngủ",
+      "number": 22
+    },
+    {
+      "word": "私は今晩友達に会う約束があります。",
+      "reading": "わたしはこんばんともだちにあうやくそくがあります。",
+      "vietnamese": "Tôi có hẹn gặp bạn tôi tối nay.",
+      "number": 22
+    },
+    {
+      "word": "彼女と映画を見に行く約束があります。",
+      "reading": "かのじょとえいがをみにいくやくそくがあります。",
+      "vietnamese": "Tôi có hẹn đi xem phim với cô ấy.",
+      "number": 22
+    }
+  ]
+}

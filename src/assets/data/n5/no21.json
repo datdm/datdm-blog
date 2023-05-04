@@ -1,0 +1,226 @@
+{
+  "reading": [
+    {
+      "word": "日本人はよく働くと思います。",
+      "reading": "にほんじんはよくはたらくとおもいます。",
+      "vietnamese": "Tôi nghĩ người Nhật làm việc chăm chỉ.",
+      "number": 21
+    },
+    {
+      "word": "コンピューターは役に立つと思います。",
+      "reading": "コンピューターはやくにたつとおもいます。",
+      "vietnamese": "Tôi nghĩ rằng máy tính là hữu ích.",
+      "number": 21
+    },
+    {
+      "word": "ベトナムの大学生はあまり勉強しないと思います。",
+      "reading": "ベトナムのだいがくせいはあまりべんきょうしないとおもいます。",
+      "vietnamese": "Tôi nghĩ sinh viên đại học Việt Nam không học nhiều.",
+      "number": 21
+    },
+    {
+      "word": "日本語の勉強は面白いと思います。",
+      "reading": "にほんごのべんきょうはおもしろいとおもいます。",
+      "vietnamese": "Tôi nghĩ học tiếng Nhật rất thú vị.",
+      "number": 21
+    },
+    {
+      "word": "日本は物価が高いけど、便利だと思います。",
+      "reading": "にほんはぶっかがたかいけど、べんりだとおもいます。",
+      "vietnamese": "Nhật Bản là đắt tiền, nhưng tôi nghĩ rằng nó thuận tiện.",
+      "number": 21
+    },
+    {
+      "word": "昨日のテストは難しかったと思います。",
+      "reading": "きのうのテストはむずかしかったとおもいます。",
+      "vietnamese": "Tôi nghĩ rằng bài kiểm tra ngày hôm qua là khó khăn.",
+      "number": 21
+    },
+    {
+      "word": "Hungさんハンサムだと思います。",
+      "reading": "Hungさんハンサムだとおもいます。",
+      "vietnamese": "Tôi nghĩ Hung đẹp trai.",
+      "number": 21
+    },
+    {
+      "word": "ファックスは便利だと思います。",
+      "reading": "ファックスはべんりだとおもいます。",
+      "vietnamese": "Tôi nghĩ rằng fax là thuận tiện.",
+      "number": 21
+    },
+    {
+      "word": "明日、雨が降ると思います。黒い雲がありますから。",
+      "reading": "あした、あめがふるとおもいます。くろいくもがありますから。",
+      "vietnamese": "Tôi nghĩ trời sẽ mưa vào ngày mai. Có những đám mây đen",
+      "number": 21
+    },
+    {
+      "word": "田中さんは来ないと思います。昨日、風邪でしたから。",
+      "reading": "たなかさんはこないとおもいます。きのう、かぜでしたから。",
+      "vietnamese": "Tôi không nghĩ Tanaka sẽ đến. Tôi đã bị cảm lạnh ngày hôm qua.",
+      "number": 21
+    },
+    {
+      "word": "Hieuさんはもう出かけたと思います。部屋が暗いですから。",
+      "reading": "Hieuさんはもうでかけたとおもいます。へやがくらいですから。",
+      "vietnamese": "Tôi nghĩ Hiếu đã đi rồi. Vì phòng tối.",
+      "number": 21
+    },
+    {
+      "word": "前のテストは難しかったですから、明日のテストも難しいと思います。",
+      "reading": "まえのテストはむずかしかったですから、あしたのテストもむずかしいとおもいます。",
+      "vietnamese": "Bài kiểm tra trước rất khó nên tôi nghĩ bài kiểm tra ngày mai cũng sẽ khó.",
+      "number": 21
+    },
+    {
+      "word": "Park先生はとても晩期だと思います。",
+      "reading": "Parkせんせいはとてもばんきだとおもいます。",
+      "vietnamese": "Tôi nghĩ thầy Park đến rất muộn.",
+      "number": 21
+    },
+    {
+      "word": "Namさんはきっとタバコを吸わないと思います。",
+      "reading": "Namさんはきっとタバコをすわないとおもいます。",
+      "vietnamese": "Tôi chắc rằng Nam không hút thuốc.",
+      "number": 21
+    },
+    {
+      "word": "出かける時、「行ってきます」と言います。",
+      "reading": "でかけるとき、「いってきます」といいます。",
+      "vietnamese": "Khi bạn đi ra ngoài, hãy nói ittekimasu",
+      "number": 21
+    },
+    {
+      "word": "帰って時、「ただいま」と言います。",
+      "reading": "かえってとき、「ただいま」といいます。",
+      "vietnamese": "Khi bạn về đến nhà, hãy nói tadaima.",
+      "number": 21
+    },
+    {
+      "word": "ご飯を食べる前に「いただきます」と言います。",
+      "reading": "ご飯を食べる前に「いただきます」といいます。",
+      "vietnamese": "Nói itadakimasu trước khi ăn.",
+      "number": 21
+    },
+    {
+      "word": "寝る前に「おやすみなさい」と言います。",
+      "reading": "寝る前に「おやすみなさい」といいます。",
+      "vietnamese": "Nói oyasuminasai trước khi đi ngủ.",
+      "number": 21
+    },
+    {
+      "word": "Aさんは彼女がいると言いました。",
+      "reading": "Aさんはかのじょがいるといいました。",
+      "vietnamese": "A nói anh có bạn gái.",
+      "number": 21
+    },
+    {
+      "word": "息子は母に夕食を食べないと言いました。",
+      "reading": "むすこはははにゆうしょくをたべないといいました。",
+      "vietnamese": "Cậu con trai nói với mẹ rằng cậu sẽ không ăn tối.",
+      "number": 21
+    },
+    {
+      "word": "ThaoさんはQuynhさんに結婚したと言いました。",
+      "reading": "ThaoさんはQuynhさんにけっこんしたといいました。",
+      "vietnamese": "Thảo nói với Quỳnh là anh lấy vợ.",
+      "number": 21
+    },
+    {
+      "word": "HienさんはHaoさんにあのレストランは美味しいと言いました。",
+      "reading": "HienさんはHaoさんにあのレストランはおいしいといいました。",
+      "vietnamese": "Hiền nói với Hào rằng nhà hàng rất ngon.",
+      "number": 21
+    },
+    {
+      "word": "HangさんはHuongさんに好きだと言いました。",
+      "reading": "HangさんはHuongさんにすきだといいました。",
+      "vietnamese": "Hằng nói với Hương rằng anh thích cô ấy.",
+      "number": 21
+    },
+    {
+      "word": "先生は水曜日は休みだと言いました。",
+      "reading": "せんせいはすいようびはやすみだといいました。",
+      "vietnamese": "Giáo viên nói thứ tư là một ngày nghỉ.",
+      "number": 21
+    },
+    {
+      "word": "Aさんはお酒を飲むでしょう？",
+      "reading": "Aさんはおさけをのむでしょう？",
+      "vietnamese": "A có uống rượu không?",
+      "number": 21
+    },
+    {
+      "word": "Aさんは先生の電話番号を知っているでしょう？",
+      "reading": "Aさんはせんせいのでんわばんごうをしっているでしょう？",
+      "vietnamese": "Anh A biết số điện thoại của thầy phải không?",
+      "number": 21
+    },
+    {
+      "word": "Aさんは結婚しているでしょう？",
+      "reading": "Aさんはけっこんしているでしょう？",
+      "vietnamese": "Anh A có gia đình rồi phải không?",
+      "number": 21
+    },
+    {
+      "word": "Aさんは明日 学校に行かないでしょう？",
+      "reading": "Aさんはあした かっこうにいかないでしょう？",
+      "vietnamese": "A sẽ không đi học vào ngày mai?",
+      "number": 21
+    },
+    {
+      "word": "Aさんは昨日ケーキを食べたでしょう？",
+      "reading": "Aさんはきのうケーキをたべたでしょう？",
+      "vietnamese": "Hôm qua A có ăn bánh không?",
+      "number": 21
+    },
+    {
+      "word": "日本の夏は暑いでしょう？日本の冬は寒いでしょう？",
+      "reading": "にほんのなつはあついでしょう？にほんのふゆはさむいでしょう？",
+      "vietnamese": "Mùa hè ở Nhật nóng lắm phải không? Mùa đông ở Nhật lạnh lắm phải không?",
+      "number": 21
+    },
+    {
+      "word": "A先生はハンサムでしょう？それはAさんの鞄でしょう？",
+      "reading": "Aせんせいはハンサムでしょう？それはAさんのかばんでしょう？",
+      "vietnamese": "Thầy A đẹp trai nhỉ? Đó là túi của A phải không?",
+      "number": 21
+    },
+    {
+      "word": "Aさんはあの人でしょう？今日は日曜日でしょう？",
+      "reading": "Aさんはあの人でしょう？今日は日曜日でしょう？",
+      "vietnamese": "A có phải là người đó không? Hôm nay là chủ nhật phải không?",
+      "number": 21
+    },
+    {
+      "word": "ハノイでベトナムとタイのサッカー試合があります。",
+      "reading": "ハノイでベトナムとタイのサッカーしあいがあります。",
+      "vietnamese": "Có một trận bóng đá giữa Việt Nam và Thái Lan tại Hà Nội.",
+      "number": 21
+    },
+    {
+      "word": "会議室で大切な会議があります。",
+      "reading": "かいぎしつでたいせつなかいぎがあります。",
+      "vietnamese": "Tôi có một cuộc họp quan trọng trong phòng họp.",
+      "number": 21
+    },
+    {
+      "word": "２０１１年 日本で大きい地震がありました。",
+      "reading": "２０１１ねん にほんでおおきいじしんがありました。",
+      "vietnamese": "Năm 2011 đã xảy ra một trận động đất lớn ở Nhật Bản.",
+      "number": 21
+    },
+    {
+      "word": "BacNinhでLim祭りがあります。",
+      "reading": "BacNinhでLimまつりがあります。",
+      "vietnamese": "Có một Hội Lim ở Bắc Ninh.",
+      "number": 21
+    },
+    {
+      "word": "来週 友達の家でパーティーがあります。",
+      "reading": "らいしゅう ともだちのいえでパーティーがあります。",
+      "vietnamese": "Tôi có một bữa tiệc tại nhà của bạn tôi vào tuần tới.",
+      "number": 21
+    }
+  ]
+}
