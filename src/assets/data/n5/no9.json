@@ -1,0 +1,148 @@
+{
+  "reading": [
+    {
+      "word": "私は日本語が分かります。",
+      "reading": "わたしはにほんごがわかります。",
+      "vietnamese": "Tôi hiểu tiếng Nhật.",
+      "number": 9
+    },
+    {
+      "word": "私は日本のパソコンがあります。",
+      "reading": "わたしはにほんのパソコンがあります。",
+      "vietnamese": "Tôi có một máy tính Nhật Bản.",
+      "number": 9
+    },
+    {
+      "word": "サッカーが好きます。",
+      "reading": "サッカーがすきます。",
+      "vietnamese": "Tôi thích bóng đá.",
+      "number": 9
+    },
+    {
+      "word": "マムトムが嫌いです。",
+      "reading": "マムトムがきらいです。",
+      "vietnamese": "Tôi ghét mamtom.",
+      "number": 9
+    },
+    {
+      "word": "英語が下手です。",
+      "reading": "えいごがへたです。",
+      "vietnamese": "Tôi không giỏi tiếng Anh.",
+      "number": 9
+    },
+    {
+      "word": "どんな飲み物が好きですか。➞お酒が好きです。",
+      "reading": "どんなのみものがすきですか。➞おさけがすきです。",
+      "vietnamese": "bạn thích loại đồ uống nào ➞Tôi thích rượu.",
+      "number": 9
+    },
+    {
+      "word": "どんな食べ物が好きですか。➞寿司が好きです。",
+      "reading": "どんなたべものがすきですか。➞すしがすきです。",
+      "vietnamese": "Bạn thích đồ ăn gì. ➞Tôi thích sushi.",
+      "number": 9
+    },
+    {
+      "word": "どんなスポーツが上手ですか。➞サッカーが上手です。",
+      "reading": "どんなスポーツがじょうずですか。➞サッカーがじょうずです。",
+      "vietnamese": "Bạn chơi tốt môn thể thao nào? ➞Anh ấy giỏi bóng đá.",
+      "number": 9
+    },
+    {
+      "word": "どんな果物が好きですか。➞蜜柑が好きです。",
+      "reading": "どんなくだものがすきですか。➞みかんがすきです。",
+      "vietnamese": "bạn thích loại trái cây nào ➞Tôi thích cam.",
+      "number": 9
+    },
+    {
+      "word": "日本語がよく分かります。",
+      "reading": "にほんごがよくわかります。",
+      "vietnamese": "Tôi hiểu tiếng Nhật rất tốt.",
+      "number": 9
+    },
+    {
+      "word": "日本語が大体分かります。",
+      "reading": "にほんごがだいたいわかります。",
+      "vietnamese": "Tôi có thể hiểu hầu hết tiếng Nhật.",
+      "number": 9
+    },
+    {
+      "word": "日本語があまり分かりません。",
+      "reading": "にほんごがあまりわかりません。",
+      "vietnamese": "Tôi không hiểu tiếng Nhật lắm.",
+      "number": 9
+    },
+    {
+      "word": "日本語が全然分かりません。",
+      "reading": "にほんごがぜんぜんわかりません。",
+      "vietnamese": "Tôi không hiểu tiếng Nhật chút nào.",
+      "number": 9
+    },
+    {
+      "word": "ビールをたくさん飲みました。ビールを少し飲みました。ビールをあまり飲みませんでした。ビールを全然 飲みませんでした。",
+      "reading": "ビールをたくさんのみました。ビールをすこしのみました。ビールをあまりのみませんでした。ビールをぜんぜん のみませんでした。",
+      "vietnamese": "Tôi đã uống rất nhiều bia. Tôi đã uống một ít bia. Tôi không uống nhiều bia. Tôi không hề uống bia.",
+      "number": 9
+    },
+    {
+      "word": "あの女の人は全然 可愛いです。",
+      "reading": "あのおんなのひとはぜんぜん わかいいです。",
+      "vietnamese": "Cô gái đó hoàn toàn dễ thương.",
+      "number": 9
+    },
+    {
+      "word": "お金がありませんから、カメラを買いません。",
+      "reading": "おかねがありませんから、カメラをかいません。",
+      "vietnamese": "Tôi không mua máy ảnh vì tôi không có tiền.",
+      "number": 9
+    },
+    {
+      "word": "時間がありませんから、サッカーをしません。",
+      "reading": "じかんがありませんから、サッカーをしません。",
+      "vietnamese": "Tôi không chơi bóng đá vì tôi không có thời gian.",
+      "number": 9
+    },
+    {
+      "word": "ビールが好きですから、毎日 ビールを飲みます。",
+      "reading": "ビールがすきですから、まいにち ビールをのみます。",
+      "vietnamese": "Tôi thích bia, vì vậy tôi uống bia mỗi ngày.",
+      "number": 9
+    },
+    {
+      "word": "今日は暑いですから、アイスクリームを食べます。",
+      "reading": "きょうはあついですから、アイスクリームをたべます。",
+      "vietnamese": "Hôm nay trời nóng, vì vậy tôi sẽ đi ăn kem.",
+      "number": 9
+    },
+    {
+      "word": "どうして日本語を勉強しますか。➞来年の４月に日本へ行きますから。",
+      "reading": "どうしてにほんごをべんきょうしますか。➞らいねんの４がつににほんへいきますから。",
+      "vietnamese": "Tại sao bạn học tiếng Nhật? ➞Tôi sẽ đi Nhật vào tháng 4 tới.",
+      "number": 9
+    },
+    {
+      "word": "どうして昨日パーティーに来ませんでしたか。➞宿題がありましたから。",
+      "reading": "どうしてきのうパーティーにきませんでしたか。➞しゅくだいがありましたから。",
+      "vietnamese": "Tại sao bạn không đến bữa tiệc ngày hôm qua? ➞Bởi vì tôi có bài tập về nhà.",
+      "number": 9
+    },
+    {
+      "word": "どうしてマムトムを食べませんか。➞マムトムが嫌いですから。",
+      "reading": "どうしてマムトムをたべませんか。➞マムトムがきらいですから。",
+      "vietnamese": "Tại sao bạn không ăn mamtom? ➞Vì tôi không thích mamtom.",
+      "number": 9
+    },
+    {
+      "word": "明日、会社を休みます。どうしてですか。➞用事がありますから。",
+      "reading": "あした、かいしゃをやすみます。どうしてですか。➞ようじがありますから。",
+      "vietnamese": "Tôi sẽ vắng mặt ở công ty vào ngày mai. Tại sao. ➞Tôi có việc phải làm.",
+      "number": 9
+    },
+    {
+      "word": "今日、私は早く帰ります。どうしてですか。➞子供の誕生日です。",
+      "reading": "きょう、わたしははやくかえります。どうしてですか。➞こどものたんじょうびです。",
+      "vietnamese": "Hôm nay tôi sẽ về nhà sớm. Tại sao. ➞ Đó là sinh nhật của con tôi.",
+      "number": 9
+    }
+  ]
+}

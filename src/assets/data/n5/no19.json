@@ -4,13 +4,109 @@
       "word": "私は寿司を食べたことがあります。",
       "reading": "わたしはすしをたべたことがあります。",
       "vietnamese": "Tôi đã ăn sushi.",
-      "number": 20
+      "number": 19
     },
     {
       "word": "馬に乗ったことがありません。",
       "reading": "うまにのったことがありません。",
       "vietnamese": "Tôi chưa bao giờ cưỡi ngựa.",
-      "number": 20
+      "number": 19
+    },
+    {
+      "word": "Hungさんはホーチミンに３回 行ったことがあります。",
+      "reading": "Hungさんはホーチミンに３かい いったことがあります。",
+      "vietnamese": "Hùng đã đến thành phố Hồ Chí Minh ba lần.",
+      "number": 19
+    },
+    {
+      "word": "日本へ旅行したことがありますか。➞はい、あります。",
+      "reading": "にほんへりょこうしたことがありますか。➞はい、あります。",
+      "vietnamese": "Bạn đã từng đi du lịch Nhật Bản chưa? ➞Có, có.",
+      "number": 19
+    },
+    {
+      "word": "土曜日 日本語を勉強したり、映画を見たしました。",
+      "reading": "どうようび にほんごをべんきょうしたり、えいがをみたしました。",
+      "vietnamese": "Tôi đã học tiếng Nhật và xem một bộ phim vào thứ bảy.",
+      "number": 19
+    },
+    {
+      "word": "昨日 学校へ行ったり、友達と飲みに行ったりしました。",
+      "reading": "きのう がっこうへいったり、ともだちとのみにいったりしました。",
+      "vietnamese": "Hôm qua tôi đi học và đi nhậu với bạn.",
+      "number": 19
+    },
+    {
+      "word": "Hungさんは今朝、パンを食べたり、お茶を飲んだりしました。",
+      "reading": "Hungさんはけさ、パンをたべたり、おちゃをのんだりしました。",
+      "vietnamese": "Sáng nay Hưng đã ăn bánh mì và uống trà.",
+      "number": 19
+    },
+    {
+      "word": "毎晩、私は本を読んだり、テレビを見たりしています。",
+      "reading": "まいばん、わたしはほんをよんだり、テレビをみたりしています。",
+      "vietnamese": "Mỗi tối tôi đọc một cuốn sách hoặc xem TV.",
+      "number": 19
+    },
+    {
+      "word": "昨日は暑かったですが、今日は涼しくなりましたね。",
+      "reading": "きのうはあつかったですが、きょうはすずしくなりましたね。",
+      "vietnamese": "Hôm qua trời nóng, nhưng hôm nay trời mát hơn.",
+      "number": 19
+    },
+    {
+      "word": "もう晩期になりました。",
+      "reading": "もうばんきになりました。",
+      "vietnamese": "Nó đã trễ rồi.",
+      "number": 19
+    },
+    {
+      "word": "Dungさんはそろそろ３１歳になりますね。",
+      "reading": "Dungさんはそろそろ３１さいになりますね。",
+      "vietnamese": "Dũng sắp 31 tuổi rồi.",
+      "number": 19
+    },
+    {
+      "word": "チャンさんは綺麗になりましたね。",
+      "reading": "チャンさんはきれいになりましたね。",
+      "vietnamese": "Chan đã trở nên xinh đẹp.",
+      "number": 19
+    },
+    {
+      "word": "この食べ物は明日 あまくなりますか。➞ええ、そうですよ。",
+      "reading": "このたべものはあす あまくなりますか。➞ええ、そうですよ。",
+      "vietnamese": "Thức ăn này sẽ ngọt hơn vào ngày mai? ➞ Vâng, đúng vậy.",
+      "number": 19
+    },
+    {
+      "word": "昨日の晩、パーティーをしましたから、部屋が汚くなりました。",
+      "reading": "きのうのばん、パーティーをしましたから、へやがきたなくなりました。",
+      "vietnamese": "Tôi đã có một bữa tiệc tối qua, vì vậy căn phòng của tôi rất bừa bộn.",
+      "number": 19
+    },
+    {
+      "word": "寒いですね、もう冬になりましたね。",
+      "reading": "さむいですね、もうふゆになりましたね。",
+      "vietnamese": "Lạnh rồi phải không, đã vào đông rồi.",
+      "number": 19
+    },
+    {
+      "word": "ハンサムになりたいですか。",
+      "reading": "ハンサムになりたいですか。",
+      "vietnamese": "Bạn có muốn trở nên đẹp trai không?",
+      "number": 19
+    },
+    {
+      "word": "Ninhさんは将来 何をしたいですか。➞先生になりたいです。",
+      "reading": "Ninhさんはしょうらい なにをしたいですか。➞せんせいになりたいです。",
+      "vietnamese": "Ninh muốn làm gì trong tương lai? ➞Tôi muốn trở thành một giáo viên.",
+      "number": 19
+    },
+    {
+      "word": "Maiさんはもう日本語が上手になりましたね。",
+      "reading": "Maiさんはもうにほんごがじょうずになりましたね。",
+      "vietnamese": "Mai-san, bạn đã cải thiện tiếng Nhật của mình rồi.",
+      "number": 19
     }
   ]
 }

@@ -1,0 +1,160 @@
+{
+  "reading": [
+    {
+      "word": "昨日の天気は雨でした。",
+      "reading": "きのうのてんきはあめでした。",
+      "vietnamese": "Thời tiết hôm qua mưa.",
+      "number": 12
+    },
+    {
+      "word": "ハロン湾は賑やかでした。",
+      "reading": "ハロンわんはにぎやかでした。",
+      "vietnamese": "Vịnh Hạ Long bận rộn.",
+      "number": 12
+    },
+    {
+      "word": "昨日の試験は簡単じゃありませんでした。",
+      "reading": "きのうのしけんはかんたんじゃありませんでした。",
+      "vietnamese": "Bài kiểm tra ngày hôm qua không hề dễ dàng.",
+      "number": 12
+    },
+    {
+      "word": "昨日、いい天気でしたか。➞はい、いい天気でした。",
+      "reading": "きのう、いいてんきでしたか。➞はい、いいてんきでした。",
+      "vietnamese": "Hôm qua thời tiết có đẹp không? ➞Vâng, thời tiết đẹp.",
+      "number": 12
+    },
+    {
+      "word": "昨日、涼しかったです。",
+      "reading": "きのう、すずしかったです。",
+      "vietnamese": "Hôm qua trời mát.",
+      "number": 12
+    },
+    {
+      "word": "試験は難しくなかったです。",
+      "reading": "しけんはむずかしくなかったです。",
+      "vietnamese": "Kỳ thi không khó.",
+      "number": 12
+    },
+    {
+      "word": "仕事は忙しかったです。",
+      "reading": "しごとはいそがしかったです。",
+      "vietnamese": "Công việc bận rộn.",
+      "number": 12
+    },
+    {
+      "word": "一昨日のパーティーはどうでしたか。➞あまり楽しくなかったです。",
+      "reading": "おとといのパーティーはどうでしたか。➞あまりたのしくなかったです。",
+      "vietnamese": "Bữa tiệc ngày hôm kia thế nào? ➞Nó không vui lắm.",
+      "number": 12
+    },
+    {
+      "word": "試験はどうでしたか。➞めっちゃ難しかったです。",
+      "reading": "しけんはどうでしたか。➞めっちゃむずかしかったです。",
+      "vietnamese": "kỳ thi như thế nào ➞Điều đó thực sự khó khăn.",
+      "number": 12
+    },
+    {
+      "word": "映画はどうでしたか。➞超 面白かったです。",
+      "reading": "えいがはどうでしたか。➞ちょう おもしろかったです。",
+      "vietnamese": "bộ phim thế nào ➞Thật là vui.",
+      "number": 12
+    },
+    {
+      "word": "ケーキは甘かったです。",
+      "reading": "ケーキはあまかったです。",
+      "vietnamese": "Bánh rất ngọt.",
+      "number": 12
+    },
+    {
+      "word": "ハロン湾はどうでしたか。➞人が多かったですが、綺麗でした。",
+      "reading": "ハロンわんはどうでしたか。➞ひとがおおかったですが、きれいでした。",
+      "vietnamese": "Vịnh Hạ Long như thế nào? ➞Có rất nhiều người, nhưng nó thật đẹp.",
+      "number": 12
+    },
+    {
+      "word": "この本はどうでしたか。➞めっちゃよかったですよ。",
+      "reading": "このほんはどうでしたか。➞めっちゃよかったですよ。",
+      "vietnamese": "Cuốn sách này như thế nào? ➞Nó thực sự tốt.",
+      "number": 12
+    },
+    {
+      "word": "朝ご飯は美味しかったですが、辛かったです。",
+      "reading": "あさごはんはおいしかったですが、からかったです。",
+      "vietnamese": "Bữa sáng rất ngon nhưng hơi cay.",
+      "number": 12
+    },
+    {
+      "word": "飛行機はバイクよりずっと早いです。",
+      "reading": "ひこうきはバイクよりずっとはやいです。",
+      "vietnamese": "Máy bay nhanh hơn nhiều so với xe máy.",
+      "number": 12
+    },
+    {
+      "word": "いずみ先生はDuy先生よりずっとイケメンです。",
+      "reading": "いずみせんせいはDuyせんせいよりずっとイケメンです。",
+      "vietnamese": "Izumi-sensei đẹp trai hơn Duy-sensei nhiều.",
+      "number": 12
+    },
+    {
+      "word": "中国はベトナムよりずっと人が多いです。",
+      "reading": "ちゅうごくはベトナムよりずっと人がおおいです。",
+      "vietnamese": "Trung Quốc có nhiều người hơn Việt Nam.",
+      "number": 12
+    },
+    {
+      "word": "京都は東京より静かな町です。",
+      "reading": "きょうとはとうきょうよりしずかなまちです。",
+      "vietnamese": "Kyoto là một thành phố yên tĩnh hơn Tokyo.",
+      "number": 12
+    },
+    {
+      "word": "日本語と英語とどちらが難しいですか。➞どちらも難しいです。",
+      "reading": "にほんごとえいごとどちらがむずかしいですか。➞どちらもむずかしいです。",
+      "vietnamese": "Cái nào khó hơn, tiếng Nhật hay tiếng Anh? ➞ Cả hai đều khó.",
+      "number": 12
+    },
+    {
+      "word": "ベトナムと中国とどちらが綺麗ですか。➞ベトナムのほうが綺麗です。",
+      "reading": "ベトナムとちゅうごくとどちらがきれいですか。➞ベトナムのほうがきれいです。",
+      "vietnamese": "Việt Nam hay Trung Quốc cái nào đẹp hơn? ➞Việt Nam đẹp hơn.",
+      "number": 12
+    },
+    {
+      "word": "サッカーと野球とどちらが好きですか。➞野球よりサッカーのほうが好きです。",
+      "reading": "サッカーとやきゅうとどちらがすきですか。➞やきゅうよりサッカーのほうがすきです。",
+      "vietnamese": "Bạn thích cái nào hơn, bóng đá hay bóng chày? ➞Tôi thích bóng đá hơn bóng chày.",
+      "number": 12
+    },
+    {
+      "word": "HieuさんとAnさんとどちらが背が高いですか。➞Hieuさんのほうが背が高いです。",
+      "reading": "HieuさんとAnさんとどちらがせがたかいですか。➞Hieuさんのほうがせがたかいです。",
+      "vietnamese": "Ai cao hơn, Hiếu hay An? ➞Hiếu cao hơn.",
+      "number": 12
+    },
+    {
+      "word": "教室の中で先生が一番イケメンです。",
+      "reading": "きょうしつのなかでせんせいがいちばんイケメンです。",
+      "vietnamese": "Thầy đẹp trai nhất lớp.",
+      "number": 12
+    },
+    {
+      "word": "ベトナムの一年でいつが一番 暑いですか。➞ベトナムの一年で７月が一番 暑いです。",
+      "reading": "ベトナムの一ねんでいつがいちばん あついですか。➞ベトナムの一ねんで７がつがいちばん あついです。",
+      "vietnamese": "Khi nào là thời gian nóng nhất trong năm ở Việt Nam? ➞Tháng 7 là tháng nóng nhất ở Việt Nam.",
+      "number": 12
+    },
+    {
+      "word": "教室で誰が一番 可愛いですか。➞Hanhさんが一番 可愛いです。",
+      "reading": "きょうしつでだれがいちばん かわいいですか。➞Hanhさんがいちばん かわいいです。",
+      "vietnamese": "Ai xinh nhất lớp? ➞Hạnh là đáng yêu nhất.",
+      "number": 12
+    },
+    {
+      "word": "スポーツでサッカーが一番 好きです。",
+      "reading": "スポーツでサッカーがいちばん すきです。",
+      "vietnamese": "Bóng đá là môn thể thao yêu thích của tôi.",
+      "number": 12
+    }
+  ]
+}

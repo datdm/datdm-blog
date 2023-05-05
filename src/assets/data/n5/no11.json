@@ -1,0 +1,172 @@
+{
+  "reading": [
+    {
+      "word": "机の上に本が何冊ありますか。➞机の上に本が８冊あります。",
+      "reading": "つくえのうえにほんがなんさつありますか。➞つくえのうえに本が８さつあります。",
+      "vietnamese": "Hỏi trên bàn có bao nhiêu quyển sách? ➞Có tám cuốn sách trên bàn.",
+      "number": 11
+    },
+    {
+      "word": "クラスに学生が何人いますか。➞クラスに学生が２５人います。",
+      "reading": "クラスにがくせいがなんにんいますか。➞クラスにがくせいが２５にんいます。",
+      "vietnamese": "Có bao nhiêu học sinh trong lớp? ➞Có 25 học sinh trong lớp.",
+      "number": 11
+    },
+    {
+      "word": "靴を何足 買いますか。➞靴を２足 買います。",
+      "reading": "くつをなんそく かいますか。➞くつを２そく かいます。",
+      "vietnamese": "Bạn sẽ mua bao nhiêu đôi giày? ➞Tôi sẽ mua hai đôi giày.",
+      "number": 11
+    },
+    {
+      "word": "ビールを何杯 飲みましたか。➞ビールを２杯 飲みました。",
+      "reading": "ビールをなんはい のみましたか。➞ビールを２はい のみました。",
+      "vietnamese": "Bạn đã uống bao nhiêu ly bia? ➞Tôi đã uống hai ly bia.",
+      "number": 11
+    },
+    {
+      "word": "犬を何匹 買いますか。➞犬を３匹 買います。",
+      "reading": "いぬをなんびき かいますか。➞いぬを３びき かいます。",
+      "vietnamese": "Bạn sẽ mua bao nhiêu con chó? ➞Tôi sẽ mua ba con chó.",
+      "number": 11
+    },
+    {
+      "word": "ソンさんは何歳ですか。➞ソンさんは２６歳です。",
+      "reading": "ソンさんはなんさいですか。➞ソンさんは２６さいです。",
+      "vietnamese": "Song bao nhiêu tuổi? ➞Song 26 tuổi.",
+      "number": 11
+    },
+    {
+      "word": "このビルは何階ですか。➞このビルは５階です。",
+      "reading": "このビルのはなんがいですか。➞このビルは５かいです。",
+      "vietnamese": "Tòa nhà này có bao nhiêu tầng? ➞Tòa nhà này ở tầng năm.",
+      "number": 11
+    },
+    {
+      "word": "シャツを何枚 洗いますか。➞シャツを１０枚 洗います。",
+      "reading": "シャツをなんまい あらいますか。➞シャツを１０まい あらいます。",
+      "vietnamese": "Bạn giặt bao nhiêu chiếc áo? ➞Giặt 10 áo.",
+      "number": 11
+    },
+    {
+      "word": "ペンが何本ありますか。➞ペンが２０本あります。",
+      "reading": "ペンがなんぽんありますか。➞ペンが２０ぽんあります。",
+      "vietnamese": "Bạn có bao nhiêu cái bút? ➞Có 20 cái bút.",
+      "number": 11
+    },
+    {
+      "word": "蜜柑がいくつ食べましたか。➞蜜柑が５つ食べました。",
+      "reading": "みかんがいくつたべましたか。➞みかんが５つたべました。",
+      "vietnamese": "Bạn đã ăn bao nhiêu quả quýt? ➞Tôi đã ăn năm quả cam.",
+      "number": 11
+    },
+    {
+      "word": "ハノイからダナンまでどのくらい時間が掛かりますか。➞８時間ぐらい掛かります。",
+      "reading": "ハノイからダナンまでどのくらいじかんがかかりますか。➞８じかんぐらいかかります。",
+      "vietnamese": "Từ Hà Nội vào Đà Nẵng mất bao lâu? ➞Mất khoảng 8 tiếng.",
+      "number": 11
+    },
+    {
+      "word": "いくら掛かりますか。➞２０万ドン掛かります。",
+      "reading": "いくらかかりますか。➞２０まんドンかかります。",
+      "vietnamese": "nó có giá bao nhiêu ➞Giá 200.000 đồng.",
+      "number": 11
+    },
+    {
+      "word": "どのくらい日本語を勉強しましたか。➞４年ぐらい日本語を勉強しました。",
+      "reading": "どのくらいにほんごをべんきょうしましたか。➞４ねんぐらいにほんごをべんきょうしました。",
+      "vietnamese": "Bạn đã học tiếng Nhật bao lâu rồi? ➞Tôi đã học tiếng Nhật trong khoảng bốn năm.",
+      "number": 11
+    },
+    {
+      "word": "どのくら日本へ行きますか。➞３か月ぐらい行きます。",
+      "reading": "どのくらにほんへいきますか。➞３かげつぐらいいきます。",
+      "vietnamese": "Bạn có thường xuyên đến Nhật Bản không? ➞Tôi sẽ sang đó khoảng 3 tháng.",
+      "number": 11
+    },
+    {
+      "word": "料理はどのくらいで出来ますか。➞１０分ぐらいで出来ます。",
+      "reading": "りょうりはどのくらいでできますか。➞１０ぷんぐらいでできます。",
+      "vietnamese": "Mất bao lâu để nấu ăn? ➞Có thể thực hiện trong khoảng 10 phút.",
+      "number": 11
+    },
+    {
+      "word": "どのくらいこのバイクを修理しますか。➞一日ぐらい掛かります。",
+      "reading": "どのくらいこのバイクをしゅうりしますか。➞いちにちぐらいかかります。",
+      "vietnamese": "Bạn sẽ sửa chiếc xe đạp này trong bao lâu? ➞Mất khoảng một ngày.",
+      "number": 11
+    },
+    {
+      "word": "どのくらい会社を休みましたか。➞一週間 休みました。",
+      "reading": "どのくらいかいしゃをやすみましたか。➞いっしゅうかん やすみました。",
+      "vietnamese": "Bạn đã nghỉ làm bao lâu rồi? ➞Tôi đã nghỉ một tuần.",
+      "number": 11
+    },
+    {
+      "word": "どのくらいお腹が痛かったですか。➞朝から痛かったです。",
+      "reading": "どのくらいおなかがいたかったですか。➞あさからいたかったです。",
+      "vietnamese": "Dạ dày của bạn bị bệnh như thế nào? ➞Tôi đau từ sáng.",
+      "number": 11
+    },
+    {
+      "word": "どのくらい誕生日パーティーをしませんでしたか。➞１０年ぐらいしませんでした。",
+      "reading": "どのくらいたんじょうびパーティーをしませんでしたか。➞１０ねんぐらいしませんでした。",
+      "vietnamese": "Đã bao lâu rồi bạn chưa tổ chức sinh nhật? ➞Tôi đã không làm điều đó trong khoảng 10 năm.",
+      "number": 11
+    },
+    {
+      "word": "どのくらいこの本を借りましたか。➞１か月ぐらい借りました。",
+      "reading": "どのくらいこのほんをかりましたか。➞１かげつぐらいかりました。",
+      "vietnamese": "Bạn đã mượn cuốn sách này bao lâu rồi? ➞Tôi thuê nó được khoảng một tháng.",
+      "number": 11
+    },
+    {
+      "word": "どのくらいで仕事が終わりますか。➞３時間ぐらい掛かります。",
+      "reading": "どのくらいでしごとがおわりますか。➞３じかんぐらいかかります。",
+      "vietnamese": "Sẽ mất bao lâu để hoàn thành công việc? ➞Mất khoảng 3 tiếng.",
+      "number": 11
+    },
+    {
+      "word": "一日に３回この薬を飲みます。",
+      "reading": "いちにちに３かいこのくすりをのみます。",
+      "vietnamese": "Uống thuốc này ba lần một ngày.",
+      "number": 11
+    },
+    {
+      "word": "一週間に一回 図書館へ行きます。",
+      "reading": "いっしゅうかんにいっかい としょかんへいきます。",
+      "vietnamese": "Tôi đến thư viện mỗi tuần một lần.",
+      "number": 11
+    },
+    {
+      "word": "一日に２回ご飯を食べます。",
+      "reading": "いちにちに２かいごはんをたべます。",
+      "vietnamese": "Tôi ăn cơm hai lần một ngày.",
+      "number": 11
+    },
+    {
+      "word": "私は野菜を食べません、肉だけ食べます。",
+      "reading": "わたしはやさいをたべません、にくだけたべます。",
+      "vietnamese": "Tôi không ăn rau, tôi chỉ ăn thịt.",
+      "number": 11
+    },
+    {
+      "word": "うちのワンちゃんは牛乳だけ好きです。",
+      "reading": "うちのワンちゃんはぎゅうにゅうだけすきです。",
+      "vietnamese": "Con chó của tôi chỉ thích sữa.",
+      "number": 11
+    },
+    {
+      "word": "毎日５時間だけ寝ます。",
+      "reading": "まいにち５じかんだけねます。",
+      "vietnamese": "Tôi chỉ ngủ 5 tiếng mỗi ngày.",
+      "number": 11
+    },
+    {
+      "word": "このクラスは女の子が一人だけいます。",
+      "reading": "このクラスはおんなのこがひとりだけいます。",
+      "vietnamese": "Chỉ có một cô gái trong lớp này.",
+      "number": 11
+    }
+  ]
+}

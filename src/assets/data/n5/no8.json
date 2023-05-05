@@ -1,0 +1,190 @@
+{
+  "reading": [
+    {
+      "word": "Hienさんは可愛いです。",
+      "reading": "Hienさんはかわいいです。",
+      "vietnamese": "Hiền dễ thương.",
+      "number": 8
+    },
+    {
+      "word": "今日は厚いです。",
+      "reading": "きょうはあついです。",
+      "vietnamese": "Hôm nay trời nóng.",
+      "number": 8
+    },
+    {
+      "word": "彼女はめっちゃ可愛いです。彼女はとても可愛いです。",
+      "reading": "かのじょはめっちゃかわいいです。かのじょはとてもかわいです。",
+      "vietnamese": "cô ây thật dê thương. cô ấy rất dễ thương",
+      "number": 8
+    },
+    {
+      "word": "彼は超 不細工です。",
+      "reading": "かれはちょう ぶさいくです。",
+      "vietnamese": "anh ấy siêu xấu",
+      "number": 8
+    },
+    {
+      "word": "親切じゃあります。美味しくないです。いいです。よくないです。",
+      "reading": "しんせつじゃあります。おいしくないです。いいです。よくないです。",
+      "vietnamese": "Tôi tử tế. Nó không ngon. Tốt. Không tốt.",
+      "number": 8
+    },
+    {
+      "word": "このバイクは高くないです。",
+      "reading": "このバイクはたかくないです。",
+      "vietnamese": "Chiếc xe đạp này không đắt.",
+      "number": 8
+    },
+    {
+      "word": "Yenさんは親切じゃありません。",
+      "reading": "Yenさんはしんせつじゃありません。",
+      "vietnamese": "Anh Yên không tử tế.",
+      "number": 8
+    },
+    {
+      "word": "この本はいいですか。➞いいえ、よくないです。",
+      "reading": "このほんはいいですか。➞いいえ、よくないです。",
+      "vietnamese": "cuốn sách này có tốt không? ➞Không, nó không tốt đâu.",
+      "number": 8
+    },
+    {
+      "word": "明日、寒いですか。➞いいえ、寒くないです。",
+      "reading": "あした、さむいですか。➞いいえ、さむくないです。",
+      "vietnamese": "Ngày mai trời có lạnh không? ➞Không, trời không lạnh.",
+      "number": 8
+    },
+    {
+      "word": "Minhさんはイケメンですか。➞いいえ、イケメンじゃありません。",
+      "reading": "Minhさんはイケメンですか。➞いいえ、イケメンじゃありません。",
+      "vietnamese": "Minh có đẹp trai không? ➞Không, tôi không đẹp trai.",
+      "number": 8
+    },
+    {
+      "word": "この山は低いですか。➞いいえ、あまり低くないです。",
+      "reading": "このやまはひくいですか。➞いいえ、あまりひくくないです。",
+      "vietnamese": "Ngọn núi này có thấp không? ➞ Không, không thấp lắm.",
+      "number": 8
+    },
+    {
+      "word": "仕事は暇ですか。➞いいえ、あまり暇じゃありません。",
+      "reading": "しごとはひまですか。➞いいえ、あまりひまじゃありません。",
+      "vietnamese": "Bạn có thời gian rảnh ở nơi làm việc không? ➞Không, tôi không có nhiều thời gian rảnh.",
+      "number": 8
+    },
+    {
+      "word": "今日は忙しですか。➞いいえ、あまり忙しくないです。",
+      "reading": "きょうはいそがしですか。➞いいえ、あまりいそがしくないです。",
+      "vietnamese": "Ngày hôm nay bạn có bận không? ➞Không, tôi không bận lắm.",
+      "number": 8
+    },
+    {
+      "word": "このケーキは美味しいですか。➞いいえ、あまり美味しくないです。",
+      "reading": "このケーキはおいしいですか。➞いいえ、あまりおいしくないです。",
+      "vietnamese": "Bánh này có ngon không? ➞Không, nó không ngon lắm.",
+      "number": 8
+    },
+    {
+      "word": "あなたの家は綺麗ですか。➞いいえ、綺麗ではありません。",
+      "reading": "あなたのいえはきれいですか。➞いいえ、きれいではありません。",
+      "vietnamese": "Ngôi nhà của bạn có sạch sẽ không? ➞Không, nó không đẹp.",
+      "number": 8
+    },
+    {
+      "word": "富士山は高い山です。",
+      "reading": "ふじさんはたかいやまです。",
+      "vietnamese": "Fuji là một ngọn núi cao.",
+      "number": 8
+    },
+    {
+      "word": "今日は暑い日です。",
+      "reading": "きょうはあついひです。",
+      "vietnamese": "Hôm nay là một ngày nắng nóng.",
+      "number": 8
+    },
+    {
+      "word": "ハノイは賑やか町です。",
+      "reading": "ハノイはにぎやかまちです。",
+      "vietnamese": "Hà Nội là một thành phố bận rộn.",
+      "number": 8
+    },
+    {
+      "word": "Hanhさんは綺麗な人です。",
+      "reading": "Hanhさんはきれいなひとです。",
+      "vietnamese": "Hạnh là một người xinh đẹp.",
+      "number": 8
+    },
+    {
+      "word": "Aさんは親切な人じゃありません。",
+      "reading": "Aさんはしんせつなひとじゃありません。",
+      "vietnamese": "Anh A không phải là người tử tế.",
+      "number": 8
+    },
+    {
+      "word": "ベトナム料理は美味しいです。そして、安いです。",
+      "reading": "ベトナムりょうりはおいしいです。そして、やすいです。",
+      "vietnamese": "Món ăn Việt Nam rất ngon. Và nó rẻ.",
+      "number": 8
+    },
+    {
+      "word": "Linhさんは可愛いです。そして、親切な人です。",
+      "reading": "Linhさんはかわいいです。そして、しんせつなひとです。",
+      "vietnamese": "Linh thật dễ thương. Và người tử tế.",
+      "number": 8
+    },
+    {
+      "word": "日本 料理は美味しいですが、高いです。",
+      "reading": "にほん りょうりはおいしいですが、たかいです。",
+      "vietnamese": "Đồ ăn Nhật ngon nhưng đắt.",
+      "number": 8
+    },
+    {
+      "word": "ハノイは賑やかですが、めっちゃ暑いです。",
+      "reading": "ハノイはにぎやかですが、めっちゃあついです。",
+      "vietnamese": "Hà Nội sôi động, nhưng rất nóng.",
+      "number": 8
+    },
+    {
+      "word": "Hieuさんは背が高い人ですが、不細工な人です。",
+      "reading": "Hieuさんはせがたかいひとですが、ぶさいくなひとです。",
+      "vietnamese": "Hiếu cao, nhưng xấu trai.",
+      "number": 8
+    },
+    {
+      "word": "ミンさんはどうですか。➞面白いです。",
+      "reading": "ミンさんはどうですか。➞おもしろいです。",
+      "vietnamese": "Minh như thế nào? ➞ Thú vị.",
+      "number": 8
+    },
+    {
+      "word": "日本 料理はどうですか。➞日本 料理は美味しいですが、高いです。",
+      "reading": "にほん りょうりはどうですか。➞にほん りょうりはおいしいですが、たかいです。",
+      "vietnamese": "Đồ ăn Nhật thì sao? ➞Đồ ăn Nhật ngon nhưng đắt.",
+      "number": 8
+    },
+    {
+      "word": "ミンさんはどんな人ですか。➞面白い人です。",
+      "reading": "ミンさんはどんなひとですか。➞おもしろいひとです。",
+      "vietnamese": "Min là người như thế nào? ➞Anh ấy là một người thú vị.",
+      "number": 8
+    },
+    {
+      "word": "ハノイはどんな街ですか。➞大きい街です。そして、賑やかな街です。",
+      "reading": "ハノイはどんなまちですか。➞おおきいまちです。そして、にぎやかなまちです。",
+      "vietnamese": "Hà Nội là loại thành phố nào? ➞Đó là một thành phố lớn. Và đó là một thành phố bận rộn.",
+      "number": 8
+    },
+    {
+      "word": "ミンさんの鞄はどれですか。➞小さい鞄です。",
+      "reading": "ミンさんのかばんはどれですか。➞ちいさいかばんです。",
+      "vietnamese": "Túi nào là của Min-san? ➞Đó là một chiếc túi nhỏ.",
+      "number": 8
+    },
+    {
+      "word": "Haoさんのバイクはどれですか。➞青いバイクです。",
+      "reading": "Haoさんのバイクはどれですか。➞あおいバイクです。",
+      "vietnamese": "Xe đạp nào mà Hào có? ➞Đó là một chiếc xe đạp màu xanh.",
+      "number": 8
+    }
+  ]
+}

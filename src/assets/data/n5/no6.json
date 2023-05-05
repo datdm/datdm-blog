@@ -1,0 +1,130 @@
+{
+  "reading": [
+    {
+      "word": "何を読みますか。➞日本語の本を読みます。",
+      "reading": "なにをよみますか。➞にほんごのほんをよみます。",
+      "vietnamese": "bạn đọc gì ➞Tôi đọc sách tiếng Nhật.",
+      "number": 6
+    },
+    {
+      "word": "昨日の晩、何をしましたか。➞映画を見ました。それから、日本語を勉強しました。",
+      "reading": "きのうのばん、なにをしましたか。➞えいがをみました。それから、にほんごをべんきょうしました。",
+      "vietnamese": "bạn đã làm gì tối qua ➞Tôi đã xem một bộ phim. Sau đó, tôi học tiếng Nhật.",
+      "number": 6
+    },
+    {
+      "word": "明日、何をしますか。➞日本語を勉強します。それから、ビールを飲みます。",
+      "reading": "あした、なにをしますか。➞にほんごをべんきょうします。それから、ビールをののみます。",
+      "vietnamese": "bạn sẽ làm gì vào ngày mai ➞Tôi sẽ học tiếng Nhật. Sau đó uống bia.",
+      "number": 6
+    },
+    {
+      "word": "今朝、何を食べましたか。➞今朝、パンと卵を食べました。",
+      "reading": "けさ、なにをたべましたか。➞けさ、パンとたまごをたべました。",
+      "vietnamese": "Bạn đã ăn gì sáng nay ➞Tôi đã ăn bánh mì và trứng sáng nay.",
+      "number": 6
+    },
+    {
+      "word": "明日、何をしませんか。➞何もしません。",
+      "reading": "あした、なにをしませんか。➞なにもしません。",
+      "vietnamese": "Ngày mai bạn làm gì? ➞ Không làm gì cả.",
+      "number": 6
+    },
+    {
+      "word": "一昨日、何をしましたか。➞何もしませんでした。",
+      "reading": "おととい、なにをしましたか。➞なにもしませんでした。",
+      "vietnamese": "bạn đã làm gì vào ngày hôm kia ➞ Tôi không làm gì cả.",
+      "number": 6
+    },
+    {
+      "word": "今朝、何を食べましたか。➞何も食べませんでした。",
+      "reading": "けさ、なにをたべましたか。➞なにもたべませんでした。　",
+      "vietnamese": "bạn đã làm gì vào ngày hôm kia ➞ Tôi không làm gì cả.",
+      "number": 6
+    },
+    {
+      "word": "何を読みますか。➞何も読みません。",
+      "reading": "なにをよみますか。➞なにもよみません。",
+      "vietnamese": "bạn đọc gì ➞ Tôi không đọc gì cả.",
+      "number": 6
+    },
+    {
+      "word": "日本語のモリでNghiaさんに会います。",
+      "reading": "にほんごのモリでNghiaさんにあいます。",
+      "vietnamese": "Gặp Nghĩa trong mori Nhật Bản.",
+      "number": 6
+    },
+    {
+      "word": "どこで晩御飯を食べましたか。➞QuaBiaで食べました。",
+      "reading": "どこでばんごはんをたべましたか。➞QuaBiaでたべました。",
+      "vietnamese": "bạn đã ăn tối ở đâu ➞ Chúng tôi đã ăn ở QuaBia.",
+      "number": 6
+    },
+    {
+      "word": "昨日の晩、どこで寝ましたか。➞ホテルで寝ました。",
+      "reading": "きのうのばん、どこでねましたか。➞ホテルでねました。",
+      "vietnamese": "tối hôm qua bạn ngủ ở đâu ➞Tôi ngủ ở khách sạn.",
+      "number": 6
+    },
+    {
+      "word": "どこで写真を撮りましたか。➞日本で撮りました。",
+      "reading": "どこでしゃしんをとりましたか。➞にほんでとりました。",
+      "vietnamese": "bạn đã chụp ảnh ở đâu ➞Nó được chụp ở Nhật Bản.",
+      "number": 6
+    },
+    {
+      "word": "一緒に昼ご飯を食べませんか。➞ええ、いいですね。",
+      "reading": "いっしょにひるごはんをたべませんか。➞ええ、いいですね。",
+      "vietnamese": "Bạn có muốn ăn trưa với tôi không? ➞Vâng, điều đó nghe có vẻ tốt.",
+      "number": 6
+    },
+    {
+      "word": "一緒にテレビを見ませんか。➞すみません、ちょっと。",
+      "reading": "いっしょにテレビをみませんか。➞すみません、ちょっと。",
+      "vietnamese": "Bạn có muốn xem TV với tôi không? ➞Xin lỗi, đợi một chút.",
+      "number": 6
+    },
+    {
+      "word": "一緒にサッカーをしませんか。➞すみません、ちょっと。",
+      "reading": "いっしょにサッカーをしませんか。➞すみません、ちょっと。",
+      "vietnamese": "Bạn có muốn chơi bóng đá cùng nhau không? ➞Xin lỗi, đợi một chút.",
+      "number": 6
+    },
+    {
+      "word": "一緒にスーパーへ行きませんか。➞ええ、いいですね。",
+      "reading": "いっしょにスーパーへいきませんか。➞ええ、いいですね。",
+      "vietnamese": "Bạn có muốn đi siêu thị với tôi không? ➞Vâng, điều đó nghe có vẻ tốt.",
+      "number": 6
+    },
+    {
+      "word": "一緒にビールを飲みませんか。➞ええ、飲みましょう。",
+      "reading": "いっしょにビールをのみませんか。➞ええ、のみましょう。",
+      "vietnamese": "Bạn có muốn uống bia với tôi không? ➞Ừ, uống thôi.",
+      "number": 6
+    },
+    {
+      "word": "一緒に東京へ行きませんか。➞ええ、行きましょう。",
+      "reading": "いっしょにとうきょうをいきませんか。➞ええ、いきましょう。",
+      "vietnamese": "Bạn có muốn đi đến Tokyo với tôi? ➞ Ừ, đi thôi.",
+      "number": 6
+    },
+    {
+      "word": "疲れましたね。一緒に休みましょう。",
+      "reading": "つかれましたね。いっしょにやすみましょう。",
+      "vietnamese": "Tôi đã mệt mỏi. Hãy cùng nhau nghỉ ngơi.",
+      "number": 6
+    },
+    {
+      "word": "一緒に勉強しましょう。",
+      "reading": "いっしょにべんきょうしましょう。",
+      "vietnamese": "Hãy cùng nhau học tập.",
+      "number": 6
+    },
+    {
+      "word": "駅で新聞を買います。",
+      "reading": "えきでしんぶんをかいます。",
+      "vietnamese": "Tôi mua báo ở nhà ga.",
+      "number": 6
+    }
+  ]
+}

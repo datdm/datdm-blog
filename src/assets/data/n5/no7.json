@@ -1,0 +1,184 @@
+{
+  "reading": [
+    {
+      "word": "鋏で紙を切ります。",
+      "reading": "はさみでかみをきります。",
+      "vietnamese": "Cắt giấy bằng kéo.",
+      "number": 7
+    },
+    {
+      "word": "あの人はお茶碗でワインを飲みます。",
+      "reading": "あのひとはおちゃわんでワインをのみます。",
+      "vietnamese": "Người đó uống rượu trong bát.",
+      "number": 7
+    },
+    {
+      "word": "Ronaldoちゃんは手でパンを食べます。",
+      "reading": "Ronaldoちゃんはてでパンをたべます。",
+      "vietnamese": "Ronaldo ăn bánh mì bằng tay.",
+      "number": 7
+    },
+    {
+      "word": "日本語で手紙を書きます。",
+      "reading": "にほんごでてがみをかきます。",
+      "vietnamese": "Tôi sẽ viết một lá thư bằng tiếng Nhật.",
+      "number": 7
+    },
+    {
+      "word": "何で肉を食べますか。➞ナイフで切ります。",
+      "reading": "なにでにくをたべますか。➞ナイフできります。",
+      "vietnamese": "Bạn ăn thịt bằng gì? ➞ Cắt bằng dao.",
+      "number": 7
+    },
+    {
+      "word": "何で日本語を勉強しますか。➞パソコンを勉強します。",
+      "reading": "なにでにほんごをべんきょうしますか。➞パソコンをべんきょうします。",
+      "vietnamese": "Bạn học tiếng Nhật bằng gì? ➞ Tôi học máy tính.",
+      "number": 7
+    },
+    {
+      "word": "「ありがとう」は英語で何ですか。➞「Thankyou」です。",
+      "reading": "「ありがとう」は英語で何ですか。➞「Thankyou」です。",
+      "vietnamese": "「ありがとう」 tiếng anh là gì? ➞Đây là 「Thankyou」.",
+      "number": 7
+    },
+    {
+      "word": "「Tet」は日本語で何ですか。➞「おしょうがつ」です。",
+      "reading": "「Tet」はにほんごでなんですか。➞「おしょうがつ」です。",
+      "vietnamese": "「Tet」 tiếng Nhật là gì? ➞ Đó là Oshogatsu.",
+      "number": 7
+    },
+    {
+      "word": "これって日本語で何ですか。➞「リモコン」です。",
+      "reading": "これってにほんごでなんですか。➞「リモコン」です。",
+      "vietnamese": "cái này tiếng Nhật là gì? ➞ Điều khiển từ xa.",
+      "number": 7
+    },
+    {
+      "word": "あれって日本語で何ですか。➞「エアコン」です。",
+      "reading": "あれってにほんごでなんですか。➞「エアコン」です。",
+      "vietnamese": "cái đó tiếng Nhật là gì? ➞ Điều hòa.",
+      "number": 7
+    },
+    {
+      "word": "家族に電話を掛けます。",
+      "reading": "かぞくにでんわをかけます。",
+      "vietnamese": "Gọi cho gia đình bạn.",
+      "number": 7
+    },
+    {
+      "word": "彼女に手紙を送ります。",
+      "reading": "かのじょにてがみをおくります。",
+      "vietnamese": "Tôi sẽ gửi cho cô ấy một lá thư.",
+      "number": 7
+    },
+    {
+      "word": "誕生日に母に服と花をあげます。",
+      "reading": "たんじょうびにははにふくとはなをあげます。",
+      "vietnamese": "Tôi sẽ tặng mẹ tôi quần áo và hoa vào ngày sinh nhật của bà.",
+      "number": 7
+    },
+    {
+      "word": "友達に日本語の辞書を貸します。",
+      "reading": "ともだちににほんごのじしょをかします。",
+      "vietnamese": "Tôi sẽ cho bạn tôi mượn một cuốn từ điển tiếng Nhật.",
+      "number": 7
+    },
+    {
+      "word": "私は学生に日本語を教えます。",
+      "reading": "わたしはがくせいににほんごをおしえます。",
+      "vietnamese": "Tôi dạy tiếng Nhật cho sinh viên.",
+      "number": 7
+    },
+    {
+      "word": "Hienさんに手紙を書きます。",
+      "reading": "Hienさんにてがみをかきます。",
+      "vietnamese": "Tôi sẽ viết thư cho Hiền.",
+      "number": 7
+    },
+    {
+      "word": "誰に英語を教えますか。➞Anhさんに教えます。",
+      "reading": "だれにえいごをおしえますか。➞Anhさんにおしえます。",
+      "vietnamese": "Bạn dạy tiếng Anh cho ai? ➞ Tôi sẽ dạy cho Anh.",
+      "number": 7
+    },
+    {
+      "word": "誰にこの時計をあげますか。➞彼氏をあげます。",
+      "reading": "だれにこのとけいをあげますか。➞かれしをあげます。",
+      "vietnamese": "Bạn định tặng chiếc đồng hồ này cho ai? ➞ Tôi sẽ cho bạn bạn trai của tôi.",
+      "number": 7
+    },
+    {
+      "word": "私は母にシャツを貰いました。",
+      "reading": "わたしはははにシャツをもらいました。",
+      "vietnamese": "Tôi đã nhận được một chiếc áo sơ mi từ mẹ tôi.",
+      "number": 7
+    },
+    {
+      "word": "NhungさんはPark先生に日本語を習いました。",
+      "reading": "NhungさんはParkせんせいににほんごをならいました。",
+      "vietnamese": "Nhung học tiếng Nhật từ thầy Park.",
+      "number": 7
+    },
+    {
+      "word": "銀行からお金を借りました。",
+      "reading": "ぎんこうからおかねをかりました。",
+      "vietnamese": "Tôi đã vay tiền từ ngân hàng.",
+      "number": 7
+    },
+    {
+      "word": "誰に日本語を習いましたか。➞Yuha先生に習いました。",
+      "reading": "だれににほんごをならいましたか。➞Yuhaせんせいにならいました。",
+      "vietnamese": "Bạn đã học tiếng Nhật từ ai? ➞Tôi đã học được từ Yuha.",
+      "number": 7
+    },
+    {
+      "word": "誰にボールペンを借りましたか。➞Yenさんに借りました。",
+      "reading": "だれにポールペンをかりましたか。➞Yenさんにかりました。",
+      "vietnamese": "Bạn đã mượn bút bi của ai? ➞Tôi mượn của Yên.",
+      "number": 7
+    },
+    {
+      "word": "誰がこの鉛筆をくれましたか。➞Anhさんがくれました。",
+      "reading": "だれがこのえんぴつをくれましたか。➞Anhさんがくれました。",
+      "vietnamese": "Ai đã cho tôi cây bút chì này? ➞ Anh Anh đưa cho tôi.",
+      "number": 7
+    },
+    {
+      "word": "いい靴ですね。誰がくれましたか。➞誕生日に父がくれました。",
+      "reading": "いいくつですね。だれがくれましたか。➞たんじょうびにちちがくれました。",
+      "vietnamese": "Giầy đẹp. ai đã cho tôi ➞Cha tôi đã tặng nó cho tôi vào ngày sinh nhật của tôi.",
+      "number": 7
+    },
+    {
+      "word": "いいボールペンですね。どこで買いましたか。➞いいえ、クリスマスに友達がくれました。",
+      "reading": "いいボールペンですね。どこでかいましたか。➞いいえ、クリスマスにともだちがくれました。",
+      "vietnamese": "Đó là một cây bút bi đẹp. Nơi mà bạn đã mua nó ➞ Không, bạn tôi đã tặng nó cho tôi vào dịp Giáng sinh.",
+      "number": 7
+    },
+    {
+      "word": "もう朝ご飯を食べましたか。➞はい、もう食べました。",
+      "reading": "もうあさごはんをたべましたか。➞はい、もうたべました。",
+      "vietnamese": "Bạn đã ăn sáng chưa? ➞Vâng, tôi đã ăn rồi.",
+      "number": 7
+    },
+    {
+      "word": "もう家族に手紙を送りましたか。➞いいえ、まだです。これから送ります。",
+      "reading": "もうかぞくにてがみをおくりましたか。➞いいえ、まだです。これからおくります。",
+      "vietnamese": "Bạn đã gửi thư cho gia đình chưa? ➞Không, chưa. Tôi sẽ gửi nó ngay bây giờ.",
+      "number": 7
+    },
+    {
+      "word": "もう宿題をしましたか。➞いいえ、まだです。８時からします。",
+      "reading": "もうしゅくだいをしましたか。➞いいえ、まだです。８じからします。",
+      "vietnamese": "Bạn đã làm bài tập về nhà chưa? ➞Không, chưa. Tôi sẽ bắt đầu lúc 8:00.",
+      "number": 7
+    },
+    {
+      "word": "もうこの新聞を読みましたか。➞はい、もう読みました。",
+      "reading": "もうこのしんぶんをよみましたか。➞はい、もうよみました。",
+      "vietnamese": "Bạn đã đọc tờ báo này chưa? ➞ Vâng, tôi đã đọc nó rồi.",
+      "number": 7
+    }
+  ]
+}

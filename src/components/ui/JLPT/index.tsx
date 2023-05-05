@@ -4,6 +4,13 @@ import no2 from "assets/data/n5/no2.json"; // done
 import no3 from "assets/data/n5/no3.json"; // done
 import no4 from "assets/data/n5/no4.json"; // done
 import no5 from "assets/data/n5/no5.json";
+import no6 from "assets/data/n5/no6.json";
+import no7 from "assets/data/n5/no7.json";
+import no8 from "assets/data/n5/no8.json";
+import no9 from "assets/data/n5/no9.json";
+import no10 from "assets/data/n5/no10.json";
+import no11 from "assets/data/n5/no11.json";
+import no12 from "assets/data/n5/no12.json";
 import no19 from "assets/data/n5/no19.json";
 import no20 from "assets/data/n5/no20.json"; // done
 import no21 from "assets/data/n5/no21.json";
@@ -36,6 +43,13 @@ const JLPT = () => {
         ...no3.reading,
         ...no4.reading,
         ...no5.reading,
+        ...no6.reading,
+        ...no7.reading,
+        ...no8.reading,
+        ...no9.reading,
+        ...no10.reading,
+        ...no11.reading,
+        ...no12.reading,
         ...no19.reading,
         ...no20.reading,
         ...no21.reading,

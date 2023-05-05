@@ -233,6 +233,60 @@
       "reading": "あるいてホテルへいきます。",
       "vietnamese": "Tôi sẽ đi bộ đến khách sạn.",
       "number": 5
+    },
+    {
+      "word": "来年 誰と日本へ行きますか。➞一人で行きます。",
+      "reading": "らいねん だれとにほんへいきますか。➞ひとりでいきます。",
+      "vietnamese": "Bạn sẽ đi Nhật cùng ai vào năm tới? ➞ Tôi sẽ đi một mình.",
+      "number": 5
+    },
+    {
+      "word": "明日 友達とデパートへ行きます。",
+      "reading": "あした ともだちとデパートへいきます。",
+      "vietnamese": "Tôi sẽ đi đến cửa hàng bách hóa với bạn bè của tôi vào ngày mai.",
+      "number": 5
+    },
+    {
+      "word": "昨日の晩、私は彼女と寝ました。",
+      "reading": "きのうのばん、わたしはかのじょとねました。",
+      "vietnamese": "Đêm qua tôi đã ngủ với cô ấy.",
+      "number": 5
+    },
+    {
+      "word": "私はPark先生と働きます。",
+      "reading": "私はPark先生と働きます。",
+      "vietnamese": "Tôi làm việc với ông Park.",
+      "number": 5
+    },
+    {
+      "word": "誰と実家へ帰りますか。➞一人で帰ります。",
+      "reading": "だれとじっかへかえりますか。➞ひとりでかえります。",
+      "vietnamese": "Bạn sẽ về nhà với ai? ➞Tôi sẽ về nhà một mình.",
+      "number": 5
+    },
+    {
+      "word": "誰と日本語のモリへ行きましたか。➞友達と行きました。",
+      "reading": "だれとにほんごのモリへいきましたか。➞ともだちといきました。",
+      "vietnamese": "Bạn đã đi đến mori Nhật Bản với ai? ➞Tôi đã đi với bạn của tôi.",
+      "number": 5
+    },
+    {
+      "word": "３１日にHienさんと飛行機で日本に来ました。",
+      "reading": "３１にちにHienさんとひこうきでにほんにきました。",
+      "vietnamese": "Tôi đã bay đến Nhật Bản với Hiền vào ngày 31.",
+      "number": 5
+    },
+    {
+      "word": "この電車は甲子園へ行きますか。➞いいえ、行きません。次の普通ですよ。",
+      "reading": "このでんしゃはこうしえんへいきますか。➞いいえ、いきません。つぎのふつうですよ。",
+      "vietnamese": "Tàu này có đi đến Koshien không? ➞Không, tôi không đi. Đó là điều bình thường tiếp theo.",
+      "number": 5
+    },
+    {
+      "word": "北海道に馬がたくさんいますよ。",
+      "reading": "はっかいどうにうまがたくさんいますよ。",
+      "vietnamese": "Có rất nhiều ngựa ở Hokkaido.",
+      "number": 5
     }
   ]
 }

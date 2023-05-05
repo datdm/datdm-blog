@@ -1,0 +1,94 @@
+{
+  "reading": [
+    {
+      "word": "鞄の中。木の下。机の上。会社の前。駅の近く。学校の隣。ランさんとマイさんの間。ズンさんの後ろ。銀行の右側。郵便局の左側。",
+      "reading": "かばんのなか。きのした。つくえのうえ。かいしゃのまえ。えきのちかく。がっこうのとなり。ランさんとマイさんのあいだ。ズンさんのうしろ。ぎんこうのみぎがわ。ゆうびんきょくのひだりがわ。",
+      "vietnamese": "trong túi. dưới gốc cây. trên bàn. trước công ty. Gần nhà ga. bên cạnh trường học. Giữa Ran và Mai. Đằng sau anh Dũng. bên phải của ngân hàng. Bên trái bưu điện.",
+      "number": 10
+    },
+    {
+      "word": "郵便局の左側に何がありますか。➞郵便局の左側に池があります。",
+      "reading": "ゆうびんきょくのひだりがわになにがありますか。➞ゆうびんきょくのひだりがわにいけがあります。",
+      "vietnamese": "Có gì ở bên trái của bưu điện? ➞Có một cái ao ở phía bên trái của bưu điện.",
+      "number": 10
+    },
+    {
+      "word": "鞄の中に何がありますか。➞鞄の中に本があります。",
+      "reading": "かばんのなかになにがありますか。➞かばんのなかにほんがあります。",
+      "vietnamese": "Bạn có gì trong túi của bạn? ➞Có một cuốn sách trong túi.",
+      "number": 10
+    },
+    {
+      "word": "木の下に誰がありますか。➞木の下に田中さんがあります。",
+      "reading": "きのしたにだれがありますか。➞きのしたにたなかさんがあります。",
+      "vietnamese": "ai ở dưới gốc cây ➞Có ông Tanaka dưới gốc cây.",
+      "number": 10
+    },
+    {
+      "word": "机の上に何がありますか。➞机の上にパソコンがあります。",
+      "reading": "机の上に何がありますか。➞机の上にパソコンがあります。",
+      "vietnamese": "có gì trên bàn ➞Có một máy tính trên bàn làm việc.",
+      "number": 10
+    },
+    {
+      "word": "本はどこにありますか。➞鞄の中にあります。",
+      "reading": "ほんはどこにありますか。➞かばんのなかにあります。",
+      "vietnamese": "quyển sách ở đâu ➞Nó ở trong túi của tôi.",
+      "number": 10
+    },
+    {
+      "word": "田中さんはどこにいますか。➞トイレの中にいます。",
+      "reading": "たなかさんはどこにいますか。➞トイレのなかにいます。",
+      "vietnamese": "Ông Tanaka đâu? ➞đang ở trong nhà vệ sinh.",
+      "number": 10
+    },
+    {
+      "word": "パソコンはどこにありますか。➞机の上にあります。",
+      "reading": "パソコンはどこにありますか。➞つくえのうえにあります。",
+      "vietnamese": "máy tính ở đâu ➞ Nó ở trên bàn.",
+      "number": 10
+    },
+    {
+      "word": "その木はどこにありますか。➞家の前にあります。",
+      "reading": "そのほんはどこにありますか。➞いえのまえにあります。",
+      "vietnamese": "cái cây đó ở đâu ➞Nó ở phía trước của ngôi nhà.",
+      "number": 10
+    },
+    {
+      "word": "机の上に本や時計があります。",
+      "reading": "つくえのうえにほんやとけいがあります。",
+      "vietnamese": "Có sách và đồng hồ trên bàn.",
+      "number": 10
+    },
+    {
+      "word": "鞄の中にお金や携帯電話があります。",
+      "reading": "かばんのなかにおかねやけいたいでんわがあります。",
+      "vietnamese": "Trong túi có tiền và điện thoại di động.",
+      "number": 10
+    },
+    {
+      "word": "パンや肉などを食べました。",
+      "reading": "パンやにくなどをたべました。",
+      "vietnamese": "Tôi đã ăn bánh mì và thịt.",
+      "number": 10
+    },
+    {
+      "word": "ハノイやダナンなどへ行きます。",
+      "reading": "ハノイやダナンなどへいきます。",
+      "vietnamese": "Tôi sẽ đi Hà Nội và Đà Nẵng.",
+      "number": 10
+    },
+    {
+      "word": "野菜や肉などを買いました。",
+      "reading": "やさいやにくなどをかいました。",
+      "vietnamese": "Tôi đã mua một ít rau và thịt.",
+      "number": 10
+    },
+    {
+      "word": "絵の中に山や川があります。",
+      "reading": "えのなかにやまやかわがあります。",
+      "vietnamese": "Có núi và sông trong bức tranh.",
+      "number": 10
+    }
+  ]
+}
