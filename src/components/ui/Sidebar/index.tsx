@@ -23,7 +23,7 @@ const Sidebar = () => {
         width: 400,
         flexShrink: 0,
         [`& .MuiDrawer-paper`]: {
-          width: 400,
+          width: "100%",
           boxSizing: "border-box",
           backgroundColor: "#3d4858",
           color: "#fff",
@@ -43,9 +43,12 @@ const Sidebar = () => {
       </Toolbar>
       <Box sx={{ overflow: "auto" }}>
         <List dense sx={{ margin: "0 20px" }}>
-          {sidebars.map((sidebar) => (
-            <SubSidebar sidebar={sidebar} key={sidebar.label} />
-          ))}
+          {sidebars.map(
+            (sidebar) =>
+              sidebar.show && (
+                <SubSidebar sidebar={sidebar} key={sidebar.label} />
+              )
+          )}
         </List>
       </Box>
     </Drawer>

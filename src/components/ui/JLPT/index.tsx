@@ -35,11 +35,14 @@ import {
 import { JpTypeDisplay, JpTypeDisplayOptions } from "constants/n5";
 import { useEffect, useState } from "react";
 import GrammarDialog from "components/atoms/GrammarDialog";
+import ContentReadingDialog from "components/atoms/ContentReadingDialog";
 
 const JLPT = () => {
   const [jpType, setJpType] = useState(JpTypeDisplay.Furigana);
   const [readings, setReadings] = useState([]);
+  const [contentReading, setContentReading] = useState({} as any);
   const [isOpenGrammarDialog, setIsOpenGrammarDialog] = useState(false);
+  const [isContentReadingDialog, setContentReadingDialog] = useState(false);
 
   useEffect(() => {
     setReadings(
@@ -101,6 +104,15 @@ const JLPT = () => {
     setIsOpenGrammarDialog(false);
   };
 
+  const handleOpenContentReadingDialog = (item: any) => () => {
+    setContentReading(item);
+    setContentReadingDialog(true);
+  };
+
+  const handleCloseContentReadingDialog = () => {
+    setContentReadingDialog(false);
+  };
+
   return (
     <>
       <Box display="flex">
@@ -123,7 +135,11 @@ const JLPT = () => {
       </Box>
       <Box>
         {readings.map((item: any, index: number) => (
-          <Box key={index} sx={{ display: "flex", marginBottom: 2 }}>
+          <Box
+            key={index}
+            sx={{ display: "flex", marginBottom: 2, cursor: "pointer" }}
+            onClick={handleOpenContentReadingDialog(item)}
+          >
             <ReactFuri
               word={`${index + 1}. ${formatFuri(item, "word")}`}
               reading={`${index + 1}. ${formatFuri(item, "reading")}`}
@@ -134,6 +150,11 @@ const JLPT = () => {
       <GrammarDialog
         isOpen={isOpenGrammarDialog}
         onClose={handleCloseGrammerDialog}
+      />
+      <ContentReadingDialog
+        contentReading={contentReading}
+        isOpen={isContentReadingDialog}
+        onClose={handleCloseContentReadingDialog}
       />
     </>
   );

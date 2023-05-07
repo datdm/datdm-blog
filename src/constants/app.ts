@@ -44,6 +44,7 @@ export const sidebars = [
   {
     label: "REACT",
     icon: ReactIcon,
+    show: true,
     childs: [
       {
         label: "Build source",
@@ -130,6 +131,7 @@ export const sidebars = [
   {
     label: "VUE",
     icon: VueIcon,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -141,6 +143,7 @@ export const sidebars = [
   {
     label: "ANGULAR",
     icon: AngularIcon,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -152,6 +155,7 @@ export const sidebars = [
   {
     label: "NODEJS",
     icon: NodejsIcon,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -178,6 +182,7 @@ export const sidebars = [
   {
     label: "REACT NATIVE",
     icon: ReactNativeIcon,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -199,6 +204,7 @@ export const sidebars = [
   {
     label: "JAVASCRIPT",
     icon: JavascriptIcon,
+    show: false,
     childs: [
       {
         label: "Các function và thuật toán hay ho",
@@ -210,6 +216,7 @@ export const sidebars = [
   {
     label: "FLUTTER",
     icon: FlutterIcon,
+    show: true,
     childs: [
       {
         label: "Build source",
@@ -271,16 +278,19 @@ export const sidebars = [
   {
     label: "KOTLIN",
     icon: KotlinIcon,
+    show: false,
     childs: [],
   },
   {
     label: "AWS",
     icon: AWSIcon,
+    show: false,
     childs: [],
   },
   {
     label: "JLPT",
     icon: JLPTIcon,
+    show: true,
     childs: [
       {
         label: "N5",
