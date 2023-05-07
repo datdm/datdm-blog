@@ -1,0 +1,202 @@
+{
+  "reading": [
+    {
+      "word": "私は彼女が欲しくないです。",
+      "reading": "わたしはかのじょがほしくないです。",
+      "vietnamese": "tôi không muốn cô ấy",
+      "number": 13
+    },
+    {
+      "word": "私は友達が欲しいです。",
+      "reading": "わたしはともだちがほしいです。",
+      "vietnamese": "tôi muốn một người bạn",
+      "number": 13
+    },
+    {
+      "word": "今、私はお金が一番 欲しいです。",
+      "reading": "いま、わたしはおかねがいちばん ほしいです。",
+      "vietnamese": "Bây giờ tôi muốn tiền nhất.",
+      "number": 13
+    },
+    {
+      "word": "Duyさんは今、子供を欲しがっています。",
+      "reading": "Duyさんはいま、こどもをほしがっています。",
+      "vietnamese": "Bây giờ Duy muốn có một đứa con.",
+      "number": 13
+    },
+    {
+      "word": "Nghiaさんは車を欲しがっています。",
+      "reading": "Nghiaさんはくるまをほしがっています。",
+      "vietnamese": "Nghĩa muốn một chiếc ô tô.",
+      "number": 13
+    },
+    {
+      "word": "誕生日に何を一番 欲しいですか。➞誕生日に新しい電話が欲しいです。",
+      "reading": "たんじょうびになにをいちばん ほしいですか。➞たんじょうびにあたらしいでんわがほしいです。",
+      "vietnamese": "Bạn muốn gì nhất cho ngày sinh nhật của bạn? ➞Tôi muốn có một chiếc điện thoại mới cho ngày sinh nhật của mình.",
+      "number": 13
+    },
+    {
+      "word": "今、何が一番 欲しいですか。➞日本のパソコンが欲しいです。",
+      "reading": "いま、なにがいちばん ほしいですか。➞にほんのパソコンがほしいです。",
+      "vietnamese": "Điều bạn muốn nhất bây giờ là gì? ➞Tôi muốn một máy tính Nhật Bản.",
+      "number": 13
+    },
+    {
+      "word": "クリスマスに何が欲しいですか。➞シャツが欲しいです。",
+      "reading": "クリスマスになにがほしいですか。➞シャツがほしいです。",
+      "vietnamese": "bạn muốn gì cho Giáng sinh ➞Tôi muốn có một chiếc áo sơ mi.",
+      "number": 13
+    },
+    {
+      "word": "どんな車が欲しいですか。➞大きい車が欲しいです。",
+      "reading": "どんなくるまがほしいですか。➞おおきいくるまがほしいです。",
+      "vietnamese": "bạn muốn loại xe nào ➞Tôi muốn một chiếc ô tô lớn.",
+      "number": 13
+    },
+    {
+      "word": "どんな電話が欲しいですか。➞日本の電話が欲しいです。",
+      "reading": "どんなでんわがほしいですか。➞にほんのでんわがほしいです。",
+      "vietnamese": "bạn muốn loại điện thoại nào ➞Tôi muốn một chiếc điện thoại Nhật Bản.",
+      "number": 13
+    },
+    {
+      "word": "今、寝たいです。",
+      "reading": "いま、ねたいです。",
+      "vietnamese": "Tôi muốn đi ngủ bây giờ.",
+      "number": 13
+    },
+    {
+      "word": "寿司が食べたいです。",
+      "reading": "すしがたべたいです。",
+      "vietnamese": "Tôi muốn ăn sushi.",
+      "number": 13
+    },
+    {
+      "word": "眠いですから、コーヒーを飲みたいです。",
+      "reading": "ねむいですから、コーヒーをのみたいです。",
+      "vietnamese": "Tôi buồn ngủ nên muốn uống cà phê.",
+      "number": 13
+    },
+    {
+      "word": "Park先生はベトナムと結婚したがっています。",
+      "reading": "Parkせんせいはベトナムとけっこんしたがっています。",
+      "vietnamese": "Thầy Park muốn lấy vợ Việt Nam.",
+      "number": 13
+    },
+    {
+      "word": "Dung校長は韓国へ行きたがっています。",
+      "reading": "Dungこうちょうはかんこくへいきたがっています。",
+      "vietnamese": "Hiệu trưởng Dung muốn đi Hàn Quốc.",
+      "number": 13
+    },
+    {
+      "word": "何を食べたいですか。➞刺身が食べたいです。",
+      "reading": "なにをたべたいですか。➞さしみがたべたいです。",
+      "vietnamese": "Bạn muốn ăn gì. ➞Tôi muốn ăn sashimi.",
+      "number": 13
+    },
+    {
+      "word": "サッカーをしたいですか。➞はい、サッカーをしたいです。",
+      "reading": "サッカーをしたいですか。➞はい、サッカーをしたいです。",
+      "vietnamese": "bạn có muốn chơi bóng đá không ➞ Có, tôi muốn chơi bóng đá.",
+      "number": 13
+    },
+    {
+      "word": "今、何をしたいですか。➞何もしたくないです。",
+      "reading": "いま、なにをしたいですか。➞なにもしたくないです。",
+      "vietnamese": "bây giờ bạn muốn làm gì ➞ Tôi không muốn làm gì cả.",
+      "number": 13
+    },
+    {
+      "word": "休みたいですか。➞いいえ、休みたくないです。",
+      "reading": "やすみたいですか。➞いいえ、やすみたくないです。",
+      "vietnamese": "Bạn có muốn nghỉ ngơi ➞Không, tôi không muốn nghỉ ngơi.",
+      "number": 13
+    },
+    {
+      "word": "彼女に会いたいですか。➞はい、彼女に会いたいです。",
+      "reading": "かのじょにあいたいですか。➞はい、かのじょにあいたいです。",
+      "vietnamese": "Bạn có muốn gặp cô ấy không ➞Vâng, tôi muốn gặp cô ấy.",
+      "number": 13
+    },
+    {
+      "word": "私はスーパーへパンと牛乳を買いに行きます。",
+      "reading": "わたしはスーパーへパンとぎゅうにゅうをかいにいきます。",
+      "vietnamese": "Tôi đi siêu thị để mua bánh mì và sữa.",
+      "number": 13
+    },
+    {
+      "word": "日本へ日本語を勉強しに行きます。日本へ日本語の勉強に行きます。",
+      "reading": "にほんへにほんごをべんきょうしにいきます。にほんへにほんごのべんきょうにいきます。",
+      "vietnamese": "Tôi sẽ đến Nhật Bản để học tiếng Nhật.",
+      "number": 13
+    },
+    {
+      "word": "実家へ両親に会いに帰ります。",
+      "reading": "じっかへりょうしんにあいにかえります。",
+      "vietnamese": "Tôi sẽ về nhà để gặp bố mẹ tôi.",
+      "number": 13
+    },
+    {
+      "word": "日本へ彼女に会いに来ました。",
+      "reading": "にほんへかのじょにあいにきました。",
+      "vietnamese": "Tôi đến Nhật Bản để gặp cô ấy.",
+      "number": 13
+    },
+    {
+      "word": "スーパーへ買い物に行きました。",
+      "reading": "スーパーへかいものにいきました。",
+      "vietnamese": "Tôi đã đi mua sắm ở siêu thị.",
+      "number": 13
+    },
+    {
+      "word": "子供と川へ釣りをしに行きます。",
+      "reading": "こどもとかわへつりをしにいきます。",
+      "vietnamese": "Tôi đi câu cá trên sông với các con tôi.",
+      "number": 13
+    },
+    {
+      "word": "彼女とホテルへ日本を食べに行きました。",
+      "reading": "かのじょとホテルへにほんをたべにいきました。",
+      "vietnamese": "Tôi đến khách sạn với bạn gái để ăn đồ Nhật.",
+      "number": 13
+    },
+    {
+      "word": "東京へ桜のお祭りに行きました。",
+      "reading": "とうきょうへさくらのお祭まつりにいきました。",
+      "vietnamese": "Tôi đã đến Tokyo cho lễ hội hoa anh đào.",
+      "number": 13
+    },
+    {
+      "word": "国へ友達に会いに帰りました。",
+      "reading": "くにへともだちにあいにかえりました。",
+      "vietnamese": "Tôi trở về nước để gặp bạn tôi.",
+      "number": 13
+    },
+    {
+      "word": "明日、どこかへ行きますか。➞図書館へ行きます。",
+      "reading": "あした、どこかへいきますか。➞としょかんへいきます。",
+      "vietnamese": "Bạn sẽ đi đâu vào ngày mai? ➞Vào thư viện.",
+      "number": 13
+    },
+    {
+      "word": "何か食べますか。➞パンを食べます。",
+      "reading": "なにかたべますか。➞パンをたべます。",
+      "vietnamese": "Bạn có muốn ăn một cái gì đó. ➞ Tôi ăn bánh mì.",
+      "number": 13
+    },
+    {
+      "word": "夏 休みにどこか遊びに行きましたか。➞はい、ハロン湾へ遊びに行きました。",
+      "reading": "なつ やすみにどこかあそびにいきましたか。➞はい、ハロンわんへあそびにいきました。",
+      "vietnamese": "Bạn có đi đâu trong kỳ nghỉ hè không? ➞Vâng, tôi đã đến Vịnh Hạ Long.",
+      "number": 13
+    },
+    {
+      "word": "暑いですね。何か飲みたいですか。➞はい、冷たいお茶が飲みたいです。",
+      "reading": "あついですね。なにかのみたいですか。➞はい、つめたいおちゃがのみたいです。",
+      "vietnamese": "Nó nóng. bạn muốn uống gì. ➞Vâng, tôi muốn một ít trà lạnh.",
+      "number": 13
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "reading": [
+    {
+      "word": "すみませんが、エアコンを付けてください。",
+      "reading": "すみませんが、エアコンをつけてください。",
+      "vietnamese": "Xin lỗi, nhưng làm ơn bật điều hòa.",
+      "number": 14
+    },
+    {
+      "word": "もう３０歳ですよ、早く結婚してください。",
+      "reading": "もう３０さいですよ、はやくけっこんしてください。",
+      "vietnamese": "Tôi 30 tuổi rồi, xin cưới sớm.",
+      "number": 14
+    },
+    {
+      "word": "明日レポートを書いてください。",
+      "reading": "あすレポートをかいてください。",
+      "vietnamese": "Hãy viết báo cáo vào ngày mai.",
+      "number": 14
+    },
+    {
+      "word": "あのう、すみませんが、彼女の電話番号を教えてください。",
+      "reading": "あのう、すみませんが、かのじょのでんわばんごうをおしえてください。",
+      "vietnamese": "Um, xin lỗi, nhưng bạn có thể cho tôi số điện thoại của cô ấy không?",
+      "number": 14
+    },
+    {
+      "word": "病気ですから、薬を飲んでください。",
+      "reading": "びょうきですから、くすりをのんでください。",
+      "vietnamese": "Tôi bị bệnh, xin hãy uống thuốc.",
+      "number": 14
+    },
+    {
+      "word": "もう遅いから、早く帰ってください。",
+      "reading": "もう遅いから、早く帰ってください。",
+      "vietnamese": "Muộn rồi, anh về sớm đi.",
+      "number": 14
+    },
+    {
+      "word": "明日、果物と野菜を買ってください。",
+      "reading": "あした、くだものとやさいをかってください。",
+      "vietnamese": "Hãy mua trái cây và rau quả vào ngày mai.",
+      "number": 14
+    },
+    {
+      "word": "すみませんが、１００万ドンを貸してください。今、お金がありませんから。",
+      "reading": "すみませんが、１００まんドンをかしてください。いま、おかねがありませんから。",
+      "vietnamese": "Xin lỗi, nhưng hãy cho tôi mượn một triệu đồng. Tôi không có tiền ngay bây giờ.",
+      "number": 14
+    },
+    {
+      "word": "明日、テストがありますから、今日は早く寝てください。",
+      "reading": "あした、テストがありますから、きょうははやくねてください。",
+      "vietnamese": "Ngày mai tôi có một bài kiểm tra, vì vậy hãy đi ngủ sớm hôm nay.",
+      "number": 14
+    },
+    {
+      "word": "Nam君、もう１０時ですよ。すぐ起きてください。",
+      "reading": "Namくん、もう１０じですよ。すぐおきてください。",
+      "vietnamese": "Nam, đã 10 giờ rồi. làm ơn thức dậy ngay bây giờ",
+      "number": 14
+    },
+    {
+      "word": "何をしていますか。➞今、寝ています。",
+      "reading": "なにをしていますか。➞いま、ねています。",
+      "vietnamese": "Bạn đang làm gì thế. ➞Bây giờ tôi đang ngủ.",
+      "number": 14
+    },
+    {
+      "word": "ご主人は今、何をしていますか。➞お酒を飲んでいます。",
+      "reading": "ごしゅじんはいま、なにをしていますか。➞おさけをのんでいます。",
+      "vietnamese": "Bây giờ chồng bạn đang làm gì? ➞Tôi đang uống rượu.",
+      "number": 14
+    },
+    {
+      "word": "HungさんはHoaiさんと話しています。",
+      "reading": "HungさんはHoaiさんとはなしています。",
+      "vietnamese": "Hùng đang nói chuyện với Hoài.",
+      "number": 14
+    },
+    {
+      "word": "Hoangさんは何をしていますか。➞電話を掛けています。",
+      "reading": "Hoangさんはなにをしていますか。➞でんわをかけています。",
+      "vietnamese": "Anh Hoàng đang làm gì? ➞Tôi đang thực hiện cuộc gọi.",
+      "number": 14
+    },
+    {
+      "word": "今、勉強していますか。➞いいえ、勉強していません。",
+      "reading": "今、勉強していますか。➞いいえ、勉強していません。",
+      "vietnamese": "bạn đang học bây giờ à? ➞Không, tôi chưa học.",
+      "number": 14
+    },
+    {
+      "word": "Linhさんは今、彼氏と遊んでいます。",
+      "reading": "Linhさんは今、彼氏と遊んでいます。",
+      "vietnamese": "Bây giờ Linh đang chơi với bạn trai của cô ấy.",
+      "number": 14
+    },
+    {
+      "word": "今、何をしていますか。➞晩ご飯を食べています。",
+      "reading": "いま、なにをしていますか。➞ばんごはんをたべています。",
+      "vietnamese": "Bây giờ bạn đang làm gì ➞Tôi đang ăn tối.",
+      "number": 14
+    },
+    {
+      "word": "窓を開けましょうか。➞すみません、お願いします。",
+      "reading": "まどをあけましょうか。➞すみません、おねがいします。",
+      "vietnamese": "Tôi mở cửa sổ nhé. ➞Xin lỗi, làm ơn.",
+      "number": 14
+    },
+    {
+      "word": "その荷物、重いですね。持ちましょうか。➞ああ、どうもすみません、お願いします。",
+      "reading": "そのにもつ、おもいですね。もちましょうか。➞ああ、どうもすみません、おねがいします。",
+      "vietnamese": "Đó là hành lý nặng nề. Chúng ta sẽ giữ. ➞Ồ, tôi rất xin lỗi, làm ơn.",
+      "number": 14
+    },
+    {
+      "word": "タクシーを呼びましょうか。➞いいえ、結構です。",
+      "reading": "タクシーをよびましょうか。➞いいえ、けっこうです。",
+      "vietnamese": "Tôi sẽ gọi cho bạn một chiếc taxi? ➞Không, cảm ơn.",
+      "number": 14
+    },
+    {
+      "word": "この本、コビーしましょうか。➞いいえ、結構です。",
+      "reading": "このほん、コビーしましょうか。➞いいえ、けっこうです。",
+      "vietnamese": "Chúng ta sẽ coby cuốn sách này? ➞Không, cảm ơn.",
+      "number": 14
+    },
+    {
+      "word": "あのう、何か私が手伝いましょうか。",
+      "reading": "あのう、なにかわたしがてつだいましょうか。",
+      "vietnamese": "Ừm, tôi có thể giúp gì cho bạn không?",
+      "number": 14
+    },
+    {
+      "word": "鉛筆がありませんか。貸しましょうか。➞はい、どうもすみません。",
+      "reading": "えんぴつがありませんか。かしましょうか。➞はい、どうもすみません。",
+      "vietnamese": "Bạn không có một cây bút chì? Tôi sẽ cho bạn mượn nó? ➞ Vâng, tôi rất xin lỗi.",
+      "number": 14
+    },
+    {
+      "word": "暑いですね。冷たい水を買いましょうか。➞はい、お願いします。",
+      "reading": "あついですね。つめたい水をかいましょうか。➞はい、おねがいします。",
+      "vietnamese": "Nó nóng. Tôi mua ít nước lạnh nhé? ➞Vâng, làm ơn.",
+      "number": 14
+    },
+    {
+      "word": "写真を撮りましょうか。➞はい、どうもすみません、お願いします。",
+      "reading": "しゃしんをとりましょうか。➞はい、どうもすみません、おねがいします。",
+      "vietnamese": "Chúng ta chụp ảnh nhé? ➞ Vâng, tôi rất xin lỗi, xin vui lòng.",
+      "number": 14
+    },
+    {
+      "word": "寒いですね。エアコンを消しましょうか。➞いいえ、大丈夫です。",
+      "reading": "さむいですね。エアコンをけしましょうか。➞いいえ、だいじょうぶです。",
+      "vietnamese": "Trời lạnh. Chúng ta tắt điều hòa nhé? ➞ Không, không sao đâu.",
+      "number": 14
+    },
+    {
+      "word": "雨が降っていますね。傘を貸しましょうか。➞はい、すみません、お願いします。",
+      "reading": "あめがふっていますね。かさをかしましょうか。➞はい、すみません、おねがいします。",
+      "vietnamese": "Trời đang mưa phải không? Tôi sẽ cho bạn mượn một chiếc ô? ➞ Vâng, xin lỗi, xin vui lòng.",
+      "number": 14
+    }
+  ]
+}

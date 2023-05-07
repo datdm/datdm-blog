@@ -1,0 +1,166 @@
+{
+  "reading": [
+    {
+      "word": "今朝、ジョギングをして、シャワーを浴びて、学校へ行きました。",
+      "reading": "けさ、ジョギングをして、シャワーをあびて、がっこうへいきました。",
+      "vietnamese": "Tôi chạy bộ, đi tắm và đi học sáng nay.",
+      "number": 16
+    },
+    {
+      "word": "昨日の晩、友達と食事して、映画を見て。それから、家に帰りました。",
+      "reading": "きのうのばん、ともだちとしょくじして、えいがをみて。それから、いえにかえりました。",
+      "vietnamese": "Tối qua, tôi đã ăn tối với bạn bè và xem một bộ phim. Sau đó tôi đã về nhà.",
+      "number": 16
+    },
+    {
+      "word": "私のお父さんは毎朝 新聞を読んで、ご飯を食べて、それから会社へ行きます。",
+      "reading": "わたしのおとうさんはまいあさ しんぶんをよんで、ごはんをたべて、それからかいしゃへいきます。",
+      "vietnamese": "Bố tôi đọc báo mỗi sáng, ăn rồi đi làm.",
+      "number": 16
+    },
+    {
+      "word": "Lanさん、午後 何をしましたか。➞友達とサッカーをして、ビールを飲んで。それから、カラオケに行きました。",
+      "reading": "Lanさん、ごご なにをしましたか。➞ともだちとサッカーをして、ビールをのんで。それから、カラオケにいきました。",
+      "vietnamese": "Lan, anh làm gì hồi chiều vậy? ➞Chơi bóng đá với bạn bè và uống bia. Sau đó chúng tôi đi hát karaoke.",
+      "number": 16
+    },
+    {
+      "word": "私の部屋は広くて、綺麗です。",
+      "reading": "わたしのへやはひろくて、きれいです。",
+      "vietnamese": "Phòng của tôi lớn và sạch sẽ.",
+      "number": 16
+    },
+    {
+      "word": "Linhさんのうちは大きくて、新しいです。",
+      "reading": "Linhさんのうちは大きくて、新しいです。",
+      "vietnamese": "Ngôi nhà của Linh lớn và mới.",
+      "number": 16
+    },
+    {
+      "word": "この食べ物はどうですか。➞美味しくて、安いです。",
+      "reading": "このたべものはどうですか。➞おいしくて、やすいです。",
+      "vietnamese": "Làm thế nào để bạn thích thực phẩm này? ➞Ngon bổ rẻ.",
+      "number": 16
+    },
+    {
+      "word": "Namさんはどんな人ですか。➞元気で親切な人です。",
+      "reading": "Namさんはどんなひとですか。➞げんきでしんせつなひとです。",
+      "vietnamese": "Anh Nam là người như thế nào? ➞Anh ấy là một người vui vẻ và tốt bụng.",
+      "number": 16
+    },
+    {
+      "word": "Hoaさんは２０歳で独身です。",
+      "reading": "Hoaさんは２０さいでどくしんです。",
+      "vietnamese": "Hoa 20 tuổi và độc thân.",
+      "number": 16
+    },
+    {
+      "word": "ハノイはどうですか。➞賑やかで物価が高いです。",
+      "reading": "ハノイはどうですか。➞賑やかで物価が高いです。",
+      "vietnamese": "hà nội thì sao ➞Bận rộn và đắt đỏ.",
+      "number": 16
+    },
+    {
+      "word": "今朝、ご飯を食べてから、学校に行きました。",
+      "reading": "けさ、ごはんをたべてから、がっこうにいきました。",
+      "vietnamese": "Sau khi ăn sáng xong, tôi đến trường.",
+      "number": 16
+    },
+    {
+      "word": "昨日の晩、友達と食事してから、映画を見ました。",
+      "reading": "きのうのばん、ともだちとしょくじしてから、えいがをみました。",
+      "vietnamese": "Sau khi ăn tối với bạn bè của tôi tối qua, tôi đã xem một bộ phim.",
+      "number": 16
+    },
+    {
+      "word": "明日、仕事が終わってから、お茶を飲みます。",
+      "reading": "あした、しごとがおわってから、おちゃをのみます。",
+      "vietnamese": "Tôi sẽ uống trà sau giờ làm việc vào ngày mai.",
+      "number": 16
+    },
+    {
+      "word": "レポートを書いてから、私に送ってください。",
+      "reading": "レポートをかいてから、わたしにおくってください。",
+      "vietnamese": "Hãy viết báo cáo và gửi cho tôi.",
+      "number": 16
+    },
+    {
+      "word": "Huongさんは髪が長いです。",
+      "reading": "Huongさんはかみがながいです。",
+      "vietnamese": "Hương để tóc dài.",
+      "number": 16
+    },
+    {
+      "word": "ハノイは食べ物が美味しくて、安いです。",
+      "reading": "ハノイはたべものがおいしくて、やすいです。",
+      "vietnamese": "Đồ ăn ở Hà Nội vừa ngon vừa rẻ.",
+      "number": 16
+    },
+    {
+      "word": "Yuha先生は顔が可愛いですね。",
+      "reading": "Yuhaせんせいはかおがかわいいですね。",
+      "vietnamese": "Yuha-sensei có khuôn mặt dễ thương.",
+      "number": 16
+    },
+    {
+      "word": "ドイツはビールが美味しくて、とても有名です。",
+      "reading": "ドイツはビールがおいしくて、とてもゆうめいです。",
+      "vietnamese": "Đức nổi tiếng với bia ngon.",
+      "number": 16
+    },
+    {
+      "word": "どうやって学校へ行きましたか。➞バスで行きました。",
+      "reading": "どうやってがっこうへいきましたか。➞バスでいきました。",
+      "vietnamese": "bạn đã đi đến trường bằng cách nào ➞Tôi đã đi bằng xe buýt.",
+      "number": 16
+    },
+    {
+      "word": "あのう、美術館に行きたいですが、どうやって行きますか。➞学校の近くの乗り場で、３２バスに乗って、銀行でおります。美術館は銀行の左です。",
+      "reading": "あのう、びじゅつかんにいきたいですが、どうやっていきますか。➞がっこうのちかくののりばで、３２バスにのって、ぎんこうでおります。びじゅつかんはぎんこうのひだりです。",
+      "vietnamese": "Chà, tôi muốn đến một bảo tàng nghệ thuật, nhưng tôi đến đó bằng cách nào? ➞Lên xe buýt 32 tại bến gần trường và xuống tại ngân hàng. Bảo tàng nằm bên trái ngân hàng.",
+      "number": 16
+    },
+    {
+      "word": "これ、どうやって食べますか。➞そのまま食べてもいいですよ。",
+      "reading": "これ、どうやってたべますか。➞そのままたべてもいいですよ。",
+      "vietnamese": "làm thế nào để bạn ăn cái này ➞Bạn có thể ăn nó như nó vốn có.",
+      "number": 16
+    },
+    {
+      "word": "どうやってお金を出しますか。➞ここにカードを入れて、赤いボタンを押して、お金が出ますよ。",
+      "reading": "どうやっておかねをだしますか。➞ここにカードをいれて、あかいボタンをおして、おかねがでますよ。",
+      "vietnamese": "Bạn trả như thế nào ➞Đút thẻ vào đây, bấm nút đỏ, tiền sẽ ra.",
+      "number": 16
+    },
+    {
+      "word": "このスープ、どうやって食べますか。➞砂糖を少し入れてから食べます。",
+      "reading": "このスープ、どうやってたべますか。➞さとうをすこしいれてからたべます。",
+      "vietnamese": "Làm thế nào để bạn ăn súp này? ➞Thêm chút đường trước khi ăn.",
+      "number": 16
+    },
+    {
+      "word": "大学までどうやって行きますか。➞ここから１２バスに乗って、大学の前でおります。",
+      "reading": "だいがくまでどうやっていきますか。➞ここから１２バスにのって、だいがくのまえでおります。",
+      "vietnamese": "làm thế nào để bạn vào đại học ➞Từ đây bắt xe buýt số 12 và xuống trước cổng trường đại học.",
+      "number": 16
+    },
+    {
+      "word": "Hoaさんはどの人ですか。➞髪が長くて、背が高い人です。",
+      "reading": "Hoaさんはどのひとですか。➞かみがながくて、せがたかいひひとです。",
+      "vietnamese": "Hòa là ai? ➞Anh ấy có mái tóc dài và cao.",
+      "number": 16
+    },
+    {
+      "word": "Ngaさんの車はどの車ですか。➞あの小さくて、白い車です。",
+      "reading": "Ngaさんのくるまはどのくるまですか。➞あのちいさくて、しろいくるまです。",
+      "vietnamese": "Xe Nga là xe nào? ➞ Chiếc ô tô nhỏ, màu trắng đó.",
+      "number": 16
+    },
+    {
+      "word": "先生はどの人ですか。➞あの肌が白くて、髪が長い人です。",
+      "reading": "せんせいはどのひとですか。➞あのはだがしろくて、かみがながいひとです。",
+      "vietnamese": "Ai là giáo viên của bạn? ➞ Người đó có làn da trắng và mái tóc dài.",
+      "number": 16
+    }
+  ]
+}

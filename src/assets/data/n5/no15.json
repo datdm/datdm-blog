@@ -1,0 +1,106 @@
+{
+  "reading": [
+    {
+      "word": "このスープに砂糖を入れてもいいです。",
+      "reading": "このスープにさとうをいれてもいいです。",
+      "vietnamese": "Bạn có thể thêm đường vào món súp này.",
+      "number": 15
+    },
+    {
+      "word": "すみません、先に帰ってもいいですか。➞ええ、いいですよ。",
+      "reading": "すみません、先に帰ってもいいですか。➞ええ、いいですよ。",
+      "vietnamese": "Xin lỗi, tôi có thể về nhà trước được không? ➞Ừ, không sao đâu.",
+      "number": 15
+    },
+    {
+      "word": "ここで写真を撮ってもいいですか。➞すみません、ちょっと。",
+      "reading": "ここでしゃしんをとってもいいですか。➞すみません、ちょっと。",
+      "vietnamese": "Tôi có thể chụp ảnh ở đây không. ➞Xin lỗi, đợi một chút.",
+      "number": 15
+    },
+    {
+      "word": "先生、すみませんが、明日 用事がありませんから、学校を休んでもよろしいですか。➞ええ、いいですよ。",
+      "reading": "せんせい、すみませんが、あした ようじがありませんから、がっこうをやすんでもよろしいですか。➞ええ、いいですよ。",
+      "vietnamese": "Thưa thầy, con xin lỗi, nhưng con có việc gì ngày mai, vậy con có thể nghỉ học được không? ➞Ừ, không sao đâu.",
+      "number": 15
+    },
+    {
+      "word": "教室でタバコを吸ってはいけません。",
+      "reading": "きょうしつでタバコをすってはいけません。",
+      "vietnamese": "Không hút thuốc trong lớp học.",
+      "number": 15
+    },
+    {
+      "word": "まだ子供ですから、お酒を飲んではいけませんよ。",
+      "reading": "まだこどもですから、おさけをのんではいけませんよ。",
+      "vietnamese": "Bạn vẫn còn là một đứa trẻ, vì vậy đừng uống rượu.",
+      "number": 15
+    },
+    {
+      "word": "ここに車を止めてもいいですか。➞いいえ、止めてはいけません。",
+      "reading": "ここに車を止めてもいいですか。➞いいえ、止めてはいけません。",
+      "vietnamese": "Tôi có thể đỗ xe ở đây không? ➞ Không, đừng dừng lại.",
+      "number": 15
+    },
+    {
+      "word": "おい、俺の彼女を見てはいけません。",
+      "reading": "おい、おれのかのじょをみてはいけません。",
+      "vietnamese": "Này, đừng nhìn bạn gái tôi.",
+      "number": 15
+    },
+    {
+      "word": "私はハノイに住んでいます。",
+      "reading": "わたしはハノイにすんでいます。",
+      "vietnamese": "Tôi sống ở Hà Nội.",
+      "number": 15
+    },
+    {
+      "word": "彼の電話番号を知っていますか。➞はい、知っています。",
+      "reading": "かれのでんわばんごうをしっていますか。➞はい、しっています。",
+      "vietnamese": "bạn có biết số điện thoại của anh ấy không ➞ Vâng, tôi biết.",
+      "number": 15
+    },
+    {
+      "word": "私はパソコンを持っています。",
+      "reading": "わたしはパソコンをもっています。",
+      "vietnamese": "tôi có một chiếc máy tính",
+      "number": 15
+    },
+    {
+      "word": "Dung校長は結婚しています。",
+      "reading": "Dungこうちょうはけっこんしています。",
+      "vietnamese": "Hiệu trưởng Dũng đã có gia đình.",
+      "number": 15
+    },
+    {
+      "word": "ハノイ大学を知っていますか。➞いいえ、知りません。",
+      "reading": "ハノイだいがくをしっていますか。➞いいえ、しりません。",
+      "vietnamese": "Bạn có biết Đại học Hà Nội không? ➞Không, tôi không biết.",
+      "number": 15
+    },
+    {
+      "word": "LinhさんはFPT会社で働いています。",
+      "reading": "LinhさんはFPTかいしゃではたらいています。",
+      "vietnamese": "Linh làm việc cho công ty FPT.",
+      "number": 15
+    },
+    {
+      "word": "毎日、新聞を読んでいますか。➞はい、毎朝、読んでいます。",
+      "reading": "まいにち、しんぶんをよんでいますか。➞はい、まいあせ、よんでいます。",
+      "vietnamese": "Bạn có đọc báo mỗi ngày không? ➞Có, tôi đọc mỗi sáng.",
+      "number": 15
+    },
+    {
+      "word": "私の家族は皆フェイスブックを使っています。",
+      "reading": "わたしのかぞくはみんなフェイスブックをつかっています。",
+      "vietnamese": "Mọi người trong gia đình tôi đều sử dụng Facebook.",
+      "number": 15
+    },
+    {
+      "word": "私のお父さんは一日５回ぐらいタバコを吸っています。",
+      "reading": "わたしのおとうさんはうちにち５かいぐらいタバコをすっています。",
+      "vietnamese": "Cha tôi hút thuốc khoảng năm lần một ngày.",
+      "number": 15
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "reading": [
+    {
+      "word": "今、元気ですから、心配しないでください。",
+      "reading": "いま、げんきですから、しんぱいしないでください。",
+      "vietnamese": "Bây giờ tôi ổn, vì vậy đừng lo lắng.",
+      "number": 17
+    },
+    {
+      "word": "Namさん、ここに車を止めないでください。",
+      "reading": "Namさん、ここに車を止めないでください。",
+      "vietnamese": "Nam, xin đừng đậu xe ở đây.",
+      "number": 17
+    },
+    {
+      "word": "これは危ないですから、食べないでください。",
+      "reading": "これはあぶないですから、たべないでください。",
+      "vietnamese": "Điều này là nguy hiểm, vì vậy xin vui lòng không ăn nó.",
+      "number": 17
+    },
+    {
+      "word": "美術館で写真を撮らないでください。",
+      "reading": "びじゅつかんでしゃしんをとらないでください。",
+      "vietnamese": "Vui lòng không chụp ảnh trong bảo tàng.",
+      "number": 17
+    },
+    {
+      "word": "病気ですから、薬を飲まなければなりません。",
+      "reading": "びょうきですから、くすりをのまなければなりません。",
+      "vietnamese": "Tôi bị bệnh, vì vậy tôi phải uống thuốc.",
+      "number": 17
+    },
+    {
+      "word": "明日、テストがありますから、今晩、勉強しなければなりません。",
+      "reading": "あした、テストがありますから、こんばん、べんきょうしなければなりません。",
+      "vietnamese": "Tôi có một bài kiểm tra vào ngày mai, vì vậy tôi phải học tối nay.",
+      "number": 17
+    },
+    {
+      "word": "Hoaさんは病院に行かなければなりません。",
+      "reading": "Hoaさんはびょういんにいかなければなりません。",
+      "vietnamese": "Hoa phải đi bệnh viện.",
+      "number": 17
+    },
+    {
+      "word": "今、何をしなければなりませんか。➞レポートを書かなければなりません。",
+      "reading": "いま、なにをしなければなりませんか。➞レポートをかかなければなりません。",
+      "vietnamese": "Bạn phải làm gì bây giờ? ➞Tôi phải viết báo cáo.",
+      "number": 17
+    },
+    {
+      "word": "まだ仕事が終わりませんから、残業しなければなりません。",
+      "reading": "まだしごとがおわりませんから、ざんぎょうしなければなりません。",
+      "vietnamese": "Tôi vẫn chưa hoàn thành công việc của mình, vì vậy tôi phải làm thêm giờ.",
+      "number": 17
+    },
+    {
+      "word": "先生に本を返さなければならない。",
+      "reading": "せんせいにほんをかえさなければならない。",
+      "vietnamese": "Tôi phải trả lại cuốn sách cho giáo viên.",
+      "number": 17
+    },
+    {
+      "word": "明日のパーティーにケーキを持って行かなければなりません。",
+      "reading": "あしたのパーティーにケーキをもっていかなければなりません。",
+      "vietnamese": "Tôi phải mang một chiếc bánh đến bữa tiệc vào ngày mai.",
+      "number": 17
+    },
+    {
+      "word": "来月、インドへ出張しなければなりませんか。➞ええ、そうです。",
+      "reading": "らいげつ、インドへしゅっちょうしなければなりませんか。➞ええ、そうです。",
+      "vietnamese": "Tôi có phải đi công tác ở Ấn Độ vào tháng tới không? ➞ Vâng, đúng vậy.",
+      "number": 17
+    },
+    {
+      "word": "もう７時ですか。料理を作らなきゃ。",
+      "reading": "もう７じですか。りょうりをつくらなきゃ。",
+      "vietnamese": "Đã bảy giờ rồi sao? Tôi phải nấu ăn.",
+      "number": 17
+    },
+    {
+      "word": "食べ物を買わなくちゃ",
+      "reading": "たべものをかわなくちゃ",
+      "vietnamese": "Tôi phải mua một ít thức ăn",
+      "number": 17
+    },
+    {
+      "word": "午後、病院へ行かないといけない。",
+      "reading": "ごご、びょういんへいかないといけない。",
+      "vietnamese": "Tôi phải đến bệnh viện vào buổi chiều.",
+      "number": 17
+    },
+    {
+      "word": "もう夜１０時ですね。早く帰らないといけない。",
+      "reading": "もうよる１０じですね。はやくかえらないといけない。",
+      "vietnamese": "Đã mười giờ đêm rồi. Tôi phải về nhà sớm.",
+      "number": 17
+    },
+    {
+      "word": "明日、来なくてもいいです。",
+      "reading": "あした、こなくてもいいです。",
+      "vietnamese": "Bạn không cần phải đến vào ngày mai.",
+      "number": 17
+    },
+    {
+      "word": "コーヒーに砂糖を入れなくてもいいです。",
+      "reading": "コーヒーにさとうをいれなくてもいいです。",
+      "vietnamese": "Bạn không cần phải cho đường vào cà phê của mình.",
+      "number": 17
+    },
+    {
+      "word": "タクシーを呼ばなくてもいいです。バスで帰りますから。",
+      "reading": "タクシーをよばなくてもいいです。バスでかえりますから。",
+      "vietnamese": "Bạn không cần phải gọi taxi. Tôi sẽ về nhà bằng xe buýt.",
+      "number": 17
+    },
+    {
+      "word": "この問題は簡単ですから、教えなくてもいいです。",
+      "reading": "このもんだいはかんたんですから、おしえなくてもいいです。",
+      "vietnamese": "Câu hỏi này rất dễ, vì vậy bạn không cần phải dạy.",
+      "number": 17
+    },
+    {
+      "word": "ここに車を止めないでください。➞車はここに止めないでください。",
+      "reading": "ここに車を止めないでください。➞車はここに止めないでください。",
+      "vietnamese": "Xin vui lòng không đậu xe của bạn ở đây. ➞Không đậu xe ở đây.",
+      "number": 17
+    },
+    {
+      "word": "昨日キャベツを買いました。➞キャベツは昨日 買いました。",
+      "reading": "きのうキャベツをかいました。➞キャベツはきのう かいました。",
+      "vietnamese": "Tôi đã mua bắp cải ngày hôm qua. ➞Tôi đã mua bắp cải ngày hôm qua.",
+      "number": 17
+    },
+    {
+      "word": "ご飯を食べてから、薬を飲まないければなりません。➞薬はご飯を食べてから、飲まないければなりません。",
+      "reading": "ごはんをたべてから、くすりをのまないければなりません。➞くすりはごはんをたべてから、のまないければなりません。",
+      "vietnamese": "Ăn xong phải uống thuốc. ➞ Nên uống thuốc sau khi ăn.",
+      "number": 17
+    },
+    {
+      "word": "資料を送らなくてもいいです。➞資料は送らなくてもいいです。",
+      "reading": "しりょうをおくらなくてもいいです。➞しりょうはおくらなくてもいいです。",
+      "vietnamese": "Bạn không cần phải gửi tài liệu. ➞Bạn không phải gửi tài liệu.",
+      "number": 17
+    },
+    {
+      "word": "ここに電話番号を書いてください。➞電話番号はここに書いてください。",
+      "reading": "ここにでんわばんごうをかいてください。➞でんわばんごうはここにかいてください。",
+      "vietnamese": "Xin vui lòng viết số điện thoại của bạn ở đây. ➞Viết số điện thoại của bạn vào đây.",
+      "number": 17
+    },
+    {
+      "word": "レポートは５時までに送らなけらばなりません。",
+      "reading": "レポートは５じまでにおくらなけらばなりません。",
+      "vietnamese": "Báo cáo phải được gửi trước 5 giờ.",
+      "number": 17
+    },
+    {
+      "word": "日曜日までに先生に連絡してください。",
+      "reading": "にちようびまでにせんせいにれんらくしてください。",
+      "vietnamese": "Vui lòng liên hệ với giáo viên trước Chủ nhật.",
+      "number": 17
+    },
+    {
+      "word": "午後６時までに会議が終わります。",
+      "reading": "ごご６じまでにかいぎがおわります。",
+      "vietnamese": "Cuộc họp sẽ kết thúc lúc 6 giờ chiều.",
+      "number": 17
+    },
+    {
+      "word": "来週の火曜日までに本を返してください。",
+      "reading": "らいしゅうのかようびまでにほんをかかえしてください。",
+      "vietnamese": "Vui lòng trả lại cuốn sách trước thứ ba tuần tới.",
+      "number": 17
+    },
+    {
+      "word": "明後日までに宿題を出さなければなりません。",
+      "reading": "あさってまでにしゅくだいをでさなければなりません。",
+      "vietnamese": "Tôi phải nộp bài tập về nhà trước ngày kia.",
+      "number": 17
+    }
+  ]
+}

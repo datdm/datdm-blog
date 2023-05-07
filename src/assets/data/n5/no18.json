@@ -1,0 +1,232 @@
+{
+  "reading": [
+    {
+      "word": "お金を払うことが出来ます。",
+      "reading": "おかねをはらうことができます。",
+      "vietnamese": "bạn có thể trả",
+      "number": 18
+    },
+    {
+      "word": "図書館で本を借りることが出来ます。",
+      "reading": "図書館で本を借りることが出来ます。",
+      "vietnamese": "Bạn có thể mượn sách tại thư viện.",
+      "number": 18
+    },
+    {
+      "word": "Namさんはピアノを引くことが出来ますか。➞はい、出来ます。",
+      "reading": "Namさんはピアノをひくことができますか。➞はい、できます。",
+      "vietnamese": "Nam có thể chơi piano không? ➞ Có, bạn có thể.",
+      "number": 18
+    },
+    {
+      "word": "カードでお金を払うことが出来ます。➞はい、出来ます。",
+      "reading": "カードでおかねを払うことができます。➞はい、できます。",
+      "vietnamese": "Bạn có thể thanh toán bằng thẻ. ➞ Có, bạn có thể.",
+      "number": 18
+    },
+    {
+      "word": "私は運転が出来ます。",
+      "reading": "わたしはうんてんができます。",
+      "vietnamese": "tôi có thể lái",
+      "number": 18
+    },
+    {
+      "word": "私はダンスが出来ます。",
+      "reading": "私はダンスができます。",
+      "vietnamese": "Tôi có thể nhảy",
+      "number": 18
+    },
+    {
+      "word": "Linhさんはスキーが出来ます。",
+      "reading": "Linhさんはスキーができます。",
+      "vietnamese": "Linh có thể trượt tuyết.",
+      "number": 18
+    },
+    {
+      "word": "日本語が出来ますか。➞はい、出来ます。",
+      "reading": "にほんごができますか。➞はい、できます。",
+      "vietnamese": "Bạn có thể nói tiếng Nhật không? ➞ Có, bạn có thể.",
+      "number": 18
+    },
+    {
+      "word": "Hoaiさんは漢字が出来ますか。➞いいえ、出来ません。",
+      "reading": "Hoaiさんはかんじができますか。➞いいえ、できません。",
+      "vietnamese": "Hoài, bạn có thể viết kanji? ➞Không, bạn không thể.",
+      "number": 18
+    },
+    {
+      "word": "生け花が出来ますか。➞はい、ちょっと出来ます。",
+      "reading": "生け花が出来ますか。➞はい、ちょっと出来ます。",
+      "vietnamese": "Bạn có biết cắm hoa không? ➞ Vâng, tôi có thể làm được.",
+      "number": 18
+    },
+    {
+      "word": "午後、暇ですから、買い物出来ます。",
+      "reading": "ごご、ひまですから、かいものできます。",
+      "vietnamese": "Tôi rảnh vào buổi chiều, vì vậy tôi có thể đi mua sắm.",
+      "number": 18
+    },
+    {
+      "word": "子供の頃ピアノを習いました。➞今は全然 出来ません。",
+      "reading": "こどものころピアノをならいました。➞いまはぜんぜん できません。",
+      "vietnamese": "Tôi đã học piano khi còn nhỏ. ➞Tôi không thể làm điều đó bây giờ.",
+      "number": 18
+    },
+    {
+      "word": "主人は料理が出来ます。",
+      "reading": "しゅじんはりょうりができます。",
+      "vietnamese": "Chồng tôi biết nấu ăn.",
+      "number": 18
+    },
+    {
+      "word": "ダンスが出来ますか。➞ええ、でもあまり上手じゃありません。",
+      "reading": "ダンスができますか。➞ええ、でもあまりじょうずじゃありません。",
+      "vietnamese": "Bạn nhảy đựoc chứ ➞Có, nhưng không tốt lắm.",
+      "number": 18
+    },
+    {
+      "word": "趣味は何ですか。➞私の趣味は本を読むことです。",
+      "reading": "趣味は何ですか。➞私の趣味は本を読むことです。",
+      "vietnamese": "Sở thích của bạn là gì. ➞Sở thích của tôi là đọc sách.",
+      "number": 18
+    },
+    {
+      "word": "Kieuさんの趣味はテニスをすることです。",
+      "reading": "Kieuさんのしゅみはテニスをすることです。",
+      "vietnamese": "Sở thích của Kiều là chơi quần vợt.",
+      "number": 18
+    },
+    {
+      "word": "母の趣味は料理を作ることです。",
+      "reading": "ははのしゅみはりょうりをつくることです。",
+      "vietnamese": "Sở thích của mẹ tôi là nấu ăn.",
+      "number": 18
+    },
+    {
+      "word": "あなたの趣味は何ですか。➞音楽を聞くことです。",
+      "reading": "あなたのしゅみはなんですか。➞おんがくをきくことです。",
+      "vietnamese": "Sở thích của bạn là gì. ➞ Nghe nhạc.",
+      "number": 18
+    },
+    {
+      "word": "毎晩、寝る前に音楽を聞いています。",
+      "reading": "まいばん、ねるまえにおんがくをきいています。",
+      "vietnamese": "Tôi nghe nhạc mỗi tối trước khi đi ngủ.",
+      "number": 18
+    },
+    {
+      "word": "今朝、学校へ行く前に、何をしましたか。➞パンを食べました。",
+      "reading": "けさ、がっこうへいくまえに、なにをしましたか。➞パンをたべました。",
+      "vietnamese": "Bạn đã làm gì trước khi đến trường sáng nay? ➞Tôi đã ăn bánh mì.",
+      "number": 18
+    },
+    {
+      "word": "パーティーをする前にケーキを買いました。",
+      "reading": "パーティーをするまえにケーキをかいました。",
+      "vietnamese": "Tôi đã mua một chiếc bánh trước bữa tiệc.",
+      "number": 18
+    },
+    {
+      "word": "銀行に行く前に会社に行きました。",
+      "reading": "ぎんこうにいくまえにかいしゃにいきました。",
+      "vietnamese": "Trước khi vào ngân hàng, tôi đã đi làm.",
+      "number": 18
+    },
+    {
+      "word": "買い物する前にお金を出しました。",
+      "reading": "かいものするまえにおかねをだしました。",
+      "vietnamese": "Tôi đã rút tiền trước khi mua sắm.",
+      "number": 18
+    },
+    {
+      "word": "食事の前に、手を洗わなければなりません。",
+      "reading": "しょくじのまえに、てをあらわなければなりません。",
+      "vietnamese": "Trước khi ăn phải rửa tay.",
+      "number": 18
+    },
+    {
+      "word": "予約の前に電話を掛けました。",
+      "reading": "よやくのまえにでんわをかけました。",
+      "vietnamese": "Tôi gọi trước khi đặt phòng.",
+      "number": 18
+    },
+    {
+      "word": "見学の前にここに集まってください。",
+      "reading": "けんがくのまえにここにあつまってください。",
+      "vietnamese": "Hãy gặp nhau ở đây trước chuyến tham quan.",
+      "number": 18
+    },
+    {
+      "word": "出張の前に食べ物と飲み物を買いました。",
+      "reading": "しゅっちょうのまえにたべものとのみものをかいました。",
+      "vietnamese": "Tôi đã mua thức ăn và đồ uống trước chuyến công tác của mình.",
+      "number": 18
+    },
+    {
+      "word": "先生は３０分 前に出かけました。",
+      "reading": "せんせいは３０ぷん まえにでかけました。",
+      "vietnamese": "Giáo viên đã rời đi nửa giờ trước.",
+      "number": 18
+    },
+    {
+      "word": "１時間ぐらい前に学校に来ました。",
+      "reading": "１じかんぐらいまえにがっこうにきました。",
+      "vietnamese": "Tôi đến trường khoảng một giờ trước.",
+      "number": 18
+    },
+    {
+      "word": "Hoangさんは３時間 前にご飯を食べました。",
+      "reading": "Hoangさんは３じかん まえにごはんをたべました。",
+      "vietnamese": "Anh Hoàng ăn cơm cách đây ba tiếng.",
+      "number": 18
+    },
+    {
+      "word": "いつ社長に電話を掛けました。➞１５分 前に掛けましたよ。",
+      "reading": "いつしゃちょうにでんわをかけました。➞１５分 まえにかけましたよ。",
+      "vietnamese": "Bạn đã gọi cho chủ tịch khi nào? ➞Tôi đã gọi máy 15 phút trước.",
+      "number": 18
+    },
+    {
+      "word": "私は２時間ぐらい前に彼氏に会いました。",
+      "reading": "わたしは２じかんぐらいまえにかれしにあいました。",
+      "vietnamese": "Tôi đã gặp bạn trai của tôi khoảng hai giờ trước.",
+      "number": 18
+    },
+    {
+      "word": "なかなか日本語が上手じゃありません。",
+      "reading": "なかなかにほんごがじょうずじゃありません。",
+      "vietnamese": "Tôi không giỏi tiếng Nhật lắm.",
+      "number": 18
+    },
+    {
+      "word": "忙しいですから、なかなか休むことが出来ません。",
+      "reading": "いそがしいですから、なかなかやすむことができません。",
+      "vietnamese": "Tôi bận đến nỗi không thể nghỉ ngơi.",
+      "number": 18
+    },
+    {
+      "word": "授業がなかなか始まりません。３０分 前からバスを待っていますが、なかなか来ませんね。",
+      "reading": "じゅぎょうがなかなかはじまりません。３０ぷん まえからバスをまっていますが、なかなかきませんね。",
+      "vietnamese": "Tôi nóng lòng muốn bắt đầu lớp học. Tôi đã đợi xe buýt 30 phút rồi nhưng nó vẫn chưa đến.",
+      "number": 18
+    },
+    {
+      "word": "ぜひ日本語へ旅行したいです。",
+      "reading": "ぜひにほんごへりょこうしたいです。",
+      "vietnamese": "Tôi rất muốn đi du lịch đến Nhật Bản.",
+      "number": 18
+    },
+    {
+      "word": "ぜひ私のうちに来てください。",
+      "reading": "ぜひわたしのうちにきてください。",
+      "vietnamese": "Nhất định hãy đến nhà tôi.",
+      "number": 18
+    },
+    {
+      "word": "ぜひ一緒に食事したいです。",
+      "reading": "ぜひいっしょにしょくじしたいです。",
+      "vietnamese": "Tôi rất muốn dùng bữa với bạn.",
+      "number": 18
+    }
+  ]
+}
