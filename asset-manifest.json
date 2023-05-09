@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/technical-react/static/css/main.83d301d1.css",
-    "main.js": "/technical-react/static/js/main.20d60202.js",
+    "main.js": "/technical-react/static/js/main.6b76c4b6.js",
     "static/js/787.b34951f2.chunk.js": "/technical-react/static/js/787.b34951f2.chunk.js",
     "static/media/n5.svg": "/technical-react/static/media/n5.dce03ca38bfd506142a1551fb662226e.svg",
     "static/media/jlpt.svg": "/technical-react/static/media/jlpt.261ae6bdeb1af8580397762100656ac2.svg",
@@ -13,6 +13,7 @@
     "static/media/provider.md": "/technical-react/static/media/provider.2ad68b2332662540db91.md",
     "static/media/nestjs.svg": "/technical-react/static/media/nestjs.6f8a3c1fa6ee9c9e4bb745c13a958a41.svg",
     "static/media/firebase.md": "/technical-react/static/media/firebase.b7626fb3abd7f7757872.md",
+    "static/media/n4.svg": "/technical-react/static/media/n4.b3c4728858a9707defffd93b744eadc1.svg",
     "static/media/idea.svg": "/technical-react/static/media/idea.2670345a66e08f31f1f0f2082f8c8e96.svg",
     "static/media/sqlite.svg": "/technical-react/static/media/sqlite.ff130a2babc0332e9cae2930d59c7ac6.svg",
     "static/media/nestjs.md": "/technical-react/static/media/nestjs.4b9a94751a6ce0557a39.md",
@@ -59,11 +60,11 @@
     "static/media/eslint.md": "/technical-react/static/media/eslint.12aa9c1f2949966f5d4b.md",
     "static/media/css.md": "/technical-react/static/media/css.937166ad91c2d174d8e8.md",
     "main.83d301d1.css.map": "/technical-react/static/css/main.83d301d1.css.map",
-    "main.20d60202.js.map": "/technical-react/static/js/main.20d60202.js.map",
+    "main.6b76c4b6.js.map": "/technical-react/static/js/main.6b76c4b6.js.map",
     "787.b34951f2.chunk.js.map": "/technical-react/static/js/787.b34951f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83d301d1.css",
-    "static/js/main.20d60202.js"
+    "static/js/main.6b76c4b6.js"
   ]
 }
