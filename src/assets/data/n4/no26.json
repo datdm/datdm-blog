@@ -1,0 +1,280 @@
+{
+  "reading": [
+    {
+      "word": "まだよく分からないんですが、もう一度 教えていただけませんか。",
+      "reading": "まだよくわからないんですが、もういちど おしえていただけませんか。",
+      "vietnamese": "Tôi vẫn chưa hiểu, bạn có thể nói lại cho tôi được không?",
+      "number": 26
+    },
+    {
+      "word": "明日、引っ越しするんですが、手伝っていただけませんか。",
+      "reading": "あした、ひっこしするんですが、てつだっていただけませんか。",
+      "vietnamese": "Tôi sẽ chuyển nhà vào ngày mai, vì vậy bạn có thể giúp tôi?",
+      "number": 26
+    },
+    {
+      "word": "財布をなくしたんですが、どうしたらいいですか。",
+      "reading": "さいふをなくしたんですが、どうしたらいいですか。",
+      "vietnamese": "Tôi bị mất ví, tôi phải làm gì?",
+      "number": 26
+    },
+    {
+      "word": "空港に行かなければならないんですが、何を行ったらいいですか。",
+      "reading": "くうこうにいかなければならないんですが、なにをいったらいいですか。",
+      "vietnamese": "Tôi phải đến sân bay, tôi nên làm gì?",
+      "number": 26
+    },
+    {
+      "word": "先生、聞きたいことがあるんですが、今ちょっとよろしいでしょうか。",
+      "reading": "せんせい、ききたいことがあるんですが、いまちょっとよろしいでしょうか。",
+      "vietnamese": "Thầy ơi, em có chuyện muốn hỏi thầy.",
+      "number": 26
+    },
+    {
+      "word": "カメラを買いたいんですが、とこで買ったらいいですか、",
+      "reading": "カメラをかいたいんですが、とこでかったらいいですか、",
+      "vietnamese": "Mình muốn mua máy ảnh thì mua ở đâu?",
+      "number": 26
+    },
+    {
+      "word": "ごめん、エアコンは動かないんですが。。。",
+      "reading": "ごめん、エアコンはうごかないんですが。。。",
+      "vietnamese": "Tôi xin lỗi, nhưng điều hòa không hoạt động. . .",
+      "number": 26
+    },
+    {
+      "word": "パソコンの調子が悪いんですが、見ていただけませんか。",
+      "reading": "パソコンのちょうしがわるいんですが、みていただけませんか。",
+      "vietnamese": "Tôi đang gặp sự cố với máy tính của mình, bạn có thể xem qua không?",
+      "number": 26
+    },
+    {
+      "word": "来週、友達とスキーに行くんですが、田中さん一緒に行きませんか。",
+      "reading": "らいしゅう、ともだちとスキーにいくんですが、たなかさんいっしょにいきませんか。",
+      "vietnamese": "Tôi sẽ đi trượt tuyết với bạn của tôi vào tuần tới. Bạn có muốn đi với Tanaka không?",
+      "number": 26
+    },
+    {
+      "word": "どうして遅れてんですか。➞バスが来なかったんです。",
+      "reading": "どうしておくれてんですか。➞バスがこなかったんです。",
+      "vietnamese": "tại sao bạn trễ ➞Xe buýt không đến.",
+      "number": 26
+    },
+    {
+      "word": "なぜ昨日 学校を休んだんですか。➞病気だったんです。",
+      "reading": "なぜきのう がっこうをやすんだんですか。➞びょうきだったんです。",
+      "vietnamese": "Tại sao bạn nghỉ học ngày hôm qua? ➞Tôi bị ốm.",
+      "number": 26
+    },
+    {
+      "word": "どうして日本に行きたいんですか。➞日本人の女の子と結婚したいんです。",
+      "reading": "どうしてにほんにいきたいんですか。➞にほんじんのおんなのことけっこんしたいんです。",
+      "vietnamese": "Tại sao bạn muốn đến Nhật Bản? ➞Tôi muốn kết hôn với một cô gái Nhật Bản.",
+      "number": 26
+    },
+    {
+      "word": "なんで来なかったんですか。➞熱が酷かったんです。",
+      "reading": "なんでこなかったんですか。➞ねつがひどかったんです。",
+      "vietnamese": "tại sao bạn không đến ➞Bị sốt cao.",
+      "number": 26
+    },
+    {
+      "word": "渡辺さんは時々 大阪弁を使いますね。大阪に住んでいたんですか。",
+      "reading": "わたなべさんはときどき おおさかべんをつかいますね。おおさかにすんでいたんですか。",
+      "vietnamese": "Watanabe đôi khi sử dụng phương ngữ Osaka. Bạn đã sống ở Osaka?",
+      "number": 26
+    },
+    {
+      "word": "Taro君は野菜が嫌いなんですか、犬が好きなんですか。",
+      "reading": "Taroくんはやさいがきらいなんですか、いぬがすきなんですか。",
+      "vietnamese": "Taro ghét rau hay bạn thích chó?",
+      "number": 26
+    },
+    {
+      "word": "結婚 生活は大変なんですか。",
+      "reading": "けっこん せいかつはたいへんなんですか。",
+      "vietnamese": "Đời sống hôn nhân vất vả nhỉ?",
+      "number": 26
+    },
+    {
+      "word": "昨日、遅く寝たんですか。",
+      "reading": "きのう、おそくねたんですか。",
+      "vietnamese": "Đời sống hôn nhân vất vả nhỉ?",
+      "number": 26
+    },
+    {
+      "word": "どうしてないているんですか。➞お金がないんです。",
+      "reading": "どうしてないているんですか。➞おかねがないんです。",
+      "vietnamese": "Tại sao bạn không ở đây? ➞Tôi không có tiền.",
+      "number": 26
+    },
+    {
+      "word": "どうして今日 遅く帰ったんですか。➞仕事はまだあったんです。遅くなってごめんね。",
+      "reading": "どうしてきょう おそくかえったんですか。➞しごとはまだあったんです。おそくなってごめんね。",
+      "vietnamese": "Sao hôm nay anh về muộn vậy? ➞ Tôi vẫn còn một công việc. Tôi xin lỗi đến muộn.",
+      "number": 26
+    },
+    {
+      "word": "どうして何も言わないんですか。",
+      "reading": "どうしてなにもいわないんですか。",
+      "vietnamese": "tại sao bạn không nói gì",
+      "number": 26
+    },
+    {
+      "word": "どうしたんですか。➞調子が悪いんです。",
+      "reading": "どうしたんですか。➞ちょいしがわるいんです。",
+      "vietnamese": "Chuyện gì đã xảy ra thế. ➞Tôi không được khỏe.",
+      "number": 26
+    },
+    {
+      "word": "日本のどこに行ったんですか。➞東京に行ったんです。",
+      "reading": "にほんのどこにいったんですか。➞とうきょうにいったんです。",
+      "vietnamese": "Bạn đã ở đâu tại Nhật Bản? ➞Tôi đã đến Tokyo.",
+      "number": 26
+    },
+    {
+      "word": "どのぐらい日本語を勉強しているんですか。➞６か月ぐらい勉強しているんです。",
+      "reading": "どのぐらいにほんごをべんきょうしているんですか。➞６かげつぐらいべんきょうしているんです。",
+      "vietnamese": "Bạn đã học tiếng Nhật bao lâu rồi? ➞Tôi đã học được khoảng sáu tháng.",
+      "number": 26
+    },
+    {
+      "word": "なぜあなたの英語がそんなに上手なんですか。➞私のお父さんはイギリス人なんです。",
+      "reading": "なぜあなたのえいごがそんなにじょうずなんですか。➞わたしのおとうさんはイギリスじんなんです。",
+      "vietnamese": "Tại sao tiếng anh của bạn tốt như vậy ➞Cha tôi là người Anh.",
+      "number": 26
+    },
+    {
+      "word": "いい先生を紹介していただけませんか。",
+      "reading": "いいせんせいをしょうかいしていただけませんか。",
+      "vietnamese": "Bạn có thể giới thiệu cho tôi một giáo viên tốt?",
+      "number": 26
+    },
+    {
+      "word": "いい店を教えていただけませんか。",
+      "reading": "いいみせをおしえていただけませんか。",
+      "vietnamese": "Bạn có thể cho tôi biết một cửa hàng tốt?",
+      "number": 26
+    },
+    {
+      "word": "ハノイを案内していただけませんか。",
+      "reading": "ハノイをあんないしていただけませんか。",
+      "vietnamese": "Bạn có thể chỉ cho tôi Hà Nội?",
+      "number": 26
+    },
+    {
+      "word": "この文法を説明していただけませんか。",
+      "reading": "このぶんぽうをあんないしていただけませんか。",
+      "vietnamese": "Bạn có thể vui lòng giải thích ngữ pháp này?",
+      "number": 26
+    },
+    {
+      "word": "明日、手伝っていただけませんか。",
+      "reading": "あした、てつだっていただけませんか。",
+      "vietnamese": "Bạn có thể giúp tôi vào ngày mai?",
+      "number": 26
+    },
+    {
+      "word": "資料を見せていただけませんか。",
+      "reading": "しりょうをみせていただけませんか。",
+      "vietnamese": "Bạn có thể cho tôi xem các tài liệu?",
+      "number": 26
+    },
+    {
+      "word": "英語の作文をチェックしていただけませんか。",
+      "reading": "えいごのさくぶんをチェックしていただけませんか。",
+      "vietnamese": "Bạn có thể vui lòng kiểm tra bài văn tiếng Anh?",
+      "number": 26
+    },
+    {
+      "word": "地図を書いていただけませんか。",
+      "reading": "ちずをかいていただけませんか。",
+      "vietnamese": "Bạn có thể vẽ cho tôi một bản đồ?",
+      "number": 26
+    },
+    {
+      "word": "ゆっくり話していただけませんか。",
+      "reading": "ゆっくりははなしていただけませんか。",
+      "vietnamese": "Làm ơn nói chậm lại được không?",
+      "number": 26
+    },
+    {
+      "word": "もっと詳しく説明していただけませんか。",
+      "reading": "もっとくわしくせつめいしていただけませんか。",
+      "vietnamese": "Bạn có thể vui lòng giải thích chi tiết hơn?",
+      "number": 26
+    },
+    {
+      "word": "この漢字の書き方が分からないんですが、教えていただけませんか。",
+      "reading": "このかんじのかきかたがわからないんですが、おしえていただけませんか。",
+      "vietnamese": "Tôi không biết làm thế nào để viết kanji này, bạn có thể dạy cho tôi?",
+      "number": 26
+    },
+    {
+      "word": "日本語でレポートを書いたんですが、チェックしていただけませんか。",
+      "reading": "にほんごでレポートをかいたんですが、チェックしていただけませんか。",
+      "vietnamese": "Tôi đã viết báo cáo bằng tiếng Nhật, nhưng bạn có thể vui lòng kiểm tra nó không?",
+      "number": 26
+    },
+    {
+      "word": "どこの日本語センターで勉強したらいいですか。➞ABCセンターで勉強したらいいと思います。",
+      "reading": "どこのにほんごセンターでべんきょうしたらいいですか。➞ABCセンターでべんきょうしたらいいとおもいます。",
+      "vietnamese": "Nên học ở trung tâm tiếng Nhật nào? ➞Tôi nghĩ bạn nên học tại Trung tâm ABC.",
+      "number": 26
+    },
+    {
+      "word": "バレンタインデーに女性に何をあげたらいいですか。",
+      "reading": "バレンタインデーにじょせいになにをあげたらいいですか。",
+      "vietnamese": "Tôi nên tặng gì cho một người phụ nữ vào ngày Valentine?",
+      "number": 26
+    },
+    {
+      "word": "いつ行ったらいいですか。",
+      "reading": "いついったらいいですか。",
+      "vietnamese": "Khi nào tôi nên đi?",
+      "number": 26
+    },
+    {
+      "word": "誰にもう申し込んだらいいですか。",
+      "reading": "だれにもうしこんだらいいですか。",
+      "vietnamese": "Tôi nên nộp đơn cho ai?",
+      "number": 26
+    },
+    {
+      "word": "相撲を見たいんですが、どこでチケットを買ったらいいですか。",
+      "reading": "すもうをみたいんですが、どこでチケットをかったらいいですか。",
+      "vietnamese": "Tôi muốn xem một trận đấu vật sumo. Tôi có thể mua vé ở đâu?",
+      "number": 26
+    },
+    {
+      "word": "２階の事務所のパソコンが故障なんですが、どうしたらいいですか。",
+      "reading": "２かいのじむしょのパソコンがこしょうなんですが、どうしたらいいですか。",
+      "vietnamese": "Máy tính trong văn phòng ở tầng hai bị hỏng, tôi phải làm gì?",
+      "number": 26
+    },
+    {
+      "word": "日本人の友達が結婚するんですが、どんなプレゼントをあげたらいいですか。",
+      "reading": "にほんじんのともだちがけっこんするんですが、どんなプレゼントをあげたらいいですか。",
+      "vietnamese": "Bạn người Nhật của tôi sắp kết hôn, tôi nên tặng món quà gì cho anh ấy?",
+      "number": 26
+    },
+    {
+      "word": "パスポートをなくしたんですが、どうしたらいいですか。",
+      "reading": "パスポートをなくしたんですが、どうしたらいいですか。",
+      "vietnamese": "Tôi bị mất hộ chiếu, tôi phải làm gì?",
+      "number": 26
+    },
+    {
+      "word": "会議の予定がよく分からないんですが、誰に聞いたらいですか。",
+      "reading": "かいぎのよていがよくわからないんですが、だれにきいたらいですか。",
+      "vietnamese": "Tôi không chắc về lịch họp, tôi nên hỏi ai?",
+      "number": 26
+    },
+    {
+      "word": "どこに仕舞ったらいいですか。",
+      "reading": "どこにしまったらいいですか。",
+      "vietnamese": "Tôi nên cất nó ở đâu?",
+      "number": 26
+    }
+  ]
+}

@@ -36,6 +36,7 @@ import {
   AWSIcon,
   JLPTIcon,
   N5Icon,
+  N4Icon,
 } from "components/atoms/Icons";
 import { DartIcon } from "../components/atoms/Icons";
 import { sources } from "./source";
@@ -44,7 +45,7 @@ export const sidebars = [
   {
     label: "REACT",
     icon: ReactIcon,
-    show: true,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -216,7 +217,7 @@ export const sidebars = [
   {
     label: "FLUTTER",
     icon: FlutterIcon,
-    show: true,
+    show: false,
     childs: [
       {
         label: "Build source",
@@ -296,6 +297,11 @@ export const sidebars = [
         label: "N5",
         icon: N5Icon,
         src: sources.JLPT_N5,
+      },
+      {
+        label: "N4",
+        icon: N4Icon,
+        src: sources.JLPT_N4,
       },
     ],
   },

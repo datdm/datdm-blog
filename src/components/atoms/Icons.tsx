@@ -35,6 +35,7 @@ import { ReactComponent as KotlinSvg } from "assets/icons/kotlin.svg";
 import { ReactComponent as AWSSvg } from "assets/icons/aws.svg";
 import { ReactComponent as JLPTSvg } from "assets/icons/jlpt.svg";
 import { ReactComponent as N5Svg } from "assets/icons/n5.svg";
+import { ReactComponent as N4Svg } from "assets/icons/n4.svg";
 
 export const ReactIcon = (): JSX.Element => <ReactSvg />;
 
@@ -109,3 +110,5 @@ export const AWSIcon = (): JSX.Element => <AWSSvg />;
 export const JLPTIcon = (): JSX.Element => <JLPTSvg />;
 
 export const N5Icon = (): JSX.Element => <N5Svg />;
+
+export const N4Icon = (): JSX.Element => <N4Svg />;
