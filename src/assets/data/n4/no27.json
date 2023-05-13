@@ -1,0 +1,220 @@
+{
+  "reading": [
+    {
+      "word": "部屋の窓から山が見える。",
+      "reading": "へやのまどからやまがみえる。",
+      "vietnamese": "Bạn có thể nhìn thấy những ngọn núi từ cửa sổ của căn phòng.",
+      "number": 27
+    },
+    {
+      "word": "隣の部屋から人の声が聞こえる。",
+      "reading": "となりのへやからひとのこえがきこえる。",
+      "vietnamese": "Tôi có thể nghe thấy giọng nói của mọi người từ phòng bên cạnh.",
+      "number": 27
+    },
+    {
+      "word": "Dung先生の動画はユーチューブを見られる。",
+      "reading": "Dungせんせいのどうがはユーチューブをみられる。",
+      "vietnamese": "Bạn có thể xem các video của thầy Dũng trên YouTube.",
+      "number": 27
+    },
+    {
+      "word": "イヤホンを受けると、聞けます。",
+      "reading": "イヤホンをつけると、きけます。",
+      "vietnamese": "Khi tôi nhận được tai nghe, tôi có thể nghe thấy nó.",
+      "number": 27
+    },
+    {
+      "word": "魚が食べられません。",
+      "reading": "さかながたべられません。",
+      "vietnamese": "Tôi không ăn được cá.",
+      "number": 27
+    },
+    {
+      "word": "単語が覚えられない。",
+      "reading": "たんごがおぼえられない。",
+      "vietnamese": "Tôi không thể nhớ các từ.",
+      "number": 27
+    },
+    {
+      "word": "国際電話がかけられない。",
+      "reading": "こくさいでんわがかけられない。",
+      "vietnamese": "Tôi không thể thực hiện cuộc gọi quốc tế.",
+      "number": 27
+    },
+    {
+      "word": "NHKが見れる。",
+      "reading": "NHKがみれる。",
+      "vietnamese": "Bạn có thể xem NHK.",
+      "number": 27
+    },
+    {
+      "word": "英語が話せる。",
+      "reading": "えいごがはなせる。",
+      "vietnamese": "Tôi có thể nói tiếng Anh.",
+      "number": 27
+    },
+    {
+      "word": "このパソコンはまだ使えますか。",
+      "reading": "このパソコンはまだつかえますか。",
+      "vietnamese": "Tôi vẫn có thể sử dụng máy tính này chứ?",
+      "number": 27
+    },
+    {
+      "word": "インターネットで電話番号が調べられますか。",
+      "reading": "インターネットででんわばんごうがしらべられますか。",
+      "vietnamese": "Tôi có thể tra cứu số điện thoại trên Internet không?",
+      "number": 27
+    },
+    {
+      "word": "家が立てられますか。",
+      "reading": "いえがたてられますか。",
+      "vietnamese": "bạn có thể xây nhà không?",
+      "number": 27
+    },
+    {
+      "word": "ビデオが借りられますか",
+      "reading": "ビデオがかりられますか",
+      "vietnamese": "tôi có thể mượn một video không?",
+      "number": 27
+    },
+    {
+      "word": "車が運転できるか。",
+      "reading": "くるまがうんてんできるか。",
+      "vietnamese": "bạn có thể lái xe hơi không?",
+      "number": 27
+    },
+    {
+      "word": "日本語が勉強できるか。",
+      "reading": "にほんごがべんきょうできるか。",
+      "vietnamese": "Bạn có thể học tiếng Nhật không?",
+      "number": 27
+    },
+    {
+      "word": "お酒が飲めますか。",
+      "reading": "おさけがのめますか。",
+      "vietnamese": "Bạn có thể uống rượu?",
+      "number": 27
+    },
+    {
+      "word": "中国語が読めますか。",
+      "reading": "ちゅうごくごがよめますか。",
+      "vietnamese": "Bạn có thể đọc tiếng Trung không?",
+      "number": 27
+    },
+    {
+      "word": "漢字が書けますか。",
+      "reading": "かんじがかけますか。",
+      "vietnamese": "Bạn có thể viết chữ Hán không?",
+      "number": 27
+    },
+    {
+      "word": "日本語は話せますが、英語はあまり話せません。",
+      "reading": "日本語は話せますが、英語はあまり話せません。",
+      "vietnamese": "Tôi có thể nói tiếng Nhật, nhưng tôi không thể nói tiếng Anh tốt lắm.",
+      "number": 27
+    },
+    {
+      "word": "昨日は見えましたが、今日は見えません。",
+      "reading": "きのうはみえましたが、きょうはみえません。",
+      "vietnamese": "Hôm qua xem rồi mà hôm nay không thấy.",
+      "number": 27
+    },
+    {
+      "word": "ワインは飲めますが、ビールは飲めません。",
+      "reading": "ワインはのめますが、ビールはのめません。",
+      "vietnamese": "Bạn có thể uống rượu, nhưng bạn không thể uống bia.",
+      "number": 27
+    },
+    {
+      "word": "お父さんは話しましたが、お母さんはまだ話しません。",
+      "reading": "おとうさんははなしましたが、おとうさんはまだはなしません。",
+      "vietnamese": "Bố đã nói, nhưng mẹ chưa nói.",
+      "number": 27
+    },
+    {
+      "word": "テニスができます。",
+      "reading": "テニスができます。",
+      "vietnamese": "Tôi có thể chơi tennis.",
+      "number": 27
+    },
+    {
+      "word": "漢字が書くことができます。",
+      "reading": "かんじがかくことができます。",
+      "vietnamese": "Bạn có thể viết chữ Hán.",
+      "number": 27
+    },
+    {
+      "word": "フランス語で話すことができます。",
+      "reading": "フランスごではなすことができます。",
+      "vietnamese": "Tôi có thể nói bằng tiếng Pháp.",
+      "number": 27
+    },
+    {
+      "word": "レポートはいつできますか。➞明日できます。",
+      "reading": "レポートはいつできますか。➞明日できます。",
+      "vietnamese": "Khi nào tôi có thể báo cáo? ➞Tôi có thể làm điều đó vào ngày mai.",
+      "number": 27
+    },
+    {
+      "word": "動画はできましたか。➞いいえ、まだです。",
+      "reading": "どうがはできましたか。➞いいえ、まだです。",
+      "vietnamese": "Bạn đã thực hiện một video? ➞Không, chưa.",
+      "number": 27
+    },
+    {
+      "word": "新しい事務所ができましたよ。➞そうですか。おめでとうございます。",
+      "reading": "あたらしいじむしょができましたよ。➞そうですか。おめでとうございます。",
+      "vietnamese": "Chúng tôi có một văn phòng mới. ➞ Vậy à? Chúc mừng.",
+      "number": 27
+    },
+    {
+      "word": "家の近くに新しいスーパーができましたよ。➞そうですか。買い物に便利です。",
+      "reading": "いえのちかくにあたらしいスーパーができましたよ。➞そうですか。かいものにべんりです。",
+      "vietnamese": "Một siêu thị mới mở gần nhà tôi. ➞ Vậy à? Thuận tiện cho việc mua sắm.",
+      "number": 27
+    },
+    {
+      "word": "彼女ができました。",
+      "reading": "かのじょができました。",
+      "vietnamese": "Tôi đã có bạn gái.",
+      "number": 27
+    },
+    {
+      "word": "日本人の友達ができました。",
+      "reading": "にほんごのともだちができました。",
+      "vietnamese": "Tôi đã kết bạn với một người Nhật.",
+      "number": 27
+    },
+    {
+      "word": "ご飯ができました。",
+      "reading": "ごはんができました。",
+      "vietnamese": "Cơm đã chín.",
+      "number": 27
+    },
+    {
+      "word": "私は英語しか話せません。",
+      "reading": "わたしはえいごしかはなせません。",
+      "vietnamese": "Tôi chỉ nói tiếng Anh.",
+      "number": 27
+    },
+    {
+      "word": "日本語しか話しません。",
+      "reading": "にほんごしかはなしません。",
+      "vietnamese": "Tôi chỉ nói tiếng Nhật.",
+      "number": 27
+    },
+    {
+      "word": "今、彼女のことしか考えていない。",
+      "reading": "いま、かのじょのことしかかんがえていない。",
+      "vietnamese": "Bây giờ tôi chỉ đang nghĩ về cô ấy.",
+      "number": 27
+    },
+    {
+      "word": "ここにしか咲かない花。",
+      "reading": "ここにしかさかないはな。",
+      "vietnamese": "Một bông hoa chỉ nở ở đây.",
+      "number": 27
+    }
+  ]
+}

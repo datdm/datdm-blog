@@ -7,7 +7,7 @@ import {
   Select,
   SelectChangeEvent,
 } from "@mui/material";
-import { JpTypeDisplay, JpTypeDisplayOptions } from "constants/n5";
+import { JpTypeDisplay, JpTypeDisplayOptions } from "constants/jp";
 import { useEffect, useState } from "react";
 import GrammarDialog from "components/atoms/GrammarDialog";
 import ContentReadingDialog from "components/atoms/ContentReadingDialog";

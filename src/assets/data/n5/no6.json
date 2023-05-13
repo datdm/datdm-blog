@@ -1,6 +1,12 @@
 {
   "reading": [
     {
+      "word": "何をしますか。➞友達とサッカーをします。",
+      "reading": "なにをしますか。➞ともだちとサッカーをします。",
+      "vietnamese": "Bạn đang làm gì thế. ➞ Chơi bóng đá với bạn bè của bạn.",
+      "number": 6
+    },
+    {
       "word": "何を読みますか。➞日本語の本を読みます。",
       "reading": "なにをよみますか。➞にほんごのほんをよみます。",
       "vietnamese": "bạn đọc gì ➞Tôi đọc sách tiếng Nhật.",
@@ -22,6 +28,36 @@
       "word": "今朝、何を食べましたか。➞今朝、パンと卵を食べました。",
       "reading": "けさ、なにをたべましたか。➞けさ、パンとたまごをたべました。",
       "vietnamese": "Bạn đã ăn gì sáng nay ➞Tôi đã ăn bánh mì và trứng sáng nay.",
+      "number": 6
+    },
+    {
+      "word": "今朝、何をしましたか。➞今朝、６時に起きました。それから、日本語のモリへ行きました。",
+      "reading": "けさ、なにをしましたか。➞けさ、６じにおきました。それから、日本語のモリへ行きました。",
+      "vietnamese": "Bạn đã làm gì sáng nay ➞Sáng nay tôi dậy lúc 6 giờ.　Sau đó, chúng tôi đến Mori tiếng Nhật.",
+      "number": 6
+    },
+    {
+      "word": "タバコを吸いますか。➞はい、吸います。",
+      "reading": "タバコをすいますか。➞はい、すいます。",
+      "vietnamese": "bạn có hút thuốc không? ➞Vâng, tôi hút thuốc.",
+      "number": 6
+    },
+    {
+      "word": "サッカーをしますか。➞いいえ、サッカーをしません。",
+      "reading": "サッカーをしますか。➞いいえ、サッカーをしません。",
+      "vietnamese": "Bạn có chơi bóng đá không ➞Không, tôi không chơi bóng đá.",
+      "number": 6
+    },
+    {
+      "word": "昨日の晩、宿題をしましたか。➞いいえ、宿題をしませんでした。",
+      "reading": "きのうのばん、しゅくだいをしましたか。➞いいえ、しゅくだいをしませんでした。",
+      "vietnamese": "Bạn đã làm bài tập về nhà tối qua chưa? ➞Không, tôi không làm bài tập về nhà.",
+      "number": 6
+    },
+    {
+      "word": "土曜日、日本語を勉強しますか。➞いいえ、勉強しません。彼女とスーパーへ行きます。",
+      "reading": "どようび、にほんごをべんきょうしますか。➞いいえ、べんきょうしません。かのじょとスーパーへいきます。",
+      "vietnamese": "Bạn sẽ học tiếng Nhật vào thứ bảy chứ? ➞Không, tôi không học. Tôi sẽ đi siêu thị với cô ấy.",
       "number": 6
     },
     {
@@ -49,6 +85,24 @@
       "number": 6
     },
     {
+      "word": "センターで日本語を勉強します。",
+      "reading": "センターでにほんごをべんきょうします。",
+      "vietnamese": "Tôi học tiếng Nhật ở trung tâm.",
+      "number": 6
+    },
+    {
+      "word": "家で寝ます。",
+      "reading": "いえでねます。",
+      "vietnamese": "ngủ ở nhà",
+      "number": 6
+    },
+    {
+      "word": "センターで昼ご飯を食べます。",
+      "reading": "センターでひるごはんをたべます。",
+      "vietnamese": "Chúng tôi ăn trưa tại trung tâm.",
+      "number": 6
+    },
+    {
       "word": "日本語のモリでNghiaさんに会います。",
       "reading": "にほんごのモリでNghiaさんにあいます。",
       "vietnamese": "Gặp Nghĩa trong mori Nhật Bản.",
@@ -73,6 +127,30 @@
       "number": 6
     },
     {
+      "word": "どこでこの時計を買いましたか。➞フランスで買いました。",
+      "reading": "どこでこの時計を買いましたか。➞フランスで買いました。",
+      "vietnamese": "bạn đã mua chiếc đồng hồ này ở đâu? ➞Tôi đã mua nó ở Pháp.",
+      "number": 6
+    },
+    {
+      "word": "どこでタバコを吸いますか。➞ロビーで吸います。",
+      "reading": "どこでタバコをすいますか。➞ロビーですいます。",
+      "vietnamese": "bạn hút thuốc ở đâu? ➞ Hút thuốc tại sảnh.",
+      "number": 6
+    },
+    {
+      "word": "どこでサッカーを見ましたか。➞MyDinhで見ました。",
+      "reading": "どこでサッカーをみましたか。➞MyDinhでみました。",
+      "vietnamese": "Bạn đã xem bóng đá ở đâu? ➞ Mình thấy trên MyDinh.",
+      "number": 6
+    },
+    {
+      "word": "どこで彼女に会いましたか。➞ハノイで会いました。",
+      "reading": "どこでかのじょにあいましたか。➞ハノイであいました。",
+      "vietnamese": "bạn đã gặp cô ấy ở đâu ➞Chúng tôi gặp nhau ở Hà Nội.",
+      "number": 6
+    },
+    {
       "word": "一緒に昼ご飯を食べませんか。➞ええ、いいですね。",
       "reading": "いっしょにひるごはんをたべませんか。➞ええ、いいですね。",
       "vietnamese": "Bạn có muốn ăn trưa với tôi không? ➞Vâng, điều đó nghe có vẻ tốt.",
@@ -94,6 +172,12 @@
       "word": "一緒にスーパーへ行きませんか。➞ええ、いいですね。",
       "reading": "いっしょにスーパーへいきませんか。➞ええ、いいですね。",
       "vietnamese": "Bạn có muốn đi siêu thị với tôi không? ➞Vâng, điều đó nghe có vẻ tốt.",
+      "number": 6
+    },
+    {
+      "word": "一緒にスコーヒーを飲みませんか。➞すみません。今日ちょっと",
+      "reading": "いっしょにスコーヒーをのみませんか。➞すみません。きょうちょっと",
+      "vietnamese": "Bạn có muốn uống một tách cà phê với tôi không? ➞Xin lỗi. một chút ngày hôm nay",
       "number": 6
     },
     {
@@ -124,6 +208,12 @@
       "word": "駅で新聞を買います。",
       "reading": "えきでしんぶんをかいます。",
       "vietnamese": "Tôi mua báo ở nhà ga.",
+      "number": 6
+    },
+    {
+      "word": "日曜日、京都へ行きました。➞京都ですか。いいですね。",
+      "reading": "日曜日、京都へ行きました。➞京都ですか。いいですね。",
+      "vietnamese": "Tôi đã đến Kyoto vào Chủ nhật. ➞Kyoto à? hay nhỉ.",
       "number": 6
     }
   ]

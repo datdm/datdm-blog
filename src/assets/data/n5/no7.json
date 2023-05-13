@@ -37,6 +37,30 @@
       "number": 7
     },
     {
+      "word": "何語で手紙を書きますか。➞英語で書きます。",
+      "reading": "なにごでてがみをかきますか。➞えいごでかきます。",
+      "vietnamese": "Bạn viết thư bằng ngôn ngữ nào? ➞ Viết bằng tiếng Anh.",
+      "number": 7
+    },
+    {
+      "word": "インド人は何でご飯を食べますか。➞手でご飯を食べます。",
+      "reading": "インドじんはなにでごはんをたべますか。➞てでごはんをたべます。",
+      "vietnamese": "Người Ấn Độ ăn gì? ➞Ăn bằng tay.",
+      "number": 7
+    },
+    {
+      "word": "何で漢字を書きますか。➞鉛筆で書きます。",
+      "reading": "なにでかんじをかきますか。➞えんぴつでかきます。",
+      "vietnamese": "Bạn viết kanji bằng gì? ➞ Viết bằng bút chì.",
+      "number": 7
+    },
+    {
+      "word": "日本語で電話をかけます。",
+      "reading": "にほんごででんわをかけます。",
+      "vietnamese": "Gọi điện thoại bằng tiếng Nhật.",
+      "number": 7
+    },
+    {
       "word": "「ありがとう」は英語で何ですか。➞「Thankyou」です。",
       "reading": "「ありがとう」は英語で何ですか。➞「Thankyou」です。",
       "vietnamese": "「ありがとう」 tiếng anh là gì? ➞Đây là 「Thankyou」.",
@@ -109,6 +133,30 @@
       "number": 7
     },
     {
+      "word": "お母さんの誕生日に何をあげますか。➞花とケーキとシャツをあげます。",
+      "reading": "おかあさんのたんじょうびになにをあげますか。➞はなとケーキとシャツをあげます。",
+      "vietnamese": "Bạn sẽ tặng gì cho mẹ vào ngày sinh nhật của bà? ➞ Tôi sẽ tặng bạn hoa, bánh và áo sơ mi.",
+      "number": 7
+    },
+    {
+      "word": "誰に本を貸しましたか。➞Kyさんに貸しました。",
+      "reading": "だれに本をかしましたか。➞Kyさんにかしました。",
+      "vietnamese": "Bạn đã cho ai mượn sách? ➞Tôi cho Ky mượn.",
+      "number": 7
+    },
+    {
+      "word": "誰に手紙を書きましたか。➞Yenさんに書きました。",
+      "reading": "だれにてがみをかきましたか。➞Yenさんにかきました。",
+      "vietnamese": "Bạn đã viết thư cho ai? ➞Tôi viết thư cho anh Yên.",
+      "number": 7
+    },
+    {
+      "word": "毎晩、誰に電話をかけますか。➞家族に電話をかけます。",
+      "reading": "まいばん、だれにでんわをかけますか。➞かぞくにでんわをかけます。",
+      "vietnamese": "Bạn gọi cho ai mỗi đêm? ➞ Gọi cho gia đình bạn.",
+      "number": 7
+    },
+    {
       "word": "私は母にシャツを貰いました。",
       "reading": "わたしはははにシャツをもらいました。",
       "vietnamese": "Tôi đã nhận được một chiếc áo sơ mi từ mẹ tôi.",
@@ -136,6 +184,12 @@
       "word": "誰にボールペンを借りましたか。➞Yenさんに借りました。",
       "reading": "だれにポールペンをかりましたか。➞Yenさんにかりました。",
       "vietnamese": "Bạn đã mượn bút bi của ai? ➞Tôi mượn của Yên.",
+      "number": 7
+    },
+    {
+      "word": "誰からこの鉛筆を貰いましたか。➞Linhさんから貰いました。",
+      "reading": "だれからこのえんぴつをもらいましたか。➞Linhさんからもらいました。",
+      "vietnamese": "Bạn đã nhận được cây bút chì này từ ai? ➞Tôi đã nhận lãi từ Linh.",
       "number": 7
     },
     {

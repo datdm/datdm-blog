@@ -19,9 +19,9 @@
       "number": 5
     },
     {
-      "word": "今は何月ですか。先月は何月ですか。➞２月です。",
-      "reading": "いまはなんがつですか。せんげつはなんがつですか。➞２がつです。",
-      "vietnamese": "Bây giờ là tháng mấy? Chigetsu là tháng mấy? ➞Bây giờ là tháng Hai.",
+      "word": "今は３月です。先月は何月ですか。➞２月です。",
+      "reading": "いまは３がつです。せんげつはなんがつですか。➞２がつです。",
+      "vietnamese": "Bây giờ là tháng ba. Tháng trước là tháng mấy? ➞Bây giờ là tháng Hai.",
       "number": 5
     },
     {
@@ -259,6 +259,18 @@
       "number": 5
     },
     {
+      "word": "Nhungさんとホーチミン市へ行きます。",
+      "reading": "Nhungさんとホーチミンしへいきます。",
+      "vietnamese": "Tôi sẽ đi đến thành phố Hồ Chí Minh với Nhung.",
+      "number": 5
+    },
+    {
+      "word": "誰と日本へ行きますか。➞Hanhさんと日本へ行きます。",
+      "reading": "だれとにほんへいきますか。➞Hanhさんとにほんへいきます。",
+      "vietnamese": "Bạn đi Nhật cùng ai? ➞Tôi sẽ đi Nhật với Hạnh.",
+      "number": 5
+    },
+    {
       "word": "誰と実家へ帰りますか。➞一人で帰ります。",
       "reading": "だれとじっかへかえりますか。➞ひとりでかえります。",
       "vietnamese": "Bạn sẽ về nhà với ai? ➞Tôi sẽ về nhà một mình.",
@@ -268,6 +280,30 @@
       "word": "誰と日本語のモリへ行きましたか。➞友達と行きました。",
       "reading": "だれとにほんごのモリへいきましたか。➞ともだちといきました。",
       "vietnamese": "Bạn đã đi đến mori Nhật Bản với ai? ➞Tôi đã đi với bạn của tôi.",
+      "number": 5
+    },
+    {
+      "word": "誰とスーパーへ行きますか。➞母と行きます。",
+      "reading": "だれとスーパーへいきますか。➞ははといきます。",
+      "vietnamese": "Bạn đi siêu thị với ai? ➞Tôi sẽ đi với mẹ tôi.",
+      "number": 5
+    },
+    {
+      "word": "誰と銀行へ行きましたか。➞Kyさんと銀行へ行きました。",
+      "reading": "だれとぎんこうへいきましたか。➞Kyさんとぎんこうへいきました。",
+      "vietnamese": "Bạn đã đến ngân hàng với ai? ➞Tôi đến ngân hàng với Ky.",
+      "number": 5
+    },
+    {
+      "word": "誰と国へ帰りますか。➞一人で帰ります。",
+      "reading": "だれとくにへかえりますか。➞ひとりでかえります。",
+      "vietnamese": "Bạn sẽ trở về đất nước của bạn với ai? ➞Tôi sẽ về nhà một mình.",
+      "number": 5
+    },
+    {
+      "word": "誰とホテルへ行きますか。➞Linhさんと行きます",
+      "reading": "だれとホテルへいきますか。➞Linhさんといきます",
+      "vietnamese": "Anh vào khách sạn với ai? ➞Tôi sẽ đi với anh Linh",
       "number": 5
     },
     {

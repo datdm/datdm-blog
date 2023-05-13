@@ -11,9 +11,9 @@ import no1 from "assets/data/n5/no1.json"; // done
 import no2 from "assets/data/n5/no2.json"; // done
 import no3 from "assets/data/n5/no3.json"; // done
 import no4 from "assets/data/n5/no4.json"; // done
-import no5 from "assets/data/n5/no5.json";
-import no6 from "assets/data/n5/no6.json";
-import no7 from "assets/data/n5/no7.json";
+import no5 from "assets/data/n5/no5.json"; // done
+import no6 from "assets/data/n5/no6.json"; // done
+import no7 from "assets/data/n5/no7.json"; // done
 import no8 from "assets/data/n5/no8.json";
 import no9 from "assets/data/n5/no9.json";
 import no10 from "assets/data/n5/no10.json";
@@ -32,7 +32,8 @@ import no22 from "assets/data/n5/no22.json";
 import no23 from "assets/data/n5/no23.json"; // done
 import no24 from "assets/data/n5/no24.json";
 import no25 from "assets/data/n5/no25.json";
-import no26 from "assets/data/n4/no26.json";
+import no26 from "assets/data/n4/no26.json"; // done
+import no27 from "assets/data/n4/no27.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -75,7 +76,7 @@ const HomePage = () => {
           />
         );
       case sources.JLPT_N4:
-        return <JLPT readingData={[...no26.reading]} />;
+        return <JLPT readingData={[...no26.reading, ...no27.reading]} />;
       default:
         return <ReadMarkdown src={srcSelected} />;
     }
