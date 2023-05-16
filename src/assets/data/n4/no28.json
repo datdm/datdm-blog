@@ -1,0 +1,196 @@
+{
+  "reading": [
+    {
+      "word": "テレビを見ながら、ご飯を食べます。",
+      "reading": "テレビをみながら、ごはんをたべます。",
+      "vietnamese": "Tôi vừa ăn vừa xem TV.",
+      "number": 28
+    },
+    {
+      "word": "タバコを吸いながら、運転します。",
+      "reading": "タバコをすいながら、うんてんします。",
+      "vietnamese": "Tôi vừa lái xe vừa hút thuốc.",
+      "number": 28
+    },
+    {
+      "word": "音楽を聞きながら、勉強します。",
+      "reading": "おんがくをききながら、べんきょうします。",
+      "vietnamese": "Tôi vừa học vừa nghe nhạc.",
+      "number": 28
+    },
+    {
+      "word": "コーヒーを飲みながら、話します。",
+      "reading": "コーヒーをのみながら、はなします。",
+      "vietnamese": "Chúng tôi vừa nói chuyện vừa uống cà phê.",
+      "number": 28
+    },
+    {
+      "word": "漢字を書きながら、声を出します。",
+      "reading": "かんじをかきながら、こえをだします。",
+      "vietnamese": "Nói các từ vừa viết chữ Hán.",
+      "number": 28
+    },
+    {
+      "word": "ギターを弾きながら、歌います。",
+      "reading": "ギターをひきながら、うたいます。",
+      "vietnamese": "Vừa chơi guitar, vừa hát.",
+      "number": 28
+    },
+    {
+      "word": "食べながら、考えます。",
+      "reading": "たべながら、かんがえます。",
+      "vietnamese": "Vừa ăn vừa nghĩ.",
+      "number": 28
+    },
+    {
+      "word": "働きながら、学校に通っています。",
+      "reading": "はたらきながら、がっこうにかよっています。",
+      "vietnamese": "Vừa làm việc, vừa đi học",
+      "number": 28
+    },
+    {
+      "word": "メモしながら、電話をかけます。",
+      "reading": "メモしながら、でんわをかけます。",
+      "vietnamese": "Vừa ghi chép vừa gọi điện thoại",
+      "number": 28
+    },
+    {
+      "word": "心配しながら、持っています。",
+      "reading": "しんぱいしながら、もっています。",
+      "vietnamese": "Vừa lo lắng vừa cầm",
+      "number": 28
+    },
+    {
+      "word": "ご飯を食べながら、電話を使う人が嫌いです。",
+      "reading": "ごはんをたべながら、でんわをつかうひとがきらいです。",
+      "vietnamese": "Tôi ghét những người sử dụng điện thoại trong khi ăn.",
+      "number": 28
+    },
+    {
+      "word": "勉強しながら、お喋りする人が好きじゃない。",
+      "reading": "べんきょうしながら、おしゃべりするひとがすきじゃない。",
+      "vietnamese": "Tôi không thích những người nói chuyện trong khi học.",
+      "number": 28
+    },
+    {
+      "word": "私の目を見ながら、話してくれる人が好きです。",
+      "reading": "わたしのめをみながら、はなしてくれるひとがすきです。",
+      "vietnamese": "Tôi thích những người nhìn vào mắt tôi và nói chuyện với tôi.",
+      "number": 28
+    },
+    {
+      "word": "先生は面白いし、親切だし、それに経験もあります。",
+      "reading": "せんせいはおもしろいし、しんせつだし、それにけいけんもあります。",
+      "vietnamese": "Giáo viên vui tính, tốt bụng và có kinh nghiệm.",
+      "number": 28
+    },
+    {
+      "word": "Anさんは英語も話せるし、親切だし、それにお金もたくさん持っています。",
+      "reading": "Anさんはえいごもはなせるし、しんせつだし、それにおかねもたくさんもっています。",
+      "vietnamese": "An có thể nói tiếng Anh, tốt bụng và có rất nhiều tiền.",
+      "number": 28
+    },
+    {
+      "word": "彼は背が高いし、体が大きいし、それにイケメンです。",
+      "reading": "かれはせがたかいし、からだがおおきいし、それにイケメンです。",
+      "vietnamese": "Anh ấy cao, to và đẹp trai.",
+      "number": 28
+    },
+    {
+      "word": "雨も降っているし、荷物も大きいし、それでタクシーで帰ります。",
+      "reading": "あめもふっているし、にもつもおおきいし、それでタクシーでかえります。",
+      "vietnamese": "Trời mưa và tôi có rất nhiều hành lý, vì vậy tôi sẽ về nhà bằng taxi.",
+      "number": 28
+    },
+    {
+      "word": "頭も痛いし、熱もあるし、それで会社を休みました。",
+      "reading": "あたまもいたいし、ねつもあるし、それでかいしゃをやすみました。",
+      "vietnamese": "Tôi bị đau đầu và sốt nên đã xin nghỉ làm.",
+      "number": 28
+    },
+    {
+      "word": "時間もないし、お金もないし、それで彼女が作れないんです。",
+      "reading": "じかんもないし、おかねもないし、それでかのじょがつくれないんです。",
+      "vietnamese": "Tôi không có thời gian, tôi không có tiền, và tôi không thể có bạn gái.",
+      "number": 28
+    },
+    {
+      "word": "Aさんは今テレビを見ています。",
+      "reading": "Aさんはいまテレビをみています。",
+      "vietnamese": "A đang xem TV bây giờ.",
+      "number": 28
+    },
+    {
+      "word": "Aさんはもう結婚しています。",
+      "reading": "Aさんはもうけっこんしています。",
+      "vietnamese": "Anh A đã có gia đình rồi.",
+      "number": 28
+    },
+    {
+      "word": "私は銀行で働いています。",
+      "reading": "わたしはぎんこうではたらいています。",
+      "vietnamese": "Tôi làm việc ở ngân hàng.",
+      "number": 28
+    },
+    {
+      "word": "暇なとき、いつもテレビを見ています。",
+      "reading": "ひまなとき、いつもテレビをみています。",
+      "vietnamese": "Khi tôi có thời gian rảnh, tôi luôn xem TV.",
+      "number": 28
+    },
+    {
+      "word": "Aさんは土曜日、何をしていますか。➞土曜日は恋人と一緒に遊んでいます。",
+      "reading": "Aさんはどうようび、なんをしていますか。➞どようびはこいびとといっしょにあそんでいます。",
+      "vietnamese": "A đang làm gì vào thứ bảy? ➞Tôi đang chơi với người yêu của tôi vào ngày thứ Bảy.",
+      "number": 28
+    },
+    {
+      "word": "皆さんはいつも何時に寝ますか。➞いつも２時に寝ています。",
+      "reading": "みなさんはいつもなんじにねますか。➞いつも２じにねています。",
+      "vietnamese": "Bạn thường đi ngủ lúc mấy giờ? ➞Tôi luôn đi ngủ lúc 2 giờ.",
+      "number": 28
+    },
+    {
+      "word": "皆さんは毎週の何曜日にここに来ますか。➞毎週の火木土に来ます。➞毎週の月水金に来ます。",
+      "reading": "みなさんはまいしゅうのなんようびにここにきますか。➞まいしゅうのかもくどにきます。➞まいしゅうのげっすいきんにきます。",
+      "vietnamese": "Bạn đến đây vào ngày nào trong tuần? ➞ Tôi đến vào thứ Ba, thứ Năm và thứ Bảy hàng tuần. ➞Anh ấy đến vào thứ Hai, thứ Tư và thứ Sáu hàng tuần.",
+      "number": 28
+    },
+    {
+      "word": "昨日の晩、熱が出て、それで今日は学校を休んだ。",
+      "reading": "きのうのばん、ねつがでて、それできょうはがっこうをやすんだ。",
+      "vietnamese": "Tối qua tôi bị sốt nên hôm nay tôi nghỉ học.",
+      "number": 28
+    },
+    {
+      "word": "小さいときに海で怖い思いをした。それで海が好きになれない。",
+      "reading": "ちいさいときにうみでこわいおもいをした。それでうみがすきになれない。",
+      "vietnamese": "Khi tôi còn nhỏ, tôi đã có một trải nghiệm đáng sợ trên biển. Đó là lý do tại sao tôi không thích biển.",
+      "number": 28
+    },
+    {
+      "word": "小さい字が見えなくなりました。それで新しい眼鏡を買いました。",
+      "reading": "ちいさいじ字がみえなくなりました。それであたらしいめがねをかいました。",
+      "vietnamese": "Tôi không thể nhìn thấy các chữ cái nhỏ. Vì vậy, tôi đã mua kính mới.",
+      "number": 28
+    },
+    {
+      "word": "お酒を飲んだ、それで頭が痛い。",
+      "reading": "おさけをのんだ、それであたまがいたい。",
+      "vietnamese": "Tôi uống rượu nên đau đầu.",
+      "number": 28
+    },
+    {
+      "word": "朝から、大雨です、それでピクニックを中止しました。残念です。",
+      "reading": "あさから、おおあめです、それでピクニックをちゅうししました。ざんねんです。",
+      "vietnamese": "Trời mưa rất to từ sáng, vì vậy chúng tôi đã hủy buổi dã ngoại. Tôi xin lỗi.",
+      "number": 28
+    },
+    {
+      "word": "勉強する時や寂しい時、音楽を聞きません。",
+      "reading": "べんきょうするときやさびしいとき、おんがくをききません。",
+      "vietnamese": "Tôi không nghe nhạc khi tôi đang học hoặc khi tôi cô đơn.",
+      "number": 28
+    }
+  ]
+}
