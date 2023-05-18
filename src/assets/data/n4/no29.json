@@ -1,0 +1,226 @@
+{
+  "reading": [
+    {
+      "word": "電気が消えています。",
+      "reading": "でんきがきえています。",
+      "vietnamese": "Mất điện.",
+      "number": 29
+    },
+    {
+      "word": "ドアが閉まっています。",
+      "reading": "ドアがしまっています。",
+      "vietnamese": "Cánh cửa được đóng.",
+      "number": 29
+    },
+    {
+      "word": "時計が壊れています。",
+      "reading": "とけいがこわれています。",
+      "vietnamese": "Đồng hồ của tôi bị hỏng.",
+      "number": 29
+    },
+    {
+      "word": "紙が敗れています。",
+      "reading": "かみがやぶれています。",
+      "vietnamese": "Tờ giấy bị rách.",
+      "number": 29
+    },
+    {
+      "word": "鞄が汚れています。",
+      "reading": "かばんがよごれています。",
+      "vietnamese": "Túi của tôi bị bẩn.",
+      "number": 29
+    },
+    {
+      "word": "このコップは汚れています。",
+      "reading": "このコップはよごれています。",
+      "vietnamese": "Cái cốc này bẩn.",
+      "number": 29
+    },
+    {
+      "word": "このパソコンは故障しています。",
+      "reading": "このパソコンはこしょうしています。",
+      "vietnamese": "Máy tính này bị hỏng.",
+      "number": 29
+    },
+    {
+      "word": "あの袋は破れています。",
+      "reading": "あのふくろはやぶれています。",
+      "vietnamese": "Túi rách đó.",
+      "number": 29
+    },
+    {
+      "word": "今朝の道は混んでいました。",
+      "reading": "けさのみちはこんでいました。",
+      "vietnamese": "Những con đường sáng nay đông đúc.",
+      "number": 29
+    },
+    {
+      "word": "今、このマンガを読んでしまいます。",
+      "reading": "いま、このマンガをよんでしまいます。",
+      "vietnamese": "Tôi sẽ đọc truyện tranh xong bây giờ.",
+      "number": 29
+    },
+    {
+      "word": "今、ケーキを作ってしまうから、ちょっと待ってね。",
+      "reading": "いま、ケーキをつくってしまうから、ちょっとまってね。",
+      "vietnamese": "Bây giờ tôi sẽ làm bánh, vì vậy xin vui lòng đợi một chút.",
+      "number": 29
+    },
+    {
+      "word": "明日までに今日の単語を覚えてしまいます。",
+      "reading": "あすまでにきょうのたんごをおぼえてしまいます。",
+      "vietnamese": "Tôi sẽ ghi nhớ những từ hôm nay vào ngày mai.",
+      "number": 29
+    },
+    {
+      "word": "宿題を全部やってしまいました。",
+      "reading": "しゅくだいをぜんぶやってしまいました。",
+      "vietnamese": "Tôi đã làm tất cả bài tập về nhà của tôi.",
+      "number": 29
+    },
+    {
+      "word": "レポートを書いてしまいました。",
+      "reading": "レポートをかいてしまいました。",
+      "vietnamese": "Tôi đã viết báo cáo.",
+      "number": 29
+    },
+    {
+      "word": "引っ越しの準備をしてしまいました。",
+      "reading": "ひっこしのじゅんびをしてしまいました。",
+      "vietnamese": "Tôi đã chuẩn bị để chuyển nhà",
+      "number": 29
+    },
+    {
+      "word": "財布を忘れてしまいました。",
+      "reading": "さいふをわすれてしまいました。",
+      "vietnamese": "tôi đã quên ví của tôi",
+      "number": 29
+    },
+    {
+      "word": "彼女に酷い言葉を言ってしまいました。",
+      "reading": "かのじょにひどいことばをいってしまいました。",
+      "vietnamese": "Tôi đã nói những lời khó nghe với cô ấy.",
+      "number": 29
+    },
+    {
+      "word": "授業の時間に遅れてしまいました。",
+      "reading": "じゅぎょうのじかんにおくれてしまいました。",
+      "vietnamese": "Tôi đã đến muộn tiết học.",
+      "number": 29
+    },
+    {
+      "word": "約束を忘れてしまいました。",
+      "reading": "やくそくをわすれてしまいました。",
+      "vietnamese": "Tôi đã quên lời hứa của mình.",
+      "number": 29
+    },
+    {
+      "word": "彼に言い忘れてしまいました。",
+      "reading": "かれにいいわすれてしまいました。",
+      "vietnamese": "Tôi quên nói với anh ấy.",
+      "number": 29
+    },
+    {
+      "word": "食べないと食べちゃうよ。",
+      "reading": "たべないとたべちゃうよ。",
+      "vietnamese": "Không ăn thì ăn.",
+      "number": 29
+    },
+    {
+      "word": "先に行っちゃうね。",
+      "reading": "さきにいっちゃうね。",
+      "vietnamese": "Tôi sẽ đi trước.",
+      "number": 29
+    },
+    {
+      "word": "これ、食っちゃう。",
+      "reading": "これ、食っちゃう。",
+      "vietnamese": "Tôi sẽ ăn cái này.",
+      "number": 29
+    },
+    {
+      "word": "あ、死んじゃうわ。",
+      "reading": "あ、しんじゃうわ。",
+      "vietnamese": "Ôi chết mất",
+      "number": 29
+    },
+    {
+      "word": "これ、飲んじゃう。",
+      "reading": "これ、飲んじゃう。",
+      "vietnamese": "Hãy uống cái này.",
+      "number": 29
+    },
+    {
+      "word": "財布を忘れてちゃった。",
+      "reading": "さいふをわすれてちゃった。",
+      "vietnamese": "Tôi đã quên ví của tôi.",
+      "number": 29
+    },
+    {
+      "word": "彼女に酷い言葉を言っちゃった。",
+      "reading": "かのじょにひどいことばをいっちゃった。",
+      "vietnamese": "Tôi đã nói những lời khó nghe với cô ấy.",
+      "number": 29
+    },
+    {
+      "word": "授業の時間に遅れちゃった。",
+      "reading": "じゅぎょうのじかんにおくれちゃった。",
+      "vietnamese": "Tôi đã đến muộn tiết học.",
+      "number": 29
+    },
+    {
+      "word": "そこに置いちゃって。",
+      "reading": "そこにおいちゃって。",
+      "vietnamese": "để nó ở đó.",
+      "number": 29
+    },
+    {
+      "word": "先に入っちゃって。",
+      "reading": "さきにはいっちゃって。",
+      "vietnamese": "Hãy đến trước.",
+      "number": 29
+    },
+    {
+      "word": "出ちゃって。",
+      "reading": "でちゃって。",
+      "vietnamese": "Ra khỏi.",
+      "number": 29
+    },
+    {
+      "word": "あった、鍵がありました。",
+      "reading": "あった、鍵がありました。",
+      "vietnamese": "tìm thấy một chìa khóa.",
+      "number": 29
+    },
+    {
+      "word": "どこかで携帯電話を落としてしまいました。",
+      "reading": "どこかでけいたいでんわをおとしてしまいました。",
+      "vietnamese": "Tôi bị rơi điện thoại di động của tôi ở đâu đó.",
+      "number": 29
+    },
+    {
+      "word": "どこかで財布をなくしてしまいました。",
+      "reading": "どこかでさいふをなくしてしまいました。",
+      "vietnamese": "Tôi bị mất ví ở đâu đó.",
+      "number": 29
+    },
+    {
+      "word": "どこかで遊びに行きませんか。",
+      "reading": "どこかであそびにいきませんか。",
+      "vietnamese": "Bạn có muốn đi chơi đâu đó không?",
+      "number": 29
+    },
+    {
+      "word": "どこかでゆっくりビールを飲みましょう。",
+      "reading": "どこかでゆっくりビールを飲みましょう。",
+      "vietnamese": "Đi đâu đó uống bia từ từ",
+      "number": 29
+    },
+    {
+      "word": "どこかにトイレがありませんか。",
+      "reading": "どこかにトイレがありませんか。",
+      "vietnamese": "Có một nhà vệ sinh ở đâu đó?",
+      "number": 29
+    }
+  ]
+}

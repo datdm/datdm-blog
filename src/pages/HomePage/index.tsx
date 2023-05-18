@@ -35,6 +35,7 @@ import no25 from "assets/data/n5/no25.json";
 import no26 from "assets/data/n4/no26.json"; // done
 import no27 from "assets/data/n4/no27.json"; // done
 import no28 from "assets/data/n4/no28.json"; // done
+import no29 from "assets/data/n4/no29.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -79,7 +80,12 @@ const HomePage = () => {
       case sources.JLPT_N4:
         return (
           <JLPT
-            readingData={[...no26.reading, ...no27.reading, ...no28.reading]}
+            readingData={[
+              ...no26.reading,
+              ...no27.reading,
+              ...no28.reading,
+              ...no29.reading,
+            ]}
           />
         );
       default:
