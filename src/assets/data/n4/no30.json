@@ -1,0 +1,304 @@
+{
+  "reading": [
+    {
+      "word": "壁に絵が貼ってあります。",
+      "reading": "かべにえがはってあります。",
+      "vietnamese": "Có một bức tranh　treo ở trên tường.",
+      "number": 30
+    },
+    {
+      "word": "壁に時計がかけてあります。",
+      "reading": "かべにとけいがかけてあります。",
+      "vietnamese": "Có một chiếc đồng hồ trên tường.",
+      "number": 30
+    },
+    {
+      "word": "壁に本棚がかけてあります。",
+      "reading": "かべにほんだながかけてあります。",
+      "vietnamese": "Có giá sách trên tường.",
+      "number": 30
+    },
+    {
+      "word": "机の上に本が置いてあります。",
+      "reading": "つくえのうえにほんがおいてあります。",
+      "vietnamese": "Có một cuốn sách đặt trên bàn.",
+      "number": 30
+    },
+    {
+      "word": "壁に絵が飾ってあります。",
+      "reading": "かべにえがかざってあります。",
+      "vietnamese": "Có những bức tranh trưng bày trên tường.",
+      "number": 30
+    },
+    {
+      "word": "部屋の隅にゴミ箱が置いてあります。",
+      "reading": "へやのすみにゴミばこがおいてあります。",
+      "vietnamese": "Có một thùng rác đặt ở góc phòng.",
+      "number": 30
+    },
+    {
+      "word": "テレビの傍に人形が飾ってあります。",
+      "reading": "テレビのそばににんぎょうがかざってあります。",
+      "vietnamese": "Một con búp bê được trưng bày bên cạnh TV.",
+      "number": 30
+    },
+    {
+      "word": "壁にカレンダーが貼ってあります。",
+      "reading": "かべにカレンダーがはってあります。",
+      "vietnamese": "Có một lịch treo trên tường.",
+      "number": 30
+    },
+    {
+      "word": "カレンダーは壁に貼ってあります。",
+      "reading": "カレンダーはかべにはってあります。",
+      "vietnamese": "Lịch được dán trên tường.",
+      "number": 30
+    },
+    {
+      "word": "時計は壁にかけてあります。",
+      "reading": "とけいはかべにかけてあります。",
+      "vietnamese": "Đồng hồ được treo trên tường.",
+      "number": 30
+    },
+    {
+      "word": "食器を洗いましたか。➞もう洗ってあります。",
+      "reading": "しょっきをあらいましたか。➞もうあらってあります。",
+      "vietnamese": "bạn đã rửa chén? ➞Nó đã được rửa sạch.",
+      "number": 30
+    },
+    {
+      "word": "ビールを買いましたか。➞はい、もう買ってあります。",
+      "reading": "ビールをかいましたか。➞はい、もうかってあります。",
+      "vietnamese": "bạn đã mua bia chưa ➞Vâng, tôi đã mua nó rồi.",
+      "number": 30
+    },
+    {
+      "word": "ビールはもう冷蔵庫に入れてあります。",
+      "reading": "ビールはもうれいぞうこにいれてあります。",
+      "vietnamese": "Bia đã có sẵn trong tủ lạnh.",
+      "number": 30
+    },
+    {
+      "word": "パーティーの料理は作りましたか。➞はい、もう作ってあります。",
+      "reading": "パーティーのりょうりはつくりましたか。➞はい、もうつくってあります。",
+      "vietnamese": "Bạn đã chuẩn bị thức ăn cho bữa tiệc chưa? ➞Vâng, tôi đã làm được rồi.",
+      "number": 30
+    },
+    {
+      "word": "トイレを掃除しましたか。➞はい、もう掃除してあります。",
+      "reading": "トイレをそうじしましたか。➞はい、もうそうじしてあります。",
+      "vietnamese": "Bạn đã làm sạch nhà vệ sinh? ➞Vâng, tôi đã làm sạch nó rồi.",
+      "number": 30
+    },
+    {
+      "word": "手を洗いましたか。➞はい、もう洗ってあります。",
+      "reading": "てをあらいましたか。➞はい、もうあらってあります。",
+      "vietnamese": "bạn đã rửa tay chưa ➞Vâng, nó đã được rửa sạch.",
+      "number": 30
+    },
+    {
+      "word": "レポートを読みましたか。➞もう読んであります。",
+      "reading": "レポートをよみましたか。➞もうよんであります。",
+      "vietnamese": "Bạn đã đọc báo cáo chưa? ➞Tôi đã đọc nó rồi.",
+      "number": 30
+    },
+    {
+      "word": "手紙を書きましたか。➞書いてありません。",
+      "reading": "てがみをかきましたか。➞かいてありません。",
+      "vietnamese": "bạn đã viết thư chưa ➞Nó không được viết.",
+      "number": 30
+    },
+    {
+      "word": "電気がついています。電気がつけてあります。",
+      "reading": "でんきがついています。でんきがつけてあります。",
+      "vietnamese": "Điện đang bật. Điện đang bật.",
+      "number": 30
+    },
+    {
+      "word": "水が出ています。水が出してあります。",
+      "reading": "みずがでています。みずがだしてあります。",
+      "vietnamese": "Nước đang chảy ra. Có nước.",
+      "number": 30
+    },
+    {
+      "word": "車が止まっています。車が止めてあります。",
+      "reading": "くるまがとまっています。くるまがとめてあります。",
+      "vietnamese": "Xe dừng lại. Xe đang đậu.",
+      "number": 30
+    },
+    {
+      "word": "鞄に財布が入っています。鞄に財布が入れてあります。",
+      "reading": "かばんにさいふがはいっています。かばんにさいふがいれてあります。",
+      "vietnamese": "Tôi có một chiếc ví trong túi. Tôi có một chiếc ví trong túi.",
+      "number": 30
+    },
+    {
+      "word": "誕生日のパーティーをする前にプレゼントを買っておきます。",
+      "reading": "たんじょうびのパーティーをするまえにプレゼントをかっておきます。",
+      "vietnamese": "Tôi sẽ mua cho bạn một món quà trước bữa tiệc sinh nhật.",
+      "number": 30
+    },
+    {
+      "word": "レポートを書く前に資料を集めておきます。",
+      "reading": "レポートをかくまえにしりょうをあつめておきます。",
+      "vietnamese": "Thu thập tài liệu trước khi viết báo cáo.",
+      "number": 30
+    },
+    {
+      "word": "誕生日のパーティーをする前に部屋を片付けておきます。",
+      "reading": "たんじょうびのパーティーをするまえにへやをかたづけておきます。",
+      "vietnamese": "Dọn phòng trước bữa tiệc sinh nhật.",
+      "number": 30
+    },
+    {
+      "word": "誕生日のパーティーをする前に料理を作っておきます。",
+      "reading": "たんじょうびのパーティーをするまえにりょうりをつくっておきます。",
+      "vietnamese": "Tôi sẽ chuẩn bị thức ăn trước bữa tiệc sinh nhật.",
+      "number": 30
+    },
+    {
+      "word": "誕生日のパーティーをする前にみんなに時間が知らせておきます。",
+      "reading": "たんじょうびのパーティーをするまえにじかんがしらせておきます。",
+      "vietnamese": "Tôi sẽ cho mọi người biết thời gian trước bữa tiệc sinh nhật.",
+      "number": 30
+    },
+    {
+      "word": "ホテルを予約しましたか。➞はい、予約しておきました。",
+      "reading": "ホテルをよやくしましたか。➞はい、よやくしておきました。",
+      "vietnamese": "Bạn đã đặt khách sạn chưa? ➞Vâng, tôi đã đặt trước.",
+      "number": 30
+    },
+    {
+      "word": "テストのためにたくさん勉強しておきます。",
+      "reading": "テストのためにたくさんべんきょうしておきます。",
+      "vietnamese": "Tôi sẽ học rất nhiều cho bài kiểm tra.",
+      "number": 30
+    },
+    {
+      "word": "明日から忙しくなるので今日はたくさん寝ておきます。",
+      "reading": "あしたからいそがしくなるのできょうはたくさんねておきます。",
+      "vietnamese": "Tôi sẽ bận rộn từ ngày mai, vì vậy tôi sẽ ngủ nhiều vào ngày hôm nay.",
+      "number": 30
+    },
+    {
+      "word": "食事が終わったら、食器を洗っておきます。",
+      "reading": "しょくじがおわったら、しょっきをあらっておきます。",
+      "vietnamese": "Ăn xong thì rửa bát.",
+      "number": 30
+    },
+    {
+      "word": "明日ミニテストがあるから、これを覚えておいてね。",
+      "reading": "あしたミニテストがあるから、これをおぼえておいてね。",
+      "vietnamese": "Tôi có một bài kiểm tra nhỏ vào ngày mai nên hãy ghi nhớ điều này.",
+      "number": 30
+    },
+    {
+      "word": "寒いですか、ドアを閉めておきますね。",
+      "reading": "さむいですか、ドアをしめておきますね。",
+      "vietnamese": "Lạnh rồi, đóng cửa đi.",
+      "number": 30
+    },
+    {
+      "word": "これって使わないから、しまっておきます。",
+      "reading": "これってつかわないから、しまっておきます。",
+      "vietnamese": "Tôi sẽ không sử dụng cái này, vì vậy tôi sẽ cất nó đi.",
+      "number": 30
+    },
+    {
+      "word": "そこに置いておいてください。そこに置いといて。",
+      "reading": "そこにおいておいてください。そこにおいといて。",
+      "vietnamese": "Hãy để nó ở đó. Cứ để nó ở đó.",
+      "number": 30
+    },
+    {
+      "word": "ドアを開けておいてください。ドアを開けといて",
+      "reading": "ドアをあけておいてください。ドアを開けといて",
+      "vietnamese": "Làm ơn để cửa mở. Cứ để cửa mở.",
+      "number": 30
+    },
+    {
+      "word": "これをやっておいて。これをやっといてね。",
+      "reading": "これをやっておいて。これをやっといてね。",
+      "vietnamese": "tiếp tục làm điều này",
+      "number": 30
+    },
+    {
+      "word": "ここに座っておいて。",
+      "reading": "ここにすわっておいて。",
+      "vietnamese": "Cứ ngồi đây",
+      "number": 30
+    },
+    {
+      "word": "冷蔵庫に入れておいて。",
+      "reading": "れいぞうこにいれておいて。",
+      "vietnamese": "Cứ bỏ nó trong tủ lạnh.",
+      "number": 30
+    },
+    {
+      "word": "窓を閉めといて。",
+      "reading": "まどをしめといて。",
+      "vietnamese": "giữ cho cửa sổ đóng lại.",
+      "number": 30
+    },
+    {
+      "word": "考えとくね。",
+      "reading": "かんがえとくね。",
+      "vietnamese": "Hãy suy nghĩ về nó.",
+      "number": 30
+    },
+    {
+      "word": "皆さん、これについて考えといてね。",
+      "reading": "みなんさん、これについてかんがえといてね。",
+      "vietnamese": "Hãy suy nghĩ về điều này, các bạn.",
+      "number": 30
+    },
+    {
+      "word": "この文法を覚えといてね。",
+      "reading": "このぶんぽうをかんがえといてね。",
+      "vietnamese": "Hãy ghi nhớ ngữ pháp này.",
+      "number": 30
+    },
+    {
+      "word": "まだご飯を食べています。",
+      "reading": "まだごはんをたべています。",
+      "vietnamese": "Tôi vẫn đang ăn.",
+      "number": 30
+    },
+    {
+      "word": "まだ雨が降っています。",
+      "reading": "まだあめがふっています。",
+      "vietnamese": "Trời vẫn mưa.",
+      "number": 30
+    },
+    {
+      "word": "このパソコンはまだ使っています。",
+      "reading": "このパソコンはまだつかっています。",
+      "vietnamese": "Tôi vẫn đang sử dụng máy tính này.",
+      "number": 30
+    },
+    {
+      "word": "会議はまだ続いてます。",
+      "reading": "かいぎはまだつづいてます。",
+      "vietnamese": "Cuộc họp vẫn đang diễn ra.",
+      "number": 30
+    },
+    {
+      "word": "私は来週Sapaに旅行しますよ。➞あ、それはいいですよ。",
+      "reading": "わたしはらいしゅうSapaにりょこうしますよ。➞あ、それはいいですよ。",
+      "vietnamese": "Tôi sẽ đi du lịch Sapa vào tuần tới. ➞ Ồ, thế thì tốt.",
+      "number": 30
+    },
+    {
+      "word": "ごめん、今日のパーティー来られない。➞それは残念。",
+      "reading": "ごめん、きょうのパーティーこられない。➞それはざんねん。",
+      "vietnamese": "Tôi xin lỗi tôi không thể đến bữa tiệc ngày hôm nay. ➞Thật đáng tiếc.",
+      "number": 30
+    },
+    {
+      "word": "どんなスポーツをしていますか。➞そうですね。テニスとか水泳とか。。。",
+      "reading": "どんなスポーツをしていますか。➞そうですね。テニスとかすいえいとか。。。",
+      "vietnamese": "Bạn chơi những môn thể thao nào? ➞Đúng vậy. như quần vợt hoặc bơi lội. . .",
+      "number": 30
+    }
+  ]
+}
