@@ -1,0 +1,268 @@
+{
+  "reading": [
+    {
+      "word": "寿司を食べよう。",
+      "reading": "すしをたべよう。",
+      "vietnamese": "chúng ta hãy ăn sushi",
+      "number": 31
+    },
+    {
+      "word": "アニメを見よう。",
+      "reading": "アニメをみよう。",
+      "vietnamese": "chúng ta hãy xem phim hoạt hình",
+      "number": 31
+    },
+    {
+      "word": "仕事を働こう。",
+      "reading": "仕事をはたらこう。",
+      "vietnamese": "chúng ta hãy làm việc",
+      "number": 31
+    },
+    {
+      "word": "調べよう。",
+      "reading": "調べよう。",
+      "vietnamese": "Hãy cùng tìm hiểu.",
+      "number": 31
+    },
+    {
+      "word": "家を建てようと思う。",
+      "reading": "いえをたてようとおもう。",
+      "vietnamese": "Tôi đang nghĩ đến việc xây dựng một ngôi nhà.",
+      "number": 31
+    },
+    {
+      "word": "花を植えようと思う。",
+      "reading": "はなをうえようとおもう。",
+      "vietnamese": "Tôi đang nghĩ đến trồng hoa.",
+      "number": 31
+    },
+    {
+      "word": "部屋を片付けようと思う。",
+      "reading": "へやをかたづけようとおもう。",
+      "vietnamese": "Tôi đang nghĩ đến việc dọn dẹp phòng của mình.",
+      "number": 31
+    },
+    {
+      "word": "荷物を持とうと思う。",
+      "reading": "にもつをもとうとおもう。",
+      "vietnamese": "Tôi đang nghĩ mang theo hành lý của mình.",
+      "number": 31
+    },
+    {
+      "word": "授業を続けようと思う。",
+      "reading": "じゅぎょうをつづけようとおもう。",
+      "vietnamese": "Tôi sẽ tiếp tục các lớp học của tôi.",
+      "number": 31
+    },
+    {
+      "word": "家へ帰ろうと思います。",
+      "reading": "いえへかえろうとおもいます。",
+      "vietnamese": "Tôi đang nghĩ về việc về nhà.",
+      "number": 31
+    },
+    {
+      "word": "ピアノを習おうと思います。",
+      "reading": "ピアノをならおうとおもいます。",
+      "vietnamese": "Tôi muốn học chơi piano.",
+      "number": 31
+    },
+    {
+      "word": "海で泳ごうと思います。",
+      "reading": "うみでおよごうとおもいます。",
+      "vietnamese": "Tôi muốn bơi ở biển.",
+      "number": 31
+    },
+    {
+      "word": "レポートを出そうと思います。",
+      "reading": "レポートをだそうとおもいます。",
+      "vietnamese": "Tôi muốn gửi một báo cáo.",
+      "number": 31
+    },
+    {
+      "word": "バスに乗ろうと思います。",
+      "reading": "バスにのろうとおもいます。",
+      "vietnamese": "Tôi đang nghĩ đến việc bắt xe buýt.",
+      "number": 31
+    },
+    {
+      "word": "日本に行ってたくさん寿司を食べようと思っています。",
+      "reading": "にほんにいってたくさんすしをたべようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc đến Nhật Bản và ăn thật nhiều sushi.",
+      "number": 31
+    },
+    {
+      "word": "週末、映画を見ようと思っています。",
+      "reading": "しゅうまつ、えいがをみようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc xem một bộ phim vào cuối tuần.",
+      "number": 31
+    },
+    {
+      "word": "明日からタバコをやめようと思っています。",
+      "reading": "あしたからタバコをやめようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc bỏ hút thuốc từ ngày mai.",
+      "number": 31
+    },
+    {
+      "word": "彼に電話をかけようと思っています。",
+      "reading": "かれにでんわをかけようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc gọi cho anh ấy.",
+      "number": 31
+    },
+    {
+      "word": "ネットで調べようと思っています。",
+      "reading": "ネットでしらべようとおもっています。",
+      "vietnamese": "Tôi đang cố gắng tìm hiểu trên mạng.",
+      "number": 31
+    },
+    {
+      "word": "部屋を片付けようと思っています。",
+      "reading": "へやをかたづけようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc dọn dẹp phòng của mình.",
+      "number": 31
+    },
+    {
+      "word": "日本語の文法をまとめようと思っています。",
+      "reading": "にほんごのぶんぽうをまとめようとおもっています。",
+      "vietnamese": "Tôi đang cố gắng tóm tắt ngữ pháp tiếng Nhật.",
+      "number": 31
+    },
+    {
+      "word": "勉強を続けようと思っています。",
+      "reading": "べんきょうをつづけようとおもっています。",
+      "vietnamese": "Tôi sẽ tiếp tục việc học của mình.",
+      "number": 31
+    },
+    {
+      "word": "花を飾ろうと思っています。",
+      "reading": "はなをかざろうとおもっています。",
+      "vietnamese": "Tôi muốn trang trí bằng hoa.",
+      "number": 31
+    },
+    {
+      "word": "もう少し待とうと思っています。",
+      "reading": "もうすこしまとうとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc đợi thêm một thời gian nữa.",
+      "number": 31
+    },
+    {
+      "word": "会議を参加しようと思っています。",
+      "reading": "かいぎをさんかしようとおもっています。",
+      "vietnamese": "Tôi muốn tham dự cuộc họp.",
+      "number": 31
+    },
+    {
+      "word": "また来ようと思っています。",
+      "reading": "またこようとおもっています。",
+      "vietnamese": "Tôi muốn đến một lần nữa.",
+      "number": 31
+    },
+    {
+      "word": "中国語を習うつもりです。",
+      "reading": "ちゅうごくごをならうつもりです。",
+      "vietnamese": "Tôi sẽ học tiếng Trung.",
+      "number": 31
+    },
+    {
+      "word": "日本語の新聞を読むつもりです。",
+      "reading": "にほんごのしんぶんをよむつもりです。",
+      "vietnamese": "Tôi sẽ đọc một tờ báo tiếng Nhật.",
+      "number": 31
+    },
+    {
+      "word": "家を建てるつもりです。",
+      "reading": "いえをたてるつもりです。",
+      "vietnamese": "Tôi chuẩn bị xây nhà.",
+      "number": 31
+    },
+    {
+      "word": "アメリカへ留学するつもりです。",
+      "reading": "アメリカへりゅうがくするつもりです。",
+      "vietnamese": "Tôi dự định đi du học Mỹ.",
+      "number": 31
+    },
+    {
+      "word": "日本語を話さないつもりです。",
+      "reading": "にほんごをはなさないつもりです。",
+      "vietnamese": "Tôi sẽ không nói tiếng Nhật.",
+      "number": 31
+    },
+    {
+      "word": "どこも行かないつもりです。",
+      "reading": "どこもいかないつもりです。",
+      "vietnamese": "Tôi chẳng đi đâu cả.",
+      "number": 31
+    },
+    {
+      "word": "タバコを吸わないつもりです。",
+      "reading": "タバコをすわないつもりです。",
+      "vietnamese": "Tôi sẽ không hút thuốc.",
+      "number": 31
+    },
+    {
+      "word": "お酒を飲まないつもりです。",
+      "reading": "おさけをのまないつもりです。",
+      "vietnamese": "Tôi sẽ không uống rượu.",
+      "number": 31
+    },
+    {
+      "word": "東京へ出張の予定です。",
+      "reading": "とうきょうへしゅっちょうのよていです。",
+      "vietnamese": "Tôi đang lên kế hoạch cho một chuyến công tác tới Tokyo.",
+      "number": 31
+    },
+    {
+      "word": "来月から働く予定です。",
+      "reading": "らいげつからはたらくよていです。",
+      "vietnamese": "Tôi sẽ bắt đầu làm việc từ tháng tới.",
+      "number": 31
+    },
+    {
+      "word": "８時に作る予定です。",
+      "reading": "８じにつくるよていです。",
+      "vietnamese": "Tôi dự định làm nó lúc 8 giờ.",
+      "number": 31
+    },
+    {
+      "word": "来月は展覧会の予定です。",
+      "reading": "らいげつはてんらんかいのよていです。",
+      "vietnamese": "Triển lãm được lên kế hoạch cho tháng tới.",
+      "number": 31
+    },
+    {
+      "word": "１０時から結婚式が始まる予定です。",
+      "reading": "１０じからけっこんしきがはじまる予定です。",
+      "vietnamese": "Lễ cưới sẽ bắt đầu lúc 10:00.",
+      "number": 31
+    },
+    {
+      "word": "雨はまだ止んでいない。",
+      "reading": "あめはまだやんでいない。",
+      "vietnamese": "Trời vẫn chưa tạnh mưa.",
+      "number": 31
+    },
+    {
+      "word": "勉強はまだしていません。",
+      "reading": "べんきょうはまだしていません。",
+      "vietnamese": "Tôi chưa học.",
+      "number": 31
+    },
+    {
+      "word": "授業はまだ終わっていません。",
+      "reading": "じゅぎょうはまだおわっていません。",
+      "vietnamese": "Bài học vẫn chưa kết thúc.",
+      "number": 31
+    },
+    {
+      "word": "病院はまだ開いていません。",
+      "reading": "びょういんはまだあいていません。",
+      "vietnamese": "Bệnh viện vẫn mở cửa.",
+      "number": 31
+    },
+    {
+      "word": "レポートはまだ出していません。",
+      "reading": "レポートはまだだしていません。",
+      "vietnamese": "Tôi vẫn chưa nộp báo cáo.",
+      "number": 31
+    }
+  ]
+}
