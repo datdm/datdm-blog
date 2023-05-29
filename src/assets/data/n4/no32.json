@@ -1,0 +1,250 @@
+{
+  "reading": [
+    {
+      "word": "酷くなったね。病院へ行ったほうがいいです。",
+      "reading": "ひどくなったね。びょういんへいったほうがいいです。",
+      "vietnamese": "Nó trở nên tồi tệ hơn. Tốt hơn là bạn nên đến bệnh viện.",
+      "number": 32
+    },
+    {
+      "word": "風邪だから、薬を飲んだほうがいいです。",
+      "reading": "かぜだから、くすりをのんだほうがいいです。",
+      "vietnamese": "Tôi bị cảm lạnh, vì vậy tôi nên uống một ít thuốc.",
+      "number": 32
+    },
+    {
+      "word": "明日はテストですから、復習したほうがいいです。",
+      "reading": "あしたはテストですから、ふくしゅうしたほうがいいです。",
+      "vietnamese": "Tôi có một bài kiểm tra vào ngày mai, vì vậy tôi nên ôn tập.",
+      "number": 32
+    },
+    {
+      "word": "明日テストがありますから、早く寝たほうがいいです。",
+      "reading": "あしたテストがありますから、はやくねたほうがいいです。",
+      "vietnamese": "Tôi có một bài kiểm tra vào ngày mai, vì vậy tôi nên đi ngủ sớm.",
+      "number": 32
+    },
+    {
+      "word": "暗くなったね。電気をつけたほうがいいです。",
+      "reading": "くらくなったね。でんきをつけたほうがいいです。",
+      "vietnamese": "Trời tối dần. Bạn nên bật điện lên.",
+      "number": 32
+    },
+    {
+      "word": "皆が勉強していますから、静かにしたほうがいいです。",
+      "reading": "みなさんがべんきょうしていますから、しずかにしたほうがいいです。",
+      "vietnamese": "Mọi người đang học, vì vậy bạn nên im lặng.",
+      "number": 32
+    },
+    {
+      "word": "今、使いますから、すぐ洗ったほうがいいです。",
+      "reading": "いま、つかいますから、すぐあらったほうがいいです。",
+      "vietnamese": "Tôi sẽ sử dụng nó bây giờ, vì vậy bạn nên rửa nó ngay lập tức.",
+      "number": 32
+    },
+    {
+      "word": "熱があるから、休んだほうがいいです。",
+      "reading": "ねつがあるから、やすんだほうがいいです。",
+      "vietnamese": "Tôi bị sốt, vì vậy tôi nên nghỉ ngơi.",
+      "number": 32
+    },
+    {
+      "word": "泳ぎたかったら海へ行ったほうがいいです。",
+      "reading": "およぎたかったらうみへいったほうがいいです。",
+      "vietnamese": "Nếu bạn muốn bơi, bạn nên ra biển.",
+      "number": 32
+    },
+    {
+      "word": "頭が痛いですから、薬を飲んだほうがいいです。",
+      "reading": "あたまがいたいですから、くすりをのんだほうがいいです。",
+      "vietnamese": "Tôi bị đau đầu, vì vậy tôi nên uống một ít thuốc.",
+      "number": 32
+    },
+    {
+      "word": "風邪ですから、運動しないほうがいいです。",
+      "reading": "かぜですから、うんどうしないほうがいいです。",
+      "vietnamese": "Tôi bị cảm lạnh, vì vậy tôi không nên tập thể dục.",
+      "number": 32
+    },
+    {
+      "word": "寒いですから、泳がないほうがいいです。",
+      "reading": "さむいですから、およがないほうがいいです。",
+      "vietnamese": "Trời lạnh, vì vậy tốt hơn là không nên bơi.",
+      "number": 32
+    },
+    {
+      "word": "テストがありますから、遊ばないほうがいいです。",
+      "reading": "テストがありますから、あそばないほうがいいです。",
+      "vietnamese": "Tôi có một bài kiểm tra, vì vậy tốt hơn là không chơi.",
+      "number": 32
+    },
+    {
+      "word": "腐ってるから、食べないほうがいいです。",
+      "reading": "くさってるから、たべないほうがいいです。",
+      "vietnamese": "Nó thối, vì vậy bạn không nên ăn nó.",
+      "number": 32
+    },
+    {
+      "word": "明日 雨が降るでしょう。",
+      "reading": "あした あめがふるでしょう。",
+      "vietnamese": "Trời sẽ mưa vào ngày mai.",
+      "number": 32
+    },
+    {
+      "word": "夕方には。。。夕方には雨がやすでしょう。明日は。。。晴れるでしょう。午後は。。。曇るでしょう。明日の朝は風が強く吹くでしょう。夜は。。。雪が降るでしょう。",
+      "reading": "ゆうがたには。。。ゆうがたにはあめがやすでしょう。あしたは。。。はれるでしょう。ごごは。。。くもるでしょう。あしたのばんはかぜがよつくふくでしょう。よるは。。。ゆきがふるでしょう。",
+      "vietnamese": "vào buổi tối. . . Trời sẽ mưa vào buổi tối. Ngày mai. . . trời sẽ nắng vào buổi chiều. . . trời sẽ có nhiều mây Gió sẽ thổi mạnh vào sáng mai. vào ban đêm. . . Trời sẽ có tuyết.",
+      "number": 32
+    },
+    {
+      "word": "明日は雨かもしれません。",
+      "reading": "あしたはあめかもしれません。",
+      "vietnamese": "Nó có thể mưa vào ngày mai.",
+      "number": 32
+    },
+    {
+      "word": "会社に遅れるかもしれません。",
+      "reading": "かいしゃにおくれるかもしれません。",
+      "vietnamese": "Tôi có thể bị trễ giờ làm.",
+      "number": 32
+    },
+    {
+      "word": "Aさんが来るかもしれません。",
+      "reading": "Aさんがくるかもしれません。",
+      "vietnamese": "Ａ có thể đến.",
+      "number": 32
+    },
+    {
+      "word": "今日は残業するかもしれません。",
+      "reading": "きょうはざんぎょうするかもしれません。",
+      "vietnamese": "Hôm nay tôi có thể làm thêm giờ.",
+      "number": 32
+    },
+    {
+      "word": "雨が続くかもしれません。",
+      "reading": "あめがつづくかもしれません。",
+      "vietnamese": "Có thể trời mưa.",
+      "number": 32
+    },
+    {
+      "word": "Aさんは来ないですね。多分 風邪かもしれません。",
+      "reading": "Aさんはこないですね。たぶん かぜかもしれません。",
+      "vietnamese": "Ông A sẽ không đến. có thể bị cảm lạnh.",
+      "number": 32
+    },
+    {
+      "word": "家族が心配するかもね。",
+      "reading": "かぞくがしんぱいするかもね。",
+      "vietnamese": "Gia đình bạn có thể lo lắng.",
+      "number": 32
+    },
+    {
+      "word": "来月は忙しいかもよ。",
+      "reading": "らいげつはいそがしいかもよ。",
+      "vietnamese": "Tôi có thể bận rộn vào tháng tới.",
+      "number": 32
+    },
+    {
+      "word": "このレストランは高いかもね。",
+      "reading": "このレストランはたかいかもね。",
+      "vietnamese": "Tôi nghĩ rằng nhà hàng này là đắt tiền.",
+      "number": 32
+    },
+    {
+      "word": "食事に行けないかもよ。",
+      "reading": "しょくじにいけないかもよ。",
+      "vietnamese": "Tôi có thể không thể ra ngoài ăn.",
+      "number": 32
+    },
+    {
+      "word": "駐車場がないかもね。",
+      "reading": "ちゅうしゃじょうがないかもね。",
+      "vietnamese": "Có thể không có bãi đậu xe.",
+      "number": 32
+    },
+    {
+      "word": "時間に間に合わないかもよ。",
+      "reading": "じかんにまにあわないかもよ。",
+      "vietnamese": "Tôi có thể không đúng giờ.",
+      "number": 32
+    },
+    {
+      "word": "がっかりしないで、来年きっとN1を合格するよ。",
+      "reading": "がっかりしないで、らいねんきっとN1をごうかくするよ。",
+      "vietnamese": "Đừng nản, tôi chắc chắn bạn sẽ đậu N1 vào năm tới.",
+      "number": 32
+    },
+    {
+      "word": "雲が出てきた、今夜きっと雨でしょう。",
+      "reading": "くもがでてきた、こんやきっとあめでしょう。",
+      "vietnamese": "Mây đang kéo đến, chắc chắn đêm nay sẽ có mưa.",
+      "number": 32
+    },
+    {
+      "word": "多分 彼はここに来られないでしょう。",
+      "reading": "たぶん かれはここにこられないでしょう。",
+      "vietnamese": "Có lẽ anh ấy không thể đến đây.",
+      "number": 32
+    },
+    {
+      "word": "多分あの子 私のことを忘れてしまったと思います。",
+      "reading": "たぶんあのこ わたしのことをわすれてしまったとおもいます。",
+      "vietnamese": "Có lẽ anh ấy không thể đến đây.",
+      "number": 32
+    },
+    {
+      "word": "もしかしたら、彼は会社を辞めるかもしれません。",
+      "reading": "もしかしたら、かれはかいしゃをやめるかもしれません。",
+      "vietnamese": "Có thể anh ấy sẽ rời công ty.",
+      "number": 32
+    },
+    {
+      "word": "もしかしたら、明日は行けないかもしれません。",
+      "reading": "もしかしたら、あしたはいけないかもしれません。",
+      "vietnamese": "Tôi có thể không thể đi vào ngày mai.",
+      "number": 32
+    },
+    {
+      "word": "何か心配なことがあるんですか。",
+      "reading": "なにかしんぱいなことがあるんですか。",
+      "vietnamese": "Bạn đang lo lắng về một cái gì đó?",
+      "number": 32
+    },
+    {
+      "word": "何か大切なものがありますか。",
+      "reading": "なにかたいせつなものがありますか。",
+      "vietnamese": "Bạn có điều gì quan trọng không?",
+      "number": 32
+    },
+    {
+      "word": "誰か知っている人がいますか。",
+      "reading": "だれかしっているひと人がいますか。",
+      "vietnamese": "Bạn có biết ai không?",
+      "number": 32
+    },
+    {
+      "word": "どこかいい所がありますか。",
+      "reading": "どこかいいところがありますか。",
+      "vietnamese": "Có một nơi tốt hơn?",
+      "number": 32
+    },
+    {
+      "word": "いつか会社を辞めたい時がありますか。",
+      "reading": "いつかかいしゃをやめたいときがありますか。",
+      "vietnamese": "Có khi nào bạn muốn nghỉ việc ở công ty không?",
+      "number": 32
+    },
+    {
+      "word": "駅まで３０分で行きますか。",
+      "reading": "えきまで３０ぷんでいきますか。",
+      "vietnamese": "Bạn sẽ đến nhà ga trong 30 phút nữa chứ?",
+      "number": 32
+    },
+    {
+      "word": "３万円でカメラを変えますか。",
+      "reading": "３まんえんでカメラをかえますか。",
+      "vietnamese": "Bạn có đổi máy ảnh với giá 30.000 yên không?",
+      "number": 32
+    }
+  ]
+}
