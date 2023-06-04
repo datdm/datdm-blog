@@ -1,0 +1,154 @@
+{
+  "reading": [
+    {
+      "word": "早く寝ろ。もっと勉強しろ。考えろ。焦げろ。早く飲め。走れ。頑張れ。",
+      "reading": "はやくねろ。もっとべんきょうしろ。かんがえろ。こげろ。はやくのめ。はしれ。がんばれ。",
+      "vietnamese": "Ngủ sớm đi. học nhiều hơn. Nghĩ đi. Đốt nó đi. uống nhanh. Chạy đi. Cố lên.",
+      "number": 33
+    },
+    {
+      "word": "明日うちへ来い。",
+      "reading": "あしたうちへこい。",
+      "vietnamese": "Hãy đến nhà tôi vào ngày mai.",
+      "number": 33
+    },
+    {
+      "word": "早く食べなさい。",
+      "reading": "はやくたべなさい。",
+      "vietnamese": "ăn nhanh",
+      "number": 33
+    },
+    {
+      "word": "勉強しなさい。",
+      "reading": "べんきょうしなさい。",
+      "vietnamese": "đi học.",
+      "number": 33
+    },
+    {
+      "word": "薬を飲みなさい。",
+      "reading": "くすりをのみなさい。",
+      "vietnamese": "uống thuốc đi",
+      "number": 33
+    },
+    {
+      "word": "行くな。待つな。借りるな。寝るな。するな。来るな。結婚するな。見るな。",
+      "reading": "いくな。まつな。かりるな。ねるな。するな。きるな。けっこんするな。みるな。",
+      "vietnamese": "Đừng đi. đừng đợi. không mượn. Không ngủ. Đừng làm việc đó. đừng đến. đừng kết hôn. đừng nhìn.",
+      "number": 33
+    },
+    {
+      "word": "あの漢字は何と読むんですか。➞あの漢字は「いりぐち」と読みます。",
+      "reading": "あのかんじはなんとよむんですか。➞あのかんじは「いりぐち」とよみます。",
+      "vietnamese": "Làm thế nào để bạn đọc kanji đó? ➞ Chữ kanji đó được đọc là “Iriguchi”.",
+      "number": 33
+    },
+    {
+      "word": "あの漢字は何と読むんですか。➞あの漢字は「本日九牛」と読みます。",
+      "reading": "あのかんじはなんとよむんですか。➞あのかんじは「ほんじつきゅうぎゅう」とよみます。",
+      "vietnamese": "Làm thế nào để bạn đọc kanji đó? ➞Chữ Hán đó đọc là Honjitsukyuugyuu”.",
+      "number": 33
+    },
+    {
+      "word": "あそこに「止めれ」と書いてあります。",
+      "reading": "あそこに「とめれ」とかいてあります。",
+      "vietnamese": "Nó nói ”tomare” ở đằng kia.",
+      "number": 33
+    },
+    {
+      "word": "ここに何と書いてありますか。➞「ABC」と書いてあります。",
+      "reading": "ここになんとかいてありますか。➞「ABC」とかいてあります。",
+      "vietnamese": "Những gì được viết ở đây? ➞ Nó báo ”ABC”.",
+      "number": 33
+    },
+    {
+      "word": "何という意味ですか。➞「ありがとう」は「CamOn」という意味です。",
+      "reading": "なんといういみですか。➞「ありがとう」は「CamOn」といういみです。",
+      "vietnamese": "Ý anh là gì ➞ ”arigatou” có nghĩa là ”CamOn”.",
+      "number": 33
+    },
+    {
+      "word": "あの漢字はどういう意味ですか。➞使うなという意味です。",
+      "reading": "あのかんじはどういういみですか。➞つかうなといういみです。",
+      "vietnamese": "Chữ Hán đó có nghĩa là gì? ➞ Có nghĩa là không sử dụng.",
+      "number": 33
+    },
+    {
+      "word": "このマークは行くなという意味です。",
+      "reading": "このマークはいくなといういみです。",
+      "vietnamese": "Dấu hiệu này có nghĩa là không đi.",
+      "number": 33
+    },
+    {
+      "word": "このマークはタバコを吸っていけないという意味です。",
+      "reading": "このマークはタバコをすっていけないといういみです。",
+      "vietnamese": "Dấu hiệu này có nghĩa là bạn không thể hút thuốc.",
+      "number": 33
+    },
+    {
+      "word": "田中さんが１０時に本社に来いと言っていました。",
+      "reading": "たなかさんが１０じにほんしゃにこいといっていました。",
+      "vietnamese": "Tanaka bảo tôi đến trụ sở lúc 10 giờ.",
+      "number": 33
+    },
+    {
+      "word": "田中さんが明日休むと言っていました。",
+      "reading": "たなかさんがあしたやすむといっていました。",
+      "vietnamese": "Tanaka nói rằng ông sẽ vắng mặt vào ngày mai.",
+      "number": 33
+    },
+    {
+      "word": "西村さんが運動会に参加しないと言っていました。運動会に参加しないと西村さんが言っていました。",
+      "reading": "にしむらさんがうんどうかいにさんかしないといっていました。うんどうかいにさんかしないとにしむらさんがいっていました。",
+      "vietnamese": "Nishimura nói rằng ông sẽ không tham gia ngày hội thể thao.",
+      "number": 33
+    },
+    {
+      "word": "Quyenさんが明日５時に来ると言っていました。明日５時に来るとQuyenさんが言っていました。",
+      "reading": "Quyenさんがあした５じにくるといっていました。あした５じにくるとQuyenさんがいっていました。",
+      "vietnamese": "Quyen nói ngày mai 5 giờ anh sẽ đến.",
+      "number": 33
+    },
+    {
+      "word": "田中さんが１０時に本社に来てくださいって言ってた。",
+      "reading": "たかなさんが１０じにほんしゃにきてくださいっていってた。",
+      "vietnamese": "Tanaka yêu cầu tôi đến trụ sở chính lúc 10 giờ.",
+      "number": 33
+    },
+    {
+      "word": "西村さんが運動会に参加しないって言ってた。",
+      "reading": "にしむらさんがうんどうかいにさんかしないっていってた。",
+      "vietnamese": "Nishimura cho biết ông sẽ không tham gia ngày hội thể thao.",
+      "number": 33
+    },
+    {
+      "word": "Quyenさんは朝５時に来るって言ってた。",
+      "reading": "Quyenさんはあさ５じにくるっていってた。",
+      "vietnamese": "Quyen nói anh ấy sẽ đến lúc 5 giờ sáng.",
+      "number": 33
+    },
+    {
+      "word": "ワンさんに「あとで電話をください」と伝えていただけませんか。",
+      "reading": "ワンさんに「あとででんわをください」とつたえていただけませんか。",
+      "vietnamese": "Bạn có thể nói với ông Wang để gọi cho tôi sau?",
+      "number": 33
+    },
+    {
+      "word": "すみませんが、ヒエンさんに日本語のモリで待っていると伝えていただけませんか。",
+      "reading": "すみませんが、ヒエンさんににほんごのモリでまっているとつたえていただけませんか。",
+      "vietnamese": "Xin lỗi, nhưng bạn có thể nói với Hiền rằng tôi đang đợi bạn ở mori Nhật Bản không?",
+      "number": 33
+    },
+    {
+      "word": "すみませんが、田中さんに明日のパーティーは６時からだと伝えていただけませんか。",
+      "reading": "すみませんが、たなかさんにあしたのパーティーは６じからだとつたえていただけませんか。",
+      "vietnamese": "Xin lỗi, nhưng bạn có thể nói với ông Tanaka rằng bữa tiệc sẽ bắt đầu lúc 6 giờ ngày mai không?",
+      "number": 33
+    },
+    {
+      "word": "彼女によろしくと伝えてください。安助によろしくね。",
+      "reading": "かのじょによろしくとつたえてください。かのじょによろしくね。",
+      "vietnamese": "Hãy gửi lời chào đến cô ấy.",
+      "number": 33
+    }
+  ]
+}
