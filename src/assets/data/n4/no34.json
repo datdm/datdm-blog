@@ -1,0 +1,112 @@
+{
+  "reading": [
+    {
+      "word": "私が今から言う通りに、書いてください。",
+      "reading": "わたしがいまからいうとおりに、かいてください。",
+      "vietnamese": "Hãy viết như tôi sắp nói với bạn.",
+      "number": 34
+    },
+    {
+      "word": "私がやった通りに、やってください。",
+      "reading": "わたしがやったとおりに、やってください。",
+      "vietnamese": "Hãy làm như tôi đã làm.",
+      "number": 34
+    },
+    {
+      "word": "見た通りに、話してください。",
+      "reading": "みたとおりに、はなしてください。",
+      "vietnamese": "Nói như bạn thấy nó.",
+      "number": 34
+    },
+    {
+      "word": "線の通りに、紙を切ってください。",
+      "reading": "せんのとおりに、かみをきってください。",
+      "vietnamese": "Cắt giấy dọc theo các dòng.",
+      "number": 34
+    },
+    {
+      "word": "説明書の通りに、組み立てます。",
+      "reading": "せつめいしょのとおりに、くみたてます。",
+      "vietnamese": "Lắp ráp theo hướng dẫn.",
+      "number": 34
+    },
+    {
+      "word": "新しいのを買った後で、なくした本が見つかりました。",
+      "reading": "あたらしいのをかったあとで、なくした本がみつかりました。",
+      "vietnamese": "Cuốn sách bị mất đã được tìm thấy sau khi tôi mua một cuốn sách mới.",
+      "number": 34
+    },
+    {
+      "word": "仕事の後で、カラオケに行きませんか。",
+      "reading": "しごとのあとで、カラオケにいいきませんか。",
+      "vietnamese": "Đi hát karaoke sau giờ làm việc không?",
+      "number": 34
+    },
+    {
+      "word": "ご飯を食べた後で、シャワーを浴びます。",
+      "reading": "ごはんをたべたあとで、シャワーをあびます。",
+      "vietnamese": "Ăn cơm xong tôi đi tắm.",
+      "number": 34
+    },
+    {
+      "word": "学校 後で買い物します。",
+      "reading": "がっこう あとでかいものします。",
+      "vietnamese": "Ăn cơm xong tôi đi tắm.",
+      "number": 34
+    },
+    {
+      "word": "宿題の後で友達と遊びに行きます。",
+      "reading": "しゅくだいのあとでともだちとあそびにいきます。",
+      "vietnamese": "Sau khi làm bài tập về nhà, tôi sẽ đi chơi với bạn bè.",
+      "number": 34
+    },
+    {
+      "word": "ドアをノックしてから、部屋に入る。ドアをノックした後で、部屋に入る。",
+      "reading": "ドアをノックしてから、へやにはいる。ドアをノックしたあとで、へやにはいる。",
+      "vietnamese": "Gõ cửa rồi vào phòng.　Sau khi gõ cửa, vào phòng.",
+      "number": 34
+    },
+    {
+      "word": "日本へ来てから、３年になる。",
+      "reading": "にほんへきてから、３ねんになる。",
+      "vietnamese": "Đã ba năm kể từ khi tôi đến Nhật Bản.",
+      "number": 34
+    },
+    {
+      "word": "醤油をつけて食べます。",
+      "reading": "しょうゆをつけてたべます。",
+      "vietnamese": "Ăn với nước tương.",
+      "number": 34
+    },
+    {
+      "word": "醤油をつけないで食べます。",
+      "reading": "しょうゆをつけないでたべます。",
+      "vietnamese": "Ăn không xì dầu.",
+      "number": 34
+    },
+    {
+      "word": "日常日どこも行かないで、家でゆっくり休みます。",
+      "reading": "にちじょうびどこもいかないで、いえでゆっくりやすみます。",
+      "vietnamese": "Hàng ngày tôi không đi đâu cả, và tôi nghỉ ngơi thật tốt ở nhà.",
+      "number": 34
+    },
+    {
+      "word": "今夜うちへ帰らないで、友達の家に泊まります。",
+      "reading": "こんやうちへかえらないで、ともだちのいえにとまります。",
+      "vietnamese": "Tối nay tôi không về nhà, tôi ở nhà bạn tôi.",
+      "number": 34
+    },
+    {
+      "word": "昨日はテレビを見ましたか。➞いいえ、テレビを見ないで、本を読みました。",
+      "reading": "きのうはテレビをみましたか。➞いいえ、テレビをみないで、ほんをよみました。",
+      "vietnamese": "Cậu có coi tivi ngày hôm qua không? ➞Không, tôi đọc sách thay vì xem TV.",
+      "number": 34
+    },
+    {
+      "word": "日曜日、どこも行かないで、うちにいます。",
+      "reading": "にちようび、どこもいかないで、うちにいます。",
+      "vietnamese": "Chủ nhật tôi không đi đâu cả, ở nhà.",
+      "number": 34
+    }
+  ]
+}
