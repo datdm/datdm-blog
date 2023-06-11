@@ -1,0 +1,166 @@
+{
+  "reading": [
+    {
+      "word": "他の意見がなければ、これで終わりましょう。",
+      "reading": "ほかのいけんがなければ、これでおわりましょう。",
+      "vietnamese": "Nếu không có ý kiến ​​nào khác, chúng ta hãy kết thúc với điều này.",
+      "number": 35
+    },
+    {
+      "word": "ボタンを押せば、窓が開きます。",
+      "reading": "ボタンをおせば、まどがあきます。",
+      "vietnamese": "Nhấn nút và cửa sổ sẽ mở ra.",
+      "number": 35
+    },
+    {
+      "word": "眼鏡をかけなければ、新聞が読めません。",
+      "reading": "めがねをかけなければ、しんぶんがよめません。",
+      "vietnamese": "Tôi không thể đọc báo mà không có kính.",
+      "number": 35
+    },
+    {
+      "word": "この説明書を読めば、使い方が分かります。",
+      "reading": "このせつめいしょをよめば、つかいかたがわかります。",
+      "vietnamese": "Sau khi đọc sách hướng dẫn này, bạn sẽ biết cách sử dụng nó.",
+      "number": 35
+    },
+    {
+      "word": "カタログを見なければ、値段が分かりません。",
+      "reading": "カタログをみなければ、ねだんがわかりません。",
+      "vietnamese": "Nếu không xem catalogue sẽ không biết giá.",
+      "number": 35
+    },
+    {
+      "word": "安ければ、この車を買います。",
+      "reading": "やすければ、このくるまをかいます。",
+      "vietnamese": "Nếu nó rẻ, tôi sẽ mua chiếc xe này.",
+      "number": 35
+    },
+    {
+      "word": "日曜日、暇なら、広島へ行きます。",
+      "reading": "にちようび、ひまなら、ひろしまへいきます。",
+      "vietnamese": "Vào chủ nhật, nếu tôi có thời gian rảnh, tôi sẽ đến Hiroshima.",
+      "number": 35
+    },
+    {
+      "word": "雨なら、うちでテレビを見ます。",
+      "reading": "あめなら、うちでテレビをみます。",
+      "vietnamese": "Nếu trời mưa, tôi sẽ xem TV ở nhà.",
+      "number": 35
+    },
+    {
+      "word": "美人なら、結婚できます。",
+      "reading": "びじんなら、けっこんできます。",
+      "vietnamese": "Đẹp thì cưới được.",
+      "number": 35
+    },
+    {
+      "word": "いい天気なら、花が咲きます。",
+      "reading": "いいてんきなら、はながさきます。",
+      "vietnamese": "Nếu thời tiết đẹp, hoa sẽ nở.",
+      "number": 35
+    },
+    {
+      "word": "電話番号が分からないんですが、どうすればいいですか。",
+      "reading": "でんわばんごうがわからないんですが、どうすればいいですか。",
+      "vietnamese": "Tôi không biết số điện thoại của bạn, tôi nên làm gì?",
+      "number": 35
+    },
+    {
+      "word": "あのう、桜を見たいんですが、どこへ行けばいいですか。",
+      "reading": "あのう、さくらをみたいんですが、どこへいけばいいですか。",
+      "vietnamese": "Ừm, tôi muốn ngắm hoa anh đào, tôi nên đi đâu?",
+      "number": 35
+    },
+    {
+      "word": "パソコンを買いたいんですが、どれを買えばいいですか。",
+      "reading": "パソコンをかいたいんですが、どれをかえばいいですか。",
+      "vietnamese": "Mình muốn mua máy tính thì nên mua loại nào?",
+      "number": 35
+    },
+    {
+      "word": "料理のし方について聞きたいんですが、誰に聞けばいいですか。",
+      "reading": "りょうりのしかたについてききたいんですが、だれにきけばいいですか。",
+      "vietnamese": "Tôi muốn hỏi về phương pháp nấu ăn, tôi nên hỏi ai?",
+      "number": 35
+    },
+    {
+      "word": "ダナンへ行きたいんですが、何に乗ればいいですか。",
+      "reading": "ダナンへいきたいんですが、なんにのればいいですか。",
+      "vietnamese": "Tôi muốn đi Đà Nẵng thì nên đi bằng gì?",
+      "number": 35
+    },
+    {
+      "word": "スーパーへ行きたいんですが、どうすればいいですか。➞スーパーなら、この近くにあるよ。",
+      "reading": "スーパーへいきたいんですが、どうすればいいですか。➞スーパーなら、このちかくにあるよ。",
+      "vietnamese": "Tôi muốn đi siêu thị thì phải làm sao? ➞Nếu siêu thị thì ở gần đây.",
+      "number": 35
+    },
+    {
+      "word": "昼ご飯が美味しい店を知りませんか。➞昼ご飯なら、あそこのレストランが美味しいですよ。",
+      "reading": "ひるごはんがおいしいみせをしりませんか。➞ひるごはんなら、あそこのレストランがおいしいですよ。",
+      "vietnamese": "Bạn có biết một nhà hàng phục vụ bữa trưa ngon? ➞Ăn trưa thì quán bên kia ngon.",
+      "number": 35
+    },
+    {
+      "word": "先生、日本に行きたいです。➞日本に行くなら、４月がいいと思います。",
+      "reading": "せんせい、にほんにいきたいです。➞にほんにいくなら、４がつがいいとおもいます。",
+      "vietnamese": "Thầy ơi em muốn đi nhật ➞Tôi nghĩ tháng 4 là thời điểm tốt để đến Nhật Bản.",
+      "number": 35
+    },
+    {
+      "word": "日本語は勉強すればするほど面白なります。",
+      "reading": "にほんごはべんきょうすればするほどおもしろなります。",
+      "vietnamese": "Bạn càng học tiếng Nhật, nó càng trở nên thú vị.",
+      "number": 35
+    },
+    {
+      "word": "テストは簡単なら簡単なほどいいです。",
+      "reading": "テストはかんたんならかんたんなほどいいです。",
+      "vietnamese": "Bài kiểm tra càng dễ thì càng tốt.",
+      "number": 35
+    },
+    {
+      "word": "東京は住めば住むほど面白い街です。",
+      "reading": "とうきょうはすめばすむほどおもしろいまちです。",
+      "vietnamese": "Tokyo là một thành phố mà bạn càng sống, nó càng trở nên thú vị.",
+      "number": 35
+    },
+    {
+      "word": "結婚式のスピーチは短ければ短いほどいいです。",
+      "reading": "けっこんしきのスピーチはみじかければみじかいほどいいです。",
+      "vietnamese": "Bài phát biểu đám cưới càng ngắn càng tốt.",
+      "number": 35
+    },
+    {
+      "word": "お金があればあるほどいいです。",
+      "reading": "おかねがあればあるほどいいです。",
+      "vietnamese": "Bạn càng có nhiều tiền thì càng tốt.",
+      "number": 35
+    },
+    {
+      "word": "娘は大きくなればなるほど綺麗になります。",
+      "reading": "むすめはおおきくなればなるほどきれいになります。",
+      "vietnamese": "Con gái tôi càng lớn càng xinh.",
+      "number": 35
+    },
+    {
+      "word": "大人になればなるほど考えることがたくさんあります。",
+      "reading": "おとなになればなるほどかんがえることがたくさんあります。",
+      "vietnamese": "Có rất nhiều điều phải suy nghĩ khi bạn lớn đi.",
+      "number": 35
+    },
+    {
+      "word": "恋人が多ければ多いほどいいです。",
+      "reading": "こいびとがおおければおおいほどいいです。",
+      "vietnamese": "Càng nhiều người yêu càng tốt.",
+      "number": 35
+    },
+    {
+      "word": "２，３日 旅行をしようと思っているんですが、どこかいい所はありませんか。",
+      "reading": "２，３にち りょこうをしようとおもっているんですが、どこかいいところはありませんか。",
+      "vietnamese": "Tôi đang nghĩ đến việc đi du lịch vài ngày, nhưng có chỗ nào tốt không?",
+      "number": 35
+    }
+  ]
+}
