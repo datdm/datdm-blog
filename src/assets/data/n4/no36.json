@@ -1,0 +1,220 @@
+{
+  "reading": [
+    {
+      "word": "新聞が読めるように、漢字を勉強します。",
+      "reading": "しんぶんがよめるように、かんじをべんきょうします。",
+      "vietnamese": "Tôi học chữ Hán để tôi có thể đọc báo.",
+      "number": 36
+    },
+    {
+      "word": "風邪をひかないように、セーターを着ます。",
+      "reading": "かぜをひかないように、セーターをきます。",
+      "vietnamese": "Tôi mặc áo len để không bị cảm lạnh.",
+      "number": 36
+    },
+    {
+      "word": "日本語が話せるように、毎日、練習します。",
+      "reading": "にほんごがはなせるように、まいにち、れんしゅうします。",
+      "vietnamese": "Tôi luyện tập mỗi ngày để có thể nói tiếng Nhật.",
+      "number": 36
+    },
+    {
+      "word": "泳げるように、毎日プールに行きます。",
+      "reading": "およげるように、まいにちプールにいきます。",
+      "vietnamese": "Tôi đi đến hồ bơi mỗi ngày để tôi có thể bơi.",
+      "number": 36
+    },
+    {
+      "word": "はっきり聞こえるように、大きい声で言ってください。",
+      "reading": "はっきりきこえるように、おおきいこえでいってください。",
+      "vietnamese": "Nói đủ to để mọi người nghe rõ.",
+      "number": 36
+    },
+    {
+      "word": "年を取っても、働けるように、健康に気を付けています。",
+      "reading": "としをとっても、はたらけるように、けんこうにきをつけています。",
+      "vietnamese": "Tôi sẽ chăm sóc sức khỏe của mình để tôi có thể làm việc ngay cả khi tôi già.",
+      "number": 36
+    },
+    {
+      "word": "新幹線に遅れないように、早くうちを出ます。",
+      "reading": "しんかんせんにおくれないように、はやくうちを出ます。",
+      "vietnamese": "Tôi sẽ rời nhà sớm để không bị trễ tàu Shinkansen.",
+      "number": 36
+    },
+    {
+      "word": "電話番号を忘れないように、メモします。",
+      "reading": "でんわばんごうをわすれないように、メモします。",
+      "vietnamese": "Ghi lại số điện thoại của bạn để bạn không quên nó.",
+      "number": 36
+    },
+    {
+      "word": "約束の時間を忘れないように、メモしておきます。",
+      "reading": "やくそくのじかんをわすれないように、メモしておきます。",
+      "vietnamese": "Tôi sẽ ghi lại thời gian cuộc hẹn để tôi không quên nó.",
+      "number": 36
+    },
+    {
+      "word": "道を間違えないように、地図を持っていましょう。",
+      "reading": "みちをまちがえないように、ちずをもっていましょう。",
+      "vietnamese": "Mang theo bản đồ để không đi nhầm đường.",
+      "number": 36
+    },
+    {
+      "word": "日本語が話せるようになりました。",
+      "reading": "にほんごがはなせるようになりました。",
+      "vietnamese": "Tôi đã có thể nói tiếng Nhật.",
+      "number": 36
+    },
+    {
+      "word": "始めは日本料理が食べられませんでしたが、今はなんでも食べられるようになりました。",
+      "reading": "はじめはにほんりょうりがたべられませんでしたが、いまはなんでもたべられるようになりました。",
+      "vietnamese": "Lúc đầu, tôi không thể ăn đồ ăn Nhật, nhưng bây giờ tôi có thể ăn bất cứ thứ gì.",
+      "number": 36
+    },
+    {
+      "word": "太りましたから、好きな服が着られなくなりました。",
+      "reading": "ふとりましたから、すきなふくがきられなくなりました。",
+      "vietnamese": "Tôi đã tăng cân, vì vậy tôi không thể mặc quần áo tôi thích.",
+      "number": 36
+    },
+    {
+      "word": "日本語で自分の意見が言えるようになりました。",
+      "reading": "にほんごでじぶんのいけんがいえるようになりました。",
+      "vietnamese": "Tôi có thể bày tỏ ý kiến ​​của mình bằng tiếng Nhật.",
+      "number": 36
+    },
+    {
+      "word": "テレビの日本語がかなり分かるようになりました。",
+      "reading": "テレビのにほんごがかなりわかるようになりました。",
+      "vietnamese": "Tôi đã hiểu được khá nhiều tiếng Nhật trên TV.",
+      "number": 36
+    },
+    {
+      "word": "結婚式に出席できなくなりました。",
+      "reading": "けっこんしきにしゅっせきできなくなりました。",
+      "vietnamese": "Tôi không còn có thể tham dự đám cưới.",
+      "number": 36
+    },
+    {
+      "word": "年を取ると、小さい字が読めなくなりました。",
+      "reading": "としをとると、ちいさいじがよめなくなりました。",
+      "vietnamese": "Khi tôi già đi, tôi không còn có thể đọc chữ in nhỏ.",
+      "number": 36
+    },
+    {
+      "word": "もうパソコンが使えるようになりましたか。➞いいえ、まだ使えません。",
+      "reading": "もうパソコンがつかえるようになりましたか。➞いいえ、まだつかえません。",
+      "vietnamese": "Bạn đã sẵn sàng sử dụng máy tính của mình chưa? ➞Không, bạn chưa thể sử dụng nó.",
+      "number": 36
+    },
+    {
+      "word": "日本語でレポートが書けるようになりましたか。➞いいえ、まだ書けません。",
+      "reading": "にほんごでレポートがかけるようになりましたか。➞いいえ、まだかけません。",
+      "vietnamese": "Bạn đã có thể viết báo cáo bằng tiếng Nhật chưa? ➞Không, tôi chưa viết được.",
+      "number": 36
+    },
+    {
+      "word": "その曲が弾けるようになりましたか。➞いいえ、まだ弾けません。",
+      "reading": "そのきょくがひけるようになりましたか。➞いいえ、まだひけません。",
+      "vietnamese": "Bạn đã học chơi bài hát đó chưa? ➞Không, tôi chưa chơi được.",
+      "number": 36
+    },
+    {
+      "word": "日本語の新聞が読めるようになりましたか。➞いいえ、まだ読めません。",
+      "reading": "にほんごのしんぶんがよめるようになりましたか。➞いいえ、まだよめません。",
+      "vietnamese": "Bạn đã có thể đọc báo tiếng Nhật chưa? ➞ Không, tôi chưa đọc được.",
+      "number": 36
+    },
+    {
+      "word": "毎日、運動して、何でも食べるようにしています。",
+      "reading": "まいにち、うんどうして、なんでもたべるようにしています。",
+      "vietnamese": "Tôi tập thể dục mỗi ngày và cố gắng ăn bất cứ thứ gì tôi muốn.",
+      "number": 36
+    },
+    {
+      "word": "歯に悪いですから、甘い物を食べないようにしています。",
+      "reading": "はにわるいですから、あまいものをたべないようにしています。",
+      "vietnamese": "Tôi cố gắng không ăn đồ ngọt vì nó có hại cho răng của tôi.",
+      "number": 36
+    },
+    {
+      "word": "仕事が忙しくても、子供と遊ぶようにしています。",
+      "reading": "しごとがいそがしくても、こどもとあそぶようにしています。",
+      "vietnamese": "Dù bận công việc nhưng tôi cũng cố gắng chơi với con.",
+      "number": 36
+    },
+    {
+      "word": "仕事が忙しくても、１０時までにうちへ帰るようにしています。",
+      "reading": "しごとがいそがしくても、１０じまでにうちへかえるようにしています。",
+      "vietnamese": "Ngay cả khi tôi bận rộn với công việc, tôi cố gắng về nhà trước 10 giờ.",
+      "number": 36
+    },
+    {
+      "word": "仕事が忙しくても、スポーツクラブは休まないようにしています。",
+      "reading": "しごとがいそがしくても、スポーツクラブはやすまないようにしています。。",
+      "vietnamese": "Ngay cả khi tôi bận rộn với công việc, tôi cố gắng không bỏ lỡ câu lạc bộ thể thao.",
+      "number": 36
+    },
+    {
+      "word": "できるだけ毎月５万円ずつ貯金するようにしています。",
+      "reading": "できるだけまいつき５まんえんずつちょきんするようにしています。",
+      "vietnamese": "Tôi cố gắng tiết kiệm 50.000 yên mỗi tháng càng nhiều càng tốt.",
+      "number": 36
+    },
+    {
+      "word": "できるだけ要らない物は買わないようにしています。",
+      "reading": "できるだけいらないものはかわないようにしています。",
+      "vietnamese": "Tôi cố gắng không mua những thứ tôi không cần càng nhiều càng tốt.",
+      "number": 36
+    },
+    {
+      "word": "できるだけ野菜をたくさん食べるようにしています。",
+      "reading": "できるだけやさいをたくさんたべるようにしています。",
+      "vietnamese": "Tôi cố gắng ăn càng nhiều rau càng tốt.",
+      "number": 36
+    },
+    {
+      "word": "必ず時間を守るようにしてください。",
+      "reading": "かならずじかんをまもるようにしてください。",
+      "vietnamese": "Hãy chắc chắn đến đúng giờ.",
+      "number": 36
+    },
+    {
+      "word": "このスイッチに絶対に触らないようにしてください。",
+      "reading": "このスイッチにぜったいにさわらないようにしてください。",
+      "vietnamese": "Không bao giờ chạm vào công tắc này.",
+      "number": 36
+    },
+    {
+      "word": "もっと野菜を食べるようにしてください。",
+      "reading": "もっとやさいをたべるようにしてください。",
+      "vietnamese": "Cố gắng ăn nhiều rau hơn.",
+      "number": 36
+    },
+    {
+      "word": "仕事を休むときは必ず連絡するようにしてください。",
+      "reading": "しごとをやすむときはかならずれんらくするようにしてください。",
+      "vietnamese": "Hãy chắc chắn liên hệ với tôi khi bạn sẽ vắng mặt tại nơi làm việc.",
+      "number": 36
+    },
+    {
+      "word": "食事の後で、必ず歯を磨くようにしてください。",
+      "reading": "しょくじのあとで、かならずはをみがくようにしてください。",
+      "vietnamese": "Hãy chắc chắn để đánh răng sau khi ăn.",
+      "number": 36
+    },
+    {
+      "word": "絶対にパスポートをなくさないようにしてください。",
+      "reading": "ぜったいにパスポートをなくさないようにしてください。",
+      "vietnamese": "Không bao giờ bị mất hộ chiếu của bạn.",
+      "number": 36
+    },
+    {
+      "word": "夜１１時を過ぎたら、電話を掛けないようにしてください。",
+      "reading": "よる１１じをすぎたら、でんわをかけないようにしてください。",
+      "vietnamese": "Vui lòng không gọi sau 23h.",
+      "number": 36
+    }
+  ]
+}
