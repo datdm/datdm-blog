@@ -1,0 +1,148 @@
+{
+  "reading": [
+    {
+      "word": "課長は私を褒めました。➞私は課長に褒められました。",
+      "reading": "かちょうはわたしをほめました。➞わたしはかちょうにほめられました。",
+      "vietnamese": "Trưởng phòng ca ngợi tôi. ➞Tôi đã được trưởng bộ phận khen ngợi.",
+      "number": 37
+    },
+    {
+      "word": "課長は私を叱りました。➞私は課長に叱られました。",
+      "reading": "かちょうはわたしをしかりました。➞わたしはかちょうにしかられました。",
+      "vietnamese": "Trưởng phòng trách mắng tôi. ➞Tôi bị trưởng phòng mắng.",
+      "number": 37
+    },
+    {
+      "word": "泥棒は私のお金を取りました。➞私は泥棒に取られました。",
+      "reading": "どろぼうはわたしのおかねをとりました。➞わたしはどろぼうにとられました。",
+      "vietnamese": "Tên trộm đã lấy tiền của tôi. ➞Tôi đã bị một tên trộm lấy đi.",
+      "number": 37
+    },
+    {
+      "word": "私は友達に頼まれました。",
+      "reading": "わたしはともだちにたのまれました。",
+      "vietnamese": "Tôi đã được hỏi bởi một người bạn.",
+      "number": 37
+    },
+    {
+      "word": "私は誰かに足を踏まれました。",
+      "reading": "わたしはだれかにあしをふまれました。",
+      "vietnamese": "Ai đó đã giẫm lên tôi.",
+      "number": 37
+    },
+    {
+      "word": "私は犬に手を噛まれました。",
+      "reading": "わたしはいぬにてをかまれました。",
+      "vietnamese": "Tay tôi bị chó cắn.",
+      "number": 37
+    },
+    {
+      "word": "私は母に漫画の本を捨てられました。",
+      "reading": "わたしはははにまんがのほんをすてられました。",
+      "vietnamese": "Mẹ tôi đã vứt bỏ những cuốn truyện tranh của tôi.",
+      "number": 37
+    },
+    {
+      "word": "私は泥棒に鞄を取られました。",
+      "reading": "わたしはどろぼうにかばんをとられました。",
+      "vietnamese": "Túi của tôi đã bị lấy bởi một tên trộm.",
+      "number": 37
+    },
+    {
+      "word": "大阪で展覧会が開かれます。",
+      "reading": "おおさかでてんらんかいがひらかれます。",
+      "vietnamese": "Một cuộc triển lãm sẽ được tổ chức tại Osaka.",
+      "number": 37
+    },
+    {
+      "word": "東京で国際会議が行われます。",
+      "reading": "とうきょうでこくさいかいぎがおこなわれます。",
+      "vietnamese": "Một hội nghị quốc tế sẽ được tổ chức tại Tokyo.",
+      "number": 37
+    },
+    {
+      "word": "フランスで昔の日本の絵が発見されました。",
+      "reading": "フランスでむかしのにほんのえがはっけんされました。",
+      "vietnamese": "Một bức tranh cổ của Nhật Bản được phát hiện ở Pháp.",
+      "number": 37
+    },
+    {
+      "word": "日本の車は世界中へ輸出されています。",
+      "reading": "にほんのくるまはせかいじゅうへゆしゅつされています。",
+      "vietnamese": "Ô tô Nhật Bản được xuất khẩu trên toàn thế giới.",
+      "number": 37
+    },
+    {
+      "word": "この美術館は来月 壊されます。",
+      "reading": "このびじゅつかんはらいげつ こわされます。",
+      "vietnamese": "Bảo tàng này sẽ bị phá bỏ vào tháng tới.",
+      "number": 37
+    },
+    {
+      "word": "この美術館は２００年前に建てられました。",
+      "reading": "このびじゅつかんは２００ねんまえにたてられました。",
+      "vietnamese": "Bảo tàng này được xây dựng cách đây 200 năm.",
+      "number": 37
+    },
+    {
+      "word": "ソニーのテレビはいろいろな国で売られています。",
+      "reading": "ソニーのテレビはいろいろなくにでうられています。",
+      "vietnamese": "TV Sony được bán ở nhiều quốc gia.",
+      "number": 37
+    },
+    {
+      "word": "英語はいろいろな国で使われています。",
+      "reading": "えいごはいろいろなくにでつかわれています。",
+      "vietnamese": "Tiếng Anh được sử dụng ở nhiều nước.",
+      "number": 37
+    },
+    {
+      "word": "電話はグラハムベルによって発明されました。",
+      "reading": "でんわはグラハムベルによってはつめいされました。",
+      "vietnamese": "Điện thoại được phát minh bởi Graham Bell.",
+      "number": 37
+    },
+    {
+      "word": "「ひまわり」はゴッホによって描かれました。",
+      "reading": "「ひまわり」はゴッホによってかかれました。",
+      "vietnamese": "「ひまわり」 được vẽ bởi Van Gogh.",
+      "number": 37
+    },
+    {
+      "word": "この絵はピカソによって描かれました。",
+      "reading": "このえはピカソによってかかれました。",
+      "vietnamese": "Bức tranh này được vẽ bởi Picasso.",
+      "number": 37
+    },
+    {
+      "word": "あの星は日本人の科学者によって発見されました。",
+      "reading": "あのほしはにほんじんのかがくしゃによってはっけんされました。",
+      "vietnamese": "Ngôi sao đó được phát hiện bởi một nhà khoa học Nhật Bản.",
+      "number": 37
+    },
+    {
+      "word": "関西空港宇はイタリア人建築家によって設計されました。",
+      "reading": "かんさいくうこうはイタリアじんけんちくかによってせっけいされました。",
+      "vietnamese": "Sân bay Kansai được thiết kế bởi một kiến ​​trúc sư người Ý.",
+      "number": 37
+    },
+    {
+      "word": "飛行機はライト兄弟によって発明されました。",
+      "reading": "ひこうきはライトきょうだいによってはつめいされました。",
+      "vietnamese": "Máy bay được phát minh bởi anh em nhà Wright.",
+      "number": 37
+    },
+    {
+      "word": "お酒は米から作られます。",
+      "reading": "おさけはこめからつくられます。",
+      "vietnamese": "Sake được làm từ gạo.",
+      "number": 37
+    },
+    {
+      "word": "このテーブルは木で作られます。",
+      "reading": "このテーブルはきでつくられます。",
+      "vietnamese": "Cái bàn này được làm bằng gỗ.",
+      "number": 37
+    }
+  ]
+}
