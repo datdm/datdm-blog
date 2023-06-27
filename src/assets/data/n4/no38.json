@@ -1,0 +1,232 @@
+{
+  "reading": [
+    {
+      "word": "サッカーをするのは面白いです。",
+      "reading": "サッカーをするのはおもしろいです。",
+      "vietnamese": "Chơi bóng đá thật thú vị.",
+      "number": 38
+    },
+    {
+      "word": "サッカーを見るのは面白いです。",
+      "reading": "サッカーをみるのはおもしろいです。",
+      "vietnamese": "Xem bóng đá thật thú vị.",
+      "number": 38
+    },
+    {
+      "word": "彼女と話すのは楽しいです。",
+      "reading": "かのじょとはなすのはたのしいです。",
+      "vietnamese": "Tôi thích nói chuyện với cô ấy.",
+      "number": 38
+    },
+    {
+      "word": "漫画を読むのは面白いです。",
+      "reading": "まんがをよむのはおもしろいです。",
+      "vietnamese": "Đọc truyện tranh thật thú vị.",
+      "number": 38
+    },
+    {
+      "word": "皆でお酒を飲むのは楽しいです。",
+      "reading": "みんなでおさけをよむのはたのしいです。",
+      "vietnamese": "Tôi thích uống với mọi người.",
+      "number": 38
+    },
+    {
+      "word": "日本語を学ぶのは簡単です。",
+      "reading": "にほんごをまなぶのはかんたんです。",
+      "vietnamese": "Học tiếng Nhật thật dễ dàng.",
+      "number": 38
+    },
+    {
+      "word": "漢字を覚えるのは難しいです。",
+      "reading": "かんじをおぼえるのはむずかしいです。",
+      "vietnamese": "Rất khó để ghi nhớ chữ Hán.",
+      "number": 38
+    },
+    {
+      "word": "寝るのが好きです。",
+      "reading": "ねるのがすきです。",
+      "vietnamese": "Tôi thích ngủ",
+      "number": 38
+    },
+    {
+      "word": "歌うのが下手です。",
+      "reading": "うたうのがへたです。",
+      "vietnamese": "Tôi không giỏi hát.",
+      "number": 38
+    },
+    {
+      "word": "イズミ先生はナンパするのが上手です。",
+      "reading": "イズミせんせいはナンパするのがじょうずです。",
+      "vietnamese": "Izumi-sensei rất giỏi tán tỉnh các cô gái.",
+      "number": 38
+    },
+    {
+      "word": "太っているから、歩くのが遅いです。",
+      "reading": "ふとっているから、あるくのがおそいです。",
+      "vietnamese": "Tôi béo, vì vậy tôi đi chậm.",
+      "number": 38
+    },
+    {
+      "word": "私は星を見るのが好きです。",
+      "reading": "わたしはほしをみるのがすきです。",
+      "vietnamese": "tôi thích ngắm sao",
+      "number": 38
+    },
+    {
+      "word": "見るのは上手ですが、やるのは下手です。",
+      "reading": "みるのはじょうずですが、やるのはへたです。",
+      "vietnamese": "Quan sát giỏi nhưng làm dở.",
+      "number": 38
+    },
+    {
+      "word": "先生に電話を掛けるのを忘れました。",
+      "reading": "せんせいにでんわをかけるのをわすれました。",
+      "vietnamese": "Tôi quên gọi cho giáo viên của tôi.",
+      "number": 38
+    },
+    {
+      "word": "電源を切るのを忘れました。",
+      "reading": "でんげんをきるのをわすれました。",
+      "vietnamese": "Tôi quên tắt nguồn.",
+      "number": 38
+    },
+    {
+      "word": "宿題をしましたが、今日持って来るのを忘れました。",
+      "reading": "しゅくだいをしましたが、きょうもってくるのをわすれました。",
+      "vietnamese": "Tôi đã làm bài tập về nhà, nhưng hôm nay tôi quên mang theo.",
+      "number": 38
+    },
+    {
+      "word": "友達に手紙を出しましたが、切手を貼るのを忘れました。",
+      "reading": "ともだちにてがみをだしましたが、きってをはるのをわすれました。",
+      "vietnamese": "Tôi đã gửi một bức thư cho bạn tôi, nhưng quên dán tem lên đó.",
+      "number": 38
+    },
+    {
+      "word": "住所が変わりましたが、彼女に連絡するのを忘れました。",
+      "reading": "じゅうしょがかわりましたが、かのじょにれんらくするのをわすれました。",
+      "vietnamese": "Tôi đã thay đổi địa chỉ, nhưng tôi quên liên lạc với cô ấy.",
+      "number": 38
+    },
+    {
+      "word": "彼をコンサートに誘いましたが、時間を言うのを忘れました。",
+      "reading": "かれをコンサートにさそいましたが、じかんをいうのをわすれました。",
+      "vietnamese": "Tôi mời anh ấy đến buổi hòa nhạc, nhưng tôi quên nói với anh ấy thời gian.",
+      "number": 38
+    },
+    {
+      "word": "センターの近くで火事があったのを知っていますか。➞いいえ、知りません。",
+      "reading": "センターのちかくでかじがあったのをしっていますか。➞いいえ、知りません。",
+      "vietnamese": "Bạn có biết có một đám cháy gần trung tâm?➞Không, tôi không biết.",
+      "number": 38
+    },
+    {
+      "word": "先週Aさんが結婚したのを知っていますか。➞いいえ、知りませんでした。",
+      "reading": "せんしゅうAさんがけっこんしたのをしっていますか。➞いいえ、しりませんでした。",
+      "vietnamese": "Bạn có biết rằng A đã kết hôn tuần trước? ➞Không, tôi không biết.",
+      "number": 38
+    },
+    {
+      "word": "Aさんに赤ちゃんが生まれたのを知っていますか。➞はい、知っています。",
+      "reading": "Aさんにあかちゃんがうまれたのをしっていますか。➞はい、しっています。",
+      "vietnamese": "Bạn có biết rằng ông A đã có một đứa con? ➞ Vâng, tôi biết.",
+      "number": 38
+    },
+    {
+      "word": "駅前に大きなホテルができたのを知っていますか。",
+      "reading": "えきまえにおおきなホテルができたのをしっていますか。",
+      "vietnamese": "Bạn có biết rằng một khách sạn lớn đã được xây dựng trước nhà ga không?",
+      "number": 38
+    },
+    {
+      "word": "佐藤さんが会社を辞めるのを知っていますか。",
+      "reading": "さとうさんがかいしゃをやめるのをしっていますか。",
+      "vietnamese": "Bạn có biết rằng ông Sato sẽ rời công ty không?",
+      "number": 38
+    },
+    {
+      "word": "尾川さんが入院しているのを知っていますか。",
+      "reading": "おかわさんがにゅういんしているのをしっていますか。",
+      "vietnamese": "Bạn có biết rằng ông Ogawa đang ở trong bệnh viện không?",
+      "number": 38
+    },
+    {
+      "word": "２０００年前の町が発見されたのを知っていますか。",
+      "reading": "２０００ねんまえのまちがはっけんされたのをしっていますか。",
+      "vietnamese": "Bạn có biết rằng một thị trấn 2000 năm tuổi đã được phát hiện?",
+      "number": 38
+    },
+    {
+      "word": "昨日のサッカーの試合は日本がブラジルに負けたのを知っていますか。",
+      "reading": "きのうのサッカーのしあいはにほんがブラジルにまけたのをしっていますか。",
+      "vietnamese": "Bạn có biết rằng Nhật Bản đã thua Brazil trong trận bóng đá ngày hôm qua?",
+      "number": 38
+    },
+    {
+      "word": "私が生まれたのは北海道の小さい町です。",
+      "reading": "わたしがうまれたのはほっかいどうのちいさいまちです。",
+      "vietnamese": "Tôi sinh ra ở một thị trấn nhỏ ở Hokkaido.",
+      "number": 38
+    },
+    {
+      "word": "１年で一番忙しいのは１２月です。",
+      "reading": "１ねんでいちばんいそがしいのは１２がつです。",
+      "vietnamese": "Tháng 12 là tháng bận rộn nhất trong năm.",
+      "number": 38
+    },
+    {
+      "word": "私が日本へ来てのは去年の３月です。",
+      "reading": "わたしがにほんへきてのはきょねんの３がつです。",
+      "vietnamese": "Tôi đến Nhật Bản vào tháng 3 năm ngoái.",
+      "number": 38
+    },
+    {
+      "word": "初めて彼に会ったのはズンモリセンターです。",
+      "reading": "はじめてかれにあったのはズンモリセンターです。",
+      "vietnamese": "Lần đầu tiên tôi gặp anh ấy là tại Trung tâm Zummori.",
+      "number": 38
+    },
+    {
+      "word": "一番好きなのは寿司です。一番嫌いなのは日本語です。",
+      "reading": "いちばんすきなのはすきです。いちばんきらいなのはにほんごです。",
+      "vietnamese": "Yêu thích của tôi là sushi. Ngôn ngữ tôi ghét nhất là tiếng Nhật.",
+      "number": 38
+    },
+    {
+      "word": "彼女が研究しているのはベトナムの歴史です。",
+      "reading": "かんじょがけんきゅうしているのはベトナムのれきしです。",
+      "vietnamese": "Nghiên cứu của cô là lịch sử Việt Nam.",
+      "number": 38
+    },
+    {
+      "word": "子供が通っているのはあの中学校です。",
+      "reading": "こどもがかよっているのはあのちゅうがっこうです。",
+      "vietnamese": "Đó là trường THCS mà con tôi theo học.",
+      "number": 38
+    },
+    {
+      "word": "桜の木の枝を折るのは私です。",
+      "reading": "さくらのきのえだをおるのはわたしです。",
+      "vietnamese": "Tôi là người bẻ cành cây anh đào.",
+      "number": 38
+    },
+    {
+      "word": "一番簡単なのはこのやり方です。",
+      "reading": "いちばんかんたんなのはこのやりかたです。",
+      "vietnamese": "Đây là cách dễ dàng nhất.",
+      "number": 38
+    },
+    {
+      "word": "昨日、子供のときの友達と偶然に会いました。",
+      "reading": "きのう、こどものときのともだちとぐうぜんにあいました。",
+      "vietnamese": "Hôm qua, tôi tình cờ gặp lại một người bạn từ thời thơ ấu của mình.",
+      "number": 38
+    },
+    {
+      "word": "昨日、晩ご飯を食べているときに、友達がうちへ来ました。",
+      "reading": "きのう、ばんごはんをたべているときに、ともだちがうちへきました。",
+      "vietnamese": "Hôm qua, trong khi chúng tôi đang ăn tối, bạn tôi đến nhà tôi.",
+      "number": 38
+    }
+  ]
+}

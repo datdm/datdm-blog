@@ -1,0 +1,322 @@
+{
+  "reading": [
+    {
+      "word": "家族から電話を貰って、安心しました。",
+      "reading": "かぞくからでんわをもらって、あんしんしました。",
+      "vietnamese": "Tôi cảm thấy nhẹ nhõm khi nhận được điện thoại từ gia đình.",
+      "number": 39
+    },
+    {
+      "word": "彼女に会えなくて、寂しいです。",
+      "reading": "かのじょにあえなくて、さびしいです。",
+      "vietnamese": "Vì tôi không thể gặp cô ấy nên tôi buồn.",
+      "number": 39
+    },
+    {
+      "word": "試験に落ちて、がっかりしました。",
+      "reading": "しけんにおちて、がっかりしました。",
+      "vietnamese": "Tôi đã trượt kỳ thi và thất vọng.",
+      "number": 39
+    },
+    {
+      "word": "息子から連絡がなくて、心配しました。",
+      "reading": "むすこかられんらくがなくて、しんぱいしました。",
+      "vietnamese": "Tôi đã không nhận được tin tức từ con trai tôi và tôi rất lo lắng.",
+      "number": 39
+    },
+    {
+      "word": "答えを間違えて、恥ずかしかったです。",
+      "reading": "こたえをまちがえて、はずかしかったです。",
+      "vietnamese": "Tôi đã xấu hổ khi đưa ra câu trả lời sai.",
+      "number": 39
+    },
+    {
+      "word": "恋人と別れて、寂しいです。",
+      "reading": "こいびととわかれて、さびしいです。",
+      "vietnamese": "Tôi đã xấu hổ khi đưa ra câu trả lời sai.",
+      "number": 39
+    },
+    {
+      "word": "バスがなかなか来なくて、イライラしています。",
+      "reading": "バスがなかなかこなくて、イライラしています。",
+      "vietnamese": "Tôi sốt ruột vì xe buýt mãi không đến.",
+      "number": 39
+    },
+    {
+      "word": "アイドルに会って、ドキドキしています。",
+      "reading": "アイドルにあって、ドキドキしています。",
+      "vietnamese": "Tôi hồi hộp khi gặp thần tượng.",
+      "number": 39
+    },
+    {
+      "word": "旅行中にお金を全然取られて、困りました。",
+      "reading": "りょこうにおかねをぜんぜんとられて、こまりました。",
+      "vietnamese": "Tôi gặp rắc rối vì tất cả tiền của tôi đã bị lấy trong chuyến đi của tôi.",
+      "number": 39
+    },
+    {
+      "word": "ラストが難して、全然できなかった。",
+      "reading": "ラストがむずかして、ぜんぜんできなかった。",
+      "vietnamese": "Điều cuối cùng thật khó khăn và tôi không thể làm được gì cả.",
+      "number": 39
+    },
+    {
+      "word": "眠くて、勉強できない。",
+      "reading": "ねむくて、べんきょうできない。",
+      "vietnamese": "Tôi buồn ngủ và không thể học.",
+      "number": 39
+    },
+    {
+      "word": "雨が降って、富士山が見えなかった。",
+      "reading": "あめがふって、ふじさんがみえなかった。",
+      "vietnamese": "Trời mưa và tôi không thể nhìn thấy núi Fuji.",
+      "number": 39
+    },
+    {
+      "word": "うるさくて、先生の話が聞こえません。",
+      "reading": "うるさくて、せんせいのはなしがきこえません。",
+      "vietnamese": "Nó ồn ào và tôi không thể nghe thấy những gì giáo viên đang nói.",
+      "number": 39
+    },
+    {
+      "word": "話が複雑で、よく分かりません。",
+      "reading": "はなしがふくざつで、よくわかりません。",
+      "vietnamese": "Câu chuyện phức tạp và tôi không hiểu rõ về nó.",
+      "number": 39
+    },
+    {
+      "word": "高くて、車が買えません。",
+      "reading": "たかくて、くるまがかえません。",
+      "vietnamese": "Tôi không thể mua một chiếc ô tô vì nó đắt tiền.",
+      "number": 39
+    },
+    {
+      "word": "試験のことが心配で、寝られませんでした。",
+      "reading": "しけんのことがしんぱいで、ねられませんでした。",
+      "vietnamese": "Tôi không thể ngủ được vì lo lắng về kỳ thi.",
+      "number": 39
+    },
+    {
+      "word": "日曜日は都合が悪くて、行けません。",
+      "reading": "にちようびはつごうがわるくて、いけません。",
+      "vietnamese": "Chủ nhật không tiện nên không đi được.",
+      "number": 39
+    },
+    {
+      "word": "話し方が早くて、分かりません。",
+      "reading": "はなし方がはやくて、わかりません。",
+      "vietnamese": "Bạn nói nhanh quá tôi không hiểu.",
+      "number": 39
+    },
+    {
+      "word": "足が痛くて、歩けません。",
+      "reading": "あしがいたくて、あるけません。",
+      "vietnamese": "Chân tôi đau và tôi không thể đi được.",
+      "number": 39
+    },
+    {
+      "word": "火事で、家が焼けてしまいました。",
+      "reading": "かじで、いえがやけてしまいました。",
+      "vietnamese": "Một ngọn lửa đã phá hủy ngôi nhà của tôi.",
+      "number": 39
+    },
+    {
+      "word": "交通事故で、けがをしてしまいました。",
+      "reading": "こうつうじこで、けがをしてしまいました。",
+      "vietnamese": "Tôi bị thương trong một vụ tai nạn giao thông.",
+      "number": 39
+    },
+    {
+      "word": "宿題をやるのを忘れて、先生に叱られました。",
+      "reading": "しゅくだいをやるのをわすれて、せんせいにしかられました。",
+      "vietnamese": "Tôi quên làm bài tập về nhà và giáo viên của tôi mắng tôi.",
+      "number": 39
+    },
+    {
+      "word": "傘を持って行くのを忘れて、雨に降られました。",
+      "reading": "あめをもっていくのをわすれて、あめにふられました。",
+      "vietnamese": "Tôi quên mang ô và bị mắc mưa.",
+      "number": 39
+    },
+    {
+      "word": "気を付けないで歩いて、マンホールに落ちてしまいました。",
+      "reading": "きをつけないであるいて、マンホールにおちてしまいました。",
+      "vietnamese": "Tôi đi bất cẩn và rơi xuống hố ga.",
+      "number": 39
+    },
+    {
+      "word": "地震で人が大勢死にました。",
+      "reading": "じしんでひとがおおぜいしにました。",
+      "vietnamese": "Nhiều người chết trong trận động đất.",
+      "number": 39
+    },
+    {
+      "word": "病気で、学校へ行けませんでした。",
+      "reading": "びょうきで、がっこうへいけませんでした。",
+      "vietnamese": "Tôi bị ốm và không thể đi học.",
+      "number": 39
+    },
+    {
+      "word": "台風で、本が倒れました。",
+      "reading": "たいふうで、ほんがたおれました。",
+      "vietnamese": "Cơn bão làm đổ cuốn sách.",
+      "number": 39
+    },
+    {
+      "word": "気を付けなくて、隣の家の犬に噛まれました。",
+      "reading": "きをつけなくて、となりのいえのいぬにかまれました。",
+      "vietnamese": "Tôi không cẩn thận và bị con chó của hàng xóm cắn.",
+      "number": 39
+    },
+    {
+      "word": "バスが遅れたので、学校に遅刻しました。",
+      "reading": "バスがおくれたので、がっこうにちこくしました。",
+      "vietnamese": "Tôi đã trễ học vì xe buýt đến muộn.",
+      "number": 39
+    },
+    {
+      "word": "新聞を読まなかったので、事故のことを知りませんでした。",
+      "reading": "しんぶんをよまなかったので、じこのことをしりませんでした。",
+      "vietnamese": "Tôi không đọc báo nên không biết vụ tai nạn.",
+      "number": 39
+    },
+    {
+      "word": "マイにを忙しいので、どこへも遊びに行けません。",
+      "reading": "マイにをいそがしいので、どこへもあそびにいけません。",
+      "vietnamese": "Em bận công việc không đi đâu được.",
+      "number": 39
+    },
+    {
+      "word": "明日は暇なので、買い物に行けます。",
+      "reading": "あしたはひまなので、かいものにいけます。",
+      "vietnamese": "Tôi rảnh vào ngày mai, vì vậy tôi có thể đi mua sắm.",
+      "number": 39
+    },
+    {
+      "word": "今日は恋人の誕生日なので、花を買って帰ります。",
+      "reading": "きょうはこいびとのたんじょうびなので、はなをかってかえります。",
+      "vietnamese": "Hôm nay là sinh nhật của bạn gái tôi, vì vậy tôi sẽ mua một số hoa để mang về nhà.",
+      "number": 39
+    },
+    {
+      "word": "日本語が分からないので、英語で話していただけませんか。",
+      "reading": "にほんごがわからないので、えいごではなしていただけませんか。",
+      "vietnamese": "Tôi không hiểu tiếng Nhật, vậy bạn có thể nói bằng tiếng Anh được không?",
+      "number": 39
+    },
+    {
+      "word": "病院へ行くので、５時に帰ってもいいですか。",
+      "reading": "びょういんへいくので、５じにかえってもいいですか。",
+      "vietnamese": "Tôi phải đến bệnh viện, vậy tôi có thể về nhà lúc 5 giờ không?",
+      "number": 39
+    },
+    {
+      "word": "友達が約束を守らなかったので、けんかしました。",
+      "reading": "ともだちがやくそくをもらなかったので、けんかしました。",
+      "vietnamese": "Bạn tôi đã không giữ lời hứa nên chúng tôi đã đánh nhau.",
+      "number": 39
+    },
+    {
+      "word": "この辺の海は汚いので、泳がないほうがいいです。",
+      "reading": "このへんのうみはきたないので、およがないほうがいいです。",
+      "vietnamese": "Biển quanh đây bẩn, tốt hơn hết là không nên bơi.",
+      "number": 39
+    },
+    {
+      "word": "あまり好きじゃないから、食べませんでした。",
+      "reading": "あまりすきじゃないから、たべませんでした。",
+      "vietnamese": "Tôi đã không ăn nó vì tôi không thích nó lắm.",
+      "number": 39
+    },
+    {
+      "word": "雨が降るから、サッカーの練習を辞めます。",
+      "reading": "あめがふるから、サッカーのれんしゅうをやめます。",
+      "vietnamese": "Tôi sẽ nghỉ tập bóng đá vì trời sẽ mưa.",
+      "number": 39
+    },
+    {
+      "word": "しばらく雨が降らないので、ほこりが酷いです",
+      "reading": "しばらくあめがふらないので、ほこりがひどいです",
+      "vietnamese": "Lâu rồi không mưa nên rất bụi.",
+      "number": 39
+    },
+    {
+      "word": "道が混んでいたので、学校に遅れました。",
+      "reading": "みちがこんでいたので、がっこうにおくれました。",
+      "vietnamese": "Tôi đã đi học muộn vì đường phố đông đúc.",
+      "number": 39
+    },
+    {
+      "word": "気分が悪いので、早退してもいいですか。",
+      "reading": "きぶんがわるいので、そうたいしてもいいですか。",
+      "vietnamese": "Tôi cảm thấy không khỏe, vậy tôi có thể về sớm được không?",
+      "number": 39
+    },
+    {
+      "word": "用事があるので、お先に失礼します。",
+      "reading": "ようじがあるので、おさきにしつれいします。",
+      "vietnamese": "Tôi có việc phải làm, vì vậy xin phép tôi trước.",
+      "number": 39
+    },
+    {
+      "word": "使い方が分からないので、説明していただけませんか。",
+      "reading": "つかいかたがわからないので、せつめいしていただけませんか。",
+      "vietnamese": "Tôi không biết cách sử dụng nó, bạn có thể vui lòng giải thích cho tôi được không?",
+      "number": 39
+    },
+    {
+      "word": "来る途中で彼に会いました。",
+      "reading": "くるとちゅうでかれにあいました。",
+      "vietnamese": "Tôi gặp anh ấy trên đường đi.",
+      "number": 39
+    },
+    {
+      "word": "マラソンの途中でけがをしました。",
+      "reading": "マラソンのとちゅうでけがをしました。",
+      "vietnamese": "Tôi đã bị thương trong cuộc chạy marathon.",
+      "number": 39
+    },
+    {
+      "word": "うちへ帰る途中で犬に噛まれました。",
+      "reading": "うちへかえるとちゅうでいぬにかまれました。",
+      "vietnamese": "Tôi bị chó cắn trên đường về nhà.",
+      "number": 39
+    },
+    {
+      "word": "海外旅行の途中で香港によりました。",
+      "reading": "かいがいりょこうのとちゅうでほんこんによりました。",
+      "vietnamese": "Tôi ghé qua Hồng Kông trong chuyến du lịch nước ngoài.",
+      "number": 39
+    },
+    {
+      "word": "友達のうちに行く途中でケーキを買います。",
+      "reading": "ともだちのうちにいくとちょうでケーキをかいます。",
+      "vietnamese": "Tôi sẽ mua một chiếc bánh trên đường đến nhà bạn tôi.",
+      "number": 39
+    },
+    {
+      "word": "会社に行く途中で彼に会いました。",
+      "reading": "かいしゃにいくとちゅうでかえにあいました。",
+      "vietnamese": "Tôi gặp anh trên đường đi làm.",
+      "number": 39
+    },
+    {
+      "word": "駅から帰る途中で車で友達を拾います。",
+      "reading": "えきからかえるとちゅうでくるまでともだちをひろいます。",
+      "vietnamese": "Tôi đón bạn tôi bằng ô tô trên đường trở về từ nhà ga.",
+      "number": 39
+    },
+    {
+      "word": "買い物の途中で道に迷いました。",
+      "reading": "かいもののとちゅうでみちにまよいました。",
+      "vietnamese": "Tôi bị lạc giữa khu mua sắm.",
+      "number": 39
+    },
+    {
+      "word": "学校から帰る途中で雨に降られました。",
+      "reading": "がっこうからかえるとちゅうであめにふられました。",
+      "vietnamese": "Trời mưa trên đường tôi đi học về.",
+      "number": 39
+    }
+  ]
+}
