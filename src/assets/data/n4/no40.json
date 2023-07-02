@@ -1,0 +1,274 @@
+{
+  "reading": [
+    {
+      "word": "先生が何を話しているか、分かりませんか。",
+      "reading": "せんせいがなにをはなしているか、わかりませんか。",
+      "vietnamese": "Bạn không hiểu giáo viên đang nói về cái gì?",
+      "number": 40
+    },
+    {
+      "word": "どこに置いたか、覚えていますか。",
+      "reading": "どこにおいたか、おぼえていますか。",
+      "vietnamese": "Bạn có nhớ nơi bạn đặt nó?",
+      "number": 40
+    },
+    {
+      "word": "あの人は何歳か、知っていますか。",
+      "reading": "あのひとはなんさいか、しっていますか。",
+      "vietnamese": "Bạn có biết người đó bao nhiêu tuổi không?",
+      "number": 40
+    },
+    {
+      "word": "母の誕生日に何をあげたらいいか、考えています。",
+      "reading": "ははのたんじょうびになにをあげたらいいか、かんがえています。",
+      "vietnamese": "Tôi đang suy nghĩ về những gì để tặng mẹ tôi vào ngày sinh nhật của bà.",
+      "number": 40
+    },
+    {
+      "word": "レポートの締め切りはいつか、先生に聞きます。",
+      "reading": "レポートのしめきりはいつか、せんせいにききます。",
+      "vietnamese": "Tôi sẽ hỏi giáo viên của tôi khi nào là hạn chót của báo cáo.",
+      "number": 40
+    },
+    {
+      "word": "クラスに男の人が何人いるか、教えてください。",
+      "reading": "クラスにおとこのひとがなんにんいるか、おしえてください。",
+      "vietnamese": "Em hãy cho biết lớp đó có bao nhiêu bạn nam.",
+      "number": 40
+    },
+    {
+      "word": "ナンさんの恋人が誰か、知っていますか。",
+      "reading": "ナンさんのこいびとがだれか、しっていますか。",
+      "vietnamese": "Bạn có biết bạn trai của Nan là ai không?",
+      "number": 40
+    },
+    {
+      "word": "私たちが初めて会ってのはどこか、覚えていますか。",
+      "reading": "わたしたちがはじめてあってのはどこか、おぼえていますか。",
+      "vietnamese": "Bạn có nhớ nơi chúng ta gặp nhau lần đầu tiên không?",
+      "number": 40
+    },
+    {
+      "word": "非常口はどこか、調べます。",
+      "reading": "ひじょうぐちはどこか、しらべます。",
+      "vietnamese": "Tìm xem lối thoát hiểm ở đâu.",
+      "number": 40
+    },
+    {
+      "word": "この絵はいくらで売れるか、調べています。",
+      "reading": "このえはいくらでうれるか、しらべています。",
+      "vietnamese": "Tôi đang cố gắng tìm xem bức tranh này sẽ được bán với giá bao nhiêu.",
+      "number": 40
+    },
+    {
+      "word": "この紙はどちらが表か、分かりません。",
+      "reading": "このかみはどちらがおもてか、わかりません。",
+      "vietnamese": "Tôi không biết mặt nào là mặt trước của tờ giấy này.",
+      "number": 40
+    },
+    {
+      "word": "ミーティングはいつがいいか、考えています。",
+      "reading": "ミーティングはいつがいいか、かんがえています。",
+      "vietnamese": "Tôi đang suy nghĩ xem khi nào cuộc họp sẽ tốt.",
+      "number": 40
+    },
+    {
+      "word": "明日は休むかどうか、分かりませんか。",
+      "reading": "あしたはやすむかどうか、わかりませんか。",
+      "vietnamese": "Tôi không biết nếu ngày mai sẽ là một kỳ nghỉ hay không.",
+      "number": 40
+    },
+    {
+      "word": "この料理は美味しいですか。➞まだ食べていませんから、美味しいかどうか、分かりません。",
+      "reading": "このりょうりはおいしいですか。➞まだたべていませんから、おいしいかどうか、わかりません。",
+      "vietnamese": "Món này có ngon không? ➞Mình chưa ăn nên không biết ngon không.",
+      "number": 40
+    },
+    {
+      "word": "この噂は本当かどうか、調べます。",
+      "reading": "このうわさはほんとうかどうか、しらべます。",
+      "vietnamese": "Tôi sẽ tìm hiểu xem tin đồn này có đúng không.",
+      "number": 40
+    },
+    {
+      "word": "ここでタバコを吸ってもいいかどうか、聞いて来ます。",
+      "reading": "ここでタバコをすってもいいかどうか、きいて来ます。",
+      "vietnamese": "Tôi sẽ hỏi hút thuốc ở đây có ổn không.",
+      "number": 40
+    },
+    {
+      "word": "間違いがないかどうか、もう一度見てください。",
+      "reading": "まちがいがないかどうか、もういちどみてください。",
+      "vietnamese": "Vui lòng kiểm tra lại cho bất kỳ sai lầm.",
+      "number": 40
+    },
+    {
+      "word": "傷がないかどうか、調べてください。",
+      "reading": "きずがないかどうか、調べてください。",
+      "vietnamese": "Kiểm tra các vết trầy xước.",
+      "number": 40
+    },
+    {
+      "word": "道が混んでいるので、１０時に間に合うかどうか、分かりません。",
+      "reading": "みちがこんでいるので、１０じにまにあうかどうか、わかりません。",
+      "vietnamese": "Tôi không biết liệu tôi có đến đó kịp lúc 10:00 hay không vì đường rất đông đúc.",
+      "number": 40
+    },
+    {
+      "word": "最近、会っていませんから、小川さんが元気かどうか、分かりません。",
+      "reading": "さいきん、あっていませんから、おがわさんがげんきかどうか、わかりません。",
+      "vietnamese": "Gần đây tôi không gặp ông ấy nên tôi không biết Ogawa có khỏe không.",
+      "number": 40
+    },
+    {
+      "word": "夏休みに国へ帰るかどうか、まだ決めていません。",
+      "reading": "なつやすみにくにへかえるかどうか、まだきめていません。",
+      "vietnamese": "Tôi vẫn chưa quyết định có nên về nước vào kỳ nghỉ hè hay không.",
+      "number": 40
+    },
+    {
+      "word": "合格したかどうか、確かめてください。",
+      "reading": "ごうかくしたかどうか、たしかめてください。",
+      "vietnamese": "Vui lòng kiểm tra nếu bạn đã vượt qua.",
+      "number": 40
+    },
+    {
+      "word": "私のことが好きかどうか、はっきり言ってください。",
+      "reading": "わたしのことがすきかどうか、はっきりいってください。",
+      "vietnamese": "Nói rõ cho tôi biết bạn có thích tôi hay không.",
+      "number": 40
+    },
+    {
+      "word": "新しい靴を履いてみます。",
+      "reading": "あたらしいくつをはいてみます。",
+      "vietnamese": "Tôi sẽ thử đôi giày mới.",
+      "number": 40
+    },
+    {
+      "word": "昨日買ったシャツを着てみます。",
+      "reading": "きのうかったシャツをきてみます。",
+      "vietnamese": "Tôi sẽ mặc thử chiếc áo tôi đã mua ngày hôm qua.",
+      "number": 40
+    },
+    {
+      "word": "もう一度考えてみたいです。",
+      "reading": "もういちどかんがえてみたいです。",
+      "vietnamese": "Tôi muốn nghĩ về nó một lần nữa.",
+      "number": 40
+    },
+    {
+      "word": "歌を聞いてみましょう。",
+      "reading": "うたをきいてみましょう。",
+      "vietnamese": "Hãy cùng nghe bài hát.",
+      "number": 40
+    },
+    {
+      "word": "日本語で説明してみます。",
+      "reading": "にほんごでせつめいしてみます。",
+      "vietnamese": "Tôi sẽ cố gắng giải thích bằng tiếng Nhật.",
+      "number": 40
+    },
+    {
+      "word": "もう少し大きい靴があるかどうか、探してみます。",
+      "reading": "もうすこしおおきいくつがあるかどうか、さがしてみます。",
+      "vietnamese": "Tôi sẽ cố gắng tìm xem có đôi giày nào lớn hơn một chút không.",
+      "number": 40
+    },
+    {
+      "word": "彼がもううちを出かどうか、電話してみます。",
+      "reading": "かれがもううちをでかどうか、でんわしてみます。",
+      "vietnamese": "Tôi sẽ gọi cho anh ấy để xem anh ấy đã rời khỏi nhà chưa.",
+      "number": 40
+    },
+    {
+      "word": "明日は都合がいいかどうか、ミンーさんに聞いてみます。",
+      "reading": "あしたはつごうがいいかどうか、ミンーさんにきいてみます。",
+      "vietnamese": "Tôi sẽ hỏi Min-san nếu ngày mai thuận tiện.",
+      "number": 40
+    },
+    {
+      "word": "すみません、このズボンを履いてみてもいいですか。",
+      "reading": "すみません、このズボンをはいてみてもいいですか。",
+      "vietnamese": "Xin lỗi, tôi có thể thử cái quần này được không?",
+      "number": 40
+    },
+    {
+      "word": "いくら難しくても、一回やってみてください。",
+      "reading": "いくらむずかしくても、いっかいやってみてください。",
+      "vietnamese": "Dù khó khăn đến đâu, hãy thử một lần.",
+      "number": 40
+    },
+    {
+      "word": "富士山の高さは３７７６メートルです。",
+      "reading": "ふじさんのたかさは３７７６メートルです。",
+      "vietnamese": "Phú Sĩ cao 3776 mét.",
+      "number": 40
+    },
+    {
+      "word": "川の長さをどうやって測るか、分かりません。",
+      "reading": "かわのながさをどうやってはかるか、わかりません。",
+      "vietnamese": "Tôi không biết đo chiều dài của một dòng sông.",
+      "number": 40
+    },
+    {
+      "word": "プールの深さは２メートルです。",
+      "reading": "プールのふかさは２メートルです。",
+      "vietnamese": "Độ sâu của hồ bơi là 2 mét.",
+      "number": 40
+    },
+    {
+      "word": "重さが１０キロ以上の荷物は持って行ってもいいですか。",
+      "reading": "おもさが１０キロいじょうのにもつはもっていってもいいですか。",
+      "vietnamese": "Tôi có thể mang hành lý nặng hơn 10kg không?",
+      "number": 40
+    },
+    {
+      "word": "彼女の美しさにうっとりしました。",
+      "reading": "かのじょ女のうつくしさにうっとりしました。",
+      "vietnamese": "Tôi bị mê hoặc bởi vẻ đẹp của cô ấy.",
+      "number": 40
+    },
+    {
+      "word": "琵琶湖の広さは６７２平方キロメートルです。",
+      "reading": "びわこのひろさは６７２へいほうキロメートルです。",
+      "vietnamese": "Diện tích của hồ Biwa là 672 km2.",
+      "number": 40
+    },
+    {
+      "word": "あなたの靴の大きさはどのくらいですか。",
+      "reading": "あなたのくつのおおきさはどのくらいですか。",
+      "vietnamese": "đôi giày của bạn to cỡ nào",
+      "number": 40
+    },
+    {
+      "word": "昼間の暑さで、汗をたくさんかきました。",
+      "reading": "ひるまのあつさで、あせをたくさんかきました。",
+      "vietnamese": "Đó là một ngày nóng bức và tôi đổ mồ hôi đầm đìa.",
+      "number": 40
+    },
+    {
+      "word": "料理の美味しさが感じられますか。",
+      "reading": "りょうりのおいしさがかんじられますか。",
+      "vietnamese": "Bạn có cảm nhận được độ ngon của món ăn không?",
+      "number": 40
+    },
+    {
+      "word": "「みんなの日本語」という本の厚さはどのくらいです。",
+      "reading": "「みんなの日本語」というほんのあつさはどのくらいです。",
+      "vietnamese": "Sách Minna no Nihongo dày bao nhiêu?",
+      "number": 40
+    },
+    {
+      "word": "ハンスは学校でどうでしょうか。",
+      "reading": "ハンスはがっこうでどうでしょうか。",
+      "vietnamese": "Hans ở trường thế nào?",
+      "number": 40
+    },
+    {
+      "word": "これはいくらでしょうか。",
+      "reading": "これはいくらでしょうか。",
+      "vietnamese": "cái này bao nhiêu?",
+      "number": 40
+    }
+  ]
+}
