@@ -1,0 +1,394 @@
+{
+  "reading": [
+    {
+      "word": "友達に誕生日のプレゼントをあげました。",
+      "reading": "ともだちにたんじょうびのプレゼントをあげました。",
+      "vietnamese": "Tôi đã tặng bạn tôi một món quà sinh nhật.",
+      "number": 41
+    },
+    {
+      "word": "ミラーさんに日本語の本をあげました。",
+      "reading": "ミラーさんににほんごのほんをあげました。",
+      "vietnamese": "Tôi đưa cho Miller một cuốn sách tiếng Nhật.",
+      "number": 41
+    },
+    {
+      "word": "会社の人に旅行のお土産をあげます。",
+      "reading": "かいしゃのひとにりょこうのおみやげをあげます。",
+      "vietnamese": "Tôi sẽ tặng một món quà lưu niệm của chuyến đi cho người trong công ty.",
+      "number": 41
+    },
+    {
+      "word": "女性の日に先生に花を差し上げますした。",
+      "reading": "じょせいのひにせんせいにはなをさしあげますした。",
+      "vietnamese": "Tôi đã tặng hoa cho cô giáo của mình vào ngày Phụ nữ.",
+      "number": 41
+    },
+    {
+      "word": "お正月に社長に日本酒を差し上げます。",
+      "reading": "おしょうがつにしゃちょうににほんしゅをさしあげます。",
+      "vietnamese": "Tôi sẽ tặng rượu sake cho giám đốc vào ngày đầu năm mới.",
+      "number": 41
+    },
+    {
+      "word": "部長の奥さんにベトナムのお菓子を差し上げます。",
+      "reading": "べちょうのおくさんにベトナムのおかしをさしあげます。",
+      "vietnamese": "Tôi sẽ tặng kẹo Việt Nam cho vợ của trưởng phòng.",
+      "number": 41
+    },
+    {
+      "word": "妹におもちゃをやります。",
+      "reading": "いもうとにおもちゃをやります。",
+      "vietnamese": "Tôi sẽ cho em gái tôi một món đồ chơi.",
+      "number": 41
+    },
+    {
+      "word": "孫に新しい服をやります。",
+      "reading": "まごにあたらしいふくをやります。",
+      "vietnamese": "Tôi sẽ cho cháu tôi quần áo mới.",
+      "number": 41
+    },
+    {
+      "word": "花に水をやります。",
+      "reading": "はなにみずをやります。",
+      "vietnamese": "Tưới hoa.",
+      "number": 41
+    },
+    {
+      "word": "猫に餌をやるのを忘れました。",
+      "reading": "ねこにえさをやるのを忘れました。",
+      "vietnamese": "Tôi quên cho mèo ăn.",
+      "number": 41
+    },
+    {
+      "word": "おばさんに可愛いセーターを貰いました。",
+      "reading": "おばさんにかわいいセーターをもらいました。",
+      "vietnamese": "Tôi đã nhận được một chiếc áo len dễ thương từ dì của tôi.",
+      "number": 41
+    },
+    {
+      "word": "兄に素敵なシャツを貰いました。",
+      "reading": "あににすてきなシャツをもらいました。",
+      "vietnamese": "Tôi đã nhận được một chiếc áo sơ mi đẹp từ anh trai của tôi.",
+      "number": 41
+    },
+    {
+      "word": "結婚記念日に夫に金の指輪を貰いました。",
+      "reading": "けっこんきねんびにおっとにきんのゆびわをもらいました。",
+      "vietnamese": "Chồng tôi đã tặng tôi một chiếc nhẫn vàng nhân kỷ niệm ngày cưới.",
+      "number": 41
+    },
+    {
+      "word": "社長にお土産をいただきました。",
+      "reading": "しゃちょうにおみやげをいただきました。",
+      "vietnamese": "Tôi đã nhận được một món quà từ giám đốc.",
+      "number": 41
+    },
+    {
+      "word": "先生に日本語の辞書をいただきました。",
+      "reading": "せんせいににほんごのじしょをいただきました。",
+      "vietnamese": "Tôi nhận được một cuốn từ điển tiếng Nhật từ giáo viên",
+      "number": 41
+    },
+    {
+      "word": "部長に珍しい果物をいただきました。",
+      "reading": "ぶちょうにめずらしいくだものをいただきました。",
+      "vietnamese": "Trưởng phòng đã cho tôi một loại trái cây hiếm.",
+      "number": 41
+    },
+    {
+      "word": "課長の奥さんに綺麗なイタリアのバッグをいただきました。",
+      "reading": "かちょうのおくさんにきれいなイタリアのバッグをいただきました。",
+      "vietnamese": "Vợ của tổ trưởng tặng tôi một chiếc túi Ý rất đẹp.",
+      "number": 41
+    },
+    {
+      "word": "会社から給料をいただきました。",
+      "reading": "かいしゃからきゅうりょうをいただきました。",
+      "vietnamese": "Tôi đã nhận lương từ công ty.",
+      "number": 41
+    },
+    {
+      "word": "誕生日に母が新しい靴をくれました。",
+      "reading": "たんじょうびにははがあたらしいくつをくれました。",
+      "vietnamese": "Mẹ tôi tặng tôi đôi giày mới cho ngày sinh nhật của tôi.",
+      "number": 41
+    },
+    {
+      "word": "彼氏がバラの花をくれました。",
+      "reading": "かれしがバラのはなをくれました。",
+      "vietnamese": "Bạn trai tôi đã tặng tôi một bông hoa hồng.",
+      "number": 41
+    },
+    {
+      "word": "友達が本をくれました。",
+      "reading": "ともだちがほんをくれました。",
+      "vietnamese": "Một người bạn đã cho tôi một cuốn sách.",
+      "number": 41
+    },
+    {
+      "word": "先生が面白い本をくださいます。",
+      "reading": "せんせいがおもしろいほほんをくださいます。",
+      "vietnamese": "Giáo viên sẽ cho tôi một cuốn sách thú vị.",
+      "number": 41
+    },
+    {
+      "word": "社長が私の息子にお土産をくださいます。",
+      "reading": "しゃちょうがわたしのむすこにおみやげをくださいます。",
+      "vietnamese": "Giám đốc sẽ tặng con trai tôi một món quà lưu niệm.",
+      "number": 41
+    },
+    {
+      "word": "部長が珍しい果物をくださいます。",
+      "reading": "ぶちょうがめずらしいくだもどをくださいます。",
+      "vietnamese": "Trưởng phòng sẽ cho tôi một loại trái cây hiếm.",
+      "number": 41
+    },
+    {
+      "word": "課長が結婚のお祝いをくださいます。",
+      "reading": "ぶちょうがけっこんのおいわいをくださいます。",
+      "vietnamese": "Tổ trưởng sẽ chúc mừng bạn về cuộc hôn nhân của bạn.",
+      "number": 41
+    },
+    {
+      "word": "先生がいい手帳をくださいます。",
+      "reading": "せんせいがいいてちょうをくださいます。",
+      "vietnamese": "Giáo viên sẽ cho tôi một cuốn sổ tốt.",
+      "number": 41
+    },
+    {
+      "word": "息子は母の日に時計をくれました。",
+      "reading": "むすこはははのひにとけいをくれました。",
+      "vietnamese": "Con trai tôi tặng tôi một chiếc đồng hồ nhân Ngày của Mẹ.",
+      "number": 41
+    },
+    {
+      "word": "姉は鉛筆をくれました。",
+      "reading": "あねはえんぴつをくれました。",
+      "vietnamese": "Chị gái tôi đã cho tôi một cây bút chì.",
+      "number": 41
+    },
+    {
+      "word": "部長にお金を貸して差し上げました。",
+      "reading": "ぶちょうにおかねをかしてさしあげました。",
+      "vietnamese": "Tôi đã cho trưởng phòng vay tiền.",
+      "number": 41
+    },
+    {
+      "word": "課長にお土産を差し上げます。",
+      "reading": "かちょうにおみやげをさしあげます。",
+      "vietnamese": "Tôi sẽ tặng một món quà lưu niệm cho tổ trưởng",
+      "number": 41
+    },
+    {
+      "word": "私は木村さんを手伝ってあげました。",
+      "reading": "わたしはきむらさんをてつだってあげました。",
+      "vietnamese": "Tôi đã giúp ông Kimura.",
+      "number": 41
+    },
+    {
+      "word": "友達にプレゼントを買ってあげます。",
+      "reading": "ともだちにプレゼントをかってあげます。",
+      "vietnamese": "Tôi sẽ mua một món quà cho bạn tôi.",
+      "number": 41
+    },
+    {
+      "word": "松本さんに地図を書いてあげます。",
+      "reading": "まつもとさんにちずをかいてあげます。",
+      "vietnamese": "Tôi sẽ vẽ bản đồ cho Matsumoto.",
+      "number": 41
+    },
+    {
+      "word": "妻にマッサージをしてあげます。",
+      "reading": "つまにマッサージをしてあげます。",
+      "vietnamese": "Tôi sẽ xoa bóp cho vợ tôi.",
+      "number": 41
+    },
+    {
+      "word": "サントスさんに写真を撮ってあげました。",
+      "reading": "サントスさんにしゃしんをとってあげました。",
+      "vietnamese": "Tôi đã chụp một bức ảnh cho ông Santos.",
+      "number": 41
+    },
+    {
+      "word": "弟に絵本を買ってやります。",
+      "reading": "おとうとにえほんをかってやります。",
+      "vietnamese": "Tôi sẽ mua một cuốn sách ảnh cho em trai.",
+      "number": 41
+    },
+    {
+      "word": "私は犬を散歩に連れて行ってやりました。",
+      "reading": "わたしはいぬをさんぽにつれていってやりました。",
+      "vietnamese": "Tôi dắt chó đi dạo.",
+      "number": 41
+    },
+    {
+      "word": "部長にレポートを見ていただきます。",
+      "reading": "ぶちょうにレポートをみていただきます。",
+      "vietnamese": "Tôi sẽ yêu cầu trưởng phòng xem báo cáo.",
+      "number": 41
+    },
+    {
+      "word": "先生に発音を直していただきます。",
+      "reading": "せんせいにはつおんをなおしていただきます。",
+      "vietnamese": "Giáo viên của bạn sẽ sửa cách phát âm của bạn.",
+      "number": 41
+    },
+    {
+      "word": "社長の奥さんに茶道を教えていただきました。",
+      "reading": "しゃちょうのおくさんにさどうをおしえていただきました。",
+      "vietnamese": "Vợ của giám đốc đã dạy tôi trà đạo.",
+      "number": 41
+    },
+    {
+      "word": "田中課長にカメラを貸していただきます。",
+      "reading": "たなかかちょうにカメラをかしていただきます。",
+      "vietnamese": "Tôi sẽ nhờ tổ trưởng Tanaka cho tôi mượn máy ảnh.",
+      "number": 41
+    },
+    {
+      "word": "先生に褒めていただきました。",
+      "reading": "せんせいにほめていただきました。",
+      "vietnamese": "Tôi đã được khen ngợi bởi giáo viên của tôi.",
+      "number": 41
+    },
+    {
+      "word": "大雨で、山田さんに車でうちで送ってもらいます。",
+      "reading": "おおあめで、やまださんにくるまでうちまでおくってもらいます。",
+      "vietnamese": "Trời đang mưa to nên tôi định nhờ anh Yamada chở tôi về nhà.",
+      "number": 41
+    },
+    {
+      "word": "国へ帰ったとき、家族に迎えに来てもらいました。",
+      "reading": "くにへかえったとき、かぞくにむかえにきてもらいました。",
+      "vietnamese": "Khi tôi trở về nước, gia đình tôi đã đến đón tôi.",
+      "number": 41
+    },
+    {
+      "word": "子供のとき、祖母に昔の話をしてもらいました。",
+      "reading": "こどものとき、そぽにむかしのはなしをしてもらいました。",
+      "vietnamese": "Khi tôi còn nhỏ, bà tôi kể cho tôi nghe những câu chuyện cũ.",
+      "number": 41
+    },
+    {
+      "word": "松本先生が日本語の作文の間違いを直してくださいました。",
+      "reading": "まつもとせんせいがにほんごのさくぶんのまちがいをなおしてくださいました。",
+      "vietnamese": "Thầy Matsumoto đã sửa lỗi trong phần viết tiếng Nhật của tôi.",
+      "number": 41
+    },
+    {
+      "word": "社長は私の娘に書道を教えてくださいました。",
+      "reading": "しゃちょうはわたしのむすめにしょどうをおしえてくださいました。",
+      "vietnamese": "Giám đốc đã dạy con gái tôi thư pháp.",
+      "number": 41
+    },
+    {
+      "word": "部長が旅行の社員を見せてくださいました。",
+      "reading": "ぶちょうがりょこうのしゃいんをみせてくださいました。",
+      "vietnamese": "Trưởng phòng chỉ cho tôi nhân viên du lịch.",
+      "number": 41
+    },
+    {
+      "word": "課長がカメラを貸してくださいました。",
+      "reading": "かちょうがカメラをかしてくださいました。",
+      "vietnamese": "Tổ trưởng cho tôi mượn một chiếc máy ảnh.",
+      "number": 41
+    },
+    {
+      "word": "田中先輩いつも手伝ってくださいます。",
+      "reading": "たなかせんぱいいつもてつだってくださいます。",
+      "vietnamese": "Tanaka-senpai luôn giúp đỡ tôi.",
+      "number": 41
+    },
+    {
+      "word": "母が服を洗濯してくれました。",
+      "reading": "ははがふくをせんたくしてくれました。",
+      "vietnamese": "Mẹ tôi giặt quần áo cho tôi.",
+      "number": 41
+    },
+    {
+      "word": "よく分からないですが、もう一度説明してくださいませんか。",
+      "reading": "よくわからないですが、もういちどせつめいしてくださいませんか。",
+      "vietnamese": "Tôi không hiểu, bạn có thể giải thích lại được không?",
+      "number": 41
+    },
+    {
+      "word": "よく聞こえないんですが、もう少し大きい声で話してくださいませんか。",
+      "reading": "よくきこえないんですが、もうすこしおおきいこえではなしてくださいませんか。",
+      "vietnamese": "Tôi không thể nghe rõ bạn, nhưng bạn có thể vui lòng nói to hơn một chút được không?",
+      "number": 41
+    },
+    {
+      "word": "電気が壊れたんですが、取り替えてくださいませんか。",
+      "reading": "でんきがこわれたんですが、とりかえてくださいませんか。",
+      "vietnamese": "Điện bị hỏng, bạn có thể vui lòng thay thế nó không?",
+      "number": 41
+    },
+    {
+      "word": "日本のドラマに興味があるんですが、面白いドラマを教えていただけませんか。",
+      "reading": "にほんのドラマにきょうみがあるんですが、おもしろいドラマをおしえていただけませんか。",
+      "vietnamese": "Tôi quan tâm đến phim truyền hình Nhật Bản, bạn có thể cho tôi biết một số bộ phim truyền hình thú vị?",
+      "number": 41
+    },
+    {
+      "word": "ハノイ大学へ行きたいんですが、道を教えてくださいませんか。",
+      "reading": "ハノイだいがくへいきたいんですが、みちをおしえてくださいませんか。",
+      "vietnamese": "Tôi muốn đến Đại học Hà Nội. Bạn có thể chỉ cho tôi đường đi được không?",
+      "number": 41
+    },
+    {
+      "word": "日本語の作文を見てくださいませんか。",
+      "reading": "にほんごのさくぶんをみてくださいませんか。",
+      "vietnamese": "Bạn vui lòng xem qua bài văn tiếng Nhật không?",
+      "number": 41
+    },
+    {
+      "word": "田中部長が結婚のお祝いにこの花瓶をくださいいました。",
+      "reading": "たなかぶちょうがけっこんのおいわいにこのかびんをくださいいました。",
+      "vietnamese": "Tổ trưởng Tanaka đã tặng tôi chiếc bình này như một món quà cưới.",
+      "number": 41
+    },
+    {
+      "word": "私は旅行のお土産に人形を買いました。",
+      "reading": "わたしはりょこうのおみやげににんぎょうをかいました。.",
+      "vietnamese": "Tôi đã mua một con búp bê để làm kỷ niệm cho chuyến đi của mình.",
+      "number": 41
+    },
+    {
+      "word": "マナさんの誕生日のプレゼントに珍しい指輪をあげました。",
+      "reading": "マナさんのたんじょうびのプレゼントにめずらしいゆびわをあげました。.",
+      "vietnamese": "Tôi đã tặng Mana một chiếc nhẫn hiếm làm quà sinh nhật.",
+      "number": 41
+    },
+    {
+      "word": "父は入学のお祝いに新しい自転車をくれました。",
+      "reading": "ちちはにゅうがくのおいわいにあたらしいじてんしゃをくれました。.",
+      "vietnamese": "Bố tôi tặng tôi một chiếc xe đạp mới để mừng tôi nhập học.",
+      "number": 41
+    },
+    {
+      "word": "お礼に美味しいお菓子を差し上げました。",
+      "reading": "おれいにおいしいおかしをさしあげました。.",
+      "vietnamese": "Để thể hiện lòng biết ơn của mình, tôi đã tặng anh ấy một số đồ ngọt ngon.",
+      "number": 41
+    },
+    {
+      "word": "記念に写真を撮りましょう。",
+      "reading": "きねんにしゃしんをとりましょう。.",
+      "vietnamese": "Chụp ảnh làm kỷ niệm.",
+      "number": 41
+    },
+    {
+      "word": "松本さんはオリンピックの選手に選ばれました。",
+      "reading": "松本さんはオリンピックのせんしゅにえらばれました。.",
+      "vietnamese": "Matsumoto được chọn là vận động viên Olympic.",
+      "number": 41
+    },
+    {
+      "word": "引っ越しの挨拶にベトナムのお土産を持っていくつもりです。",
+      "reading": "ひっこしのあいさつにベトナムのおみやげをもっていくつもりです。.",
+      "vietnamese": "Tôi dự định mang một món quà lưu niệm từ Việt Nam để chào tạm biệt ngôi nhà chuyển đến.",
+      "number": 41
+    }
+  ]
+}
