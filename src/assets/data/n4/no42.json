@@ -1,0 +1,298 @@
+{
+  "reading": [
+    {
+      "word": "大学に入るために、一所懸命 勉強します",
+      "reading": "だいがくにはいるために、いっしょけんめい べんきょうします",
+      "vietnamese": "Tôi sẽ học tập chăm chỉ để vào đại học",
+      "number": 42
+    },
+    {
+      "word": "友達の結婚式に出席するために、休みを取ります。",
+      "reading": "ともだちのけっこんしきにしゅっせきするために、やすみをとります。",
+      "vietnamese": "Tôi đang dành thời gian nghỉ để tham dự đám cưới của bạn tôi.",
+      "number": 42
+    },
+    {
+      "word": "医者になるために、医学を勉強するつもりです。",
+      "reading": "いしゃになるために、いがくをべんきょうするつもりです。",
+      "vietnamese": "Tôi dự định học y khoa để trở thành bác sĩ.",
+      "number": 42
+    },
+    {
+      "word": "コンサートのチケットを買うために、並んでいます。",
+      "reading": "コンサートのチケットをかうために、ならんでいます。",
+      "vietnamese": "Đứng xếp hàng mua vé xem hòa nhạc.",
+      "number": 42
+    },
+    {
+      "word": "日本へ行くために、日本語を勉強します。",
+      "reading": "にほんへいくために、にほんごをべんきょうします。",
+      "vietnamese": "Tôi sẽ học tiếng Nhật để đi Nhật.",
+      "number": 42
+    },
+    {
+      "word": "安全のために、シートベルトをします。",
+      "reading": "あんぜんのために、シートベルトをします。",
+      "vietnamese": "Vì sự an toàn của bạn, hãy thắt dây an toàn.",
+      "number": 42
+    },
+    {
+      "word": "旅行のために、ホテルを予約しておきます。",
+      "reading": "りょこうのために、ホテルをよやくしておきます。",
+      "vietnamese": "Tôi sẽ đặt một khách sạn cho chuyến đi của tôi.",
+      "number": 42
+    },
+    {
+      "word": "健康のために、野菜をたくさん食べるようにしています。",
+      "reading": "けんこうのために、やさいをたくさんたべるようにしています。",
+      "vietnamese": "Vì sức khỏe của tôi, tôi cố gắng ăn nhiều rau.",
+      "number": 42
+    },
+    {
+      "word": "家族のために、美味しい料理を作りました。",
+      "reading": "かぞくのために、おいしいりょうりをつくりました。",
+      "vietnamese": "Tôi đã làm những món ăn ngon cho gia đình mình.",
+      "number": 42
+    },
+    {
+      "word": "国のために、働け。",
+      "reading": "くにのために、はたらけ。",
+      "vietnamese": "Làm việc cho đất nước của bạn.",
+      "number": 42
+    },
+    {
+      "word": "薬缶はお湯を沸かすのに使います。",
+      "reading": "やかんはおゆをわかすのにつかいます。",
+      "vietnamese": "Một ấm đun nước được sử dụng để đun sôi nước.",
+      "number": 42
+    },
+    {
+      "word": "体温計は熱を測るのに使います。",
+      "reading": "たいおんけいはねつをはかるのにつかいます。",
+      "vietnamese": "Một nhiệt kế được sử dụng để đo nhiệt độ.",
+      "number": 42
+    },
+    {
+      "word": "風呂敷は物を包むのに使います。",
+      "reading": "ふろしきはものをつつむのにつかいます。",
+      "vietnamese": "Furoshiki được dùng để bọc đồ vật.",
+      "number": 42
+    },
+    {
+      "word": "そろばんは計算するのに使います。",
+      "reading": "そろばんはけいさんするのにつかいます。",
+      "vietnamese": "Bàn tính được sử dụng để tính toán.",
+      "number": 42
+    },
+    {
+      "word": "洗濯機は服を洗濯するのに使います。",
+      "reading": "せんたくきはふくをせんたくするのにつかいます。",
+      "vietnamese": "Máy giặt được sử dụng để giặt quần áo.",
+      "number": 42
+    },
+    {
+      "word": "時刻表は電車の時間を調べるのに使います。",
+      "reading": "じこくひょうはでんしゃのじかんをしらべるのにつかいます。",
+      "vietnamese": "Thời gian biểu được sử dụng để tìm thời gian tàu.",
+      "number": 42
+    },
+    {
+      "word": "テレホンカードは電話を掛けるのに使います。",
+      "reading": "テレホンカードはでんわをかけるのにつかいます。",
+      "vietnamese": "Một thẻ điện thoại được sử dụng để thực hiện cuộc gọi.",
+      "number": 42
+    },
+    {
+      "word": "風呂敷は物を包むのに便利です。",
+      "reading": "ふろしきはもにをつつむのにべんりです。",
+      "vietnamese": "Furoshiki rất hữu ích để bọc đồ vật.",
+      "number": 42
+    },
+    {
+      "word": "ここは緑が多くて、静かで、散歩にいいです。",
+      "reading": "ここはみどりがおおくて、しずかで、さんぽにいいです。",
+      "vietnamese": "Nó rất xanh, yên tĩnh và tốt cho việc đi bộ.",
+      "number": 42
+    },
+    {
+      "word": "電子辞書は言葉を調べるのに役に立ちます。",
+      "reading": "でんしじしょはことばをしらべるのにやくにたちます。",
+      "vietnamese": "Từ điển điện tử rất hữu ích cho việc tra từ.",
+      "number": 42
+    },
+    {
+      "word": "このカバンは小さすぎで、旅行に不便です。",
+      "reading": "このカバンはちいさすぎで、りょこうにふべんです。",
+      "vietnamese": "Chiếc túi này quá nhỏ và bất tiện khi đi du lịch.",
+      "number": 42
+    },
+    {
+      "word": "パーティーの準備に２０万円は必要です。",
+      "reading": "パーティーのじゅんびに２０まんえんはひつようです。",
+      "vietnamese": "Tôi cần 200.000 yên để chuẩn bị cho bữa tiệc.",
+      "number": 42
+    },
+    {
+      "word": "ここは緑が多くて、静かですね。➞ええ。子供を育てるのにいいです。",
+      "reading": "ここはみどりがおおくて、しずかですね。➞ええ。こどもをそだてるのにいいです。",
+      "vietnamese": "Ở đây rất xanh và yên tĩnh. ➞ Có. Tốt cho việc nuôi dạy con cái.",
+      "number": 42
+    },
+    {
+      "word": "随分 厚い辞書ですね。➞ええ。言葉の使い方を知るのに役に立ちます。",
+      "reading": "ずいぶん あついじしょですね。➞ええ。ことばのつかいかたをしるのにやくにたちます。",
+      "vietnamese": "Đó là một cuốn từ điển khá dày. ➞ Có. Nó giúp biết cách sử dụng từ ngữ.",
+      "number": 42
+    },
+    {
+      "word": "この車を修理するのに２時間かかります。",
+      "reading": "このくるまをしゅうりするのに２じかんかかります。",
+      "vietnamese": "Sẽ mất hai giờ để sửa chiếc xe này.",
+      "number": 42
+    },
+    {
+      "word": "ファイルの種類を整理するのに時間がかかります。",
+      "reading": "ファイルのしゅるいをせいりするのにじかんがかかります。",
+      "vietnamese": "Phải mất thời gian để tổ chức các loại tập tin.",
+      "number": 42
+    },
+    {
+      "word": "N2の漢字を覚えるのに２年かかります。",
+      "reading": "N2のかんじをおぼえるのに２ねんかかります。",
+      "vietnamese": "Phải mất hai năm để ghi nhớ chữ Hán N2.",
+      "number": 42
+    },
+    {
+      "word": "ベトナムで結婚式を行うのに５千万ドンかかります。",
+      "reading": "ベトナムでけっこんしきをおこなうのに５せんまんドンかかります。",
+      "vietnamese": "Tổ chức hôn lễ tại Việt Nam tốn 50 triệu đồng.",
+      "number": 42
+    },
+    {
+      "word": "レポートの資料を集めるのに２日かかります。",
+      "reading": "レポートのしりょうをあつめるのに２にちかかります。",
+      "vietnamese": "Sẽ mất hai ngày để thu thập tài liệu cho báo cáo.",
+      "number": 42
+    },
+    {
+      "word": "パーティーをするのに１０人は必要です。",
+      "reading": "パーティーをするのに１０じんはひつようです。",
+      "vietnamese": "Chúng tôi cần ít nhất mười người để tổ chức một bữa tiệc.",
+      "number": 42
+    },
+    {
+      "word": "日本では結婚式をするのに２００万円は要ります。",
+      "reading": "にほんではけっこんしきをするのに２００まんえんはいります。",
+      "vietnamese": "Chi phí tổ chức đám cưới ở Nhật Bản ít nhất là 2 triệu yên.",
+      "number": 42
+    },
+    {
+      "word": "漢字を２０００個覚えるのに３年はかかります。",
+      "reading": "かんじを２０００こおぼえるのに３ねんはかかります。",
+      "vietnamese": "Phải mất ít nhất ba năm để ghi nhớ 2000 chữ Hán.",
+      "number": 42
+    },
+    {
+      "word": "学校まで行くのに２０時間はかかります。",
+      "reading": "がっこうまでいくのに２０じかんはかかります。",
+      "vietnamese": "Mất ít nhất 20 giờ để đến trường.",
+      "number": 42
+    },
+    {
+      "word": "お湯を沸かすのに１０分はかかります。",
+      "reading": "おゆをわかすのに１０ぶんはかかります。",
+      "vietnamese": "Phải mất ít nhất 10 phút để đun sôi nước.",
+      "number": 42
+    },
+    {
+      "word": "祭りの準備をするのに２ヶ月は必要です。",
+      "reading": "まつりのじゅんびをするのに２かげつはひつようです。",
+      "vietnamese": "Phải mất ít nhất hai tháng để chuẩn bị cho lễ hội.",
+      "number": 42
+    },
+    {
+      "word": "車を修理するのに４週間は要ります",
+      "reading": "くるまをしゅうりするのに４しゅうかんはいります",
+      "vietnamese": "Phải mất ít nhất bốn tuần để sửa chữa chiếc xe.",
+      "number": 42
+    },
+    {
+      "word": "車を整備するのに３万５千円はかかります。",
+      "reading": "くるまをせいびするのに３まん５せんえんはかかります。",
+      "vietnamese": "Chi phí bảo dưỡng xe ít nhất là 35.000 yên.",
+      "number": 42
+    },
+    {
+      "word": "日本能力試験のN2レベルに合格するのに２年は必要です。",
+      "reading": "にほんのうりょくしけんのN2レベルにごうかくするのに２ねんはひつようです。",
+      "vietnamese": "Phải mất ít nhất hai năm để vượt qua cấp độ N2 của Kỳ thi năng lực tiếng Nhật.",
+      "number": 42
+    },
+    {
+      "word": "書類を整理するのに１時間はかかります。",
+      "reading": "しょるいをせいりするのに１じかんはかかります。",
+      "vietnamese": "Phải mất ít nhất một giờ để sắp xếp các tài liệu.",
+      "number": 42
+    },
+    {
+      "word": "学校まで行くのに２時間もかかります。",
+      "reading": "がっこうまでいくのに２じかんもかかります。",
+      "vietnamese": "Mất tận hai giờ để đến trường.",
+      "number": 42
+    },
+    {
+      "word": "東京で一人で生活するのに月に２０万円も必要です。",
+      "reading": "とうきょうでひとりでせいかつするのにつきに２０まんえんもひつようです。",
+      "vietnamese": "Chi phí tận 200.000 yên một tháng để sống một mình ở Tokyo.",
+      "number": 42
+    },
+    {
+      "word": "一番大きいピラミッドを作るのに医師が２７０万個も使われました。",
+      "reading": "いちばんおおきいピラミッドをつくるのにいしが２７０まんこもつかわれました。",
+      "vietnamese": "2,7 triệu người đã được sử dụng để xây dựng kim tự tháp lớn nhất.",
+      "number": 42
+    },
+    {
+      "word": "昨日４時間も日本語を勉強しました。",
+      "reading": "きのう４じかんもにほんごをべんきょうしました。",
+      "vietnamese": "Tôi đã học tiếng Nhật tận trong bốn giờ ngày hôm qua.",
+      "number": 42
+    },
+    {
+      "word": "ビデオを修理するのに３週間もかかりました。",
+      "reading": "ビデオをしゅうりするのに３しゅうかんもかかりました。",
+      "vietnamese": "Phải mất tận ba tuần để sửa video.",
+      "number": 42
+    },
+    {
+      "word": "パーティーをするのに５０人も必要です。",
+      "reading": "パーティーをするのに５０じんもひつようです。",
+      "vietnamese": "Chúng tôi cần tận 50 người để tổ chức tiệc.",
+      "number": 42
+    },
+    {
+      "word": "毎日ご飯を３倍も食べます。",
+      "reading": "まいにちごはんを３ばいもたべます。",
+      "vietnamese": "Tôi ăn tận gấp ba lần cơm mỗi ngày.",
+      "number": 42
+    },
+    {
+      "word": "Aさんのうちに子供が６人もいます。",
+      "reading": "Aさんのうちにこどもが６じんもいます。",
+      "vietnamese": "A có tận sáu người con.",
+      "number": 42
+    },
+    {
+      "word": "祭りの準備をするのに3ヶ月もかかります。",
+      "reading": "まつりのじゅんびをするのに3かげつもかかります。",
+      "vietnamese": "Phải mất tận ba tháng để chuẩn bị cho lễ hội.",
+      "number": 42
+    },
+    {
+      "word": "ジュースを１日３本も飲んではいけません。",
+      "reading": "ジュースを１にち３ぽんものんではいけません。",
+      "vietnamese": "Không uống nhiều hơn ba loại nước trái cây mỗi ngày.",
+      "number": 42
+    }
+  ]
+}
