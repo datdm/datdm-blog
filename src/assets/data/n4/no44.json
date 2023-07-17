@@ -1,0 +1,238 @@
+{
+  "reading": [
+    {
+      "word": "昨日お酒を飲み過ぎました。",
+      "reading": "きのうおさけをのみすぎました。",
+      "vietnamese": "Hôm qua tôi đã uống quá nhiều rượu.",
+      "number": 44
+    },
+    {
+      "word": "いくら好きでも、食べ過ぎると体に悪いですよ。",
+      "reading": "いくらすきでも、たべすぎるとからだにわるいですよ。",
+      "vietnamese": "Dù bạn có thích thế nào đi chăng nữa thì ăn quá nhiều cũng không tốt cho sức khỏe của bạn.",
+      "number": 44
+    },
+    {
+      "word": "本を読み過ぎて、目が悪くなりました。",
+      "reading": "ほんをよみすぎて、めがわるくなりました。",
+      "vietnamese": "Tôi đọc quá nhiều sách và thị lực của tôi trở nên tồi tệ hơn.",
+      "number": 44
+    },
+    {
+      "word": "働き過ぎて、病気になってしまいました。",
+      "reading": "はたらきすぎて、びょうきになってしまいました。",
+      "vietnamese": "Tôi đã làm việc quá nhiều và bị ốm.",
+      "number": 44
+    },
+    {
+      "word": "このアパートは家賃が高すぎます。",
+      "reading": "このアパートはやちんがたかすぎます。",
+      "vietnamese": "Giá thuê căn hộ này quá cao.",
+      "number": 44
+    },
+    {
+      "word": "この問題は難しすぎます。",
+      "reading": "このもんだいはむずかしすぎます。",
+      "vietnamese": "Bài toán này khó quá.",
+      "number": 44
+    },
+    {
+      "word": "説明が複雑すぎで、全然分かりません。",
+      "reading": "せつめいがふくざつすぎで、ぜんぜんわかりません。",
+      "vietnamese": "Lời giải thích quá phức tạp và tôi không hiểu gì cả.",
+      "number": 44
+    },
+    {
+      "word": "最近の車は操作が簡単すぎて、運転が面白くないです。",
+      "reading": "さいきんのくるまはそうさがかんたんすぎて、うんてんがおもしろくないです。",
+      "vietnamese": "Những chiếc xe gần đây quá dễ vận hành và không thú vị khi lái.",
+      "number": 44
+    },
+    {
+      "word": "勉強しすぎると、馬鹿になります。",
+      "reading": "べんきょうしすぎると、ばかになります。",
+      "vietnamese": "Nếu bạn học quá nhiều, bạn sẽ trở thành một kẻ ngốc.",
+      "number": 44
+    },
+    {
+      "word": "寝すぎたとき、頭が痛くなります。",
+      "reading": "ねすぎたとき、あたまがいたくなります。",
+      "vietnamese": "Khi tôi ngủ quá nhiều, đầu tôi đau.",
+      "number": 44
+    },
+    {
+      "word": "このコンピューターは使いやすいです。",
+      "reading": "このコンピューターはつかいやすいです。",
+      "vietnamese": "Máy tính này dễ sử dụng.",
+      "number": 44
+    },
+    {
+      "word": "雪の日は道が滑りやすいです。",
+      "reading": "ゆきのひはみちがすべりやすいです。",
+      "vietnamese": "Con đường trơn trượt vào những ngày tuyết rơi.",
+      "number": 44
+    },
+    {
+      "word": "荷物が軽いので、運びやすいです。",
+      "reading": "にもつがかるいので、はこびやすいです。",
+      "vietnamese": "Vì hành lý nhẹ nên rất dễ mang theo.",
+      "number": 44
+    },
+    {
+      "word": "足が痛いので、歩きにくいです。",
+      "reading": "あしがいたいので、あるきにくいです。",
+      "vietnamese": "Chân tôi đau nên đi lại khó khăn.",
+      "number": 44
+    },
+    {
+      "word": "字が小さくて、見にくいです。",
+      "reading": "じがちいさくて、みにくいです。",
+      "vietnamese": "Chữ nhỏ và khó đọc.",
+      "number": 44
+    },
+    {
+      "word": "あの先生の話は難しすぎて、分かりにくいです。",
+      "reading": "あのせんせいのはなしはむずかしすぎて、わかりにくいです。",
+      "vietnamese": "Bài phát biểu của giáo viên đó là quá khó hiểu.",
+      "number": 44
+    },
+    {
+      "word": "仕事は忙しくて、休みを取りにくいです。",
+      "reading": "しごとはいそがしくて、やすみをとりにくいです。",
+      "vietnamese": "Tôi bận rộn với công việc và rất khó để nghỉ ngơi.",
+      "number": 44
+    },
+    {
+      "word": "薬は苦くて、飲みにくかったです。",
+      "reading": "くすりはにがくて、のみにくかったです。",
+      "vietnamese": "Thuốc đắng và khó nuốt.",
+      "number": 44
+    },
+    {
+      "word": "ベトナムは日本より住みやすいです。",
+      "reading": "ベトナムはにほんよりすみやすいです。",
+      "vietnamese": "Việt Nam dễ sống hơn Nhật Bản.",
+      "number": 44
+    },
+    {
+      "word": "秋の天気は変わりやすいです。",
+      "reading": "あきのてんきはかわりやすいです。",
+      "vietnamese": "Thời tiết mùa thu có thể thay đổi.",
+      "number": 44
+    },
+    {
+      "word": "音が小さいですから、大きくしてください。",
+      "reading": "おとがちいさいですから、おおきくしてください。",
+      "vietnamese": "Âm thanh nhỏ, vì vậy hãy làm cho nó to hơn.",
+      "number": 44
+    },
+    {
+      "word": "パーティーの前に部屋をきれいにします。",
+      "reading": "パーティーのまえにへやをきれいにします。",
+      "vietnamese": "Dọn dẹp phòng trước bữa tiệc.",
+      "number": 44
+    },
+    {
+      "word": "砂糖の量を半分にしました。",
+      "reading": "さとうのりょうをはんぶんにしました。",
+      "vietnamese": "Tôi giảm một nửa lượng đường.",
+      "number": 44
+    },
+    {
+      "word": "彼は仕事より家族を大切にしています。",
+      "reading": "かれはしごとよりかぞくをたいせつにしています。",
+      "vietnamese": "Anh coi trọng gia đình hơn công việc.",
+      "number": 44
+    },
+    {
+      "word": "髪を短く切りたいです。",
+      "reading": "かみをみじかくきりたいです。",
+      "vietnamese": "Tôi muốn cắt tóc ngắn.",
+      "number": 44
+    },
+    {
+      "word": "ちょっと分かりにくいですから、詳しく説明していただけませんか。",
+      "reading": "ちょっとわかりにくいですから、くわしくせつめいしていただけませんか。",
+      "vietnamese": "Hơi khó hiểu, bạn có thể giải thích chi tiết được không?",
+      "number": 44
+    },
+    {
+      "word": "もう少し静かに話しましょう。",
+      "reading": "もうすこししずかにはなしましょう。",
+      "vietnamese": "Hãy nói nhỏ hơn một chút.",
+      "number": 44
+    },
+    {
+      "word": "スピーチがうまくできましたか。",
+      "reading": "スピーチがうまくできましたか。",
+      "vietnamese": "Bạn đã làm một bài phát biểu tốt?",
+      "number": 44
+    },
+    {
+      "word": "机の上をきれいに片付けしてください。",
+      "reading": "つくえのうえをきれいにかたづけしてください。",
+      "vietnamese": "Hãy dọn dẹp bàn làm việc của bạn.",
+      "number": 44
+    },
+    {
+      "word": "晩ご飯は和食にしましょう。",
+      "reading": "ばんごはんはわしょくにしましょう。",
+      "vietnamese": "Hãy ăn đồ ăn Nhật Bản cho bữa tối.",
+      "number": 44
+    },
+    {
+      "word": "会議は明日にします。",
+      "reading": "かいぎはあしたにします。",
+      "vietnamese": "Tôi sẽ có cuộc họp vào ngày mai.",
+      "number": 44
+    },
+    {
+      "word": "宿泊はホテルと旅館とどちらにしますか。",
+      "reading": "しゅくはくはホテルとりょかんとどちらにしますか。",
+      "vietnamese": "Bạn có muốn ở trong một khách sạn hoặc nhà trọ?",
+      "number": 44
+    },
+    {
+      "word": "飛行機は１１時の便にします。",
+      "reading": "ひこうきは１１じのびんにします。",
+      "vietnamese": "Chuyến bay khởi hành lúc 11:00.",
+      "number": 44
+    },
+    {
+      "word": "出発は午前８時にしてください。",
+      "reading": "しゅっぱつはごぜん８じにしてください。",
+      "vietnamese": "Vui lòng rời đi lúc 8 giờ sáng.",
+      "number": 44
+    },
+    {
+      "word": "社員旅行はヨーロッパにしました。",
+      "reading": "しゃいんりょこうはヨーロッパにしました。",
+      "vietnamese": "Tôi đã thực hiện một chuyến đi công ty đến Châu Âu.",
+      "number": 44
+    },
+    {
+      "word": "部屋はシングルにしますか。ツインにしますか。",
+      "reading": "へやはシングルにしますか。ツインにしますか。",
+      "vietnamese": "Bạn có muốn một phòng đơn? Bạn có muốn phòng đôi không?",
+      "number": 44
+    },
+    {
+      "word": "髪型はボブにしました。",
+      "reading": "かみがたはボブにしました。",
+      "vietnamese": "Tôi đã làm một kiểu tóc bob.",
+      "number": 44
+    },
+    {
+      "word": "お土産は和菓子にしました。",
+      "reading": "おみやげはわがしにしました。",
+      "vietnamese": "Quà lưu niệm là đồ ngọt của Nhật Bản.",
+      "number": 44
+    },
+    {
+      "word": "日本語の授業は日曜日にします。",
+      "reading": "にほんごのじゅぎょうはにちようびにします。",
+      "vietnamese": "Lớp học tiếng Nhật là vào Chủ nhật.",
+      "number": 44
+    }
+  ]
+}

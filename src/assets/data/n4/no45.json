@@ -1,0 +1,118 @@
+{
+  "reading": [
+    {
+      "word": "授業に間に合わない場合はクラス長に連絡してください。",
+      "reading": "じゅぎょうにまにあわないばあいはクラスちょうにれんらくしてください。",
+      "vietnamese": "Nếu không thể đến lớp đúng giờ, vui lòng liên hệ với lớp trưởng.",
+      "number": 45
+    },
+    {
+      "word": "財布を落とした場合は交番へ行ってください。",
+      "reading": "さいふをおとしたばあいはこうばんへいってください。",
+      "vietnamese": "Nếu bạn bị mất ví, vui lòng đến hộp cảnh sát.",
+      "number": 45
+    },
+    {
+      "word": "女の人に贈り物をする場合はどんな物にしたらいいですか。",
+      "reading": "おんなのひとにおくりものをするばあいはどんなものにしたらいいですか。",
+      "vietnamese": "Nên tặng quà gì cho phụ nữ?",
+      "number": 45
+    },
+    {
+      "word": "胃の調子が悪い場合は辛い物を食べないでください。",
+      "reading": "いのちょうしがわるいばあいはからいものをたべないでください。",
+      "vietnamese": "Không ăn đồ cay nếu bạn bị đau bụng.",
+      "number": 45
+    },
+    {
+      "word": "領収書が必要な場合は店の人に言ってください。",
+      "reading": "りょうしゅうしょがひつようなばあいはみせのひとにいってください。",
+      "vietnamese": "Nếu bạn cần hóa đơn, vui lòng nói với nhân viên cửa hàng.",
+      "number": 45
+    },
+    {
+      "word": "台風の場合は出かけないようにしてください。",
+      "reading": "たいふうのばあいはでかけないようにしてください。",
+      "vietnamese": "Xin đừng ra ngoài trong trường hợp có bão.",
+      "number": 45
+    },
+    {
+      "word": "ここに車を止める場合は警察の許可をもわなければなりません。",
+      "reading": "ここにくるまをとめるばあいはけいさつのきょかをもわなければなりません。",
+      "vietnamese": "Nếu đậu xe ở đây phải được phép của cảnh sát.",
+      "number": 45
+    },
+    {
+      "word": "コピーの字が薄い場合はこのボタンで調節してください。",
+      "reading": "コピーのじがうすいばあいはこのボタンでちょうせつしてください。",
+      "vietnamese": "Nếu các ký tự trong bản sao bị mờ, hãy sử dụng nút này để điều chỉnh.",
+      "number": 45
+    },
+    {
+      "word": "コンサートが中止の場合はお金を返し貰えます。",
+      "reading": "コンサートがちゅうしのばあいはおかねをかえしもらえます。",
+      "vietnamese": "Nếu buổi hòa nhạc bị hủy, bạn sẽ nhận lại được tiền của mình.",
+      "number": 45
+    },
+    {
+      "word": "お弁当が必要な場合は係りに申し込んでください。",
+      "reading": "おべんとうがひつようなばあいはかかりにもうしこんでください。",
+      "vietnamese": "Nếu bạn cần một hộp ăn trưa, xin vui lòng hỏi người phụ trách.",
+      "number": 45
+    },
+    {
+      "word": "私がケーキを作ったのに、誰も食べてくれなかった。",
+      "reading": "わたしがケーキをつくったのに、だれもたべてくれなかった。",
+      "vietnamese": "Tôi đã làm một chiếc bánh, nhưng không ai ăn nó.",
+      "number": 45
+    },
+    {
+      "word": "冬の山は危険なのに、どうして登るんですか。",
+      "reading": "ふゆのやまはきけんなのに、どうしてのぼるんですか。",
+      "vietnamese": "Những ngọn núi vào mùa đông rất nguy hiểm, vậy tại sao bạn lại leo lên chúng?",
+      "number": 45
+    },
+    {
+      "word": "２時間も待っていたのに、彼氏は来ませんでした。",
+      "reading": "２じかんもまっていたのに、かれしはきませんでした。",
+      "vietnamese": "Tôi đã đợi hai tiếng đồng hồ nhưng bạn trai tôi không đến.",
+      "number": 45
+    },
+    {
+      "word": "彼は３０歳なのに、付き合ったことがない。",
+      "reading": "かれは３０さいなのに、つきあったことがない。",
+      "vietnamese": "Anh ấy 30 tuổi và chưa bao giờ hẹn hò",
+      "number": 45
+    },
+    {
+      "word": "この車は値段が高かったのに、よく故障するそうです。",
+      "reading": "このくるまはねだんがたかかったのに、よくこしょうするそうです。",
+      "vietnamese": "Mặc dù chiếc xe này đắt tiền, nhưng người ta nói rằng nó thường xuyên bị hỏng.",
+      "number": 45
+    },
+    {
+      "word": "まだ読んでいないのに、母が雑誌を捨ててしまいました。",
+      "reading": "まだよんでいないのに、ははがざっしをすててしまいました。",
+      "vietnamese": "Mẹ tôi đã ném cuốn tạp chí đi mặc dù tôi chưa đọc nó.",
+      "number": 45
+    },
+    {
+      "word": "結婚式に招待されたのに、都合が悪くて、行けませんでした。",
+      "reading": "けっこんしきにしょうたいされたのに、つごうがわるくて、いけませんでした。",
+      "vietnamese": "Tôi được mời đến một đám cưới, nhưng tôi không thể đi vì nó không thuận tiện cho tôi.",
+      "number": 45
+    },
+    {
+      "word": "もうすぐ４月なのに、なかなか暖かくなりません。",
+      "reading": "もうすぐ４がつなのに、なかなかあたたかくなりません。",
+      "vietnamese": "Bây giờ là gần tháng tư, nhưng trời không ấm lắm.",
+      "number": 45
+    },
+    {
+      "word": "寒いのに、子供は外で遊んでいます。",
+      "reading": "さむいのに、こどもはそとであそんでいます。",
+      "vietnamese": "Những đứa trẻ đang chơi ngoài trời lạnh.",
+      "number": 45
+    }
+  ]
+}
