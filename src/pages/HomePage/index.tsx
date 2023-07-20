@@ -52,6 +52,7 @@ import no42 from "assets/data/n4/no42.json"; // done
 import no43 from "assets/data/n4/no43.json"; // done
 import no44 from "assets/data/n4/no44.json"; // done
 import no45 from "assets/data/n4/no45.json"; // done
+import no46 from "assets/data/n4/no46.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -117,6 +118,7 @@ const HomePage = () => {
               ...no43.reading,
               ...no44.reading,
               ...no45.reading,
+              ...no46.reading,
             ]}
           />
         );
