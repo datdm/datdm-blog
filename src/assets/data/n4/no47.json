@@ -1,0 +1,178 @@
+{
+  "reading": [
+    {
+      "word": "天気予報によると、明日雨が降るそうです。",
+      "reading": "てんきよほうによると、あしたあめがふるそうです。",
+      "vietnamese": "Theo dự báo thời tiết, ngày mai trời sẽ mưa.",
+      "number": 47
+    },
+    {
+      "word": "調査によると、最近結婚しない人が多くなったそうです。",
+      "reading": "ちょうさによると、さいきんけっこんしないひとがおおくなったそうです。",
+      "vietnamese": "Theo một cuộc khảo sát, ngày nay nhiều người không kết hôn.",
+      "number": 47
+    },
+    {
+      "word": "新聞によると、台風で倒れた木が多かったそうです。",
+      "reading": "しんぶんによると、たいふうでたおれたきがおおかったそうです。",
+      "vietnamese": "Theo tờ báo, nhiều cây cối đã bị đổ bởi cơn bão.",
+      "number": 47
+    },
+    {
+      "word": "ヒエンさんは恋人ができたそうです。",
+      "reading": "ヒエンさんはこいびとができたそうです。",
+      "vietnamese": "Hiền hình như có người yêu rồi.",
+      "number": 47
+    },
+    {
+      "word": "京都の祇園祭はとても綺麗だそうです。",
+      "reading": "きょうとのぎおんまつりはとてもきれいだそうです。",
+      "vietnamese": "Lễ hội Gion ở Kyoto được cho là rất đẹp.",
+      "number": 47
+    },
+    {
+      "word": "祇園祭を見たことがありますか。➞いいえ、ありませんが、とても賑やかだそうですね。",
+      "reading": "ぎおんまつりをみたことがありますか。➞いいえ、ありませんが、とてもにぎやかだそうですね。",
+      "vietnamese": "Bạn đã từng xem Lễ hội Gion chưa? ➞Không, nhưng nó có vẻ rất sống động.",
+      "number": 47
+    },
+    {
+      "word": "さっき田中さんから電話がありました。電車の事故で３０分ぐらい遅れるそうです。",
+      "reading": "さっきたなかさんからでんわがありました。でんしゃのじこで３０ぷんぐらいおくれるそうです。",
+      "vietnamese": "Tôi vừa nhận được một cuộc gọi từ ông Tanaka. Có vẻ như chuyến tàu sẽ bị trễ khoảng 30 phút do vụ tai nạn.",
+      "number": 47
+    },
+    {
+      "word": "木村さんに赤ちゃんが生まれたそうです。それは良かったですね。どちらですか。➞男の子だそうです。とても可愛いそうですよ。",
+      "reading": "きむらさんにあかちゃんがうまれたそうです。それはよかったですね。どちらですか。➞おとこのこだそうです。とてもかわいいそうですよ。",
+      "vietnamese": "Một em bé được sinh ra cho ông Kimura. Điều đó thật tốt. Cái nào. ➞Là con trai. Nó trông rất dễ thương.",
+      "number": 47
+    },
+    {
+      "word": "彼はN1を合格したようです。",
+      "reading": "かれはN1をごうかくしたようです。",
+      "vietnamese": "Có vẻ như anh ấy đã đậu N1.",
+      "number": 47
+    },
+    {
+      "word": "電気がついていますから、誰か来たようです。",
+      "reading": "でんきがついていますから、だれかきたようです。",
+      "vietnamese": "Đèn sáng, hình như có người tới.",
+      "number": 47
+    },
+    {
+      "word": "たくさんの人が集まっているので、事故のようです。",
+      "reading": "たくさんのひとがあつまっているので、じこのようです。",
+      "vietnamese": "Trông giống như một vụ tai nạn vì có rất nhiều người tụ tập.",
+      "number": 47
+    },
+    {
+      "word": "Aさんはコーヒーが好きなようです。毎日コーヒーを飲みますから。",
+      "reading": "Aさんはコーヒーがすきなようです。まいにちコーヒーをのみますから。",
+      "vietnamese": "Có vẻ như A thích cà phê. Uống cà phê mỗi ngày.",
+      "number": 47
+    },
+    {
+      "word": "外は風が強いようです。",
+      "reading": "そとはかぜがつよいようです。",
+      "vietnamese": "Có vẻ như gió bên ngoài rất mạnh.",
+      "number": 47
+    },
+    {
+      "word": "小川さんの話は本当のようです。",
+      "reading": "おがわさんのはなしはほんとうのようです。",
+      "vietnamese": "Câu chuyện của Ogawa có vẻ là sự thật.",
+      "number": 47
+    },
+    {
+      "word": "事務所の電気が消えています。誰もいないようです。",
+      "reading": "じむしょのでんきがきえています。だれもいないようです。",
+      "vietnamese": "Đèn văn phòng đã tắt. Có vẻ như không có ai.",
+      "number": 47
+    },
+    {
+      "word": "玄関で人の声がしました。誰かが来たようです。",
+      "reading": "げんかんでひとのこえがしました。だれかがきたようです。",
+      "vietnamese": "Tôi nghe thấy giọng nói của ai đó ở cửa. Có vẻ như ai đó đã đến.",
+      "number": 47
+    },
+    {
+      "word": "いい匂いがします。今日の晩ご飯はカレーのようです。",
+      "reading": "いいにおいがします。きょうのばんごはんはカレーのようです。",
+      "vietnamese": "Nó thật thơm. Bữa tối hôm nay giống cà ri.",
+      "number": 47
+    },
+    {
+      "word": "先生は来ないみたいですね。",
+      "reading": "せんせいはこないみたいですね。",
+      "vietnamese": "Tôi không nghĩ giáo viên sẽ đến.",
+      "number": 47
+    },
+    {
+      "word": "彼女は彼氏が出来たみたい。",
+      "reading": "かのじょはかれしができたみたい。",
+      "vietnamese": "Hình như cô ấy có bạn trai",
+      "number": 47
+    },
+    {
+      "word": "この映画は面白いみたい。",
+      "reading": "このえいがはおもしろいみたい。",
+      "vietnamese": "Bộ phim này có vẻ thú vị.",
+      "number": 47
+    },
+    {
+      "word": "Aさんはコーヒーが好きみたい。毎日コーヒーを飲みますから。",
+      "reading": "Aさんはコーヒーがすきみたい。まいにちコーヒーをのみますから。",
+      "vietnamese": "Anh A có vẻ thích cà phê. Tôi uống cà phê mỗi ngày.",
+      "number": 47
+    },
+    {
+      "word": "外は風が強いみたい。",
+      "reading": "そとはかぜがつよいみたい。",
+      "vietnamese": "Hình như bên ngoài có gió.",
+      "number": 47
+    },
+    {
+      "word": "小川さんの話は本当みたい。",
+      "reading": "おかわさんのはなしはほんとうみたい。",
+      "vietnamese": "Câu chuyện của Ogawa có vẻ là sự thật.",
+      "number": 47
+    },
+    {
+      "word": "子供の声がします。",
+      "reading": "こどものこえがします。",
+      "vietnamese": "Tôi nghe thấy giọng nói của một đứa trẻ.",
+      "number": 47
+    },
+    {
+      "word": "車の音がします。",
+      "reading": "くるまのおとがします。",
+      "vietnamese": "Tôi nghe thấy một chiếc xe hơi.",
+      "number": 47
+    },
+    {
+      "word": "変な匂いがします。",
+      "reading": "へんなにおいがします。",
+      "vietnamese": "Nó có mùi lạ.",
+      "number": 47
+    },
+    {
+      "word": "男の匂いがします。",
+      "reading": "おとこのにおいがします。",
+      "vietnamese": "Tôi ngửi thấy một người đàn ông.",
+      "number": 47
+    },
+    {
+      "word": "豚の味がします。",
+      "reading": "ぶたのあじがします。",
+      "vietnamese": "Nó có vị như thịt lợn.",
+      "number": 47
+    },
+    {
+      "word": "魚の味がします。",
+      "reading": "さかなのあじがします。",
+      "vietnamese": "Nó có vị như cá.",
+      "number": 47
+    }
+  ]
+}
