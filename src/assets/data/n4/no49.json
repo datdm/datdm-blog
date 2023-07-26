@@ -1,0 +1,136 @@
+{
+  "reading": [
+    {
+      "word": "今、何の仕事をなさっていますか。➞今、日本語を教えています。",
+      "reading": "いま、なんのしごとをなさっていますか。➞いま、にほんごをおしえています。",
+      "vietnamese": "Bạn đang làm gì ngay bây giờ? ➞Tôi đang dạy tiếng Nhật.",
+      "number": 49
+    },
+    {
+      "word": "今、どこにいらっしゃいますか。事務所にいます。",
+      "reading": "いま、どこにいらっしゃいますか。じむしょにいます。",
+      "vietnamese": "Bạn đang ở chỗ nào? Tôi đang ở văn phòng.",
+      "number": 49
+    },
+    {
+      "word": "島川先生は神戸にいらっしゃったことがありますか。",
+      "reading": "しまかわせんせいはこうべにいらっしゃったことがありますか。",
+      "vietnamese": "Giáo sư Shimakawa đã từng đến Kobe chưa?",
+      "number": 49
+    },
+    {
+      "word": "サムライちゃんの新しい動画もうご覧になりましたか。",
+      "reading": "サムライちゃんのあたらしいどうがもうごらんになりましたか。",
+      "vietnamese": "Bạn đã xem video mới của Samurai chưa?",
+      "number": 49
+    },
+    {
+      "word": "先生さっき何とおっしゃっていましたか。➞昨日の仕事終わったかって聞いていました。",
+      "reading": "せんせいさっきなんとおっしゃっていましたか。➞きのうのしごとおわったかってきいていました。",
+      "vietnamese": "Thầy vừa nói gì vậy?➞Anh ấy hỏi tôi hôm qua tôi đã làm xong việc chưa.",
+      "number": 49
+    },
+    {
+      "word": "フォー召し上がったことがありますか。",
+      "reading": "フォーめしあがったことがありますか。",
+      "vietnamese": "Bạn đã từng ăn phở chưa?",
+      "number": 49
+    },
+    {
+      "word": "お水召し上がったことがありますか。",
+      "reading": "おみずめしあがったことがありますか。",
+      "vietnamese": "Bạn đã bao giờ có nước?",
+      "number": 49
+    },
+    {
+      "word": "サムライちゃんをご存じですか。➞いや、知りません。",
+      "reading": "サムライちゃんをごぞんじですか。➞いや、しりません。",
+      "vietnamese": "Bạn có biết Samurai-chan không? ➞ Không, tôi không biết.",
+      "number": 49
+    },
+    {
+      "word": "社著もう帰られましたか。➞はい、帰られました。",
+      "reading": "しゃちょうもうかえられましたか。➞はい、かえられました。",
+      "vietnamese": "Giám đốc đã về nhà chưa? ➞Vâng, bạn đã trở lại.",
+      "number": 49
+    },
+    {
+      "word": "先生、ベトナムについてどう思われますか。➞暑い国ですね。",
+      "reading": "せんせい、ベトナムについてどうおもわれますか。➞あついくにですね。",
+      "vietnamese": "Thưa thầy, thầy nghĩ gì về Việt Nam? ➞Đó là một đất nước nóng.",
+      "number": 49
+    },
+    {
+      "word": "もう決まりになりましたか。➞はい、とりあえず水一本ください。",
+      "reading": "もうきまりになりましたか。➞はい、とりあえずみずいっぽんください。",
+      "vietnamese": "Bạn đã quyết định chưa? ➞ Vâng, xin vui lòng cho tôi một chai nước bây giờ.",
+      "number": 49
+    },
+    {
+      "word": "どうぞお待ちください。",
+      "reading": "どうぞおまちください。",
+      "vietnamese": "Vui lòng chờ.",
+      "number": 49
+    },
+    {
+      "word": "どうぞ座りください。",
+      "reading": "どうぞすわりください。",
+      "vietnamese": "Xin mời ngồi.",
+      "number": 49
+    },
+    {
+      "word": "どうぞ入りください。",
+      "reading": "どうぞはいりください。",
+      "vietnamese": "Vui lòng nhập.",
+      "number": 49
+    },
+    {
+      "word": "どうぞおかけください。",
+      "reading": "どうぞおかけください。",
+      "vietnamese": "Xin mời ngồi.",
+      "number": 49
+    },
+    {
+      "word": "ぜひご検討ください。",
+      "reading": "ぜひごけんとうください。",
+      "vietnamese": "Hãy cân nhắc điều đó.",
+      "number": 49
+    },
+    {
+      "word": "また何かご質問があれば、ご連絡ください。",
+      "reading": "またなにかごしつもんがあれば、ごれんらくください。",
+      "vietnamese": "Nếu bạn có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi.",
+      "number": 49
+    },
+    {
+      "word": "アンケートにご協力ください。",
+      "reading": "アンケートにごきょうりょくください。",
+      "vietnamese": "Xin vui lòng hợp tác với các câu hỏi.",
+      "number": 49
+    },
+    {
+      "word": "アンケートにご協力いただけますか。",
+      "reading": "アンケートにごきょうりょくいただけますか。",
+      "vietnamese": "Bạn có thể giúp chúng tôi với cuộc khảo sát?",
+      "number": 49
+    },
+    {
+      "word": "車はお持ちですか。",
+      "reading": "くるまはおもちですか。",
+      "vietnamese": "bạn có xe hơi không",
+      "number": 49
+    },
+    {
+      "word": "日本の政治についてどうお考えですか。",
+      "reading": "にほんのせいじについてどうおかんがえですか。",
+      "vietnamese": "Bạn nghĩ gì về chính trị Nhật Bản?",
+      "number": 49
+    },
+    {
+      "word": "日本語を考えていただきまして誠にありがとうございます。",
+      "reading": "にほんごをかんがえていただきましてまことにありがとうございます。",
+      "vietnamese": "Cảm ơn bạn đã xem xét tiếng Nhật.",
+      "number": 49
+    }
+  ]
+}
