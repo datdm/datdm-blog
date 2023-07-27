@@ -1,0 +1,64 @@
+{
+  "reading": [
+    {
+      "word": "まもなく電車が参ります。危ないですから、白線の内側までお待ちください。",
+      "reading": "まもなくでんしゃがまいります。あぶないですから、はくせんのうちがわまでおまちください。",
+      "vietnamese": "Tàu sẽ đến sớm thôi. Nó nguy hiểm, vì vậy hãy đợi bên trong vạch trắng.",
+      "number": 50
+    },
+    {
+      "word": "公園に伺います。",
+      "reading": "こうえんにうかがいます。",
+      "vietnamese": "Tôi sẽ đi công viên.",
+      "number": 50
+    },
+    {
+      "word": "ちょっと伺いたいことがあるんですが、今よろしいでしょうか。",
+      "reading": "ちょっとうかがいたいことがあるんですが、いまよろしいでしょうか。",
+      "vietnamese": "Tôi muốn hỏi bạn một điều, bây giờ có ổn không?",
+      "number": 50
+    },
+    {
+      "word": "お土産、どうぞ。➞あ。いただきます。",
+      "reading": "おみやげ、どうぞ。➞あ。いただきます。",
+      "vietnamese": "Làm quà lưu niệm. ➞ À. Tôi sẽ thích có cái này.",
+      "number": 50
+    },
+    {
+      "word": "こんな本はいいですよ。差し上げますよ。",
+      "reading": "こんなほんはいいですよ。さしあげますよ。",
+      "vietnamese": "Tôi thích cuốn sách này. Tôi sẽ đưa nó cho bạn.",
+      "number": 50
+    },
+    {
+      "word": "サムライちゃんってよく存じ上げております。",
+      "reading": "サムライちゃんってよくぞんじあげております。",
+      "vietnamese": "Tôi biết Samurai-chan rất rõ.",
+      "number": 50
+    },
+    {
+      "word": "社長、そろそろタクシーお呼びしましょうか。",
+      "reading": "しゃちょう、そろそろタクシーおよびしましょうか。",
+      "vietnamese": "Giám đốc, chúng ta gọi taxi sớm nhé?",
+      "number": 50
+    },
+    {
+      "word": "先日、駅で社長の奥さんお目にかかりましたよ。",
+      "reading": "せんじつ、えきでしゃちょうのおくさんおめにかかりましたよ。",
+      "vietnamese": "Hôm nọ, tôi gặp phu nhân của giám đốc tại nhà ga.",
+      "number": 50
+    },
+    {
+      "word": "ビールと唐揚げ、お願いします。➞はい、かしこまりました。他に何かご注文はございますか。",
+      "reading": "ビールとからあげ、おねがいします。➞はい、かしこまりました。ほかになにかごちゅうもんはございますか。",
+      "vietnamese": "Bia và gà rán, làm ơn. ➞ Vâng, tôi đã lịch sự. Bạn có đơn đặt hàng nào khác không?",
+      "number": 50
+    },
+    {
+      "word": "先生でいらっしゃいますか。➞はい、そうです。",
+      "reading": "せんせいでいらっしゃいますか。➞はい、そうです。",
+      "vietnamese": "Bạn có phải là giáo viên không? ➞Vâng, đúng vậy.",
+      "number": 50
+    }
+  ]
+}
