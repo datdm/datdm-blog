@@ -303,6 +303,10 @@ export const sidebars = [
         icon: N4Icon,
         src: sources.JLPT_N4,
       },
+      {
+        label: "N3",
+        src: sources.JLPT_N3,
+      },
     ],
   },
 ];

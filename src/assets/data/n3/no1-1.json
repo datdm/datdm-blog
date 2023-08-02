@@ -1,0 +1,40 @@
+{
+  "reading": [
+    {
+      "word": "これは世界で一番大きいダイヤモンドだと言われています。",
+      "reading": "これはせかいでいちばんおおきいダイヤモンドだといわれています。",
+      "vietnamese": "Nó được cho là viên kim cương lớn nhất thế giới.",
+      "number": 1.1
+    },
+    {
+      "word": "この本には詳しい説明は別れていません。",
+      "reading": "このほんにはわくしいせつめいはかわれていません。",
+      "vietnamese": "Không có giải thích chi tiết trong cuốn sách này.",
+      "number": 1.1
+    },
+    {
+      "word": "友達の赤ちゃんを抱っこしたら、泣かれてしまった。",
+      "reading": "ともだちのあかちゃんをだっこしたら、なかれてしまった。",
+      "vietnamese": "Khi bế con của bạn mình, nó đã khóc.",
+      "number": 1.1
+    },
+    {
+      "word": "雨に降られて、服が濡れてしまった。",
+      "reading": "あめにふられて、ふくがぬれてしまった。",
+      "vietnamese": "Trời mưa và quần áo của tôi bị ướt.",
+      "number": 1.1
+    },
+    {
+      "word": "ちょっと気分が悪いので、早く帰らせてください。",
+      "reading": "ちょっときぶんがわるいので、はやくかえらせてください。",
+      "vietnamese": "Tôi cảm thấy hơi ốm, vì vậy xin vui lòng cho tôi về nhà sớm.",
+      "number": 1.1
+    },
+    {
+      "word": "手を洗わせてください。",
+      "reading": "てをあらわせてください。",
+      "vietnamese": "Làm ơn để tôi rửa tay.",
+      "number": 1.1
+    }
+  ]
+}
