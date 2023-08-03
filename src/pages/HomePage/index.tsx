@@ -58,6 +58,7 @@ import no48 from "assets/data/n4/no48.json"; // done
 import no49 from "assets/data/n4/no49.json"; // done
 import no50 from "assets/data/n4/no50.json"; // done
 import no1_1 from "assets/data/n3/no1-1.json"; // done
+import no1_2 from "assets/data/n3/no1-2.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -132,7 +133,7 @@ const HomePage = () => {
           />
         );
       case sources.JLPT_N3:
-        return <JLPT readingData={[...no1_1.reading]} />;
+        return <JLPT readingData={[...no1_1.reading, ...no1_2.reading]} />;
       default:
         return <ReadMarkdown src={srcSelected} />;
     }
