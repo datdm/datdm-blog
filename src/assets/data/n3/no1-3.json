@@ -1,0 +1,154 @@
+{
+  "reading": [
+    {
+      "word": "彼みたいな強い人が好きです。",
+      "reading": "かれみたいなつよい人がすきです。",
+      "vietnamese": "Tôi thích những người mạnh mẽ như anh ấy.",
+      "number": 1.3
+    },
+    {
+      "word": "彼のような強い人が好きです。",
+      "reading": "かれのようなつよい人がすきです。",
+      "vietnamese": "Tôi thích những người mạnh mẽ như anh ấy.",
+      "number": 1.3
+    },
+    {
+      "word": "ミラーさんみたいなカッコいい男性はいないと思う。",
+      "reading": "ミラーさんみたいなカッコいいだんせいはいないとおもう。",
+      "vietnamese": "Tôi không nghĩ có một người nào tuyệt vời như ông Miller.",
+      "number": 1.3
+    },
+    {
+      "word": "リンさんみたい日本語がうまくなりたい。",
+      "reading": "リンさんみたいにほんごがうまくなりたい。",
+      "vietnamese": "Tôi muốn cải thiện tiếng Nhật của mình như Rin-san.",
+      "number": 1.3
+    },
+    {
+      "word": "リンさんのように日本語がうまくなりたい。",
+      "reading": "リンさんのようににほんごがうまくなりたい。",
+      "vietnamese": "Tôi muốn cải thiện tiếng Nhật của mình như Lin.",
+      "number": 1.3
+    },
+    {
+      "word": "彼の話し方は女みたいだ。",
+      "reading": "かれのはなしかたはおんなみたいだ。",
+      "vietnamese": "Cách anh ấy nói chuyện giống như một người phụ nữ.",
+      "number": 1.3
+    },
+    {
+      "word": "彼の話し方は女のようだ。",
+      "reading": "かれのはなしかたはおんなのようだ。",
+      "vietnamese": "Cách anh ấy nói chuyện giống như một người phụ nữ.",
+      "number": 1.3
+    },
+    {
+      "word": "ここの砂は星みたいな形をしている。",
+      "reading": "ここのすなはほしみたいなかたちをしている。",
+      "vietnamese": "Cát ở đây có hình ngôi sao.",
+      "number": 1.3
+    },
+    {
+      "word": "あなたは子供みたいです。",
+      "reading": "あなたはこどもみたいです。",
+      "vietnamese": "bạn giống như một đứa trẻ",
+      "number": 1.3
+    },
+    {
+      "word": "このアパートは誰も住んでいないみたいだ。",
+      "reading": "このアパートはだれもすんでいないみたいだ。",
+      "vietnamese": "Có vẻ như không có ai sống trong căn hộ này.",
+      "number": 1.3
+    },
+    {
+      "word": "彼女は疲れているみたいだ。",
+      "reading": "かのじょはつかれているみたいだ。",
+      "vietnamese": "cô ấy trông mệt mỏi",
+      "number": 1.3
+    },
+    {
+      "word": "もう売り切れみたい。",
+      "reading": "もううりきれみたい。",
+      "vietnamese": "Tôi nghĩ rằng nó đã được bán hết.",
+      "number": 1.3
+    },
+    {
+      "word": "もう売り切れのようだ。",
+      "reading": "もううりきれのようだ。",
+      "vietnamese": "Có vẻ như chúng đã được bán hết.",
+      "number": 1.3
+    },
+    {
+      "word": "今日は春らしい暖かい日でした。",
+      "reading": "きょうははるらしいあたたかいひでした。",
+      "vietnamese": "Hôm nay là một ngày xuân ấm áp.",
+      "number": 1.3
+    },
+    {
+      "word": "私は女性らしい洋服はあまり着ない。",
+      "reading": "わたしはじょせいらしいようふくはあまりきない。",
+      "vietnamese": "Tôi không thường xuyên mặc quần áo nữ tính.",
+      "number": 1.3
+    },
+    {
+      "word": "あの子は子供らしいです。",
+      "reading": "あのこはこどもらしいです。",
+      "vietnamese": "Đứa trẻ đó trông giống như một đứa trẻ.",
+      "number": 1.3
+    },
+    {
+      "word": "途中で諦めるのは私らしくないです。",
+      "reading": "とちゅうであきらめるのはわたしらしくないです。",
+      "vietnamese": "Không phải mình bỏ cuộc giữa chừng đâu.",
+      "number": 1.3
+    },
+    {
+      "word": "綺麗な人らしいです。",
+      "reading": "きれいなひとらしいです。",
+      "vietnamese": "Cô ấy có vẻ như là một người đẹp.",
+      "number": 1.3
+    },
+    {
+      "word": "この料理は脂っぽくていやだ。",
+      "reading": "このりょうりはあぶらっぽくていやだ。",
+      "vietnamese": "Món ăn này béo ngậy.",
+      "number": 1.3
+    },
+    {
+      "word": "黒っぽい。",
+      "reading": "くろっぽい。",
+      "vietnamese": "Như màu đen.",
+      "number": 1.3
+    },
+    {
+      "word": "水っぽい。",
+      "reading": "みずっぽい。",
+      "vietnamese": "Như nước.",
+      "number": 1.3
+    },
+    {
+      "word": "私は白っぽい服を着ません。",
+      "reading": "わたしはしろっぽいふくをきません。",
+      "vietnamese": "Tôi không mặc đồ trắng.",
+      "number": 1.3
+    },
+    {
+      "word": "この靴は黒っぽいね。",
+      "reading": "このくつはくろっぽいね。",
+      "vietnamese": "Đôi giày này trông có màu đen.",
+      "number": 1.3
+    },
+    {
+      "word": "彼は忘れっぽい人だ。",
+      "reading": "かれはわすれっぽい人だ。",
+      "vietnamese": "Anh ấy hay quên.",
+      "number": 1.3
+    },
+    {
+      "word": "会社にすごく怒りっぽい人がいます。",
+      "reading": "かいしゃにすごくいかりっぽいひとがいます。",
+      "vietnamese": "Tôi có một người rất tức giận trong công ty của tôi.",
+      "number": 1.3
+    }
+  ]
+}
