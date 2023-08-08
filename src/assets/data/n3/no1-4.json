@@ -1,0 +1,46 @@
+{
+  "reading": [
+    {
+      "word": "忘れ物をしないようにしましょう。",
+      "reading": "わすれものをしないようにしましょう。",
+      "vietnamese": "Đừng quên bất cứ điều gì.",
+      "number": 1.4
+    },
+    {
+      "word": "毎食後、歯を磨くようにしています。",
+      "reading": "まいしょくご、はをみがくようにしています。",
+      "vietnamese": "Tôi cố gắng đánh răng sau mỗi bữa ăn.",
+      "number": 1.4
+    },
+    {
+      "word": "皆に聞こえるようにもっと大きな声で話してください。",
+      "reading": "みんなにきこえるようにもっとおおきなこえではなしてください。",
+      "vietnamese": "Hãy nói to hơn để mọi người có thể nghe thấy bạn.",
+      "number": 1.4
+    },
+    {
+      "word": "忘れないように手帳に書いておこう。",
+      "reading": "わすれないようにてちょうにかいておこう。",
+      "vietnamese": "Đừng quên ghi nó vào sổ tay của bạn.",
+      "number": 1.4
+    },
+    {
+      "word": "日本語が話せるようになりました。",
+      "reading": "にほんごがはなせるようになりました。",
+      "vietnamese": "Tôi đã có thể nói tiếng Nhật.",
+      "number": 1.4
+    },
+    {
+      "word": "このDVDプレーヤ、壊れているんだよね。じゃ、直してもらったから、使えるようになった。",
+      "reading": "このDVDプレーヤ、こわれているんだよね。じゃ、なおしてもらったから、つかえるようになった。",
+      "vietnamese": "Đầu đĩa DVD này bị hỏng. Vâng, tôi đã sửa nó, vì vậy bây giờ tôi có thể sử dụng nó.",
+      "number": 1.4
+    },
+    {
+      "word": "ここの電気は人が通るとつくようになっています。",
+      "reading": "ここのでんきはひとがとおるとつくようになっています。",
+      "vietnamese": "Điện ở đây được bật khi có người qua lại.",
+      "number": 1.4
+    }
+  ]
+}
