@@ -1,0 +1,94 @@
+{
+  "reading": [
+    {
+      "word": "皆様ご存じのように、試験の内容が変わります。",
+      "reading": "みんなごぞんじのように、しけんのないようがかわります。",
+      "vietnamese": "Như các bạn đã biết, nội dung của kỳ thi thay đổi.",
+      "number": 1.5
+    },
+    {
+      "word": "ここに書いてあるように、今度の木曜日、授業は午前中だけです。",
+      "reading": "ここにかいてあるように、こんどのもくようび、じゅぎょうはごぜんちゅうだけです。",
+      "vietnamese": "Như đã viết ở đây, thứ Năm tới, lớp học chỉ học vào buổi sáng.",
+      "number": 1.5
+    },
+    {
+      "word": "前にお話したように、来年から授業料が値上がります。",
+      "reading": "まえにおはなしたように、らいねんからじゅぎょうりょうがねあがります。",
+      "vietnamese": "Như tôi đã nói trước đây, học phí sẽ tăng từ năm tới.",
+      "number": 1.5
+    },
+    {
+      "word": "あの雲は魚のような形をしている。",
+      "reading": "あのくもはさかなのようなかたちをしている。",
+      "vietnamese": "Đám mây đó có hình con cá.",
+      "number": 1.5
+    },
+    {
+      "word": "普通の紙と違って、水に濡れませんし、水を通さないガラスのような物ですけれど、空気のような物は通します。",
+      "reading": "ふつうのかみとちがって、みずにぬれませんし、みずをとおさないガラスのようなものですけれど、くうきのようなものはとおします。",
+      "vietnamese": "Không giống như giấy thông thường, nó không bị nước làm ướt và mặc dù nó giống như thủy tinh không thấm nước, nhưng nó cho phép những thứ như không khí đi qua.",
+      "number": 1.5
+    },
+    {
+      "word": "明日はもっと早く来るように。",
+      "reading": "あしたはもっとはやくきるように。",
+      "vietnamese": "Ngày mai hãy đến sớm hơn.",
+      "number": 1.5
+    },
+    {
+      "word": "ここでタバコを吸わないように。",
+      "reading": "ここでタバコをすわないように。",
+      "vietnamese": "Xin đừng hút thuốc ở đây.",
+      "number": 1.5
+    },
+    {
+      "word": "健康のために、野菜を食べるように。",
+      "reading": "けんこうのために、やさいをたべるように。",
+      "vietnamese": "Vì sức khỏe của bạn, hãy ăn rau.",
+      "number": 1.5
+    },
+    {
+      "word": "田中さんに私の部屋に来るように言ってください。",
+      "reading": "たかなさんにわたしのへやにきるようにいってください。",
+      "vietnamese": "Hãy bảo Tanaka đến phòng tôi.",
+      "number": 1.5
+    },
+    {
+      "word": "田中さんがミラーさんに英語を見てくれるように頼んでいる。",
+      "reading": "たなかさんがミラーさんにえいごをみてくれるようにたのんでいる。",
+      "vietnamese": "Tanaka đang yêu cầu Miller xem tiếng Anh.",
+      "number": 1.5
+    },
+    {
+      "word": "合格しますように。",
+      "reading": "ごうかくしますように。",
+      "vietnamese": "Tôi hy vọng bạn vượt qua.",
+      "number": 1.5
+    },
+    {
+      "word": "彼女の病気が治りますように。",
+      "reading": "かのじょのびょうきがなおりますように。",
+      "vietnamese": "Cầu mong bệnh của cô ấy được chữa khỏi.",
+      "number": 1.5
+    },
+    {
+      "word": "このパーティーに、ぜひ出席いただけますように。",
+      "reading": "このパーティーに、ぜひしゅっせきいただけますように。",
+      "vietnamese": "Tôi hy vọng bạn sẽ có thể tham dự bữa tiệc này.",
+      "number": 1.5
+    },
+    {
+      "word": "この服を着ると、太っているよう見える。",
+      "reading": "このふくをきると、ふとっているようみえる。",
+      "vietnamese": "Chiếc váy này khiến bạn trông béo hơn.",
+      "number": 1.5
+    },
+    {
+      "word": "彼は大学を卒業してから、少し変わったように感じる。",
+      "reading": "かれはだいがくをそつぎょうしてから、すこしすわったようにかんじる。",
+      "vietnamese": "Tôi cảm thấy như anh ấy đã thay đổi một chút kể từ khi anh ấy tốt nghiệp đại học.",
+      "number": 1.5
+    }
+  ]
+}

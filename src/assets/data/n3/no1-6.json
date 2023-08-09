@@ -1,0 +1,64 @@
+{
+  "reading": [
+    {
+      "word": "時間があれば、旅行をしようと思っています。",
+      "reading": "じかんがあれば、りょこうをしようとおもっています。",
+      "vietnamese": "Nếu tôi có thời gian, tôi muốn đi du lịch.",
+      "number": 1.6
+    },
+    {
+      "word": "日本で仕事を見つけようと思っています。",
+      "reading": "にほんでしごとをみつけようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc tìm một công việc ở Nhật Bản.",
+      "number": 1.6
+    },
+    {
+      "word": "外国で勉強しようと思っています。",
+      "reading": "がいこくでべんきょうしようとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc đi du học.",
+      "number": 1.6
+    },
+    {
+      "word": "来年、国に帰ろうと思っています。",
+      "reading": "らいねん、くににかえろうとおもっています。",
+      "vietnamese": "Tôi đang nghĩ đến việc trở lại đất nước của tôi vào năm tới.",
+      "number": 1.6
+    },
+    {
+      "word": "電車に乗ろうとしたときに、ドアが閉まって乗れなかった。",
+      "reading": "でんしゃにのろうとしたときに、ドアがしまってのれなかった。",
+      "vietnamese": "Tôi đang nghĩ đến việc trở lại đất nước của tôi vào năm tới.",
+      "number": 1.6
+    },
+    {
+      "word": "家を出ようとしたとき、突然大雨が降り出した。",
+      "reading": "いえをでようとしたとき、とつぜんおおあめがふり出した。",
+      "vietnamese": "Khi tôi chuẩn bị rời khỏi nhà, trời đột nhiên đổ mưa rất to.",
+      "number": 1.6
+    },
+    {
+      "word": "あの子は一所懸命手を伸ばして、テーブルの上のおもちゃを取ろうとしている。",
+      "reading": "あのこはいっしょけんめいてをのばして、テーブルのうえのおもちゃをとろうとしている。",
+      "vietnamese": "Đứa trẻ đó đang với tay hết sức để nhặt món đồ chơi trên bàn.",
+      "number": 1.6
+    },
+    {
+      "word": "彼は自分のことは何も言おうとしない。",
+      "reading": "かれはじぶんのことはなにもいおうとしない。",
+      "vietnamese": "Anh ấy không nói bất cứ điều gì về bản thân mình.",
+      "number": 1.6
+    },
+    {
+      "word": "あの子は叱られても、決して謝ろうとしない。",
+      "reading": "あのこはしかられても、けっしてあやまろうとしない。",
+      "vietnamese": "Dù bị mắng cũng không bao giờ xin lỗi.",
+      "number": 1.6
+    },
+    {
+      "word": "仕事がたくさん残っているけど、誰も何もしようとしないね。",
+      "reading": "しごとがたくさんのこっているけど、だれもなにもしようとしないね。",
+      "vietnamese": "Còn rất nhiều việc phải làm, nhưng không ai làm bất cứ điều gì về nó.",
+      "number": 1.6
+    }
+  ]
+}
