@@ -1,0 +1,166 @@
+{
+  "reading": [
+    {
+      "word": "この問題に関して、ご意見ありませんか。",
+      "reading": "このもんだいにかんして、ごいけんありませんか。",
+      "vietnamese": "Bất kỳ suy nghĩ về vấn đề này?",
+      "number": 2.2
+    },
+    {
+      "word": "この事件に関して、新しい情報が入りました。",
+      "reading": "このじけんにかんして、あたらしいじょうほうがはいりました。",
+      "vietnamese": "Chúng tôi có thông tin mới liên quan đến vụ việc này.",
+      "number": 2.2
+    },
+    {
+      "word": "この町の歴史に関して本を探しています。",
+      "reading": "このまちのれきしにかんしてほんをさがしています。",
+      "vietnamese": "Tôi đang tìm một cuốn sách về lịch sử của thị trấn này.",
+      "number": 2.2
+    },
+    {
+      "word": "その件に関しては、午後メールでご案内します。",
+      "reading": "そのけんにかんしては、ごごメールでごあんないします。",
+      "vietnamese": "Tôi sẽ thông báo cho bạn về vấn đề này qua email vào buổi chiều.",
+      "number": 2.2
+    },
+    {
+      "word": "農業に関する論文を読みます。",
+      "reading": "のうぎょうにかんするろんぶんをよみます。",
+      "vietnamese": "Đọc báo về nông nghiệp.",
+      "number": 2.2
+    },
+    {
+      "word": "この町の歴史に関する本を探しています。",
+      "reading": "このまちのれきしにかんするほんをさがしています。",
+      "vietnamese": "Tôi đang tìm một cuốn sách về lịch sử của thị trấn này.",
+      "number": 2.2
+    },
+    {
+      "word": "この件に関しての報告はまだ受けていない。",
+      "reading": "このけんにかんしてのほうこくはまだうけていない。",
+      "vietnamese": "Chúng tôi chưa nhận được bất kỳ báo cáo nào về vấn đề này.",
+      "number": 2.2
+    },
+    {
+      "word": "日本の経済について研究しています。",
+      "reading": "にほんのけいざいについてけんきゅうしています。",
+      "vietnamese": "Tôi đang nghiên cứu về kinh tế của Nhật Bản.",
+      "number": 2.2
+    },
+    {
+      "word": "コンピューターの使い方についての本が欲しい。",
+      "reading": "コンピューターのつかいかたについてのほんがほしい。",
+      "vietnamese": "Tôi muốn một cuốn sách về cách sử dụng máy tính.",
+      "number": 2.2
+    },
+    {
+      "word": "あの映画についてどう思いますか。",
+      "reading": "あのえいがについてどうおもいますか。",
+      "vietnamese": "Bạn nghĩ gì về bộ phim đó?",
+      "number": 2.2
+    },
+    {
+      "word": "彼はベトナムの文化について研究しています。",
+      "reading": "かれはベトナムのぶんかについてけんきゅうしています。",
+      "vietnamese": "Anh nghiên cứu văn hóa Việt Nam.",
+      "number": 2.2
+    },
+    {
+      "word": "日本の習慣についても考えてみよう。",
+      "reading": "にほんのしゅうかんについてもかんがえてみよう。",
+      "vietnamese": "Hãy suy nghĩ về phong tục Nhật Bản.",
+      "number": 2.2
+    },
+    {
+      "word": "この病菌の原因についてはいくつか説のある。",
+      "reading": "このびょうきのげんいんについてはいくつかせいのある。",
+      "vietnamese": "Có một số giả thuyết về nguyên nhân của căn bệnh này.",
+      "number": 2.2
+    },
+    {
+      "word": "コンピューターの使い方についての本が欲しいです。",
+      "reading": "コンピューターのつかいかたについてのほんがほしいです。",
+      "vietnamese": "Tôi muốn một cuốn sách về cách sử dụng máy tính.",
+      "number": 2.2
+    },
+    {
+      "word": "この薬の安全性についての調査は出て来た。",
+      "reading": "このくすりのあんぜんせいについてのちょうさはでてきた。",
+      "vietnamese": "Các nghiên cứu đã nổi lên về sự an toàn của loại thuốc này.",
+      "number": 2.2
+    },
+    {
+      "word": "天気情報によると、明日雨が降るそうだ。",
+      "reading": "てんきじょうほうによると、あしたあめがるるそうだ。",
+      "vietnamese": "Theo dự báo thời tiết, ngày mai trời sẽ mưa.",
+      "number": 2.2
+    },
+    {
+      "word": "新聞によると、名古屋に大火災があったそうです。",
+      "reading": "しんぶんによると、なごやにだいかさいがあったそうです。",
+      "vietnamese": "Theo tờ báo, đã có một vụ cháy lớn ở Nagoya.",
+      "number": 2.2
+    },
+    {
+      "word": "皆の話によれば、彼は辞職するそうだ。",
+      "reading": "みなのはなしによれば、かれはじしょくするそうだ。",
+      "vietnamese": "Mọi người đều nói rằng anh ấy sẽ từ chức.",
+      "number": 2.2
+    },
+    {
+      "word": "地震によって、ビルが壊れました。",
+      "reading": "じしんによって、ビルがこわれました。",
+      "vietnamese": "Tòa nhà đã bị phá hủy bởi trận động đất.",
+      "number": 2.2
+    },
+    {
+      "word": "うちの工場では材料不足によって畳の生産はもうできなくなった。",
+      "reading": "うちのこうじょうではざいりょうぶそくによってたたみのせいさんはもうできなくなった。",
+      "vietnamese": "Nhà máy của chúng tôi không còn khả năng sản xuất chiếu tatami do thiếu nguyên liệu.",
+      "number": 2.2
+    },
+    {
+      "word": "国によって習慣が違う。",
+      "reading": "くにによってしゅうかんがちがう。",
+      "vietnamese": "Hải quan khác nhau giữa các quốc gia.",
+      "number": 2.2
+    },
+    {
+      "word": "人によって、考え方が違います。",
+      "reading": "ひとによって、かんがえ方がちがいます。",
+      "vietnamese": "Mọi người có những cách suy nghĩ khác nhau.",
+      "number": 2.2
+    },
+    {
+      "word": "このドレスは有名なデザインによって、デザインされました。",
+      "reading": "このドレスはゆうめいなデザインによって、デザインされました。",
+      "vietnamese": "Chiếc váy này được thiết kế bởi một nhà thiết kế nổi tiếng.",
+      "number": 2.2
+    },
+    {
+      "word": "アメリカ大陸はコロンブスによって発見された。",
+      "reading": "アメリカたいりくはコロンブスによってはっけんされた。",
+      "vietnamese": "Châu Mỹ được phát hiện bởi Columbus.",
+      "number": 2.2
+    },
+    {
+      "word": "習った言葉をすぐ使ってみることによって、その言葉を覚えられます。",
+      "reading": "ならったことばをすぐつかってみることによって、そのことばをおぼえられます。",
+      "vietnamese": "Bằng cách sử dụng ngay những từ bạn đã học, bạn sẽ có thể nhớ chúng.",
+      "number": 2.2
+    },
+    {
+      "word": "失敗することによって、成功に近づきます。",
+      "reading": "しっぱいすることによって、せいこうにちかづきます。",
+      "vietnamese": "Thất bại đưa chúng ta đến gần hơn với thành công.",
+      "number": 2.2
+    },
+    {
+      "word": "毎日、復習することによって、日本語が上手になった。",
+      "reading": "まいにち、ふくしゅうすることによって、にほんごがじょうずになった。",
+      "vietnamese": "Bằng cách xem lại mỗi ngày, tiếng Nhật của tôi đã được cải thiện.",
+      "number": 2.2
+    }
+  ]
+}

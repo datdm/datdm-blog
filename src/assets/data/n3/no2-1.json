@@ -1,0 +1,100 @@
+{
+  "reading": [
+    {
+      "word": "この店のお客さんは女性ばかりですね。",
+      "reading": "このみせのおきゃくさんはじょせいばかりですね。",
+      "vietnamese": "Khách hàng tại cửa hàng này đều là phụ nữ.",
+      "number": 2.1
+    },
+    {
+      "word": "弟はテレビを見てばかりいる。",
+      "reading": "おとうとはテレビをみてばかりいる。",
+      "vietnamese": "Em trai tôi chỉ toàn đang xem TV.",
+      "number": 2.1
+    },
+    {
+      "word": "息子は仕事もしないで遊んでばかりいる。",
+      "reading": "むすこはしごともしないであそんでばかりいる。",
+      "vietnamese": "Con trai tôi không làm việc, nó chỉ chơi.",
+      "number": 2.1
+    },
+    {
+      "word": "親に心配をかけてばかりでした。",
+      "reading": "おやにしんぱいをかけてばかりでした。",
+      "vietnamese": "Tôi chỉ lo lắng cho bố mẹ tôi.",
+      "number": 2.1
+    },
+    {
+      "word": "このコンサートは会員だけしか入りません。",
+      "reading": "このコンサートはかいいんだけしかはいりません。",
+      "vietnamese": "Buổi hòa nhạc này chỉ dành cho các thành viên.",
+      "number": 2.1
+    },
+    {
+      "word": "今日はお客様が一人だけしか来ませんでした。",
+      "reading": "きょうはおきゃくさまがひとりだけしかきませんでした。",
+      "vietnamese": "Chỉ có một khách hàng đến ngày hôm nay.",
+      "number": 2.1
+    },
+    {
+      "word": "このクラスでは日本語だけしか使わない。",
+      "reading": "このクラスではにほんごだけしかつかわない。",
+      "vietnamese": "Chỉ có tiếng Nhật được sử dụng trong lớp học này.",
+      "number": 2.1
+    },
+    {
+      "word": "ひらがなさえ書けないんですから、漢字なんて書けません。",
+      "reading": "ひらがなさえかけないんですから、かんじなんてかけません。",
+      "vietnamese": "Tôi thậm chí không thể viết hiragana, vì vậy tôi không thể viết kanji.",
+      "number": 2.1
+    },
+    {
+      "word": "そんなこと、子供さえ知っている。",
+      "reading": "そんなこと、こどもさえしっている。",
+      "vietnamese": "Ngay cả trẻ con cũng biết điều đó.",
+      "number": 2.1
+    },
+    {
+      "word": "お金がなく、パンさえ買えない。",
+      "reading": "おかねがなく、パンさえかえない。",
+      "vietnamese": "Tôi không có tiền, tôi thậm chí không thể mua bánh mì.",
+      "number": 2.1
+    },
+    {
+      "word": "太郎は漫画さえ読んでいれば退屈しないようだ。",
+      "reading": "たろうはまんがさえよんでいればたいくつしないようだ。",
+      "vietnamese": "Taro dường như không cảm thấy buồn chán miễn là anh ấy còn đọc truyện tranh.",
+      "number": 2.1
+    },
+    {
+      "word": "体さえ丈夫ならどうなことにも挑戦できる。",
+      "reading": "からださえじょうぶならどうなことにもちょうせんできる。",
+      "vietnamese": "Miễn là bạn có một cơ thể khỏe mạnh, bạn có thể đương đầu với bất kỳ thử thách nào.",
+      "number": 2.1
+    },
+    {
+      "word": "一言『ごめんなさい』と言いさえすれば相手は許してくれるだろう。",
+      "reading": "ひとこと『ごめんなさい』といいさえすればあいてはゆるしてくれるだろう。",
+      "vietnamese": "Chỉ cần bạn nói 'I'm sorry' thì người khác sẽ tha thứ cho bạn.",
+      "number": 2.1
+    },
+    {
+      "word": "こちらこそよろしくお願いします。",
+      "reading": "こちらこそよろしくおねがいします。",
+      "vietnamese": "Cảm ơn rất nhiều.",
+      "number": 2.1
+    },
+    {
+      "word": "あなたこそ私が探していた人だ。",
+      "reading": "あなたこそわたしがさがしていたひとだ。",
+      "vietnamese": "Bạn là người tôi đang tìm kiếm.",
+      "number": 2.1
+    },
+    {
+      "word": "愛情があるからこそ叱るんです。",
+      "reading": "あいじょうがあるからこそしかるんです。",
+      "vietnamese": "Anh mắng em vì anh yêu em.",
+      "number": 2.1
+    }
+  ]
+}
