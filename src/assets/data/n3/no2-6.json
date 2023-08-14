@@ -1,0 +1,130 @@
+{
+  "reading": [
+    {
+      "word": "これ、面白いよ、食べてごらん。",
+      "reading": "これ、おもしろいよ、たべてごらん。",
+      "vietnamese": "Điều này thật thú vị, hãy thử nó.",
+      "number": 2.6
+    },
+    {
+      "word": "分からなかったら、先生に聞いてごらん。",
+      "reading": "わからなかったら、せんせいにきいてごらん。",
+      "vietnamese": "Nếu bạn không hiểu, hãy hỏi giáo viên của bạn.",
+      "number": 2.6
+    },
+    {
+      "word": "もう一度やってごらんなさい。",
+      "reading": "もういちどやってごらんなさい。",
+      "vietnamese": "Vui lòng thử lại.",
+      "number": 2.6
+    },
+    {
+      "word": "その言葉を辞書で調べてごらんなさい。",
+      "reading": "そのことばをじしょでしらべてごらんなさい。",
+      "vietnamese": "Tra từ đó trong từ điển.",
+      "number": 2.6
+    },
+    {
+      "word": "苦くないから、ちょっと飲んでごらん。",
+      "reading": "にがくないから、ちょっとのんでごらん。",
+      "vietnamese": "Nó không đắng, vì vậy chỉ cần uống một chút.",
+      "number": 2.6
+    },
+    {
+      "word": "この本は面白いですよ。時間があったら、読んでごらん。",
+      "reading": "このほんはおもしろいですよ。じかんがあったら、よんでごらん。",
+      "vietnamese": "Cuốn sách này thật thú vị. Nếu bạn có thời gian, hãy đọc nó.",
+      "number": 2.6
+    },
+    {
+      "word": "妻に家でたばこを吸わないように言われています。",
+      "reading": "つまにいえでたばこをすわないようにいわれています。",
+      "vietnamese": "Vợ tôi bảo tôi không được hút thuốc ở nhà.",
+      "number": 2.6
+    },
+    {
+      "word": "この仕事を今日中にやるように頼まれた。",
+      "reading": "このしごとをきょうじゅうにやるようにたのまれた。",
+      "vietnamese": "Tôi được yêu cầu làm công việc này vào cuối ngày.",
+      "number": 2.6
+    },
+    {
+      "word": "田中さんに私の部屋に来るように言ってください。",
+      "reading": "たなかさんにわたしのへやにきるようにいってください。",
+      "vietnamese": "Hãy bảo Tanaka đến phòng tôi.",
+      "number": 2.6
+    },
+    {
+      "word": "使った後は片付けるようにお願いします。",
+      "reading": "つかったあとはかたづけるようにおねがいします。",
+      "vietnamese": "Hãy làm sạch sau khi sử dụng.",
+      "number": 2.6
+    },
+    {
+      "word": "この資料を５０部コピーするように頼まれました。",
+      "reading": "このしりょうを５０ぶコピーするようにたのまれました。",
+      "vietnamese": "Tôi được yêu cầu làm 50 bản sao của tài liệu này.",
+      "number": 2.6
+    },
+    {
+      "word": "医者に酒を飲むなと言われた。",
+      "reading": "いしゃにさけをのむなといわれた。",
+      "vietnamese": "Bác sĩ bảo tôi không được uống rượu.",
+      "number": 2.6
+    },
+    {
+      "word": "先生にもっと勉強しろと言われた。",
+      "reading": "せんせいにもっとべんきょうしろといわれた。",
+      "vietnamese": "Giáo viên của tôi nói với tôi để nghiên cứu nhiều hơn nữa.",
+      "number": 2.6
+    },
+    {
+      "word": "父にもっと早く帰れと注意された。",
+      "reading": "ちちにもっとはやくかえれとちゅういされた。",
+      "vietnamese": "Cha tôi cảnh báo tôi về nhà sớm.",
+      "number": 2.6
+    },
+    {
+      "word": "友達に田中さんの電話番号を考えてくれと頼まれた。",
+      "reading": "ともだちにたなかさんのでんわばんごうをかんがえてくれとたのまれた。",
+      "vietnamese": "Bạn tôi hỏi tôi số điện thoại của Tanaka.",
+      "number": 2.6
+    },
+    {
+      "word": "大家に玄関の前に自転車を置かないでくれと言われました。",
+      "reading": "おおやにげんかんのまえにじてんしゃをおかないでくれといわれました。",
+      "vietnamese": "Chủ nhà dặn tôi không được đậu xe đạp trước cửa ra vào.",
+      "number": 2.6
+    },
+    {
+      "word": "日本に留学したいと母に行ったら、行かないでくれと言われた。",
+      "reading": "にほんにりゅうがくしたいとははにいったら、いかないでくれといわれた。",
+      "vietnamese": "Khi tôi đi du học Nhật Bản với mẹ, mẹ bảo tôi đừng đi.",
+      "number": 2.6
+    },
+    {
+      "word": "図書館で大きい声で話さないでくれと注意された。",
+      "reading": "としょかんでおおきいこえではなさないでくれとちゅういされた。",
+      "vietnamese": "Tôi đã được cảnh báo không được nói to trong thư viện.",
+      "number": 2.6
+    },
+    {
+      "word": "母に大きい音でテレビを見ないでくれと言われた。",
+      "reading": "ははにおおきいおとでテレビをみないでくれといわれた。",
+      "vietnamese": "Mẹ tôi bảo tôi không được xem TV to.",
+      "number": 2.6
+    },
+    {
+      "word": "友人にお金を貸してくれと頼まれた。",
+      "reading": "ゆうじんにおかねをかしてくれとたのまれた。",
+      "vietnamese": "Một người bạn nhờ tôi cho anh ta mượn ít tiền.",
+      "number": 2.6
+    },
+    {
+      "word": "このことは誰にも言わないでくれと言われたんです。",
+      "reading": "このことはだれにもいわないでくれといわれたんです。",
+      "vietnamese": "Tôi được dặn là không được nói với ai về chuyện này.",
+      "number": 2.6
+    }
+  ]
+}
