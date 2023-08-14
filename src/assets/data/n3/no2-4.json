@@ -1,0 +1,64 @@
+{
+  "reading": [
+    {
+      "word": "さっき、木村さんという人から、電話がありましたよ。",
+      "reading": "さっき、きむらさんというひとから、でんわがありましたよ。",
+      "vietnamese": "Tôi vừa nhận được một cuộc gọi từ một người tên là Kimura.",
+      "number": 2.4
+    },
+    {
+      "word": "これは日本の楽器で「尺八」という物です。",
+      "reading": "これはにほんのがっきで「しゃくはち」というものです。",
+      "vietnamese": "Đây là một loại nhạc cụ của Nhật Bản có tên là 'Shakuhachi'.",
+      "number": 2.4
+    },
+    {
+      "word": "お金は要りません。無料ということです。",
+      "reading": "おかねはいりません。むりょうということです。",
+      "vietnamese": "Tôi không cần tiền. Nó miễn phí.",
+      "number": 2.4
+    },
+    {
+      "word": "この高校はテスト、サッカー、野球といったスポーツが盛んです。",
+      "reading": "このこうこうはテスト、サッカー、むりょうといったスポーツがさかんです。",
+      "vietnamese": "Các môn thể thao như kiểm tra, bóng đá và bóng chày rất phổ biến ở trường trung học này.",
+      "number": 2.4
+    },
+    {
+      "word": "「デジカメ」というのはデジタルカメラを短くした言い方です。",
+      "reading": "「デジカメ」というのはデジタルカメラをみじかくしたいいかたです。",
+      "vietnamese": "'Máy ảnh kỹ thuật số' là cách viết tắt của máy ảnh kỹ thuật số.",
+      "number": 2.4
+    },
+    {
+      "word": "電車で「カクテイ」っていうのは何のことですか。➞各駅に停車する電車のことです。",
+      "reading": "でんしゃで「カクテイ」っていうのはなんのことですか。➞かくえきにていしゃするでんしゃのことです。",
+      "vietnamese": "'kakutei' có nghĩa là gì trên tàu? ➞Một chuyến tàu dừng ở mỗi ga.",
+      "number": 2.4
+    },
+    {
+      "word": "リンさんが外国するということを聞いて驚きました。",
+      "reading": "リンさんががいこくするということをきいておどろきました。",
+      "vietnamese": "Tôi rất ngạc nhiên khi biết rằng ông Lin sẽ ra nước ngoài.",
+      "number": 2.4
+    },
+    {
+      "word": "こんなによく遅刻をするというのは問題ですよ。",
+      "reading": "こんなによくちこくをするというのはもんだいですよ。",
+      "vietnamese": "Đến muộn thường xuyên là một vấn đề.",
+      "number": 2.4
+    },
+    {
+      "word": "田中さんが医者だというのを知らなかった。",
+      "reading": "たなかさんがいしゃだというのをしらなかった。",
+      "vietnamese": "Tôi không biết Tanaka là một bác sĩ.",
+      "number": 2.4
+    },
+    {
+      "word": "彼が結婚しているということを知らなかった。",
+      "reading": "かれがけっこんしているということをしらなかった。",
+      "vietnamese": "Tôi không biết anh ấy đã có gia đình.",
+      "number": 2.4
+    }
+  ]
+}
