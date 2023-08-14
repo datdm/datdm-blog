@@ -1,0 +1,130 @@
+{
+  "reading": [
+    {
+      "word": "僕と彼が友達？➞いや、僕たちは友達というよりいい競争相手なんだよ。",
+      "reading": "ぼくとかれがともだち？➞いや、ぼくたちはともだちというよりいいきょうそうあいてなんだよ。",
+      "vietnamese": "Anh ấy có phải là bạn với tôi không? ➞Không, chúng tôi là đối thủ tốt hơn bạn bè.",
+      "number": 2.5
+    },
+    {
+      "word": "みち子は歩くのが速い。歩くというより走るという感じた。",
+      "reading": "みちこはあるくのがはやい。あるくというよりはしるというかん感じた。",
+      "vietnamese": "Michiko đi nhanh. Nó giống như chạy hơn là đi bộ.",
+      "number": 2.5
+    },
+    {
+      "word": "前の車は遅すぎて、走るというよりはっているようだ。",
+      "reading": "まえのくるまはおそすぎて、はしるというよりはっているようだ。",
+      "vietnamese": "Michiko đi nhanh. Nó giống như chạy hơn là đi bộ.",
+      "number": 2.5
+    },
+    {
+      "word": "今日は涼しいというより寒いくらいだった。",
+      "reading": "きょうはすずしいというよりさむいくらいだった。",
+      "vietnamese": "Hôm nay trời lạnh hơn mát mẻ.",
+      "number": 2.5
+    },
+    {
+      "word": "息子の部屋は部屋というよりゴミ箱だ。",
+      "reading": "むすこのへやはへやというよりゴミばこだ。",
+      "vietnamese": "Phòng của con trai tôi giống một cái thùng rác hơn là một căn phòng.",
+      "number": 2.5
+    },
+    {
+      "word": "彼女は美人というよりかわいい。",
+      "reading": "かのじょはびじんというよりかわいい。",
+      "vietnamese": "Cô ấy dễ thương hơn là xinh đẹp.",
+      "number": 2.5
+    },
+    {
+      "word": "彼らは恋人というより友達だ。",
+      "reading": "かれらはこいびとというよりともだちだ。",
+      "vietnamese": "Họ là bạn hơn là người yêu.",
+      "number": 2.5
+    },
+    {
+      "word": "あの学生はできないというか、やる気がないのでしょう。",
+      "reading": "あのがくせいはできないというか、やるきがないのでしょう。",
+      "vietnamese": "Học sinh đó có lẽ không thể làm điều đó, hoặc có thể anh ta không muốn.",
+      "number": 2.5
+    },
+    {
+      "word": "スポーツの祭典というと、ますオリンピックですね。",
+      "reading": "スポーツのさいてんというと、ますオリンピックですね。",
+      "vietnamese": "Khi nói đến các lễ hội thể thao, đó là Thế vận hội.",
+      "number": 2.5
+    },
+    {
+      "word": "昨日、ジョンさんに会いましたよ。➞そうですか、ジョンさんといえばA社に就職が決まったそうですね。",
+      "reading": "きのう、ジョンさんにあいましたよ。➞そうですか、ジョンさんといえばAしゃにしゅうしょくがきまったそうですね。",
+      "vietnamese": "Khi nói đến các lễ hội thể thao, đó là Thế vận hội.",
+      "number": 2.5
+    },
+    {
+      "word": "イタリアといえばパスポートを落ちとして困ったことを思い出します。",
+      "reading": "イタリアといえばパスポートをおちとしてこまったことをおもいだします。",
+      "vietnamese": "Nhắc đến Ý, tôi nhớ đến sự cố mất hộ chiếu.",
+      "number": 2.5
+    },
+    {
+      "word": "日本の漫画といえばワンピースですよね。",
+      "reading": "にほんのまんがといえばワンピースですよね。",
+      "vietnamese": "Khi bạn nghĩ về truyện tranh Nhật Bản, bạn nghĩ về One Piece.",
+      "number": 2.5
+    },
+    {
+      "word": "ベトナムの食べ物といえばフォーが一番有名だと思います。",
+      "reading": "ベトナムのたべものといえばフォーがいちばんゆうめいだとおもいます。",
+      "vietnamese": "Phở có lẽ là món ăn nổi tiếng nhất của Việt Nam.",
+      "number": 2.5
+    },
+    {
+      "word": "日本の食べ物といえばお寿司が一番有名だと思います。",
+      "reading": "にほんのたべものといえばおすしがいちばんゆうめいだとおもいます。",
+      "vietnamese": "Khi nói đến ẩm thực Nhật Bản, tôi nghĩ sushi là nổi tiếng nhất.",
+      "number": 2.5
+    },
+    {
+      "word": "庭があるといっても、とても小さいです。",
+      "reading": "にわがあるといっても、とてもちいさいです。",
+      "vietnamese": "Mặc dù có một khu vườn, nhưng nó rất nhỏ.",
+      "number": 2.5
+    },
+    {
+      "word": "朝ご飯を食べたといっても、パンとコーヒーだけの簡単なものです。",
+      "reading": "あさごはんをたべたといっても、パンとコーヒーだけのかんたんなものです。",
+      "vietnamese": "Mặc dù tôi đã ăn sáng, nhưng nó chỉ là bánh mì và cà phê.",
+      "number": 2.5
+    },
+    {
+      "word": "日本は物価が高いといっても、安い物もありますよ。",
+      "reading": "にほんはぶっかがたかいといっても、やすいものもありますよ。",
+      "vietnamese": "Mặc dù Nhật Bản là đắt tiền, có một số giá rẻ.",
+      "number": 2.5
+    },
+    {
+      "word": "今週は忙しいといっても、先週ほどじゃない。",
+      "reading": "こんしゅうはいそしいといっても、せんしゅうほどじゃない。",
+      "vietnamese": "Tuần này tôi bận, nhưng không bận bằng tuần trước.",
+      "number": 2.5
+    },
+    {
+      "word": "ギターが弾けるといっても、3曲だけですけどね。",
+      "reading": "ギターがひけるといっても、3きょくだけですけどね。",
+      "vietnamese": "Ngay cả khi tôi nói rằng tôi có thể chơi guitar, nó chỉ có 3 bài hát.",
+      "number": 2.5
+    },
+    {
+      "word": "料理ができるといっても、卵焼きぐらいです。",
+      "reading": "りょうりができるといっても、たまごやきぐらいです。",
+      "vietnamese": "Ngay cả khi bạn có thể nấu ăn, đó là về món trứng rán.",
+      "number": 2.5
+    },
+    {
+      "word": "日本語ができるといっても、簡単会話のレベルくらいです。",
+      "reading": "にほんごができるといっても、かんたんかいわのレベルくらいです。",
+      "vietnamese": "Ngay cả khi tôi có thể nói tiếng Nhật, nó chỉ ở mức trò chuyện đơn giản.",
+      "number": 2.5
+    }
+  ]
+}
