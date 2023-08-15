@@ -1,0 +1,58 @@
+{
+  "reading": [
+    {
+      "word": "調べても分からなかったので、先生に聞きました。",
+      "reading": "しらべてもわからなかったので、せんせいにききました。",
+      "vietnamese": "Tôi không thể tìm thấy nó, vì vậy tôi đã hỏi giáo viên của tôi.",
+      "number": 3.1
+    },
+    {
+      "word": "必要なので、高くても買います。",
+      "reading": "ひつようなので、たかくてもかいます。",
+      "vietnamese": "Tôi cần nó, vì vậy tôi sẽ mua nó ngay cả khi nó đắt tiền.",
+      "number": 3.1
+    },
+    {
+      "word": "すみません、黒は売り切れました。➞黒じゃなくてもかまいませんよ。",
+      "reading": "すみません、くろはうりきれました。➞くろじゃなくてもかまいませんよ。",
+      "vietnamese": "Xin lỗi, màu đen đã được bán hết. ➞Không nhất thiết phải có màu đen.",
+      "number": 3.1
+    },
+    {
+      "word": "ギターを習い始めたが、どんなに練習しても全然うまくならない。",
+      "reading": "ギターをならいはじめたが、どんなにれんしゅうしてもぜんぜんうまくならない。",
+      "vietnamese": "Tôi bắt đầu học chơi ghi-ta, nhưng dù tôi có luyện tập bao nhiêu đi chăng nữa, tôi cũng không bao giờ khá lên được.",
+      "number": 3.1
+    },
+    {
+      "word": "私は、いくらお酒を飲んでも顔色が変わらない。",
+      "reading": "わたしは、いくらおさけをのんでもかおいろがかわらない。",
+      "vietnamese": "Cho dù tôi uống bao nhiêu, nước da của tôi vẫn không thay đổi.",
+      "number": 3.1
+    },
+    {
+      "word": "私はどんなに暑くても寝るときはクーラーを消して寝ます。",
+      "reading": "わたしはどんなにあつくてもねるときはクーラーをけしてねます。",
+      "vietnamese": "Dù trời nóng đến đâu, tôi vẫn tắt máy làm mát khi đi ngủ.",
+      "number": 3.1
+    },
+    {
+      "word": "辞書を使わずに書いてので、自信がありません。",
+      "reading": "じしょをつかわずにかいてので、じしんがありません。",
+      "vietnamese": "Tôi không tự tin vì tôi viết mà không dùng từ điển.",
+      "number": 3.1
+    },
+    {
+      "word": "昨夜、歯を磨かずに寝てしまった。",
+      "reading": "ゆうべ、はをみがかずにねてしまった。",
+      "vietnamese": "Đêm qua tôi đi ngủ mà không đánh răng.",
+      "number": 3.1
+    },
+    {
+      "word": "健康のために、車に乗らずに歩くようにしています。",
+      "reading": "けんこうのために、くるまにのらずにあるくようにしています。",
+      "vietnamese": "Vì sức khỏe của tôi, tôi cố gắng đi bộ thay vì sử dụng xe hơi.",
+      "number": 3.1
+    }
+  ]
+}
