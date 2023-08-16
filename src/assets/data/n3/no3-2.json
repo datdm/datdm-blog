@@ -1,0 +1,88 @@
+{
+  "reading": [
+    {
+      "word": "山本氏は大使として中国に派遣された。",
+      "reading": "やまもとはたいしとしてちゅうごくにはけんされた。",
+      "vietnamese": "Yamamoto được cử đến Trung Quốc với tư cách là đại sứ.",
+      "number": 3.2
+    },
+    {
+      "word": "彼は国費留学生として日本へ来た。",
+      "reading": "かれはこくひりゅうがくせいとしてにほんへきた。",
+      "vietnamese": "Anh đến Nhật Bản với tư cách là một sinh viên được chính phủ tài trợ.",
+      "number": 3.2
+    },
+    {
+      "word": "研究生としてアメリカに来ました。",
+      "reading": "けんきゅうせいとしてアメリカにきました。",
+      "vietnamese": "Tôi đến Mỹ với tư cách là một sinh viên nghiên cứu.",
+      "number": 3.2
+    },
+    {
+      "word": "兄はアメリカに２０年いたにしては英語が下手だ。",
+      "reading": "あにはアメリカに２０ねんいたにしてはえいごがへただ。",
+      "vietnamese": "Mặc dù anh trai tôi đã ở Mỹ 20 năm nhưng tiếng Anh của anh ấy rất kém.",
+      "number": 3.2
+    },
+    {
+      "word": "山田さんは忙しいにしては、よく手紙をくれます。",
+      "reading": "やまださんはいそがしいにしては、よくてがみをくれます。",
+      "vietnamese": "Mặc dù bận rộn nhưng Yamada vẫn thường viết thư cho tôi.",
+      "number": 3.2
+    },
+    {
+      "word": "彼は歌手だったにしては歌が下手だ。",
+      "reading": "かれはかしゅだったにしてはうたがへただ。",
+      "vietnamese": "Mặc dù anh ấy là một ca sĩ nhưng anh ấy hát không hay.",
+      "number": 3.2
+    },
+    {
+      "word": "どんな人間にしても長所はあるものだ。",
+      "reading": "どんなにんげんにしてもちょうしょはあるものだ。",
+      "vietnamese": "Mỗi con người đều có điểm mạnh của mình.",
+      "number": 3.2
+    },
+    {
+      "word": "いくら忙しいにしても、食事をしないのはよくない。",
+      "reading": "いくらいそがしいにしても、しょくじをしないのはよくない。",
+      "vietnamese": "Dù bận rộn đến đâu, không ăn cũng không tốt.",
+      "number": 3.2
+    },
+    {
+      "word": "忙しいにしても、欠席の連絡をしてこないのはよくない。",
+      "reading": "いそがしいにしても、けっせきのれんらくをしてこないのはよくない。",
+      "vietnamese": "Dù bận đến mấy mà không thông báo cho tôi biết về sự vắng mặt của bạn thì cũng không hay chút nào.",
+      "number": 3.2
+    },
+    {
+      "word": "これは１００円にしても、高いと思う。",
+      "reading": "これは１００えんにしても、たかいとおもう。",
+      "vietnamese": "Ngay cả khi đây là 100 yên, tôi nghĩ nó đắt.",
+      "number": 3.2
+    },
+    {
+      "word": "留学するとしたら、日本に行きたいと思っていました。",
+      "reading": "りゅうがくするとしたら、にほんにいきたいとおもっていました。",
+      "vietnamese": "Nếu tôi đi du học, tôi muốn đến Nhật Bản.",
+      "number": 3.2
+    },
+    {
+      "word": "もし、もう一度生まれ変わるとしたら、男と女どちらがいいですか。",
+      "reading": "もし、もういちどうまれかわるとしたら、おとことおんなどちらがいいですか。",
+      "vietnamese": "Nếu được sinh ra một lần nữa, bạn muốn là nam hay nữ?",
+      "number": 3.2
+    },
+    {
+      "word": "予定通りだとすれば、飛行機は９時に着くはずだ。",
+      "reading": "よていどおりだとすれば、ひこうきは９じにつくはずだ。",
+      "vietnamese": "Nếu mọi thứ diễn ra theo kế hoạch, máy bay sẽ đến lúc chín giờ.",
+      "number": 3.2
+    },
+    {
+      "word": "電話をかけても、出ないとすれば、彼はもう出かけたのでしょう。",
+      "reading": "でんわをかけても、でないとすれば、かれはもうでかけたのでしょう。",
+      "vietnamese": "Nếu anh ấy không bắt máy khi bạn gọi, chắc hẳn anh ấy đã ra ngoài rồi.",
+      "number": 3.2
+    }
+  ]
+}
