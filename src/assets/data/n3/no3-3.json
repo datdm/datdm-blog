@@ -1,0 +1,112 @@
+{
+  "reading": [
+    {
+      "word": "明日は買い物に行くつもりでしたが、頭が痛かったのでずっと家にいました。",
+      "reading": "あしたはかいものにいくつもりでしたが、あたまがいたかったのでずっといえにいました。",
+      "vietnamese": "Tôi định đi mua sắm vào ngày mai, nhưng tôi bị đau đầu nên tôi ở nhà suốt.",
+      "number": 3.3
+    },
+    {
+      "word": "来年結婚するつもりです。",
+      "reading": "らいねんけっこんするつもりです。",
+      "vietnamese": "Tôi dự định sẽ kết hôn vào năm tới.",
+      "number": 3.3
+    },
+    {
+      "word": "明日からはタバコを吸わないつもりです。",
+      "reading": "あしたからはタバコをすわないつもりです。",
+      "vietnamese": "Tôi sẽ không hút thuốc từ ngày mai.",
+      "number": 3.3
+    },
+    {
+      "word": "お菓子を食べないつもりでしたが、つい食べてしまいました。",
+      "reading": "おかしをたべないつもりでしたが、ついたべてしまいました。",
+      "vietnamese": "Tôi không cố ý ăn đồ ngọt, nhưng cuối cùng tôi lại ăn chúng.",
+      "number": 3.3
+    },
+    {
+      "word": "田中さんは今旅行中だから、家にいないはずだ。",
+      "reading": "たなかさんはいまりょこうちゅうだから、いうにいないはずだ。",
+      "vietnamese": "Tanaka hiện đang đi du lịch, vì vậy anh ấy không nên ở nhà.",
+      "number": 3.3
+    },
+    {
+      "word": "真面目な山田さんが、無断で休むはずがない。",
+      "reading": "まじめなやまださんが、むだんでやすむはずがない。",
+      "vietnamese": "Anh Yamada, người nghiêm túc, không thể nghỉ ngơi khi chưa được phép.",
+      "number": 3.3
+    },
+    {
+      "word": "間違いはずがないよ。",
+      "reading": "まちがいはずがないよ。",
+      "vietnamese": "Bạn không thể đi sai.",
+      "number": 3.3
+    },
+    {
+      "word": "ちゃんと約束したんだから、彼が来ないはずがない。どうしたのかなあ。",
+      "reading": "ちゃんとやくそくしたんだから、かれがこないはずがない。どうしたのかなあ。",
+      "vietnamese": "Tôi đã hứa rồi nên không đời nào anh ấy không đến. Tôi tự hỏi điều gì đã xảy ra",
+      "number": 3.3
+    },
+    {
+      "word": "これは大事なことですから、もう少し話し合ってから決めるべきだと思います。",
+      "reading": "これはだいじなことですから、もうすこしはなしあってからきめるべきだとおもいます。",
+      "vietnamese": "Đây là một vấn đề quan trọng, vì vậy tôi nghĩ chúng ta nên thảo luận thêm một chút trước khi đưa ra quyết định.",
+      "number": 3.3
+    },
+    {
+      "word": "仕事はたくさんあるが、まず、今日中にやるべきことから始めよ。",
+      "reading": "しごとはたくさんあるが、まず、きょうちゅうにやるべきことからはじめよ。",
+      "vietnamese": "Có rất nhiều việc phải làm, nhưng trước tiên, hãy bắt đầu với những việc bạn cần làm ngày hôm nay.",
+      "number": 3.3
+    },
+    {
+      "word": "せっかく入った会社なのだから、簡単にやめるべきではない。",
+      "reading": "せっかくはいったかいしゃなのだから、かんたんにやめるべきではない。",
+      "vietnamese": "Bạn không nên từ bỏ dễ dàng như vậy bởi vì bạn là một công ty mà bạn đã làm việc chăm chỉ để gia nhập.",
+      "number": 3.3
+    },
+    {
+      "word": "子供は夜遅くまで外にいるべきではない。",
+      "reading": "こどもはよるおそくまでそとにいるべきではない。",
+      "vietnamese": "Trẻ em không nên đi chơi khuya.",
+      "number": 3.3
+    },
+    {
+      "word": "約束は守るべきだ。",
+      "reading": "やくそくはまもるべきだ。",
+      "vietnamese": "Bạn nên giữ lời hứa của mình.",
+      "number": 3.3
+    },
+    {
+      "word": "おもちゃはまず安全であるべきだ。",
+      "reading": "おもちゃはまずあんぜんであるべきだ。",
+      "vietnamese": "Đồ chơi phải an toàn trước.",
+      "number": 3.3
+    },
+    {
+      "word": "子供の頃、悪戯をして、よく父に叱られたものだ。",
+      "reading": "子供のころ、いたずらをして、よくちちにしかられたものだ。",
+      "vietnamese": "Khi tôi còn nhỏ, tôi thường bị bố mắng vì nghịch ngợm.",
+      "number": 3.3
+    },
+    {
+      "word": "この辺は昔は静かだったものだ。",
+      "reading": "このへんはむかしはしずかだったものだ。",
+      "vietnamese": "Khu phố này từng rất yên tĩnh.",
+      "number": 3.3
+    },
+    {
+      "word": "母はよく学生代のことを私たちに話したものだ。",
+      "reading": "はははよくがくせいだいのことをわたしたちにはなしたものだ。",
+      "vietnamese": "Mẹ tôi thường kể cho chúng tôi nghe về những ngày đi học của bà.",
+      "number": 3.3
+    },
+    {
+      "word": "学生時代は毎日図書館へ通ったものだ。",
+      "reading": "がくせいじだいはまいにちとしょかんへかよったものだ。",
+      "vietnamese": "Khi tôi còn là sinh viên, tôi thường đến thư viện mỗi ngày.",
+      "number": 3.3
+    }
+  ]
+}
