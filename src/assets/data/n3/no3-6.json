@@ -1,0 +1,100 @@
+{
+  "reading": [
+    {
+      "word": "怖がらないでください。",
+      "reading": "こわがらないでください。",
+      "vietnamese": "Đừng sợ hãi.",
+      "number": 3.6
+    },
+    {
+      "word": "恥ずかしがらないで、前に出てきてください。",
+      "reading": "はずかしがらないで、まえにでてきてください。",
+      "vietnamese": "Đừng ngại, hãy tiến lên.",
+      "number": 3.6
+    },
+    {
+      "word": "田中さんがあなたに会いたがっていましたよ。",
+      "reading": "たなかさんがあなたにあいたがっていましたよ。",
+      "vietnamese": "Tanaka muốn gặp bạn.",
+      "number": 3.6
+    },
+    {
+      "word": "これは子供が見たがっていたアニメ映画です。",
+      "reading": "これはこどもがみたがっていたアニメえいがです。",
+      "vietnamese": "Đây là bộ phim hoạt hình mà con tôi muốn xem.",
+      "number": 3.6
+    },
+    {
+      "word": "私は父に車を買ってもらいたいです。",
+      "reading": "わたしはちちにくるまをかってもらいたいです。",
+      "vietnamese": "Tôi muốn bố tôi mua cho tôi một chiếc ô tô.",
+      "number": 3.6
+    },
+    {
+      "word": "誰かに自分の悩みを聞いてもらいたいと思うことがあります。",
+      "reading": "だれかにじぶんのなやみをきいてもらいたいとおもうことがあります。",
+      "vietnamese": "Đôi khi tôi muốn ai đó lắng nghe những vấn đề của mình.",
+      "number": 3.6
+    },
+    {
+      "word": "この部屋をきれいに片付けてほしいです。",
+      "reading": "このへやをきれいにかたづけてほしいです。",
+      "vietnamese": "Tôi muốn bạn dọn dẹp căn phòng này.",
+      "number": 3.6
+    },
+    {
+      "word": "このことは他の人には言わないでほしいです。",
+      "reading": "このことはほかのひとにはいわないでほしいです。",
+      "vietnamese": "Xin đừng nói với bất cứ ai về điều này.",
+      "number": 3.6
+    },
+    {
+      "word": "年を取った親にはもう無理をしてほしくない。",
+      "reading": "としをとったおやにはもうむりをしてほしくない。",
+      "vietnamese": "Tôi không muốn bố mẹ phải thúc ép mình nữa.",
+      "number": 3.6
+    },
+    {
+      "word": "この書類、ちょっと見ていただきたいんですが、",
+      "reading": "このしょるい、ちょっとみていただきたいんですが、",
+      "vietnamese": "Tôi muốn bạn xem qua tài liệu này.",
+      "number": 3.6
+    },
+    {
+      "word": "この仕事は誰にも手伝ってもらいたくない、自分一人でやりたい。",
+      "reading": "このしごとはだれにもてつだってもらいたくない、じぶんひとりでやりたい。",
+      "vietnamese": "Tôi không muốn bất cứ ai giúp tôi với công việc này, tôi muốn làm điều đó một mình.",
+      "number": 3.6
+    },
+    {
+      "word": "ぞっと僕のそばにいてほしい、速くへ行かないでほしい。",
+      "reading": "ぞっとぼくのそばにいてほしい、はやくへいかないでほしい。",
+      "vietnamese": "Tôi muốn bạn ở bên cạnh tôi, đừng đi quá nhanh.",
+      "number": 3.6
+    },
+    {
+      "word": "これ以上この村の自然環境を壊さないでほしい。",
+      "reading": "これいじょうこのむらのしぜんかんきょうをこわさないでほしい。",
+      "vietnamese": "Xin đừng phá hủy môi trường tự nhiên của ngôi làng này nữa.",
+      "number": 3.6
+    },
+    {
+      "word": "彼はそのことについて知っているふりをしているが、本当は知らないと思う。",
+      "reading": "かれはそのことについてしっているふりをしているが、ほんとうはしらないとおもう。",
+      "vietnamese": "Anh ấy giả vờ biết về nó, nhưng tôi không nghĩ anh ấy thực sự biết.",
+      "number": 3.6
+    },
+    {
+      "word": "田中さんは独身のふりをしているが、結婚していて、３人も子供がいる。",
+      "reading": "たなかさんはどくしんのふりをしているが、けっこんしていて、３にんもこどもがいる。",
+      "vietnamese": "Tanaka giả vờ độc thân, nhưng anh ấy đã kết hôn và có ba đứa con.",
+      "number": 3.6
+    },
+    {
+      "word": "彼女は聞こえないふりをした。",
+      "reading": "かのじょはきこえないふりをした。",
+      "vietnamese": "Cô vờ như không nghe thấy.",
+      "number": 3.6
+    }
+  ]
+}
