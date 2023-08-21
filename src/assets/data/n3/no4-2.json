@@ -1,0 +1,82 @@
+{
+  "reading": [
+    {
+      "word": "いい会社に就職が決まったのは先生のおかげです。ありがとうございます。",
+      "reading": "いいかいしゃにしゅうしょくがきまったのはせんせいのおかげです。ありがとうございます。",
+      "vietnamese": "Tôi đã có một công việc tại một công ty tốt nhờ giáo viên của tôi. Cảm ơn.",
+      "number": 4.2
+    },
+    {
+      "word": "天気のいい日が突いたおかげで、工場が速く終わった。",
+      "reading": "てんきのいいひがつついたおかげで、こうじょうがはやくおわった。",
+      "vietnamese": "Nhờ thời tiết tốt, nhà máy đã hoàn thành nhanh chóng.",
+      "number": 4.2
+    },
+    {
+      "word": "日本へ来たおかげで、日本語が上手になった。",
+      "reading": "にほんへきたおかげで、にほんごがじょうずになった。",
+      "vietnamese": "Nhờ đến Nhật Bản, tiếng Nhật của tôi đã được cải thiện.",
+      "number": 4.2
+    },
+    {
+      "word": "先生のおかげで、合格できました。",
+      "reading": "せんせいのおかげで、ごうかくできました。",
+      "vietnamese": "Nhờ giáo viên của tôi, tôi đã vượt qua kỳ thi.",
+      "number": 4.2
+    },
+    {
+      "word": "最近忙しかったせいで、かなりお疲れている。",
+      "reading": "さいきんいそがしかったせいで、かなりおつかれている。",
+      "vietnamese": "Dạo này bận quá nên hơi mệt.",
+      "number": 4.2
+    },
+    {
+      "word": "バスが遅れたせいで、約束の時間に間に合わなかった。",
+      "reading": "バスがおくれたせいで、やくそくのじかんにまにあわなかった。",
+      "vietnamese": "Vì xe buýt đến trễ nên tôi không thể đến đúng giờ.",
+      "number": 4.2
+    },
+    {
+      "word": "今度の正月はいつものように故郷に帰る代わりに両親と海外旅行をしたい。",
+      "reading": "こんどのしょうがつはいつものようにふるさとにかえるかわりにりょうしんとかいがいりょこうをしたい。",
+      "vietnamese": "Thay vì về quê như thường lệ, Tết này, tôi muốn đi du lịch nước ngoài cùng bố mẹ.",
+      "number": 4.2
+    },
+    {
+      "word": "音楽会に行く代わりに、CDを３枚買うほうがいいと思う。",
+      "reading": "おんがくかいにいくかわりに、CDを３まいかうほうがいいとおもう。",
+      "vietnamese": "Tôi nghĩ bạn nên mua ba đĩa CD thay vì đi xem hòa nhạc.",
+      "number": 4.2
+    },
+    {
+      "word": "フリーの仕事は自由な時間が多い代わりに、お金のことがいつも心配だ。",
+      "reading": "フリーのしごとはじゆうなじかんがおおいかわりに、おかねのことがいつもしんぱいだ。",
+      "vietnamese": "Công việc tự do cho tôi nhiều thời gian rảnh rỗi, nhưng tôi luôn lo lắng về tiền bạc.",
+      "number": 4.2
+    },
+    {
+      "word": "ここでは人間に代わってロボットが作業をしている。",
+      "reading": "ここではにんげんにかわってロボットがさぎょうをしている。",
+      "vietnamese": "Robot đang làm việc ở đây thay vì con người.",
+      "number": 4.2
+    },
+    {
+      "word": "今はタイプライターに代わり、ワープロが使われている。",
+      "reading": "いまはタイプライターにかわり、ワープロがつかわれている。",
+      "vietnamese": "Bộ xử lý văn bản hiện được sử dụng thay vì máy đánh chữ.",
+      "number": 4.2
+    },
+    {
+      "word": "父に代わって、私が結婚式に出席しました。",
+      "reading": "ちちにかわって、わたしがけっこんしきにしゅっせきしました。",
+      "vietnamese": "Tôi đã thay mặt cha tôi đến dự đám cưới.",
+      "number": 4.2
+    },
+    {
+      "word": "出張中の部長に代わって、私がご挨拶させいただきます。",
+      "reading": "しゅっちょうじゅうのぶちょうにかわって、わたしがごあいさつさせいただきます。",
+      "vietnamese": "Tôi muốn gửi lời chào thay mặt cho người quản lý đang đi công tác.",
+      "number": 4.2
+    }
+  ]
+}
