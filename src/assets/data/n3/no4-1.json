@@ -1,0 +1,58 @@
+{
+  "reading": [
+    {
+      "word": "この写真は私にとって、何よりも大切なものです。",
+      "reading": "このしゃしんはわたしにとって、なによりもたいせつなものです。",
+      "vietnamese": "Bức ảnh này có ý nghĩa nhất đối với tôi.",
+      "number": 3.6
+    },
+    {
+      "word": "写真にとっては給料は高いほうがいい。",
+      "reading": "しゃしんにとってはきゅうりょうはたかいほうがいい。",
+      "vietnamese": "Đối với nhiếp ảnh, lương càng cao càng tốt.",
+      "number": 3.6
+    },
+    {
+      "word": "誰にとっても一番大切なのは健康です。",
+      "reading": "だれにとってもいちばんたいせつなのはけんこうです。",
+      "vietnamese": "Sức khỏe là điều quan trọng nhất đối với mọi người.",
+      "number": 3.6
+    },
+    {
+      "word": "あのレストランの料理は値段の割に美味しい。",
+      "reading": "あのレストランのりょうりはねだんのわりにおいしい。",
+      "vietnamese": "Sức khỏe là điều quan trọng nhất đối với mọi người.",
+      "number": 3.6
+    },
+    {
+      "word": "彼は年の割には若く見える。",
+      "reading": "かれはとしのわりにはわかくもえる。",
+      "vietnamese": "Anh ấy trông trẻ so với tuổi của mình.",
+      "number": 3.6
+    },
+    {
+      "word": "この海は綺麗な割には人が少ない。",
+      "reading": "このうみはきれいなわりにはひとがすくない。",
+      "vietnamese": "Biển này tuy đẹp nhưng ít người.",
+      "number": 3.6
+    },
+    {
+      "word": "子供の割にはたくさん知っているね。",
+      "reading": "こどものわりにはたくさんしっているね。",
+      "vietnamese": "Bạn biết rất nhiều khi còn bé.",
+      "number": 3.6
+    },
+    {
+      "word": "知っているくせに、教えてくれない。",
+      "reading": "しっているくせに、おしえてくれない。",
+      "vietnamese": "Dù biết nhưng anh không nói cho em biết.",
+      "number": 3.6
+    },
+    {
+      "word": "元気なくせに、病気のふりをしている。",
+      "reading": "げんきなくせに、びょうきのふりをしている。",
+      "vietnamese": "Tôi giả vờ ốm mặc dù tôi vẫn khỏe.",
+      "number": 3.6
+    }
+  ]
+}
