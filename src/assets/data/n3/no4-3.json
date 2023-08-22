@@ -1,0 +1,94 @@
+{
+  "reading": [
+    {
+      "word": "この店のパンは美味しい、毎日食べたいくらいだ。",
+      "reading": "このみせのパンはおいしい、まいにちたべたいくらいだ。",
+      "vietnamese": "Bánh mì ở quán này ngon đến mức tôi muốn ăn nó mỗi ngày.",
+      "number": 4.3
+    },
+    {
+      "word": "洋子さんの腕は折れそうなくらい細い",
+      "reading": "ようこさんのうではおれそうなくらいほそい",
+      "vietnamese": "Cánh tay của Yoko gầy đến mức tưởng chừng như có thể gãy được.",
+      "number": 4.3
+    },
+    {
+      "word": "天気予報によると、今日は台風ぐらいの風が吹くそうだ。",
+      "reading": "てんきよほうによると、きょうはたいふうぐらいのかぜがふくそうだ。",
+      "vietnamese": "Cánh tay của Yoko gầy đến mức tưởng chừng như có thể gãy được.",
+      "number": 4.3
+    },
+    {
+      "word": "傘をさすほどではないが、少し雨が降っている。",
+      "reading": "かさをさすほどではないが、すこしあめがふっている。",
+      "vietnamese": "Trời mưa nhỏ, không đủ để che ô.",
+      "number": 4.3
+    },
+    {
+      "word": "突然立ってられないほどの痛みを背中に感じだ。",
+      "reading": "とつぜんたってられないほどのいたみをせなかにかんじだ。",
+      "vietnamese": "Đột nhiên tôi cảm thấy đau ở lưng khiến tôi không thể đứng dậy được.",
+      "number": 4.3
+    },
+    {
+      "word": "さっき地震があった、本棚が倒れるかと思うほど激しく揺れた。",
+      "reading": "さっきじしんがあった、ほんだながたおれるかとおもうほどはげしくのれた。",
+      "vietnamese": "Có một trận động đất vừa rồi, Nó rung chuyển dữ dội đến nỗi tôi tưởng giá sách sẽ đổ.",
+      "number": 4.3
+    },
+    {
+      "word": "リーさんぐらい動物好きな人はいない。",
+      "reading": "リーさんぐらいどうぶつすきなひとはいない。",
+      "vietnamese": "Không ai yêu động vật nhiều như Lee.",
+      "number": 4.3
+    },
+    {
+      "word": "私は料理を作ることぐらい楽しいことはないと思っています。",
+      "reading": "わたしはりょうりをつくることぐらいたのしいことはないとおもっています。",
+      "vietnamese": "Tôi không nghĩ có gì thú vị hơn nấu ăn.",
+      "number": 4.3
+    },
+    {
+      "word": "ああ、明日も漢字のテストがある、テストほど嫌なものはない。",
+      "reading": "ああ、あしたもかんじのテストがある、テストほどいやなものはない。",
+      "vietnamese": "À, ngày mai tôi có bài kiểm tra chữ Hán, và không có gì tôi ghét hơn bài kiểm tra.",
+      "number": 4.3
+    },
+    {
+      "word": "２年前に病気だと分かった時ほど不安になったことはない。",
+      "reading": "２ねんまえにびょうきだとわかったときほどふあんになったことはない。",
+      "vietnamese": "Tôi chưa bao giờ lo lắng hơn khi phát hiện ra mình bị bệnh cách đây hai năm.",
+      "number": 4.3
+    },
+    {
+      "word": "物が増えれば増えるほど整理が大変のなる。",
+      "reading": "ものがふえればふえるほどせいりがたいへんのなる。",
+      "vietnamese": "Bạn càng có nhiều thứ thì càng khó sắp xếp chúng.",
+      "number": 4.3
+    },
+    {
+      "word": "本当にいい家具は時間がたつほど価値が上がる。",
+      "reading": "ほんとうにいいかぐはじかんがたつほどかちがあがる。",
+      "vietnamese": "Đồ nội thất thực sự tốt sẽ tăng giá trị theo thời gian.",
+      "number": 4.3
+    },
+    {
+      "word": "休みの日は多ければ多いほどうれしい。",
+      "reading": "やすみのひはおおければおおいほどうれしい。",
+      "vietnamese": "Tôi càng có nhiều ngày nghỉ, tôi càng hạnh phúc.",
+      "number": 4.3
+    },
+    {
+      "word": "道が賑やかなほど焦点は物がよく売れるのだ。",
+      "reading": "みちがにぎやかなほどしょうてんはものがよくうれるのだ。",
+      "vietnamese": "Phố càng sầm uất, đầu mối bán càng nhiều.",
+      "number": 4.3
+    },
+    {
+      "word": "忙しい人ほど時間の使い方が上手だ。",
+      "reading": "いそがしいひとほどじかんのつかいかたがじょうずだ。",
+      "vietnamese": "PhNhững người bận rộn quản lý thời gian của họ tốt hơn.",
+      "number": 4.3
+    }
+  ]
+}
