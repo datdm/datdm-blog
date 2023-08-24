@@ -1,0 +1,82 @@
+{
+  "reading": [
+    {
+      "word": "彼にはまだパーティーの場所を知らせていなかったっけ。",
+      "reading": "かれにはまだパーティーのばしょをしらせていなかったっけ。",
+      "vietnamese": "Tôi vẫn chưa nói cho anh ấy biết bữa tiệc diễn ra ở đâu.",
+      "number": 4.5
+    },
+    {
+      "word": "今日はお母さんの誕生日だっけ。",
+      "reading": "きょうはおかあさんのたんじょうびだっけ。",
+      "vietnamese": "Hôm nay là sinh nhật của mẹ bạn.",
+      "number": 4.5
+    },
+    {
+      "word": "国へ帰るのは来週だっけ。",
+      "reading": "くにへかえるのはらいしゅうだっけ。",
+      "vietnamese": "Tôi sẽ về nước vào tuần tới.",
+      "number": 4.5
+    },
+    {
+      "word": "事故で電車が動かないから、歩いて行くしかない。",
+      "reading": "じこででんしゃがうごかないから、あるいていくしかない。",
+      "vietnamese": "Vì tàu không di chuyển do tai nạn nên tôi không còn cách nào khác là đi bộ.",
+      "number": 4.5
+    },
+    {
+      "word": "誰にも頼めないから、自分でやるしかありません。",
+      "reading": "だれにもたのめないから、じぶんでやるしかありません。",
+      "vietnamese": "Tôi không thể nhờ ai được nên tôi phải tự mình làm.",
+      "number": 4.5
+    },
+    {
+      "word": "ここまで頑張ったんでから、最後までやるしかない。",
+      "reading": "ここまでがんばったんでから、さいごまでやるしかない。",
+      "vietnamese": "Tôi đã làm việc chăm chỉ cho đến nay, vì vậy tôi không còn lựa chọn nào khác ngoài việc làm cho đến cuối cùng.",
+      "number": 4.5
+    },
+    {
+      "word": "卒業できなかったら、バイトをするしかない。",
+      "reading": "そつぎょうできなかったら、バイトをするしかない。",
+      "vietnamese": "Nếu không thể tốt nghiệp, tôi không còn lựa chọn nào khác ngoài làm việc bán thời gian.",
+      "number": 4.5
+    },
+    {
+      "word": "田中さん、結婚してるんだって。➞へー、知らなかった。",
+      "reading": "たなかさん、けっこんしてるんだって。➞へー、しらなかった。",
+      "vietnamese": "Tanaka-san, bạn đã kết hôn chưa? ➞Heh, tôi đã không biết điều đó.",
+      "number": 4.5
+    },
+    {
+      "word": "雨が降るんだって。",
+      "reading": "あめがふるんだって。",
+      "vietnamese": "Trời sắp mưa",
+      "number": 4.5
+    },
+    {
+      "word": "この店のピザ、美味しいんだって。",
+      "reading": "このみせのピザ、おいしいんだって。",
+      "vietnamese": "Pizza ở cửa hàng này rất ngon.",
+      "number": 4.5
+    },
+    {
+      "word": "もう寝るの？➞うん、だって眠いんだもん。",
+      "reading": "もうねるの？➞うん、だってねむいんだもん。",
+      "vietnamese": "Bạn sắp đi ngủ chưa? ➞Có, vì tôi buồn ngủ.",
+      "number": 4.5
+    },
+    {
+      "word": "どうして食べないの？➞だって、不味いんだもん。",
+      "reading": "どうしてたべないの？➞だって、まずいんだもん。",
+      "vietnamese": "tại sao bạn không ăn ➞Vì nó có vị rất tệ.",
+      "number": 4.5
+    },
+    {
+      "word": "今日の試験、できなかった、勉強しなかったんだもん、仕方がない。",
+      "reading": "きょうのしけん、できなかった、べんきょうしなかったんだもん、しかたがない。",
+      "vietnamese": "Hôm nay tôi không làm được bài thi, tôi không học bài nên đành chịu.",
+      "number": 4.5
+    }
+  ]
+}
