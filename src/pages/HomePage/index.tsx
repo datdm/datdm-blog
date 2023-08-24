@@ -78,6 +78,7 @@ import no3_6 from "assets/data/n3/no3-6.json"; // done
 import no4_1 from "assets/data/n3/no4-1.json"; // done
 import no4_2 from "assets/data/n3/no4-2.json"; // done
 import no4_3 from "assets/data/n3/no4-3.json"; // done
+import no4_4 from "assets/data/n3/no4-4.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -176,6 +177,7 @@ const HomePage = () => {
               ...no4_1.reading,
               ...no4_2.reading,
               ...no4_3.reading,
+              ...no4_4.reading,
             ]}
           />
         );
