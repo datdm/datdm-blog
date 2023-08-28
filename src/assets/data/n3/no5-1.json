@@ -1,0 +1,124 @@
+{
+  "reading": [
+    {
+      "word": "彼は勉強はもちろん、スポーツもよくできる。",
+      "reading": "かれはべんきょうはもちろん、スポーツもよくできる。",
+      "vietnamese": "Anh ấy giỏi thể thao cũng như học tập.",
+      "number": 5.1
+    },
+    {
+      "word": "あのレストランはサービスはもちろん味も悪くない。",
+      "reading": "あのレストランはサービスはもちろんあじもわるくない。",
+      "vietnamese": "Dịch vụ và hương vị của nhà hàng đó không tệ.",
+      "number": 5.1
+    },
+    {
+      "word": "彼女は英語はもちろん、フランス語も話せる。",
+      "reading": "かのじょはえいごはもちろん、フランスごもはなせる。",
+      "vietnamese": "Cô ấy có thể nói tiếng Pháp cũng như tiếng Anh.",
+      "number": 5.1
+    },
+    {
+      "word": "復習はもちろん、予習もしなければなりません。",
+      "reading": "ふくしゅうはもちろん、よしゅうもしなければなりません。",
+      "vietnamese": "Tất nhiên bạn phải xem xét, nhưng bạn cũng phải chuẩn bị.",
+      "number": 5.1
+    },
+    {
+      "word": "彼は子供の送り迎えはもちろん、料理も洗濯も家事は何でもやる。",
+      "reading": "かれはこどものおくりむかえはもちろん、りょうりもせんたくもかじはなんでもやる。",
+      "vietnamese": "Anh đón con, nấu ăn, giặt giũ và làm mọi việc nhà.",
+      "number": 5.1
+    },
+    {
+      "word": "ワープロはもとより、タイプライターを使ったことがない。いつも手で書きます。",
+      "reading": "ワープロはもとより、タイプライターをつかったことがない。いつも手でかきます。",
+      "vietnamese": "Tôi chưa bao giờ sử dụng máy đánh chữ chứ đừng nói đến máy xử lý văn bản. Tôi luôn viết bằng tay.",
+      "number": 5.1
+    },
+    {
+      "word": "私が生まれた村は電車はもとより、バスも通っていない。",
+      "reading": "わたしがうまれたむらはでんしゃはもとより、バスもとおっていない。",
+      "vietnamese": "Ngôi làng nơi tôi sinh ra không có tàu hỏa hay thậm chí cả xe buýt.",
+      "number": 5.1
+    },
+    {
+      "word": "この本は勉強にはもちろん、役に立つし、見るだけでも楽しいです。",
+      "reading": "このほんはべんきょうにはもちろん、やくにたつし、みるだけでもたのしいです。",
+      "vietnamese": "Tất nhiên, cuốn sách này rất hữu ích cho việc học tập và chỉ cần nhìn vào nó cũng thấy thú vị.",
+      "number": 5.1
+    },
+    {
+      "word": "彼は最近、遅刻が多いばかりか、ミスも目立つ。",
+      "reading": "かれはさいきん、ちこくがおおいばかりか、ミスもめたつ。",
+      "vietnamese": "Gần đây, anh ấy không chỉ thường xuyên đến muộn mà còn mắc rất nhiều lỗi.",
+      "number": 5.1
+    },
+    {
+      "word": "このレストランは味が悪いばかりか、店員の態度も酷い。",
+      "reading": "このレストランはあじがわるいばかりか、てんいんのたいどもひどい。",
+      "vietnamese": "Nhà hàng này không chỉ có hương vị tệ mà thái độ của nhân viên cũng rất tệ.",
+      "number": 5.1
+    },
+    {
+      "word": "林さんのお宅でごちそうになったばかりか、お土産までいただいた。",
+      "reading": "はやしさんのおたくでごちそうになったばかりか、おみやげまでいただいた。",
+      "vietnamese": "Chúng tôi không chỉ được tổ chức tiệc tại nhà Hayashi mà còn được nhận quà lưu niệm.",
+      "number": 5.1
+    },
+    {
+      "word": "兄に比べて、弟はよく勉強する。",
+      "reading": "あににくらべて、おとうとはよくべんきょうする。",
+      "vietnamese": "Anh trai tôi học nhiều hơn anh trai tôi.",
+      "number": 5.1
+    },
+    {
+      "word": "今日は去年に比べて、雨の量が多い。",
+      "reading": "きょうはきょねんにくらべて、あめのりょうがおおい。",
+      "vietnamese": "Hôm nay mưa nhiều hơn năm ngoái.",
+      "number": 5.1
+    },
+    {
+      "word": "東京に比べて、大阪のほうが物価が安い。",
+      "reading": "とうきょうにくらべて、おおさかのほうがぶっかがやすい。",
+      "vietnamese": "Giá ở Osaka rẻ hơn ở Tokyo.",
+      "number": 5.1
+    },
+    {
+      "word": "目上の人に対して、敬語を使うようにしている。",
+      "reading": "めうえのひとにたいして、けいごをつかううようにしている。",
+      "vietnamese": "Tôi cố gắng sử dụng kính ngữ đối với cấp trên.",
+      "number": 5.1
+    },
+    {
+      "word": "発表に対して、質問がある方どうぞ。",
+      "reading": "はっぴょうにたいして、しつもんがあるかたどうぞ。",
+      "vietnamese": "Nếu bạn có bất kỳ câu hỏi nào về thông báo, vui lòng hỏi.",
+      "number": 5.1
+    },
+    {
+      "word": "お客様に対して、失礼なことを言ってはいけません。",
+      "reading": "おきょくさまにたいして、しつれいなことをいってはいけません。",
+      "vietnamese": "Đừng nói những điều thô lỗ với khách hàng.",
+      "number": 5.1
+    },
+    {
+      "word": "昨日は大阪では大雨だったのに対して、東京はいい天気だった。",
+      "reading": "きのうはおおさかではおおあめだったのにたいして、とうきょうはいいてんきだった。",
+      "vietnamese": "Hôm qua ở Osaka mưa to nhưng ở Tokyo thời tiết đẹp.",
+      "number": 5.1
+    },
+    {
+      "word": "うちの課は女性がよく飲みに行くのに対して、男性は皆まっすぐ家に帰る。",
+      "reading": "うちのかはじょせいがよくのみにいくのにたいして、だんせいはみなまっすぐいえにかえる。",
+      "vietnamese": "Ở bộ phận của chúng tôi, phụ nữ thường đi uống rượu, nhưng tất cả đàn ông đều về thẳng nhà.",
+      "number": 5.1
+    },
+    {
+      "word": "外遊びが好きな長男に対して、次男は家の中で遊ぶことが好きだ。",
+      "reading": "そとあそびがすきなちょうなんにたいして、じなんはいえのなかであそぶことがすきだ。",
+      "vietnamese": "Trong khi con trai lớn của tôi thích chơi bên ngoài thì con trai thứ hai của tôi lại thích chơi trong nhà.",
+      "number": 5.1
+    }
+  ]
+}
