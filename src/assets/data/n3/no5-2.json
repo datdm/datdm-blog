@@ -1,0 +1,82 @@
+{
+  "reading": [
+    {
+      "word": "やっとレポートを書き上げた。",
+      "reading": "やっとレポートをかきあげた。",
+      "vietnamese": "Cuối cùng tôi đã viết xong báo cáo.",
+      "number": 5.2
+    },
+    {
+      "word": "ケーキが焼き上がりましたよ。",
+      "reading": "ケーキがやきあがりましたよ。",
+      "vietnamese": "Bánh đã được nướng.",
+      "number": 5.2
+    },
+    {
+      "word": "この会社は新製品を作り上げました。",
+      "reading": "このかいしゃはしんせいひんをつくりあげました。",
+      "vietnamese": "Công ty này đã tạo ra một sản phẩm mới.",
+      "number": 5.2
+    },
+    {
+      "word": "ご飯が炊き上がった。",
+      "reading": "ごはんがたきあがった。",
+      "vietnamese": "Cơm đã được nấu chín.",
+      "number": 5.2
+    },
+    {
+      "word": "ご飯の量が多くて、食べ切れないよ。",
+      "reading": "ごはんのりょうがおおくて、たべきれないよ。",
+      "vietnamese": "Nhiều cơm quá, ăn không hết đâu.",
+      "number": 5.2
+    },
+    {
+      "word": "長い小説、２日間で読み切った。",
+      "reading": "ながいしょうせつ、２にちかんでよみきった。",
+      "vietnamese": "Tôi đọc một cuốn tiểu thuyết dài trong hai ngày.",
+      "number": 5.2
+    },
+    {
+      "word": "あの商品は人気があるらしく、発売同時に売り切れてしまった。",
+      "reading": "あのしょうひんはにんきがあるらしく、はつばいどうじにうりきれてしまった。",
+      "vietnamese": "Sản phẩm đó có vẻ nổi tiếng đến nỗi nó đã cháy hàng ngay khi vừa ra mắt.",
+      "number": 5.2
+    },
+    {
+      "word": "この本はまだ読みかけだ。",
+      "reading": "このほんはまだよみかけだ。",
+      "vietnamese": "Tôi vẫn đang đọc cuốn sách này.",
+      "number": 5.2
+    },
+    {
+      "word": "作文は今日中に書かなければならないのに、まだ書きかけだ。",
+      "reading": "さくぶんはきょうちゅうにかかなければならないのに、まだかきかけだ。",
+      "vietnamese": "Tôi phải viết bài luận vào cuối ngày hôm nay, nhưng tôi vẫn đang viết nó.",
+      "number": 5.2
+    },
+    {
+      "word": "この仕事はやりかけですから、そのままにしといてください。",
+      "reading": "このしごとはやりかけですから、そのままにしといてください。",
+      "vietnamese": "Đây là một công việc đang được tiến hành, vì vậy hãy để nó ở đó.",
+      "number": 5.2
+    },
+    {
+      "word": "焼きたてのパンは美味しいよ。",
+      "reading": "やきたてのパンはおいしいよ。",
+      "vietnamese": "Bánh mì mới nướng rất ngon.",
+      "number": 5.2
+    },
+    {
+      "word": "入社したて。",
+      "reading": "にゅうしゃしたて。",
+      "vietnamese": "Tôi mới gia nhập công ty.",
+      "number": 5.2
+    },
+    {
+      "word": "日本語を習いたての人。",
+      "reading": "にほんごをならいたてのひと。",
+      "vietnamese": "Người mới học tiếng Nhật.",
+      "number": 5.2
+    }
+  ]
+}
