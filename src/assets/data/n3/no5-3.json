@@ -1,0 +1,58 @@
+{
+  "reading": [
+    {
+      "word": "もっと日本語がうまく話せたらいいなあ。",
+      "reading": "もっとにほんごがうまくはなせたらいいなあ。",
+      "vietnamese": "Tôi ước tôi có thể nói tiếng Nhật tốt hơn.",
+      "number": 5.3
+    },
+    {
+      "word": "明日雨が降らないといいなあ。",
+      "reading": "あしたあめがふらないといいなあ。",
+      "vietnamese": "Tôi hy vọng ngày mai trời không mưa.",
+      "number": 5.3
+    },
+    {
+      "word": "遅刻してしまった。もっと早く家を出ればよかった。",
+      "reading": "ちこくしてしまった。もっとはやくいえをでればよかった。",
+      "vietnamese": "Tôi đã muộn. Lẽ ra tôi nên rời nhà sớm hơn.",
+      "number": 5.3
+    },
+    {
+      "word": "田中さんにあんなことを言わなければよかった。",
+      "reading": "たなかさんにあんなことをいわなければよかった。",
+      "vietnamese": "Tôi ước gì tôi đã không nói điều đó với Tanaka.",
+      "number": 5.3
+    },
+    {
+      "word": "パーティー、楽しかったよ。君も行けばよかったのに。",
+      "reading": "パーティー、たのしかったよ。きみもいけばよかったのに。",
+      "vietnamese": "Bữa tiệc thật vui vẻ. Tôi ước gì bạn cũng có thể đi.",
+      "number": 5.3
+    },
+    {
+      "word": "安かったら、買うのに。",
+      "reading": "やすかったら、かうのに。",
+      "vietnamese": "Nếu rẻ thì tôi sẽ mua.",
+      "number": 5.3
+    },
+    {
+      "word": "バス、早く来ないかなあ。",
+      "reading": "バス、はやくこないかなあ。",
+      "vietnamese": "Tôi tự hỏi liệu xe buýt có đến sớm không.",
+      "number": 5.3
+    },
+    {
+      "word": "この試験、うまくいくかなあ。",
+      "reading": "このしけん、うまくいくかなあ。",
+      "vietnamese": "Kỳ thi này sẽ diễn ra tốt đẹp chứ?",
+      "number": 5.3
+    },
+    {
+      "word": "今日、富士山が見えるかなあ。",
+      "reading": "きょう、ふじさんがみえるかなあ。",
+      "vietnamese": "Tôi tự hỏi liệu hôm nay tôi có thể nhìn thấy Núi Phú Sĩ không.",
+      "number": 5.3
+    }
+  ]
+}
