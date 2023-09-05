@@ -1,0 +1,52 @@
+{
+  "reading": [
+    {
+      "word": "映画が始まるまで３０分あります。",
+      "reading": "えいががはじまるまで３０ぷんあります。",
+      "vietnamese": "Còn 30 phút nữa là phim bắt đầu.",
+      "number": 5.4
+    },
+    {
+      "word": "連絡があるまで待っています。",
+      "reading": "れんらくがあるまでまっています。",
+      "vietnamese": "Tôi sẽ đợi cho đến khi bạn liên lạc với tôi.",
+      "number": 5.4
+    },
+    {
+      "word": "この魚は骨まで食べられます。",
+      "reading": "このさかなはほねまでたべられます。",
+      "vietnamese": "Xương của loài cá này có thể ăn được.",
+      "number": 5.4
+    },
+    {
+      "word": "あなたまで私を疑うのですか。",
+      "reading": "あなたまでわたしをうたがうのですか。",
+      "vietnamese": "Bạn thậm chí có nghi ngờ tôi không?",
+      "number": 5.4
+    },
+    {
+      "word": "明日は昼から夕方にかけて雨でしょう。",
+      "reading": "あしたはひるからゆうがたにかけてあめでしょう。",
+      "vietnamese": "Ngày mai trời sẽ mưa từ trưa đến tối.",
+      "number": 5.4
+    },
+    {
+      "word": "九州から本州にかけて梅雨入りしました。",
+      "reading": "きゅうしゅうからほんしゅうにかけてつゆいりしました。",
+      "vietnamese": "Mùa mưa đã bước vào từ Kyushu đến Honshu.",
+      "number": 5.4
+    },
+    {
+      "word": "大阪において、国際会議が行われた。",
+      "reading": "おおさかにおいて、こくさいかいぎがおこなわれた。",
+      "vietnamese": "Một hội nghị quốc tế đã được tổ chức tại Osaka.",
+      "number": 5.4
+    },
+    {
+      "word": "結果はホームページにおいて発表されます。",
+      "reading": "けっかはホームページにおいてはっぴょうされます。",
+      "vietnamese": "Kết quả sẽ được công bố trên trang chủ.",
+      "number": 5.4
+    }
+  ]
+}
