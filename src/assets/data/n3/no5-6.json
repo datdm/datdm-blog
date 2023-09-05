@@ -1,0 +1,70 @@
+{
+  "reading": [
+    {
+      "word": "旅行に行きたい。だけど行けない。",
+      "reading": "りょこうにいきたい。だけどいけない。",
+      "vietnamese": "muốn đi du lịch. Nhưng tôi không thể đi được.",
+      "number": 5.6
+    },
+    {
+      "word": "よくカラオケに行くだけど歌は下手だ。",
+      "reading": "よくカラオケにいくだけどうたはへただ。",
+      "vietnamese": "Tôi thường đi hát karaoke nhưng tôi hát không hay.",
+      "number": 5.6
+    },
+    {
+      "word": "天気予報では午後から雨だそうです。ですから、傘を持って行ったほうがいいですよ。",
+      "reading": "てんきよほうではごごからあめだそうです。ですから、かさをもっていったほうがいいですよ。",
+      "vietnamese": "Dự báo thời tiết cho biết trời sẽ mưa vào buổi chiều. Vì vậy, tốt hơn hết bạn nên mang theo ô.",
+      "number": 5.6
+    },
+    {
+      "word": "途中からは入れません。ですから、絶対に遅れないように切れください。",
+      "reading": "とちゅうからははいれません。ですから、ぜったいにおくれないようにきれください。",
+      "vietnamese": "Bạn không thể vào từ giữa. Vì vậy, hãy chắc chắn rằng bạn không đến muộn.",
+      "number": 5.6
+    },
+    {
+      "word": "遅刻しそうなんです。だから急いでください。",
+      "reading": "ちこくしそうなんです。だからいそいでください。",
+      "vietnamese": "Tôi nghĩ tôi sẽ đến muộn. Vậy xin hãy nhanh lên.",
+      "number": 5.6
+    },
+    {
+      "word": "昨夜はコンサートに行くつもりだった。ところが病気で行けなくなった。",
+      "reading": "ゆうべはコンサートにいくつもりだった。ところがびょうきでいけなくなった。",
+      "vietnamese": "Tối qua tôi định đi xem hòa nhạc. Tuy nhiên, tôi không thể đi được vì bị bệnh.",
+      "number": 5.6
+    },
+    {
+      "word": "田中さんは私より若いと思っていた。ところが私より５歳も年上だった。",
+      "reading": "たなかさんはわたしよりわかいとおもっていた。ところがわたしより５さいもとしうえだった。",
+      "vietnamese": "Tôi tưởng anh Tanaka trẻ hơn tôi. Nhưng anh hơn tôi 5 tuổi.",
+      "number": 5.6
+    },
+    {
+      "word": "父は弟には優しい。ところが僕には厳しい。",
+      "reading": "ちちはおとうとにはやさしい。ところがぼくにはきびしい。",
+      "vietnamese": "Bố tôi rất tốt với em trai tôi. Nhưng điều đó thật khó khăn với tôi.",
+      "number": 5.6
+    },
+    {
+      "word": "明日、試験でしょ。頑張ったね。ところで来週の月曜日は空いてる。",
+      "reading": "あした、しけんでしょ。がんばったね。ところでらいしゅうのげつようびはあいてる。",
+      "vietnamese": "Ngày mai bạn có bài kiểm tra. Bạn đã làm hết khả năng của mình. Nhân tiện, thứ Hai tới tôi rảnh.",
+      "number": 5.6
+    },
+    {
+      "word": "もうすぐ、今年も終わりですね。ところでお正月はどうなさいますか。",
+      "reading": "もうすぐ、ことしもおわりですね。ところでおしょうがつはどうなさいますか。",
+      "vietnamese": "Đã gần cuối năm nay rồi. Nhân tiện, bạn làm gì vào ngày đầu năm mới?",
+      "number": 5.6
+    },
+    {
+      "word": "ところでちょっと話がある。",
+      "reading": "ところでちょっとはなしがある。",
+      "vietnamese": "Nhân tiện, tôi có một câu chuyện nhỏ muốn kể cho bạn nghe.",
+      "number": 5.6
+    }
+  ]
+}
