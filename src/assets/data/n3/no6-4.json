@@ -1,0 +1,52 @@
+{
+  "reading": [
+    {
+      "word": "暑いわけだ、気温が３６度もある。",
+      "reading": "あついわけだ、きおんが３６どもある。",
+      "vietnamese": "Trời nóng, nhiệt độ 36 độ.",
+      "number": 6.4
+    },
+    {
+      "word": "田中さん、彼女に振られたらしいよ。➞なるほど、それで元気がないわけだ。",
+      "reading": "たなかさん、かのじょにふられたらしいよ。➞なるほど、それでげんきがないわけだ。",
+      "vietnamese": "Tanaka, hình như anh đã bị bạn gái bỏ. ➞Tôi hiểu rồi, đó là lý do tại sao tôi cảm thấy không khỏe.",
+      "number": 6.4
+    },
+    {
+      "word": "嫌いなわけではないが、肉はあまり食べない。",
+      "reading": "きらいなわけではないが、にくはあまりたべない。",
+      "vietnamese": "Không phải là tôi không thích mà là tôi không ăn nhiều thịt.",
+      "number": 6.4
+    },
+    {
+      "word": "テレビは見ないわけではないが、音楽を聴いているほうが多い。",
+      "reading": "テレビはみないわけではないが、おんがくをきいているほうがおおい。",
+      "vietnamese": "Không phải là tôi không xem TV mà là tôi nghe nhạc thường xuyên hơn.",
+      "number": 6.4
+    },
+    {
+      "word": "あの強い相手に勝てるわけがない。",
+      "reading": "あのつよいあいてにかてるわけがない。",
+      "vietnamese": "Không đời nào tôi có thể thắng được một đối thủ mạnh như vậy.",
+      "number": 6.4
+    },
+    {
+      "word": "このパン、古くない？➞古いわけないよ。昨日買ったんだから。",
+      "reading": "このパン、ふるくない？➞ふるいわけないよ。きのうかったんだから。",
+      "vietnamese": "Bánh mì này không phải là cũ sao? ➞Không thể cũ được. Tôi đã mua nó vào ngày hôm qua.",
+      "number": 6.4
+    },
+    {
+      "word": "大事な会議があるから、休むわけにはいかない。",
+      "reading": "だいじなかいぎがあるから、やすむわけにはいかない。",
+      "vietnamese": "Tôi có cuộc họp quan trọng nên không thể nghỉ ngơi được.",
+      "number": 6.4
+    },
+    {
+      "word": "社長の命令だから、従わないわけにはいかない。",
+      "reading": "しゃちょうのめいれいだから、したがわないわけにはいかない。",
+      "vietnamese": "Đó là mệnh lệnh của chủ tịch nên tôi không còn cách nào khác ngoài tuân theo.",
+      "number": 6.4
+    }
+  ]
+}

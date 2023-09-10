@@ -87,6 +87,12 @@ import no5_3 from "assets/data/n3/no5-3.json"; // done
 import no5_4 from "assets/data/n3/no5-4.json"; // done
 import no5_5 from "assets/data/n3/no5-5.json"; // done
 import no5_6 from "assets/data/n3/no5-6.json"; // done
+import no6_1 from "assets/data/n3/no6-1.json"; // done
+import no6_2 from "assets/data/n3/no6-2.json"; // done
+import no6_3 from "assets/data/n3/no6-3.json"; // done
+import no6_4 from "assets/data/n3/no6-4.json"; // done
+import no6_5 from "assets/data/n3/no6-5.json"; // done
+import no6_6 from "assets/data/n3/no6-6.json"; // done
 
 const HomePage = () => {
   const { srcSelected } = useSelector((state: Store) => state.app);
@@ -194,6 +200,12 @@ const HomePage = () => {
               ...no5_4.reading,
               ...no5_5.reading,
               ...no5_6.reading,
+              ...no6_1.reading,
+              ...no6_2.reading,
+              ...no6_3.reading,
+              ...no6_4.reading,
+              ...no6_5.reading,
+              ...no6_6.reading,
             ]}
           />
         );

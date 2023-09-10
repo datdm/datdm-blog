@@ -1,0 +1,40 @@
+{
+  "reading": [
+    {
+      "word": "もし試験を受けていたなら、合格していたと思う。",
+      "reading": "もししけんをうけていたなら、ごうかくしていたとおもう。",
+      "vietnamese": "Nếu tôi tham gia kỳ thi, tôi nghĩ tôi đã đậu.",
+      "number": 6.1
+    },
+    {
+      "word": "もし彼が社長でなかったなら、会社は津振れていたと思う。",
+      "reading": "もしかれがしゃちょうでなかったなら、かいしゃはつふれていたとおもう。",
+      "vietnamese": "Nếu anh ấy không làm chủ tịch, tôi nghĩ công ty sẽ rơi vào tình trạng hỗn loạn.",
+      "number": 6.1
+    },
+    {
+      "word": "もしも生まれ変われるなら、男になりたい。",
+      "reading": "もしもうまれかわれるなら、おとこになりたい。",
+      "vietnamese": "Nếu có thể tái sinh, tôi muốn trở thành đàn ông.",
+      "number": 6.1
+    },
+    {
+      "word": "もしも地震が起きても、この家丈夫だから倒れないでしょう。",
+      "reading": "もしもじしんがおきても、このいえじょうぶだからたおれないでしょう。",
+      "vietnamese": "Ngay cả khi có động đất xảy ra, ngôi nhà này sẽ không sụp đổ vì nó rất chắc chắn.",
+      "number": 6.1
+    },
+    {
+      "word": "もし休みが取れたとしても、旅行に行かないつもりです。",
+      "reading": "もしやすみがとれたとしても、りょこうにいかないつもりです。",
+      "vietnamese": "Ngay cả khi tôi được nghỉ, tôi cũng không có ý định đi du lịch.",
+      "number": 6.1
+    },
+    {
+      "word": "もしお金がたくさんあったとしても、そんなものは買わない。",
+      "reading": "もしおかねがたくさんあったとしても、そんなものはかわない。",
+      "vietnamese": "Dù có nhiều tiền tôi cũng không mua những thứ như vậy.",
+      "number": 6.1
+    }
+  ]
+}

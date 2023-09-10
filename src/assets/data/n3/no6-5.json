@@ -1,0 +1,52 @@
+{
+  "reading": [
+    {
+      "word": "私は決して夢を諦めません。",
+      "reading": "わたしはけっしてゆめをあきらめません。",
+      "vietnamese": "Tôi sẽ không bao giờ từ bỏ ước mơ của mình.",
+      "number": 6.5
+    },
+    {
+      "word": "「嘘は決して申しません」と彼は言った。",
+      "reading": "「うそはけっしてもうしません」とかれはいった。",
+      "vietnamese": "“Tôi không bao giờ nói dối,” anh nói.",
+      "number": 6.5
+    },
+    {
+      "word": "私は全く泳げない。",
+      "reading": "わたしはまったくおよげない。",
+      "vietnamese": "Tôi không biết bơi chút nào.",
+      "number": 6.5
+    },
+    {
+      "word": "彼が怒っている理由は、私にはまったく分からない。",
+      "reading": "かれがおこっているりゆうは、わたしにはまったくわからない。",
+      "vietnamese": "Tôi không biết tại sao anh ấy lại tức giận.",
+      "number": 6.5
+    },
+    {
+      "word": "こんなチャンスはめったにないよ。",
+      "reading": "こんなチャンスはめったにないよ。",
+      "vietnamese": "Những cơ hội như thế này không đến thường xuyên.",
+      "number": 6.5
+    },
+    {
+      "word": "忙しくてめったに休みが取れない。",
+      "reading": "いそがしくてめったにやすみがとれない。",
+      "vietnamese": "Tôi bận đến mức hiếm khi có thời gian nghỉ ngơi.",
+      "number": 6.5
+    },
+    {
+      "word": "あの人が話す英語は少しもわからない。",
+      "reading": "あのひとがはなすえいごはすこしもわからない。",
+      "vietnamese": "Tôi không hiểu tiếng Anh mà người đó nói chút nào.",
+      "number": 6.5
+    },
+    {
+      "word": "スタイルのことは少しも気にならない。",
+      "reading": "スタイルのことはすこしもきにならない。",
+      "vietnamese": "Tôi không quan tâm đến phong cách chút nào.",
+      "number": 6.5
+    }
+  ]
+}

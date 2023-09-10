@@ -1,0 +1,40 @@
+{
+  "reading": [
+    {
+      "word": "レタス一つとトマトを３個ください。それと、ピーマンも一袋ください。",
+      "reading": "レタス一つとトマトを３こください。それと、ピーマンもひとふくろください。",
+      "vietnamese": "Làm ơn cho tôi một cây rau diếp và ba quả cà chua. Ngoài ra, xin vui lòng cho tôi một túi ớt xanh.",
+      "number": 6.6
+    },
+    {
+      "word": "言われたことはしました。あと、何をすればいいですか。",
+      "reading": "いわれたことはしました。あと、なにをすればいいですか。",
+      "vietnamese": "Tôi đã làm những gì tôi được bảo. Tôi còn phải làm gì nữa đây?",
+      "number": 6.6
+    },
+    {
+      "word": "コーヒーはしますか？それとも紅茶にしますか。",
+      "reading": "コーヒーはしますか？それともこうちゃにしますか。",
+      "vietnamese": "Bạn có cafe không? Hay bạn muốn uống trà?",
+      "number": 6.6
+    },
+    {
+      "word": "来週にしましょうか。それとも再来週がいいですか。",
+      "reading": "らいしゅうにしましょうか。それともさらいしゅうがいいですか。",
+      "vietnamese": "Chúng ta sẽ làm điều đó vào tuần tới nhé? Hay bạn muốn vào tuần tới?",
+      "number": 6.6
+    },
+    {
+      "word": "この店の料理は美味しい。その上、値段も安い。",
+      "reading": "このみせのりょうりはおいしい。そのうえ、ねだんもやすい。",
+      "vietnamese": "Đồ ăn ở nhà hàng này rất ngon. Hơn nữa, nó cũng rẻ.",
+      "number": 6.6
+    },
+    {
+      "word": "彼は頭がいい。その上スポーツも何でもできる。",
+      "reading": "かれはあたまがいい。そのうえスポーツもなんでもできる。",
+      "vietnamese": "anh ta thông minh Hơn hết, tôi có thể chơi thể thao và làm bất cứ điều gì.",
+      "number": 6.6
+    }
+  ]
+}
