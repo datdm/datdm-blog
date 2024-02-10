@@ -45,7 +45,7 @@ export const sidebars = [
   {
     label: "REACT",
     icon: ReactIcon,
-    show: false,
+    show: true,
     childs: [
       {
         label: "Build source",
@@ -156,7 +156,7 @@ export const sidebars = [
   {
     label: "NODEJS",
     icon: NodejsIcon,
-    show: false,
+    show: true,
     childs: [
       {
         label: "Build source",
@@ -183,7 +183,7 @@ export const sidebars = [
   {
     label: "REACT NATIVE",
     icon: ReactNativeIcon,
-    show: false,
+    show: true,
     childs: [
       {
         label: "Build source",

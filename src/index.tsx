@@ -14,7 +14,7 @@ root.render(
   <Provider store={store}>
     <BrowserRouter
       basename={
-        process.env.NODE_ENV === "development" ? "/" : "/technical-react"
+        process.env.NODE_ENV === "development" ? "/" : "/datdm-blog"
       }
     >
       <App />

@@ -64,7 +64,7 @@ const SubSidebar = (props: Props) => {
               onClick={handleChooseSrc(child.src)}
             >
               <ListItemIcon sx={{ minWidth: "40px" }}>
-                <child.icon />
+                {child.icon && <child.icon />}
               </ListItemIcon>
               <ListItemText
                 primary={child.label}

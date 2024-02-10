@@ -1,8 +1,8 @@
 {
-  "name": "technical-react",
+  "name": "datdm-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://datdm.github.io/technical-react/",
+  "homepage": "https://datdm.github.io/datdm-blog/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",

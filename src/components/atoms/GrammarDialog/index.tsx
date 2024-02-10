@@ -31,12 +31,12 @@ const GrammarDialog = (props: Props) => {
         <DialogContentText id="alert-dialog-description">
           {Object.values(grammar.grammar).map((item) => {
             return (
-              <Box>
+              <Box key={item.no}>
                 <Box sx={{ fontWeight: "600" }}>Bài {item.no}</Box>
                 <Box sx={{ ml: 2 }}>
                   {item.content.map((v, i) => {
                     return (
-                      <Box>
+                      <Box key={`${item.no}-${i}`}>
                         <Box>{`${i + 1}. ${v.structure}: ${v.mean}`}</Box>
                       </Box>
                     );
